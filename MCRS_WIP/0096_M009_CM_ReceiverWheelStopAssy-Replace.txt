@@ -1,0 +1,89 @@
+<maintwp chngno="0" wpno="M00009-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="crew"/>
+		<title>CREW MAINTENANCE <?Pub _newline?>RECEIVER AND WHEEL STOP ASSEMBLY <?Pub _newline?>REPAIR</title>
+	</wpidinfo>
+	<initial_setup>
+		<tools>
+			<tools-setup-item>
+				<name>Tool Kit, General Mechanics</name>
+				<itemref>
+					<xref itemid="S00007-9-2320-451-TOOL-4" wpid="S00007-9-2320-451"/>
+				</itemref>
+			</tools-setup-item>
+		</tools>
+		<mtrlpart>
+			<mtrlpart-setup-item>
+				<name>Pins, split (4) (98296A255)</name>
+			</mtrlpart-setup-item>
+		</mtrlpart>
+		<persnreq>
+			<persnreq-setup-item>
+				<name>Motor Transport Operator</name>
+				<mos>88M</mos>
+				<qty>2</qty>
+			</persnreq-setup-item>
+		</persnreq>
+		<eqpconds>
+			<eqpconds-setup-item>
+				<condition>
+					Fifth Wheel Towing and Recovery Device in coupling configuration <xref wpid="O00001-9-2320-451"/>.</condition>
+			</eqpconds-setup-item>
+		</eqpconds>
+	</initial_setup>
+	<maintsk>
+		<replace>
+			<proc>
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>There is a driver side and a passenger side receiver. Both are removed the same way.</trim.para>
+						</note>
+						<para>Remove spring pin <callout assocfig="M00009-9-2320-451-F0001" label="1"/> from hitch pin <callout assocfig="M00009-9-2320-451-F0001" label="2"/>.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Remove hitch pin <callout assocfig="M00009-9-2320-451-F0001" label="2"/> to gain access to wheel stop <callout assocfig="M00009-9-2320-451-F0001" label="3"/> and pull away from receiver <callout assocfig="M00009-9-2320-451-F0001" label="4"/>.</para>
+				</step1>
+				<step1>
+					<para>Remove split pins <callout assocfig="M00009-9-2320-451-F0001" label="5"/> from tee bolts <callout assocfig="M00009-9-2320-451-F0001" label="6"/> and <callout assocfig="M00009-9-2320-451-F0001" label="7"/>.</para>
+				</step1>
+				<step1>
+					<para>Lift handle <callout assocfig="M00009-9-2320-451-F0001" label="8"/> and remove receiver from boom.</para>
+				</step1>
+				<step1>
+					<para>Remove tee bolts and by turning in toward receiver.</para>
+				</step1>
+				<figure id="M00009-9-2320-451-F0001">
+					<title>Receiver and Wheel Stop Removal</title>
+					<graphic boardno="G06232000295"></graphic>
+				</figure>
+				<step1>
+					<para>Obtain a serviceable item.</para>
+				</step1>
+				<step1>
+					<para>Install tee bolt <callout assocfig="M00009-9-2320-451-F0002" label="7"/> and tee bolt <callout assocfig="M00009-9-2320-451-F0002" label="6"/> on receiver.</para>
+				</step1>
+				<step1>
+					<para>Install split pins <callout assocfig="M00009-9-2320-451-F0002" label="5"/> onto both tee bolts.</para>
+				</step1>
+				<step1>
+					<para>Position receiver <callout assocfig="M00009-9-2320-451-F0002" label="4"/> on boom and lock handle <callout assocfig="M00009-9-2320-451-F0002" label="8"/>.</para>
+				</step1>
+				<step1>
+					<para>Position wheel stop <callout assocfig="M00009-9-2320-451-F0002" label="3"/> on receiver.</para>
+				</step1>
+				<step1>
+					<para>Secure wheel stops with hitch pin <callout assocfig="M00009-9-2320-451-F0002" label="2"/> but inserting pin through aligned holes on receiver and wheel stop.</para>
+				</step1>
+				<step1>
+					<para>Insert spring pin <callout assocfig="M00009-9-2320-451-F0002" label="1"/> into hitch pin to secure hitch pin.</para>
+				</step1>
+				<figure id="M00009-9-2320-451-F0002">
+					<title>Receiver and Wheel Stop Installation</title>
+					<graphic boardno="G06232000295"></graphic>
+				</figure>
+			</proc>
+		</replace>
+	</maintsk>
+</maintwp>

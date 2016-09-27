@@ -1,0 +1,168 @@
+<opusualwp chngno="0" wpno="O00019-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="crew"/>
+		<title>OPERATING PROCEDURES <?Pub _newline?>RECOVERY WINCHING WITH THE FWTRD</title>
+	</wpidinfo>
+	<initial_setup>
+		<persnreq>
+			<persnreq-setup-item>
+				<name>Wheeled Vehicle Mechanic</name>
+				<mos>91B</mos>
+				<qty>1</qty>
+			</persnreq-setup-item>
+		</persnreq>
+		<eqpconds>
+			<eqpconds-setup-item>
+				<condition>Fifth Wheel Towing and Recovery Device in Transport Configuration <xref wpid="O00004-9-2320-451"/></condition>
+			</eqpconds-setup-item>
+		</eqpconds>
+	</initial_setup>
+	<opertsk>
+		<oper>
+			<proc>
+				<step1>
+					<specpara>
+						<warning>
+							<icon-set boardno="Heavy_Parts-above"/>
+							<icon-set boardno="Heavy_Parts-foot"/>
+							<icon-set boardno="Heavy_Parts-hand"/>
+							<icon-set boardno="Heavy_Parts-wall"/>
+							<icon-set boardno="Helmet_Protection"/>
+							<icon-set boardno="Sharp_Object-in_hand"/>
+							<icon-set boardno="Sharp_Object-puncture"/>
+							<trim.para>All personnel must stand clear at a distance twice the length of cable during winching operations. A snapped winch cable or shifting load could strike personnel causing injury or death to personnel.</trim.para>
+							<trim.para>Unless a specific winch is indicated for a particular procedure, these instructions can be performed with the prime mover 45K winch or the FWTRD 35K winch. The operator should make the proper assessment of the situation in accordance with FM 4-30.31, Recovery and Battle Damage Assessment and Repair in order to determine the proper winch needed for the recovery. Failure to comply may cause injury or death to personnel and or damage to the equipment.</trim.para>
+							<trim.para>The procedures outlined in this chapter refer to using heavy duty winches (45K or 35K) in conjunction with the FWTRD. The 45K and 35K winches are the primary recovery winches. The 18K winch on the FWTRD has limited capacity and should not be used for recovery of vehicles. Failure to comply may cause injury or death to personnel and or damage to the equipment.</trim.para>
+							<trim.para>Winch cable can become frayed or contain broken wires. Wear heavy leather-palmed work gloves when handling winch cable. Frayed or broken wire can injure hands. Never let a winch cable slide through hands, even when wearing gloves. A broken wire could cut through glove and cut hand. Refer to FM 5-125 for inspection of winch cables. A damaged winch cable, under load, could fail suddenly and strike personnel, and could cause the vehicle being recovered to shift suddenly creating a crush hazard. Failure to comply can result in injury or death to personnel.</trim.para>
+						</warning>
+						<note>
+							<trim.para>Refer to the proper TM for the prime mover as well as FM 4-30.31, Recovery and Battle Damage Assessment and Repair in conjunction with these instructions for additional information relating to rigging, winching and recovery.</trim.para>
+							<trim.para>Assess the situation using "R.E.C.O.V.E.R.Y." method as described in <extref docno="FM 4-30.31"/> section 4-14. This will determine whether you are using the 45K or 35K winch with the FWTRD, and the mechanical advantage (MA) needed to complete the recovery (single, two-part line, etc.).</trim.para>
+						</note>
+						<para>Position prime mover so that it is in direct line with and backed up to the disabled vehicle at distance that allows the FWTRD Booms with boom caps to engage the ground.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<specpara>
+						<warning>
+							<icon-set boardno="Heavy_Parts-above"/>
+							<icon-set boardno="Heavy_Parts-foot"/>
+							<icon-set boardno="Heavy_Parts-hand"/>
+							<icon-set boardno="Heavy_Parts-wall"/>
+							<icon-set boardno="Helmet_Protection"/>
+							<trim.para>The Boom Caps weigh 40lbs each. Caution should be used when removing and handling the Boom Caps. They are installed on the booms when the FWTRD is in transport configuration and if not properly secured could fall off, striking personnel, causing injury or death.</trim.para>
+						</warning>
+						<note>
+							<trim.para>Boom Extensions must be fully retracted when installing Boom Caps. The wing bolts used to stow the boom caps should be replaced in fifth wheel section.</trim.para>
+						</note>
+						<para>Follow steps 2-16 of <xref wpid="O00017-9-2320-451"/>, FWTRD 35K Winch Operation, to install and bring the winch cable down to the operator.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Gain access inside fifth wheel cover and remove boom caps.</para>
+				</step1>
+				<step1>
+					<para>Position boom caps <callout assocfig="O00019-9-2320-451-F0001" label="1"/> over end of booms and secure with attached safety chains onto end D-Ring's on each boom.</para>
+				</step1>
+				<figure id="O00019-9-2320-451-F0001">
+					<title>Boom Caps Installed</title>
+					<graphic boardno="G06232001014"></graphic>
+					</figure>
+				<step1>
+					<specpara>
+						<caution>
+							<trim.para>Do not exceed 2000 psi hydraulic pressure when positioning the boom or mast for recovery winching operations. The terrain can vary from muddy to hard pack making specific boom and mast positions difficult to dictate. Limiting hydraulic pressure to 2000 psi prevents damage to the equipment or injury to personnel from bursting lines.</trim.para>
+						</caution>
+						<note>
+							<trim.para>Position receivers and wheel stops on the booms for the disabled vehicle that is being recovered IAW <xref wpid="O00014-9-2320-451"/>. If recovering a STRYKER, refer to <xref wpid="O00015-9-2320-451"/> for installing STRYKER adaptors.</trim.para>
+						</note>
+						<para>Using the remote control, MAST EXTEND, using the half hole rest to align with the second hole. Insert driver and curb side pivot pins <callout assocfig="O00019-9-2320-451-F0002" label="1" />.</para>
+					</specpara>
+				</step1>
+
+					<figure id="O00019-9-2320-451-F0002">
+					<title>Mast Pinned at Second Hole</title>
+					<graphic boardno="G06232000148"></graphic>
+					</figure>
+
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>Keeping the fifth wheel section level keeps the FWTRD stable during winch recovery operations. The booms may bury themselves into the ground as winching begins. Re-position the booms as necessary to keep the fifth wheel section level, without exceeding 2000psi.</trim.para>
+						</note>
+						<para>Using the remote control, BOOM EXTEND until the transport legs clear the after frame of the prime mover and the fifth wheel section is level. <callout assocfig="O00019-9-2320-451-F0003" label="1" /></para>
+					</specpara>
+				</step1>
+
+					<figure id="O00019-9-2320-451-F0003">
+					<title>Fifth Wheel Level and Transport Legs Ready to Stow</title>
+					<graphic boardno="G06232000149"></graphic>
+					</figure>
+
+				<step1>
+					<para>Rotate transport leg swing arm handle counter-clockwise to stow transport legs. Secure with the small bungee.</para>
+				</step1>
+				<step1>
+					<para>Assemble rigging and connect winch cable to casualty in manner determined for intended recovery. Refer to <extref docno="FM 4-30.31"/> for appropriate rigging techniques.</para>
+				</step1>
+				<step1>
+					<specpara>
+						<warning>
+							<icon-set boardno="Heavy_Parts-above"/>
+							<icon-set boardno="Heavy_Parts-foot"/>
+							<icon-set boardno="Heavy_Parts-hand"/>
+							<icon-set boardno="Heavy_Parts-wall"/>
+							<icon-set boardno="Helmet_Protection"/>
+							<trim.para>All personnel must stand clear at a distance twice the length of cable during winching operations. A snapped cable or shifting load could strike personnel causing injury or death to personnel.</trim.para>
+						</warning>
+						<para>Gain access to 35k winch and disengage the 35k winch free spool lever.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Using the remote control, WINCH IN to remove slack from the winch cable.</para>
+				</step1>
+				<step1>
+					<para>Recheck rigging and then move all personnel to a safe distance</para>
+				</step1>
+				<step1>
+					<para>Using remote control, WINCH IN casualty to just in front of boom caps.</para>
+				</step1>
+				<step1>
+					<specpara>
+						<warning>
+							<icon-set boardno="Heavy_Parts-wall"/>
+							<trim.para>Prior to slacking the winch cable, the disabled vehicle must be secured from moving. Failure to comply could result in the vehicle moving unexpectedly creating a crush hazard causing serious injury or death to personnel.</trim.para>
+						</warning>
+						<note>
+							<trim.para>Rigging may or may not be removed from casualty depending on whether it is to be lift/towed using FWTRD (remove rigging) or whether casualty is to be winched onto TDRT in which case rigging would stay on casualty.</trim.para>
+						</note>
+						<para>Remove winch cable.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Using remote control, MAST EXTEND to release mast pivot pins. Remove and set aside for reinstallation.</para>
+				</step1>
+				<step1>
+					<para>Using remote control, BOOM EXTEND to release boom lock pins. Remove and set aside for reinstallation.</para>
+				</step1>
+				<step1>
+					<para>Remove small bungee from, and rotate the transport leg handle clockwise to lock the transport legs in the down position.</para>
+				</step1>
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>If booms are severely buried it may be necessary to pull prime mover forward slightly to free boom caps. Be sure there is enough slack in winch cable if you need to pull forward.</trim.para>
+						</note>
+						<para>Using remote control, BOOM RETRACT until the FWTRD transport legs rest on prime move and to free boom caps.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Remove boom caps and stow in fifth wheel section.</para>
+				</step1>
+				<step1>
+					<para>Proceed with securing the disabled vehicle for lift tow with the FWTRD, or position the Tilt Deck Recovery Trailer for loading.</para>
+				</step1>
+			</proc>
+		</oper>
+	</opertsk>
+</opusualwp>

@@ -1,0 +1,171 @@
+<opusualwp chngno="0" wpno="O00006-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="crew"/>
+		<title>OPERATION UNDER USUAL CONDITIONS <?Pub _newline?>OPERATING PROCEDURES <?Pub _newline?>PREPARE TOW BAR ASSEMBLIES</title>
+	</wpidinfo>
+	<initial_setup>
+		<persnreq>
+			<persnreq-setup-item>
+				<name>Wheeled Vehicle Mechanic</name>
+				<mos>91B</mos>
+				<qty>1</qty>
+			</persnreq-setup-item>
+		</persnreq>
+		<eqpconds>
+			<eqpconds-setup-item>
+				<condition>FWTRD Unfolded <xref wpid="O00003-9-2320-451"/></condition>
+			</eqpconds-setup-item>
+		</eqpconds>
+	</initial_setup>
+	<opertsk>
+		<oper>
+			<proc>
+				<title></title>
+				<step1>
+					<specpara>
+						<warning>
+							<icon-set boardno="Heavy_Parts-above"/>
+							<icon-set boardno="Heavy_Parts-foot"/>
+							<icon-set boardno="Heavy_Parts-hand"/>
+							<icon-set boardno="Heavy_Parts-wall"/>
+							<trim.para>All persons not involved in the loading or unloading operation must stand clear of the prime mover and the Fifth Wheel Towing and Recovery Device, a crush hazard exists. Failure to comply may result in injury or death to personnel.</trim.para>
+							<trim.para>Due to the center of gravity of some loads, shifting loads can create a crush hazard. Failure to comply may result in damage to equipment and injury or death to personnel.</trim.para>
+							<trim.para>Visibility from the prime mover is significantly reduced when backing, whether the FWTRD is loaded or not. Never stand between the prime mover and FWTRD when the prime mover is backed under or near a towed load, a crush hazard exists. Failure to comply may result in serious injury or death to personnel.</trim.para>
+							<trim.para>Keep speeds under 5mph when loading and unloading vehicles. Speeds above 5 mph will exaggerate motions and create hazardous conditions such as shifting loads or a crush hazard, which could result in injury or death to personnel.</trim.para>
+							<trim.para>The upper section of the tow bar assemblies weighs 47lbs. (21.3 kg). Use an assistant and caution when removing and handling to prevent injury to personnel.</trim.para>
+							<trim.para>When tilting the tow bar assemblies, use caution when removing pins so that the upper section does not fall out suddenly and cause injury to personnel.</trim.para>		
+						</warning>
+						<para>Remove spring clip <callout assocfig="O00006-9-2320-451-F0001" label="2"/> from upper hitch pin <callout assocfig="O00006-9-2320-451-F0001" label="1"/>.</para>
+					</specpara>
+				</step1>
+
+					<figure id="O00006-9-2320-451-F0001">
+					<title>Remove Spring Clip</title>
+					<graphic boardno="G06232000079"></graphic>
+					</figure>
+
+				<step1>
+					<para>Remove hitch pin. Set aside for reinstallation.</para>
+				</step1>
+				<step1>
+					<para>Loosen forward and aft inside T-bolts <callout assocfig="O00006-9-2320-451-F0002" label="1"/>.</para>
+				</step1>
+
+					<figure id="O00006-9-2320-451-F0002">
+					<title>Loosen T-bolts</title>
+					<graphic boardno="G06232000080"></graphic>
+					</figure>
+
+				<step1>
+					<para>Tilt the lower section of the tow bar assembly away from the storage bracket <callout assocfig="O00006-9-2320-451-F0003" label="1"/>.</para>
+				</step1>
+
+					<figure id="O00006-9-2320-451-F0003">
+					<title>Outer Tow Bar Assembly tilted away</title>
+					<graphic boardno="G06232000081"></graphic>
+					</figure>
+
+				<step1>
+					<specpara>
+						<warning>
+							<icon-set boardno="Heavy_Parts-hand"/>
+							<icon-set boardno="Heavy_Parts-above"/>
+							<trim.para>Upper section of the tow bar assemblies weighs 47lbs (21.3 kg). Use an assistant and caution when removing and handling them to prevent injury to personnel or damage to equipment.</trim.para>		
+						</warning>
+						<para>Remove the remaining spring clip <callout assocfig="O00006-9-2320-451-F0004" label="1"/> from hitch pin <callout assocfig="O00006-9-2320-451-F0004" label="2"/>. Set aside for reinstallation. Remove hitch pin from the upper section <callout assocfig="O00006-9-2320-451-F0004" label="3"/>.</para>
+					</specpara>
+				</step1>
+
+					<figure id="O00006-9-2320-451-F0004">
+					<title>Remove Remaining Spring Clip</title>
+					<graphic boardno="G06232000082"></graphic>
+					</figure>
+
+				<step1>
+					<para>Set upper section aside for future use.</para>
+				</step1>
+				<step1>
+					<para>Rotate lower section back onto holder and loosen remaining T-bolts <callout assocfig="O00006-9-2320-451-F0005" label="1"/>.</para>
+				</step1>
+
+					<figure id="O00006-9-2320-451-F0005">
+					<title>Loosen Remaining T-bolts</title>
+					<graphic boardno="G06232000083"></graphic>
+					</figure>
+
+				<step1>
+					<para>Remove the lower section <callout assocfig="O00006-9-2320-451-F0006"/>.</para>
+				</step1>
+
+					<figure id="O00006-9-2320-451-F0006">
+					<title>Remove Lower Section</title>
+					<graphic boardno="G06232000084"></graphic>
+					</figure>
+
+				<step1>
+					<para>Set aside for reinstallation.</para>
+				</step1>
+				<step1>
+					<para>Loosen all four T- bolts <callout assocfig="O00006-9-2320-451-F0007" label="1"/> on the inner tow bar assembly.</para>
+				</step1>
+
+					<figure id="O00006-9-2320-451-F0007">
+					<title>Loosen Four T-bolts</title>
+					<graphic boardno="G06232000085"></graphic>
+					</figure>
+
+				<step1>
+					<para>Slide tow bar to the outer position and align with outside holes.</para>
+				</step1>
+				<step1>
+					<para>Re-tighten outside T-bolts <callout assocfig="O00006-9-2320-451-F0008" label="1"/>.</para>
+				</step1>
+
+					<figure id="O00006-9-2320-451-F0008">
+					<title>Setup To Remove Second Tow Bar Assembly</title>
+					<graphic boardno="G06232000086"></graphic>
+					</figure>
+
+				<step1>
+					<para>Repeat steps 4 - 8 for remaining tow bar assembly in this work package.</para>
+				</step1>
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>The lower sections of the tow bar assemblies are made with offsets. This allows positioning the assemblies for variations in the distance between the towing eyes on the towed vehicles.</trim.para>
+							<trim.para>If the FWTRD has been used with the Tilt Deck Recovery Trailer, it will be necessary to temporarily move the FWTRD receiver with wheel stops prior to performing the next step.</trim.para>
+							<trim.para>The position of Tow Bar Adapter Assemblies should ensure that once connected to the towed vehicle there is no interference between towed vehicle components and the FWTRD</trim.para>		
+						</note>
+						<para>Position two each lower sections onto booms and align to appropriate mounting holes <callout assocfig="O00006-9-2320-451-F0009" label="1"/>.</para>
+					</specpara>
+				</step1>
+
+					<figure id="O00006-9-2320-451-F0009">
+					<title>Align Lower Sections</title>
+					<graphic boardno="G06232000087"></graphic>
+					</figure>
+
+				<step1>
+					<para>Do not tighten lower T-bolts.</para>
+				</step1>
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>The upper sections of the tow bar assemblies are made with offsets. This allows positioning the assemblies for variations in the distance between the towing eyes on the towed vehicles.</trim.para>		
+						</note>
+						<para>Install both upper sections <callout assocfig="O00006-9-2320-451-F0010" label="1"/> into the lower sections.</para>
+					</specpara>
+				</step1>
+
+					<figure id="O00006-9-2320-451-F0010">
+					<title>Preparing Tow Bar Assemblies on FWTRD Booms</title>
+					<graphic boardno="G06232000088"></graphic>
+					</figure>
+
+				<step1>
+					<para>Proceed to <xref wpid="O00010-9-2320-451"/> for connecting disabled vehicle to the Tow Bar Adapter Assemblies.</para>
+				</step1>
+			</proc>
+		</oper>
+	</opertsk>
+</opusualwp>

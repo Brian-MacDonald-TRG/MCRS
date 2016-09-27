@@ -1,0 +1,132 @@
+<opusualwp chngno="0" wpno="O00007-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="crew"/>
+		<title>OPERATION UNDER USUAL CONDITIONS <?Pub _newline?>OPERATING PROCEDURES <?Pub _newline?>PRE-PICKING</title>
+	</wpidinfo>
+	<initial_setup>
+		<persnreq>
+			<persnreq-setup-item>
+				<name>Wheeled Vehicle Mechanic</name>
+				<mos>91B</mos>
+				<qty>1</qty>
+			</persnreq-setup-item>
+		</persnreq>
+		<eqpconds>
+			<eqpconds-setup-item>
+				<condition>FWTRD Unfolded <xref wpid="O00003-9-2320-451"/></condition>
+			</eqpconds-setup-item>
+		</eqpconds>
+	</initial_setup>
+	<opertsk>
+		<oper>
+			<proc>
+				<title></title>
+				<step1>
+					<specpara>
+						<warning>
+							<icon-set boardno="Heavy_Parts-above"/>
+							<icon-set boardno="Heavy_Parts-foot"/>
+							<icon-set boardno="Heavy_Parts-hand"/>
+							<icon-set boardno="Heavy_Parts-wall"/>
+							<trim.para>Wheels on the towed vehicle should be chocked and parking brakes engaged prior to performing pre-picking. Failure to comply could result in the vehicle moving unexpectedly creating a crush hazard causing serious injury or death to personnel.</trim.para>
+							<trim.para>Pre-picking procedures involve backing the prime mover and should be done by two people, the first person in the prime mover cab and the second acting as a ground guide. The person in the prime mover cab must keep the ground guide in sight at all times. All other personnel should stand completely clear of the area. A crush hazard exists. Failure to comply may result in serious injury or death to personnel.</trim.para>
+							<trim.para>Placing blocks and shoring during pre-picking procedures can create pinch points. Caution must be used when positioning these items to prevent serious injury or death to personnel.</trim.para>		
+						</warning>
+						<para>Position prime mover with the FWTRD in front of disabled vehicle.</para>
+					</specpara>
+				</step1>
+
+					<figure id="O00007-9-2320-451-F0001">
+					<title>Position Prime Mover</title>
+					<graphic boardno="G06232000089"></graphic>
+					</figure>
+
+				<step1>
+					<para>Remove Remote Control from FWTRD tool box.</para>
+				</step1>
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>Extend until the boom extensions pass under the front suspension of the disabled vehicle and are extended approximately 1 ft. to the rear of the front A-Arms or cross members.</trim.para>		
+						</note>
+						<para>Using the Remote Control, EXTEND LEFT and EXTEND RIGHT boom extensions until the boom extensions pass under the the disabled vehicle (Figure 2).</para>
+					</specpara>
+				</step1>
+
+					<figure id="O00007-9-2320-451-F0002">
+					<title>Extensions under suspension</title>
+					<graphic boardno="G06232000090"></graphic>
+					</figure>
+
+				<step1>
+					<para>Using the remote control, BOOM EXTEND until the transport legs are clear of the prime mover after-frame.</para>
+				</step1>
+				<step1>
+					<para>Rotate the Transport Leg Swing Arm handle <callout assocfig="O00007-9-2320-451-F0003" label="1"/> counter-clockwise to raise and lock the transport legs in the stowed position. Secure with the small bungee.</para>
+				</step1>
+
+					<figure id="O00007-9-2320-451-F0003">
+					<title>Transport Legs Stowed</title>
+					<graphic boardno="G06232000091"></graphic>
+					</figure>
+
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>Placing composite blocks at the rear of the cross member, creates a fulcrum point.</trim.para>		
+						</note>
+						<para>Place one 4 in. block under each boom, near the rear cross member <callout assocfig="O00007-9-2320-451-F0004" label="1"/>.</para>
+					</specpara>
+				</step1>
+
+					<figure id="O00007-9-2320-451-F0004">
+					<title>Insert fulcrum block</title>
+					<graphic boardno="G06232000092"></graphic>
+					</figure>
+
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>Raise the vehicle until the suspension/lift point is approximately 7-8 inches above the ground.</trim.para>
+							<trim.para>Ensure composite blocks do not shift.</trim.para>		
+						</note>
+						<para>Using the remote control, BOOM RETRACT to lower the front of the booms and raise the rear of the booms.</para>
+					</specpara>
+				</step1>
+
+					<figure id="O00007-9-2320-451-F0005">
+					<title>Disabled Vehicle Pre-picked</title>
+					<graphic boardno="G06232000093"></graphic>
+					</figure>
+
+				<step1>
+					<para>Insert shoring, as needed, under the lowest point of the disabled vehicle to maintain the pre-picked height. <callout assocfig="O00007-9-2320-451-F0006" label="1"/></para>
+				</step1>
+
+					<figure id="O00007-9-2320-451-F0006">
+					<title>Shoring Disabled Vehicle</title>
+					<graphic boardno="G06232000094"></graphic>
+					</figure>
+
+				<step1>
+					<para>Using the remote control, BOOM EXTEND until the disabled vehicle is resting on the shoring, and the booms and pivot blocks are free. Remove the pivot blocks.</para>
+				</step1>
+				<step1>
+					<para>Rotate the transport leg swing arm handle clockwise and lock the transport legs in the down position <callout assocfig="O00007-9-2320-451-F0007" label="1"/>.</para>
+				</step1>
+
+					<figure id="O00007-9-2320-451-F0007">
+					<title>Lock Transport Legs</title>
+					<graphic boardno="G06232000095"></graphic>
+					</figure>
+
+				<step1>
+					<para>Using the remote control, BOOM RETRACT until the FWTRD rests on the transport legs and the booms are again approximately 1 in. above and parallel to the ground.</para>
+				</step1>
+				<step1>
+					<para>Using the remote control, fully RETRACT LEFT AND RIGHT EXTENSIONS.</para>
+				</step1>
+			</proc>
+		</oper>
+	</opertsk>
+</opusualwp>

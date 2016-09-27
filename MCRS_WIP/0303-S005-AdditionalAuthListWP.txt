@@ -1,0 +1,54 @@
+<aalwp chngno="0" wpno="S00005-9-2320-451"><?Pub Dtl?>
+<wpidinfo>
+<maintlvl level="crew"/>
+<title>ADDITIONAL AUTHORIZATION LIST (AAL)</title>
+</wpidinfo>
+<intro><para0>
+<title>ADDITIONAL AUTHORIZATION LIST (AAL)
+INTRODUCTION</title>
+<subpara1>
+<title>Scope</title>
+<para> This work package lists additional
+items you are authorized 								for the support
+of the SYSTEM NOMENCLATURE ().  							</para>
+</subpara1><subpara1>
+<title>General</title>
+<para> This list identifies items that do
+not have to accompany the 								SYSTEM NOMENCLATURE
+() and that do not have to be turned in with
+it. 								These items are all authorized
+to you by CTA, MTOE, TDA, or JTA.  							</para>
+</subpara1><subpara1>
+<title>Explanation of Columns in the AAL</title>
+<para> Column (1) National Stock Number (NSN).
+Identifies the stock 								number of the
+item to be used for requisitioning purposes.
+ 							</para>
+<para> Column (2) Description, Part Number/(CAGEC).
+Identifies the 								Federal item name (in
+all capital letters) followed by a minimum
+description 								when needed. The last
+line below the description is the part number
+								and the Commercial and Government
+Entity Code (CAGEC) (in parentheses).  							</para>
+<para> Column (3) Usable On Code. When applicable,
+gives you a code 								if the item you need
+is not the same for different models of equipment.
+ 							</para>
+<para> Column (4) U/I. Unit of Issue (U/I)
+indicates the physical 								measurement
+or count of the item as issued per the National
+Stock 								Number shown in column (1).
+ 							</para>
+<para> Column (5) Qty Recm. Indicates the
+quantity recommended. </para>
+</subpara1></para0></intro>
+<aal>
+<title>Additional Authorization List (AAL)</title>
+<aal-entry><nsn><fsc></fsc><niin></niin></nsn>
+<dcpno><name>NBC Adapter 								Set  							</name>
+<partno>TBD</partno><cageno>81337</cageno><uoc
+></uoc></dcpno><ui>EA</ui><qty>1</qty>
+</aal-entry>
+</aal>
+</aalwp>

@@ -1,0 +1,749 @@
+<production chngdate="16 June 2016" chnglevel="0" date="16 June 2016" pin="4520-01-269-2234">
+	<paper.manual maintitl="MODULAR CATASTROPHIC RECOVERY SYSTEM (MCRS)" maintlvls="13" multivolume="no" pubno="TM 9-2320-451-13&amp;P" revno="0" rpstl="yes">
+		<paper.frnt>
+			<frntcover>
+				<tmtitle><?Pub Dtl?><tmno> TM 9-2320-451-13</tmno>
+					<prtitle>
+						<sysnomen>
+							<name>MODULAR CATASTROPHIC RECOVERY SYSTEM</name>
+							<modelno>(MCRS)</modelno>
+							<partno>FWHM983</partno>
+							<nsn><fsc>2320</fsc><niin>01-560-4409</niin></nsn>
+						</sysnomen>
+					</prtitle>
+				</tmtitle>
+				<graphic boardno="G06232000001"><?Pub Dtl?>
+				</graphic>
+				<notices><?Pub Dtl?>
+					<dist><a.statement/></dist>
+				</notices>
+				<servnomen><?Pub Dtl?> HEADQUARTERS, DEPARTMENT OF THE ARMY</servnomen>
+				<date><?Pub Dtl?>16 JUNE 2016</date>
+			</frntcover>
+			<warnsum id="warnSum-10-00001" tocentry="1">
+				<para> This warning summary contains general safety warnings and hazardous material warnings that must be understood and applied during operation and maintenance of this equipment. Failure to observe these precautions could result in serious injury or death to personnel.</para>
+				<first_aid>
+					<title></title>
+				<para></para>
+				</first_aid><safety>
+				<title>Explanation of Safety Warning Icons</title>
+				<sfty-icons><symbol boardno="Ear_Protection_Symbol"/>
+					<sftydesc>
+						<title>EAR PROTECTION</title>
+							<text>Headphones over ears show that noise level will harm ears.</text>
+					</sftydesc>
+				</sfty-icons>
+				<sfty-icons><symbol boardno="Electrical-hand"/>
+					<sftydesc>
+						<title>ELECTRICAL</title>
+							<text> Electrical wire to hand with electricity symbol running through hand shows that shock hazard is present.</text>
+					</sftydesc>
+				</sfty-icons>
+				<sfty-icons><symbol boardno="Electrical_Symbols"/>
+					<sftydesc>
+						<title>ELECTRICAL</title>
+							<text>Electrical wire to arm with electricity symbol running through human body shows that shock hazard is present.</text>
+					</sftydesc>
+				</sfty-icons>
+				<sfty-icons><symbol boardno="Falling_Parts"/>
+					<sftydesc>
+						<title>FALLING PARTS</title>
+							<text>Arrow bouncing off human shoulder and head shows that falling parts present a danger to life or limb.</text>
+					</sftydesc>
+				</sfty-icons>
+				<sfty-icons><symbol boardno="Flying_Particles_wShield"/>
+					<sftydesc>
+						<title>FLYING PARTICLES</title>
+							<text>Arrows bouncing off face shield show that particles flying through the air will harm face.</text>
+					</sftydesc>
+				</sfty-icons>
+				<sfty-icons><symbol boardno="Heavy_Object"/>
+					<sftydesc>
+						<title>HEAVY OBJECT</title>
+							<text>Human figure stooping over heavy object shows physical injury potential from improper lifting technique.</text>
+					</sftydesc>
+				</sfty-icons>
+				<sfty-icons><symbol boardno="Heavy_Parts-above"/>
+					<sftydesc>
+						<title>HEAVY PARTS</title>
+							<text>Heavy object on human figure shows that heavy parts present a danger to life or limb.</text>
+					</sftydesc>
+				</sfty-icons>
+				<sfty-icons><symbol boardno="Heavy_Parts-foot"/>
+					<sftydesc>
+						<title>HEAVY PARTS</title>
+							<text>Foot with heavy object on top shows that heavy parts can crush and harm.</text>
+					</sftydesc>
+				</sfty-icons>
+				<sfty-icons><symbol boardno="Heavy_Parts-hand"/>
+					<sftydesc>
+						<title>HEAVY PARTS</title>
+							<text>Hand with heavy object on top shows that heavy parts can crush and harm.</text>
+					</sftydesc>
+				</sfty-icons>
+				<sfty-icons><symbol boardno="Heavy_Parts-wall"/>
+					<sftydesc>
+						<title>HEAVY PARTS</title>
+							<text>Heavy object pinning human figure against wall shows that heavy, moving parts present a danger to life or limb.</text>
+					</sftydesc>
+				</sfty-icons>
+				<sfty-icons><symbol boardno="Helmet_Protection"/>
+					<sftydesc>
+						<title>HELMET PROTECTION</title>
+							<text>Arrow bouncing off head with helmet shows that falling parts present a danger.</text>
+					</sftydesc>
+				</sfty-icons>
+				<sfty-icons><symbol boardno="Hot_Area"/>
+					<sftydesc>
+						<title>HOT AREA</title>
+							<text>Hand over object radiating heat shows that part is hot and can burn. Hand over object radiating heat shows that part is hot and can burn.</text>
+					</sftydesc>
+				</sfty-icons>
+				<sfty-icons><symbol boardno="Laser_Light"/>
+					<sftydesc>
+						<title>LASER LIGHT</title>
+							<text>Laser light hazard symbol indicates extreme danger for eyes from laser beams and reflections.</text>
+					</sftydesc>
+				</sfty-icons>
+				<sfty-icons><symbol boardno="Moving_Parts-arm"/>
+					<sftydesc>
+						<title>MOVING PARTS</title>
+							<text>Human figure with arm caught between gears shows that the moving parts of the equipment present a danger to life or limb.</text>
+					</sftydesc>
+				</sfty-icons>
+				<sfty-icons><symbol boardno="Moving_Parts-fingers"/>
+					<sftydesc>
+						<title>MOVING PARTS</title>
+							<text>Hand with fingers caught between gears shows that the moving parts of the equipment present a danger to life or limb.</text>
+					</sftydesc>
+				</sfty-icons>
+				<sfty-icons><symbol boardno="Moving_Parts-rollers"/>
+					<sftydesc>
+						<title>MOVING PARTS</title>
+							<text>Hand with fingers caught between rollers shows that the moving parts of the equipment present a danger to life or limb.</text>
+					</sftydesc>
+				</sfty-icons>
+				<sfty-icons><symbol boardno="Sharp_Object-foot"/>
+					<sftydesc>
+						<title>SHARP OBJECT</title>
+							<text>Pointed object in foot shows that a sharp object presents a danger to limb.</text>
+					</sftydesc>
+				</sfty-icons>
+				<sfty-icons><symbol boardno="Sharp_Object-in_hand"/>
+					<sftydesc>
+						<title>SHARP OBJECT</title>
+							<text>Pointed object in hand shows that a sharp object presents a danger to limb.</text>
+					</sftydesc>
+				</sfty-icons>
+				<sfty-icons><symbol boardno="Sharp_Object-puncture"/>
+					<sftydesc>
+						<title>SHARP OBJECT</title>
+							<text>Pointed object in hand shows that a sharp object presents a danger to limb.</text>
+					</sftydesc>
+				</sfty-icons>
+				<sfty-icons><symbol boardno="Slick_Floor"/>
+					<sftydesc>
+						<title>SLICK FLOOR</title>
+							<text>Wavy line on floor with legs prone shows that slick floor presents a danger for falling.</text>
+					</sftydesc>
+				</sfty-icons>
+			</safety>
+			<warninfo><?Pub Dtl?>
+				<title>GENERAL SAFETY WARNING DESCRIPTIONS</title>
+					<warning>
+						<icon-set boardno="Heavy_Parts-above"/>
+						<trim.para>No personnel shall perform maintenance above or below the main frame of the Fifth Wheel Towing and Recovery Device (FWTRD) without the main frame being supported at the front by use of a jack stand or the prime mover. A crush hazard exists. Failure to comply can result in injury or death to personnel.</trim.para>
+						<trim.para>No person shall perform maintenance above or below the Tilt Deck Recovery Trailer (TDRT) without deck being supported by a prime mover with a FWTRD attached to the TDRT, the TDRT landing legs properly deployed, or by proper use of jack stands to support the TDRT deck. A Crush hazard exists. Failure to comply may result in injury or death to personnel.</trim.para>
+					</warning>
+					<warning>
+						<icon-set boardno="Flying_Particles_wShield"/>
+						<icon-set boardno="Slick_Floor"/>
+						<trim.para>Ensure that appropriate breather valve is open prior to operation to prevent over pressurizing of the hydraulic system resulting in lines bursting. Personnel could then slip on the oil. Failure to comply may result in injury or death to personnel.</trim.para>
+						<trim.para>Hydraulic pressure from the prime mover can reach 3000 psi (20 684 kPa) when using wet lines. Never connect or disconnect hydraulic wet lines without ensuring that the prime mover Power Take Off (PTO) is disengaged and engine of the prime mover is off. If lines are disconnected with the PTO engaged, the system may become over-pressurized and cause lines or fittings to burst and hydraulic oil to spill creating a slip hazard. Failure to comply could result serious injury or death to personnel.</trim.para>
+						<trim.para>Proper eye protection (face shield) must be worn when working on or near hydraulic systems to avoid personal injury. Be careful when entering the work area. Wipe up any spilled oil immediately to prevent slips and falls. Failure to comply may result in injury or death.</trim.para>
+					</warning>
+					<warning>
+						<icon-set boardno="Heavy_Parts-above"/>
+						<icon-set boardno="Heavy_Parts-wall"/>
+						<icon-set boardno="Helmet_Protection"/>
+						<trim.para>Ensure that the boom has sufficient overhead clearance prior to folding the boom into a vertical position to prevent contact with overhead obstructions that could fall and strike personnel. Failure to comply may result in injury or death to personnel.</trim.para>
+						<trim.para>Do not operate the FWTRD boom until the mast is in the track. Loads could shift suddenly creating a crush hazard. Failure to comply may result in serious injury or death to personnel.</trim.para>
+					</warning>
+					<warning>
+						<icon-set boardno="Heavy_Parts-above"/>
+						<icon-set boardno="Heavy_Parts-wall"/>
+						<trim.para>Ensure that the TDRT has been properly configured for travel prior to moving. The trailer must be properly secured to a FWTRD with the sliding axles in travel position and properly pinned. All air lines and electrical connections must be properly secured. This prevents unstable and shifting loads that could create a crush hazard. Failure to comply can result in injury or death to personnel.</trim.para>
+						<trim.para>Coupling must be done by two people The first person is in the prime mover cab and the second acting as a ground guide. The person in the prime mover cab must keep the ground guide in sight at all times. All other personnel should stand completely clear of the area. A crush hazard exists. Failure to comply may result in serious injury or death to personnel.</trim.para>
+					</warning>
+					<warning>
+						<icon-set boardno="Heavy_Parts-above"/>
+						<icon-set boardno="Heavy_Parts-wall"/>
+						<icon-set boardno="Helmet_Protection"/>
+						<trim.para>Operators must take caution while folding the mast assembly to the vertical position. The transport leg assembly may not stay locked in this configuration. The handle could swing free and strike the operator and may cause injury or death to personnel.</trim.para>
+						<trim.para>Ensure tool boxes are closed and main frame is clear of all unsecured items as falling items could strike the operator causing serious injury or death.</trim.para>
+					</warning>
+					<warning>
+						<icon-set boardno="Heavy_Parts-above"/>
+						<icon-set boardno="Heavy_Parts-wall"/>
+						<icon-set boardno="Helmet_Protection"/>
+						<trim.para>Do not operate boom until mast is fully engaged in the track and safety clevises re-installed. The mast can pivot until it is fully in the track. Safety clevises prevent the mast from leaving the track accidently. If the boom is operated prior to having the mast fully in the track, the entire mast/boom assembly could pivot suddenly creating a crush hazard. Failure to comply could cause serious injury or death to personnel.</trim.para>
+						<trim.para>Never walk under the booms during any operations. The booms falling accidently or during operation create a crush hazard. Failure to comply could result in injury or death to personnel.</trim.para>
+					</warning>
+					<warning>
+						<icon-set boardno="Heavy_Parts-above"/>
+						<trim.para>Unless otherwise specified, perform all lubrication, and preventative maintenance checks with the TDRT on level ground and uncoupled. Failure to follow this warning may result in injury or death to personnel.</trim.para>
+					</warning>
+					<warning>
+						<icon-set boardno="Slick_Floor"/>
+						<trim.para>While working with the heavy duty winches on the FWTRD and loading a disabled vehicle onto the TDRT, it may be necessary to climb on and walk on the equipment. Always use steps, ladders, and designated walking areas when on the equipment Maintain three points of contact with the FWTRD when working around the winching sheave of the FWTRD. Failure to comply may result in slips or falls resulting in serious injury or death to personnel.</trim.para>
+					</warning>
+					<warning>
+						<icon-set boardno="Electrical_Symbols"/>
+						<icon-set boardno="Hot_Area"/>
+						<trim.para>When troubleshooting an electrical malfunction or performing electrical maintenance, always disconnect intravehicular electrical cable from towing vehicle. Failure to do so may result in injury or death due to electric shock.</trim.para>
+						<trim.para>Remove power by disconnecting all electrical cables to the FWTRD or TDRT prior to making any electrical repairs. Battery ground cables must be connected for circuit tests, but should be removed before resistance tests or parts replacement. This will prevent shock hazards to personnel. Failure to do so may result in serious injury or death to personnel.</trim.para>
+						<trim.para>Do not touch heat shrink tubing for at least 30 seconds after heating. Heat shrinkable tubing is hot and may burn causing serious injury or death.</trim.para>
+					</warning>
+					<warning>
+						<icon-set boardno="Heavy_Parts-above"/>
+						<icon-set boardno="Heavy_Parts-wall"/>
+						<trim.para>During coupling to the prime mover, it may be required to adjust the angle of the main frame to accommodate the height of the fifth wheel plate. Ensure that the transport legs and bottom breather valve do not make contact with the after frame of the prime mover as it backs into position. Failure to comply could cause the FWTRD to shift creating a crush hazard and may cause injury or death to personnel.</trim.para>
+						<trim.para>During coupling to the TDRT, it may be necessary to adjust the angle of the FWTRD booms to match the angle of the TDRT mating cove. Only personnel involved in performing the connection should be near the prime mover and should exercise caution as a crush hazard exists. Failure to comply may result in serious injury or death to personnel.</trim.para>
+					</warning>
+					<warning>
+						<icon-set boardno="Heavy_Parts-above"/>
+						<icon-set boardno="Heavy_Parts-foot"/>
+						<icon-set boardno="Heavy_Parts-wall"/>
+						<trim.para>All personnel not involved in the loading or unloading operation must stand clear of prime mover and TDRT. Failure to comply may result in injury or death to personnel.</trim.para>
+						<trim.para>Due to the center of gravity of some loads, proper procedures must be followed when loading or unloading equipment. Follow recovery guidelines as described in FM 4-30.31 "Battle Damage, Assessment, and Recovery" to prevent serious injury or death to personnel.</trim.para>
+						<trim.para>Since visibility from the prime mover is significantly reduced when backing, always use a ground guide and keep that guide in sight at all times to prevent a crush hazard. Failure to comply may result in damage to equipment and injury or death to personnel.</trim.para>
+						<trim.para>Use low speed (5 mph or less) when loading or unloading vehicles. Higher speeds will exaggerate motions and create hazardous conditions, which could result in personal injury or death.</trim.para>
+					</warning>
+					<warning>
+						<icon-set boardno="Flying_Particles_wShield"/>
+						<icon-set boardno="Sharp_Object-puncture"/>
+						<trim.para>The prime mover winch may be utilized when loading the TDRT. All personnel must stand clear a distance equal to double the length of the cable during winching operations. A snapped cable or shifting load may cause serious injury or death to personnel.</trim.para>
+						<trim.para>Ensure the winch cable has at least five wraps on the winch drum before operating reel. Failure to comply could result in the cable giving way under load resulting in serious injury or death to personnel.</trim.para>
+					</warning>
+					<warning>
+						<icon-set boardno="Heavy_Parts-wall"/>
+						<icon-set boardno="Sharp_Object-puncture"/>
+						<trim.para>Winch cable can become frayed or contain broken wires. Wear heavy leather-palmed work gloves when handling winch cable. Frayed or broken cable can injure hands. Never let winch cable slide through hands, even when wearing gloves. A broken cable could cut through glove and cut hand.</trim.para>
+						<trim.para>Refer to FM 5-125 "Rigging Techniques, Procedures, and Applications" for inspection of winch cable. A damaged winch cable, under load, could fail suddenly and strike personnel causing vehicle being recovered to shift suddenly creating a crush hazard. Failure to comply can result in injury or death to personnel.</trim.para>
+					</warning>
+					<warning>
+						<icon-set boardno="Flying_Particles_wShield"/>
+						<icon-set boardno="Heavy_Parts-above"/>
+						<icon-set boardno="Heavy_Parts-foot"/>
+						<icon-set boardno="Heavy_Parts-hand"/>
+						<trim.para>Towing of a single vehicle with non-functioning brakes must be limited to not more than 25 mph (40 km/h) on the highway and 15 mph (24 km/h) off-road to prevent loss of control of the prime mover during towing operations. Failure to comply may result in serious injury or death to personnel.</trim.para>
+						<trim.para>Towing of vehicle combinations with non-functioning brakes is prohibited. The prime mover brakes are not sufficient to safely control the load. Failure to comply may result in injury or death to personnel.</trim.para>
+						<trim.para>Prior to transporting loads, the transport legs on the FWTRD must be stowed in the up position to prevent interference with the after-frame of the prime mover when negotiating turns. Failure to comply may cause loss of control of the prime mover resulting in injury or death to personnel.</trim.para>
+						<trim.para>Palletized Loading System (PLS) series M1074 and M1075 can only be lift-towed with no payload. When loaded, these vehicles may exceed the approved Gross Combined Weight (GCW) of 150,000 lbs (68,038 kg) for the combined load. This could make the prime mover unstable to drive and could result in injury or death to personnel.</trim.para>
+						<trim.para>Put transmissions and transfer cases in neutral on towed equipment to remove rolling resistance and to prevent further damage during lift tow.  Failure to comply may result in injury or death to personnel. Secure any materials or equipment loaded in the beds of towed equipment. Loose equipment could fall and strike operator. Failure to comply may result in injury or death to personnel.</trim.para>
+						<trim.para>When loaded, shut down towed equipment, turn off all switches, close all doors and hatches, and swing in all mirrors. These items could become loose striking personnel. Failure to comply may result in injury or death to personnel.</trim.para>
+						<trim.para>Make sure that gun turrets or other rotating parts are properly secured to prevent damage and or parts falling and striking personnel. Failure to comply may result in injury or death to personnel.</trim.para>
+						<trim.para>Make sure all Components of End Item (COEI) and Basic Issue Items (BII) are properly stowed on trailer and prime mover. Make sure that remote control is turned off and properly stowed in the tool box on the FWTRD. Loose items can accidently strike personnel.  Failure to comply may result in serious injury or death to personnel.</trim.para>
+					</warning>
+					<warning>
+						<icon-set boardno="Flying_Particles_wShield"/>
+						<icon-set boardno="Heavy_Parts-above"/>
+						<icon-set boardno="Heavy_Parts-foot"/>
+						<icon-set boardno="Heavy_Parts-hand"/>
+						<trim.para>Check the prime mover and the trailer brakes and lights for proper operation. Personnel following a towed load could crash into the load if not properly lighted. Failure to comply may result in injury or death to personnel.</trim.para>
+						<trim.para>Check all tiedowns at first opportunity after departure. Recheck all tiedowns at halts and any time a problem is suspected. Shifting loads could cause loss of control of the prime mover.  Failure to comply may result in injury or death to personnel.</trim.para>
+						<trim.para>Safety chains should be installed at a 45-degree angle to prevent shifting. Failure to comply may result in serious injury or death to personnel.</trim.para>
+					</warning>
+					<warning>
+						<icon-set boardno="Electrical_Symbols"/>
+						<icon-set boardno="Slick_Floor"/>
+						<trim.para>Remove all jewelry such as rings, ID tags, bracelets, etc before performing battery maintenance. If jewelry contacts battery terminal, a direct short may result in instant heating of tools and injury or death to personnel.</trim.para>
+						<trim.para>Battery Box is not a step. Stepping on the battery box can cause it to swivel, causing injury or death to personnel.</trim.para>
+					</warning>
+					<warning>
+						<icon-set boardno="Flying_Particles_wShield"/>
+						<trim.para>Compressed air for cleaning purposes, or for clearing restrictions, should never exceed 30 psi (207 kPa). Wear protective clothing (face shield, gloves, etc.) and use caution to avoid injury or death to personnel.</trim.para>
+						<trim.para>Air at pressures up to 120 psi (827 kPa) is used in the operation of the air brake system. Always inspect brake components prior to operation. Serious injury or death can result if components fail causing unstable loads.</trim.para>
+					</warning>
+					<warning>
+						<icon-set boardno="Flying_Particles_wShield"/>
+						<trim.para>Do not overtighten or use power tools to tighten fittings with antiseizing tape. Overtightening could damage threads and cause connections to leak, leading to possible component failure during operations. Failure to comply may result in serious injury or death to personnel.</trim.para>
+					</warning> 
+				</warninfo>
+				<hazmat><?Pub Dtl?>
+				<title>EXPLANATION OF HAZARDOUS MATERIALS ICONS </title>
+				<haz-icons><symbol boardno="Biological_Symbol"/>
+					<hazdesc>
+						<title>BIOLOGICAL</title>
+							<text>Abstract symbol bug shows that a material may contain bacteria or viruses that present a danger to life or health.</text>
+					</hazdesc>
+				</haz-icons>
+				<haz-icons><symbol boardno="Chemical"/>
+					<hazdesc>
+						<title>CHEMICAL</title>
+							<text>Drops of liquid on hand shows that the material will cause burns or irritation to human skin or tissue.</text>
+					</hazdesc>
+				</haz-icons>
+				<haz-icons><symbol boardno="Cryogenic_Symbol"/>
+					<hazdesc>
+						<title>CRYOGENIC</title>
+							<text>Hand in block of ice shows that material is extremely cold and can injure human skin or tissue.</text>
+					</hazdesc>
+				</haz-icons>
+				<haz-icons><symbol boardno="Explosion"/>
+					<hazdesc>
+						<title>EXPLOSION</title>
+							<text>Rapidly expanding symbol shows that the material may explode if subjected to high temperatures, sources of ignition, or high pressure.</text>
+					</hazdesc>
+				</haz-icons>
+				<haz-icons><symbol boardno="Eye_Protection"/>
+					<hazdesc>
+						<title>EYE PROTECTION</title>
+							<text>Person with goggles shows that the material will injure the eyes.</text>
+					</hazdesc>
+				</haz-icons>
+				<haz-icons><symbol boardno="Fire"/>
+					<hazdesc>
+						<title>FIRE</title>
+							<text>Flame shows that a material may ignite and cause burns.</text>
+					</hazdesc>
+				</haz-icons>
+				<haz-icons><symbol boardno="Poison"/>
+					<hazdesc>
+						<title>POISON</title>
+							<text>Skull and crossbones shows that a material is poisonous or is a danger to life.</text>
+					</hazdesc>
+				</haz-icons>
+				<haz-icons><symbol boardno="Radiation"/>
+					<hazdesc>
+						<title>RADIATION</title>
+							<text>Three circular wedges shows that the material emits radioactive energy and can injure human tissue.</text>
+					</hazdesc>
+				</haz-icons>
+				<haz-icons><symbol boardno="Vapor"/>
+					<hazdesc>
+						<title>VAPOR</title>
+							<text>Human figure in a cloud shows that material vapors present a danger to life or health.</text>
+					</hazdesc>
+				</haz-icons>
+				<title>GENERAL HAZARDOUS MATERIALS DESCRIPTION</title>
+				<hazard>
+					<hazid>WORK SAFETY</hazid>
+					<symbol boardno="Vapor"/>
+					<para>Improper cleaning methods and use of unauthorized cleaning liquids or solvents can result in breathing harmful chemicals causing injury or death to personnel.</para>
+					<para>If personnel become light-headed while using cleaning solvent, immediately get fresh air and medical help. If solvent contacts eyes, immediately wash eyes and get medical attention. Failure to comply may result in injury or death to personnel.</para>
+				</hazard>
+				<hazard>
+					<hazid>BATTERIES</hazid>
+					<symbol boardno="Chemical"/>
+					<symbol boardno="Explosion"/>
+					<symbol boardno="Vapor"/>
+					<para>Battery acid (electrolyte) is extremely harmful. Always check electrolyte level with engine stopped. Do not smoke or use exposed flame when checking batteries; explosive gases are present and serious injury or death to personnel can occur.</para>
+					<para>Always wear face shield and rubber gloves, and do not smoke when performing maintenance on batteries. Injury will result if acid contacts skin or eyes. Wear rubber apron to prevent injuries to skin. Failure to comply may result in injury or death to personnel.</para>
+				</hazard>
+				<hazard>
+					<hazid>HAZARDOUS WASTE DISPOSAL</hazid>
+					<symbol boardno="Chemical"/>
+					<symbol boardno="Explosion"/>
+					<symbol boardno="Eye_Protection"/>
+					<symbol boardno="Poison"/>
+					<symbol boardno="Vapor"/>
+					<para>When servicing this equipment, performing maintenance, or disposing of materials such as engine coolant, transmission fluid, lubricants, battery acids or batteries, consult your Unit/Local Hazardous Waste Disposal Center or safety office for local regulatory guidance. If further information is needed, please contact the Army Environmental Hotline at 1-800-872-3845 (DSN 584-1699). Failure to comply may result in injury or death to personnel.</para>
+				</hazard>
+				<hazard>
+					<hazid>DRYCLEANING SOLVENT</hazid>
+					<symbol boardno="Chemical"/>
+					<symbol boardno="Eye_Protection"/>
+					<symbol boardno="Fire"/>
+					<symbol boardno="Poison"/>
+					<symbol boardno="Vapor"/>
+					<para>Dry cleaning solvent MIL-PRF-680 Type III is an environmentally compliant material. However, it may be irritating to the eyes and skin. The use of protective gloves and face shield is required. Use only in well ventilated areas. Keep away from open flames and other sources of ignition. Failure to comply may result in injury or death to personnel.</para>
+					<para>Dry cleaning solvent P-D-680 is toxic and flammable. Always wear protective gloves and face shield, and use only in well ventilated area. Avoid contact with skin, eyes, and clothes, and do not breathe vapors. Do not use near open flame or excessive heat. The flash point of the solvent is 100�F-138�F (38�C-59�C). If personnel become light-headed while using cleaning solvent, immediately wash eyes and seek medical attention. Failure to comply may result in serious injury or death to personnel.</para>
+				</hazard>
+				</hazmat>
+			</warnsum>
+		<loepwp>
+		<title><?Pub Dtl?>LIST OF EFFECTIVE PAGES/WORK PACKAGES</title>
+			<note><?Pub Dtl?>
+				<trim.para> Zero in the "Change No." column indicates an original page or work package.</trim.para>
+			</note>
+			<issuechg><?Pub Dtl?>
+				<trim.para>Date of issue for the original manual is:</trim.para>
+				<issued><chgno>Original Draft </chgno><chgdate julian="2457555">16 JUNE 2016</chgdate></issued>
+			</issuechg>
+			<totalnumberof><?Pub Dtl?><text>THE TOTAL NUMBER OF PAGES FOR FRONT AND REAR MATTER IS</text><totnum.frnt-rear-pages></totnum.frnt-rear-pages>
+						<text> AND THE TOTAL NUMBER OF WORK PACKAGES IS </text><totnum.wps></totnum.wps>
+						<text> CONSISTING OF THE FOLLOWING: </text>
+			</totalnumberof>
+			<col.title><?Pub Dtl?> Page / WP No. </col.title>
+			<col.title><?Pub Dtl?> ChangeNo. </col.title>
+			<chghistory modified="none"><?Pub Dtl?><pageno></pageno><chgno></chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="G00001-9-2320-451"/><wppages>4</wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="G00002-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="G00003-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="O00001-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="O00002-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="O00003-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="O00004-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="O00005-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="O00006-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="O00007-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="O00008-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="O00009-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="O00010-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="O00011-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="O00012-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="O00013-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="O00014-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="O00015-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="O00016-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="O00017-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="O00018-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="O00019-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="O00020-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="O00021-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="O00022-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="O00023-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="O00024-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="O00025-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="O00026-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="O00027-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="O00028-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="O00029-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="O00030-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="O00031-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="O00032-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="O00033-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="O00034-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="O00035-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="O00036-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="O00037-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="O00038-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="O00039-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="O00041-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="T00001-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="T00002-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="T00004-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="T00005-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="T00006-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="T00007-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="T00008-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="T00009-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="T00010-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="T00011-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="T00012-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="T00013-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="T00014-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="T00015-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="T00016-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="T00017-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="T00018-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="T00019-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="T00020-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="T00021-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="T00022-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="T00023-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="T00024-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="T00025-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="T00026-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="T00027-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="T00028-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="T00029-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="T00030-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="T00031-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="T00032-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="T00033-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="T00034-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="T00035-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="T00036-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="T00037-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="T00038-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="T00039-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="T00040-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="T00041-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="T00042-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="M00001-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="M00003-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="M00005-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="M00006-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="M00007-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="M00008-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="M00009-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="M00010-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="M00011-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="M00016-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="M00017-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="M00018-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="M00019-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="M00020-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="M00021-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="M00022-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="M00023-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="M00024-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="M00025-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="M00026-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="M00027-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="M00028-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="M00029-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="M00030-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="M00031-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="M00033-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="M00034-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="M00035-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="M00036-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="M00037-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="M00038-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="M00039-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="M00040-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="M00041-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="M00042-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="M00043-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="M00044-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="M00045-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="M00047-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="M00048-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="M00049-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="M00050-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="M00051-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="M00052-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="M00053-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="M00054-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="M00055-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="M00056-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="M00057-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="M00058-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="M00059-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="M00060-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="M00062-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="M00063-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="M00064-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="M00065-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="M00066-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="M00067-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="M00068-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="M00069-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="M00070-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="M00071-9-2320-452"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="M00072-9-2320-452"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="M00074-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="M00075-9-2320-452"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="M00077-9-2320-452"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="M00078-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="M00079-9-2320-452"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="M00080-9-2320-452"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="M00081-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="M00082-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="M00083-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="M00084-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="M00085-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="M00086-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="M00087-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="M00088-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="M00089-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="M00090-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="M00091-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="M00092-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="M00093-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="M00094-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="M00096-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="M00097-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="M00098-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="M00099-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="M00100-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="M00101-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="M00102-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="M00104-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="M00105-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="M00106-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="M00108-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="M00109-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="M00111-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="M00112-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="M00113-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="M00114-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="M00115-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="M00116-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="M00117-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="M00118-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="M00120-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="R00001-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="R00002-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="R00003-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="R00004-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="R00005-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="R00006-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="R00007-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="R00008-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="R00009-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="R00010-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="R00011-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="R00012-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="R00013-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="R00014-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="R00015-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="R00016-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="R00017-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="R00018-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="R00019-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="R00020-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="R00021-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="R00022-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="R00023-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="R00024-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="R00025-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="R00026-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="R00027-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="R00028-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="R00029-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="R00030-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="R00031-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="R00032-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="R00033-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="R00034-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="R00035-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="R00036-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="R00037-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="R00038-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="R00039-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="R00040-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="R00041-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="R00042-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="R00043-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="R00044-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="R00045-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="R00046-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="R00047-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="R00048-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="R00049-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="R00050-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="R00051-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="R00052-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="R00053-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="R00054-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="R00055-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="R00056-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="R00057-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="R00058-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="R00059-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="R00058-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="R00059-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="R00060-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="R00061-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="R00062-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="R00063-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="R00064-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="R00065-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="R00066-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="R00067-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="R00068-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="R00069-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="R00070-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="R00071-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="R00072-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="R00073-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="R00074-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="R00075-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="R00076-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="R00079-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="R00081-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="R00082-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="S00001-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="S00002-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="S00003-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="S00004-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="S00005-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="S00006-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="S00007-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+			<chghistory><?Pub Dtl?><wpno wpref="S00008-9-2320-451"/><wppages></wppages><chgno>0</chgno></chghistory>
+		</loepwp>
+		<titleblk>
+			<servnomen><?Pub Dtl?> HEADQUARTERS, DEPARTMENT OF THE ARMY </servnomen><city><?Pub Dtl?> WASHINGTON </city><state><?Pub Dtl?> D.C.</state><date julian="2457555"><?Pub Dtl?> 16 JUNE 2016 </date><prtitle><?Pub Dtl?><sysnomen>
+			<name> MODULAR CATASTROPHIC RECOVERY SYSTEM </name>
+			<modelno> MCRS </modelno>
+			<partno> #FWHM983</partno><nsn><fsc>2320</fsc>
+			<niin>01&ndash;560&ndash;4409</niin></nsn></sysnomen></prtitle>
+			<reporting><?Pub Dtl?>
+			<title> REPORTING ERRORS AND RECOMMENDING IMPROVEMENTS</title>
+			<para></para>
+			<reporting.para service="army">You can help improve this publication. If you find any errors, or if you would like to recommend any improvements to the procedures in this publication, please let us know. The preferred method is to submit your DAForm 2028 (Recommended Changes to Publications and Blank Forms) through the Internet on the TACOM Unique Logistics Support Applications (TULSA) Web site. The Internet address is https://tulsa.tacom.army.mil.access to all applications requires CAC authentication, and you must complete the Access Request form the first time you use it. The DA Form 2028 is located under the TULSA Applications on the left-hand navigation bar. Fill out the form and click on SUBMIT. Using this form on the TULSA Web site will enable us to respond more quickly to your comments and to better manage the DA Form 2028 program. You may also mail, e-mail, or fax your comments or DA Form 2028 directly to the U.S. Army TACOM Life Cycle Management Command. The postal mail address is U.S.Army TACOM Life Cycle Management Command, ATTN: AMSTA-LCL-MPP/TECHPUBS, MS 727, 6501 E. 11 Mile Road, Warren, MI 48397-5000. The e-mail address is <!-- <internet><emailaddress="tacomlcmc.daform2028@us.army.mil"/></internet> -->. The fax number is DSN 786-1856 or Commercial (586) 282-1856. A reply will be furnished to you.</reporting.para>
+				<para></para>
+			</reporting>
+			<notices><?Pub Dtl?><dist><a.statement/></dist></notices></titleblk>
+			<contents>
+				<title><?Pub Dtl?></title>
+				<col.title><?Pub Dtl?> WP Sequence No.</col.title>
+				<col.title><?Pub Dtl?> Page No.</col.title>
+				<contententry><?Pub Dtl?>
+					<title></title>
+				</contententry>
+			</contents>
+			<howtouse>
+				<title><?Pub Dtl?></title>
+				<para0><?Pub Dtl?>
+				<title>HOW TO OBTAIN TECHNICAL MANUALS</title>
+					<para>When a new system is introduced to the Army inventory, it is the responsibility of the receiving units to notify and inform the Unit Publications Clerk that a Technical Manual is available for the new system. Throughout the life cycle of the new system, the Publications Proponent will also provide updates and changes to the Technical Manual.</para>
+					<para>To receive new Technical Manuals or change packages to fielded Technical Manuals, provide the Unit Publications Clerk the full Technical Manual number, title, date of publication, and number of copies required. The Unit Publications Clerk will justify the request through the Unit Publications Officer. When the request is approved, DA Form 12-R is used to order the series of Technical Manuals from the Army Publishing Directorate (APD). Obtain the form and request a publications account from the APD Web site at <!-- <internet><homepageuri="http://www.apd.army.mil"/></internet> -->. Once on the Website, click on the "Orders/Subscriptions/Reports" tab. From the drop-down menu, select "Establish an Account," then select "Tutorial" and follow the instructions in the tutorial presentation.</para>
+					<para>Complete information for obtaining Army publications can be found in <extref docno="DA PAM 25-33"/></para>
+				</para0>
+				<para0><?Pub Dtl?>
+				<title>HOW TO USE THIS MANUAL</title>
+					<para>In this manual, primary chapters appear in uppercase/capital letters; work packages are presented in numeric sequence, e.g., 0001, 0002; paragraphs within a work package are not numbered and are presented in a titled format. For a first level paragraph, titles are in all upper case/capital letters, e.g., FRONT MATTER. Subordinate paragraph titles will have the first letter of the first word of each principle word all upper case/capital letters, e.g., Manual Organization and Page Numbering System. The location of additional material that must be referenced is clearly marked. Illustrations supporting maintenance procedures/text are located underneath, or as close as possible to, their referenced paragraph.</para>
+					<subpara1>
+						<title>FRONT MATTER</title>
+							<para>Front matter consists of front cover, warning summary, title block, table of contents, and how to use this manual pages.</para>
+					</subpara1>
+					<subpara1>
+						<title>CHAPTER 1 - GENERAL INFORMATION, EQUIPMENT DESCRIPTION, AND THEORY OF OPERATION</title>
+							<para>Chapter 1 Contains introductory information on the MODULAR CATASTROPHIC RECOVERY SYSTEM (MCRS) and its associated equipment, as well as equipment description and data and theory of operation.</para>
+					</subpara1>
+					<subpara1>
+						<title>CHAPTER 2 - OPERATOR INSTRUCTIONS</title>
+							<para>Chapter 2 contains preparation for use information, operating information for usual and unusual conditions, and controls and indicators.</para>
+					</subpara1>
+					<subpara1>
+						<title>CHAPTER 3 - TROUBLESHOOTING PROCEDURES</title>
+							<para>Chapter 3 contains the troubleshooting index and individual troubleshooting procedure work packages.</para>
+					</subpara1>
+					<subpara1>
+						<title>CHAPTER 4 - PMCS MAINTENANCE INSTRUCTIONS</title>
+							<para>Chapter 4 provides crew level PMCS procedures.</para>
+					</subpara1>
+					<subpara1>
+						<title>CHAPTER 5 - CREW MAINTENANCE INSTRUCTIONS</title>
+							<para>Chapter 5 provides crew level maintenance procedures, including general and specific MCRS item maintenance.</para>
+					</subpara1>
+					<subpara1>
+						<title>CHAPTER 6- MAINTAINER MAINTENANCE INSTRUCTIONS</title>
+							<para>Chapter 6 provides maintainer level maintenance procedures, including general and specific MCRS item maintenance.</para>
+					</subpara1>
+					<subpara1>
+						<title>CHAPTER 7 - PARTS INFORMATION</title>
+							<para>Chapter 7 contains parts information, including illustrated parts breakdowns and companion parts listings. This is where you will find the Repair Parts and Special Tools List (RPSTL) with part number and NSN indexes.</para>
+					</subpara1>
+					<subpara1>
+						<title>CHAPTER 8 - SUPPORTING INFORMATION</title>
+							<para>Chapter 8 contains references, the Maintenance Allocation Chart (MAC), Components of End Items and Basic Issue Items (COEI/BII), Additional Authorization List (AAL), andthe Expendable and Durable Items List.</para>
+					</subpara1>
+					<subpara1>
+						<title>REAR MATTER</title>
+							<para>Rear matter consists of alphabetical index, DA Form2028, authentication page, and back cover.</para>
+					</subpara1>
+				</para0>
+				<para0><?Pub Dtl?>
+					<title>Manual Organization and Page Numbering System</title>
+						<para>The manual is divided into five major chapters that detail the topics mentioned above. Within each chapter are work packages covering a wide range of topics. Each work package is numbered sequentially starting at page 1. The work package has its own page numbering scheme and is independent of the page numbering used by other work packages. Each page of a work package has a page number of the form X-YY where X is the work package number (e.g. 0010 is work package 10) and YY represents the number of the page within that work package. A page number such as 0010-1/blank means that page 1 contains information but page 2 of that work package has been intentionally left blank.</para>
+					<subpara1>
+						<title>Finding Information</title>
+							<para> The table of contents permits the reader to find information in the manual quickly. The reader should start here first when looking for a specific topic. The table of contents lists the topics, figures, and tables contained within each chapter and the work package sequence number where it can be found.</para>
+					</subpara1>
+					<subpara1>
+						<title>Example:</title>
+							<para>If the reader were looking for information about the purpose of the Modular Catastrophic Recovery System (MCRS), which is a general information topic, the table of contents indicates that general information can be found in Chapter 1. Scanning down the listings for chapter 1, information on the purpose of the MCRS can be found in <xref wpid="G00001-9-2320-451"/>, General Information. (i.e. Work Package 01).</para>
+					</subpara1>
+					<subpara1>
+						<title>Alphabetical Index</title>
+							<para>An Alphabetical Index can be found at the back of the manual; specific topics are listed with the corresponding work package number.</para>
+					</subpara1>
+				</para0>
+			</howtouse>
+</paper.frnt>

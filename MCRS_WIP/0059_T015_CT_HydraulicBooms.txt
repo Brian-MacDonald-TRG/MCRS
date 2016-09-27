@@ -1,0 +1,31 @@
+<tswp chngno="0" wpno="T00015-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="crew"/>
+		<title>TROUBLESHOOTING PROCEDURES <?Pub _newline?>HYDRAULIC BOOM CYLINDERS</title>
+	</wpidinfo>
+	<initial_setup>
+		<eqpconds>
+			<eqpconds-setup-item>
+				<condition>Coupling FWTRD to Prime Mover(<xref wpid="O00003-9-2320-451"/>).</condition>
+			</eqpconds-setup-item>
+		</eqpconds>
+	</initial_setup>
+	<tsproc>
+		<faultproc>
+			<title>Crew Troubleshooting</title>
+			<symptom>Extending the FWTRD Booms will not fully suspend the vehicle being towed. </symptom>
+			<malfunc label="malfunction">The axle weight for the vehicle being suspended is over 32k lbs. (14,500 Kg)</malfunc>
+			<action>
+				<step1>
+					<para>Stop. The FWTRD lift capacity is 32k lbs. max. If the axle weight of the axle to be suspended weights over 32K and the vehicle weights 70k lbs. or less in total, stop suspend tow and load the vehicle on the TDRT for transport.</para>
+				</step1>
+			</action>
+			<malfunc label="malfunction">FWTRD pressure gauge shows less than 3000 psi at the point that the Boom extend stalls. ("Wetline" operation)</malfunc>
+			<action>
+				<step1>
+					<para>Switch to "Electric" operation to complete the lift. Upon completion of mission, notify Maintainer to perform hydraulic pressure check for the prime mover PTO system.</para>
+				</step1>
+			</action>
+		</faultproc>
+	</tsproc>
+</tswp>

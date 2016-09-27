@@ -1,0 +1,175 @@
+<opusualwp chngno="0" wpno="O00015-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="crew"/>
+		<title>OPERATING PROCEDURES <?Pub _newline?>LIFT TOW OF THE STRYKER</title>
+	</wpidinfo>
+	<initial_setup>
+		<persnreq>
+			<persnreq-setup-item>
+				<name>Wheeled Vehicle Mechanic</name>
+				<mos>91B</mos>
+				<qty>1</qty>
+			</persnreq-setup-item>
+		</persnreq>
+		<eqpconds>
+			<eqpconds-setup-item>
+				<condition>FWTRD Prepared for Towing IAW <xref wpid="O00005-9-2320-451"/></condition>
+			</eqpconds-setup-item>
+		</eqpconds>
+	</initial_setup>
+	<opertsk>
+		<prepforuse>
+			<proc>
+				<step1>
+					<para>Gain access to fifth wheel cover. Unlock and open the fifth wheel cover.</para>
+				</step1>
+				<step1>
+					<para>Remove the STRYKER towing adaptors <callout assocfig="O00015-9-2320-451-F0001" label="1"/> from their storage location in the main frame section of the FWTRD.</para>
+				</step1>
+
+					<figure id="O00015-9-2320-451-F0001">
+					<title>STRYKER Adaptor Stowage Location in Main Frame Section.</title>
+					<graphic boardno="G06232000123"></graphic>
+					</figure>
+
+				<step1>
+					<para>Set the receivers to the furthest rear wheel adjustment on the booms.</para>
+				</step1>
+				<step1>
+					<para>Install left and right side STRYKER adapters <callout assocfig="O00015-9-2320-451-F0002" label="1"/> in place of wheel stops.</para>
+				</step1>
+					<figure id="O00015-9-2320-451-F0002">
+					<title>Left side STRYKER adaptor installed in receiver.</title>
+					<graphic boardno="G06232000124"></graphic>
+					</figure>
+				<step1>
+					<para>Set to furthest rear adjustment position on the booms.</para>
+				</step1>
+				<step1>
+					<para>BOOM EXTEND or BOOM RETRACT as needed to position booms level to ground at height that allows the FWTRD to be backed under the STRYKER or for STRYKER to be winched over booms.</para>
+				</step1>
+				<step1>
+					<specpara>
+						<warning>
+							<icon-set boardno="Heavy_Parts-above"/> <icon-set boardno="Heavy_Parts-foot"/> <icon-set boardno="Heavy_Parts-hand"/> <icon-set boardno="Heavy_Parts-wall"/>
+							<trim.para>Connecting to a towed vehicle should be done by two people, the first person in the prime mover cab and the second acting as a ground guide. The person in the prime mover cab must keep the ground guide in sight at all times. All other personnel should stand completely clear of the area. A crush hazard exists. Failure to comply may result in serious injury or death to personnel.</trim.para>
+						</warning>
+						<para>Back the prime mover until the STRYKER adaptor <callout assocfig="O00015-9-2320-451-F0003" label="1"/> contacts the front suspension A-Arm and the lifting pad <callout assocfig="O00015-9-2320-451-F0003" label="2"/> of the Adaptor is under the A-Arm.</para>
+					</specpara>
+				</step1>
+
+					<figure id="O00015-9-2320-451-F0003">
+					<title> STRYKER Adaptor in Contact With, and Adaptor Lift Pad Under STRYKER A-Arm.</title>
+					<graphic boardno="G06232000125"></graphic>
+					</figure>
+
+				<step1>
+					<para>Using remote control, EXTEND LEFT and EXTEND RIGHT boom extensions until it is under the second axle A-Arm, with the end of the extensions of just short of but not under the 3rd axle of the STRYKER.</para>
+				</step1>
+				<step1>
+					<para>Using remote control, BOOM RETRACT until top of extension contacts bottom of STRYKER second axle A-frame <callout assocfig="O00015-9-2320-451-F0004" label="1"/>.</para>
+				</step1>
+				<step1>
+					<para>Gain access to driver side boom extension, double wrap the 1/2" X 6' hook-up chain with one hook <callout assocfig="O00015-9-2320-451-F0004" label="2"/> around the rear mount of the second axle�s suspension A-frame and FWTRD left boom extension. Ensure chain is routed over hinge pins of the control arm.</para>
+				</step1>
+				<step1>
+					<para>Repeat step 10 on curb side.</para>
+				</step1>
+
+					<figure id="O00015-9-2320-451-F0004">
+					<title>Rear Chaining at 2nd A-Arm - Double Wrapped.</title>
+					<graphic boardno="G06232000126"></graphic>
+					</figure>
+
+				<step1>
+					<para>Using remote control, BOOM EXTEND to tighten chains and until STRYKER adapters contact the bottom plate of the A-frame.</para>
+				</step1>
+				<step1>
+					<para>Re-check that front stops on adapters are contacting suspension A-frame.  If necessary, re-adjust vehicle until front stops on adapters contact suspension A-frame.</para>
+				</step1>
+				<step1>
+					<para>Using remote control, BOOM EXTEND until transport leg assembly is free of prime mover frame.</para>
+				</step1>
+				<step1>
+					<para>Rotate swing arm handle counter-clockwise to stow support legs <callout assocfig="O00015-9-2320-451-F0005" label="1"/>.</para>
+				</step1>
+				<step1>
+					<para>Secure handle with small bungee.</para>
+				</step1>
+
+					<figure id="O00015-9-2320-451-F0005">
+					<title>Transport Leg Swing-Arm Handle.</title>
+					<graphic boardno="G06232000127"></graphic>
+					</figure>
+
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>If the STRYKER suspension system is damaged the hull of the STRYKER may rub on the tires during lift tow. To prevent this, the FWTRD BII includes cones that can be placed over the individual suspension snubbers. These are located on the 3rd and 4th axles behind the tires of the STRYKER. <xref stepend="O00015-9-451-S00022" stepstart="O00015-9-451-S00018"/> describe placing the cones. If the suspension is intact, and the tires do not rub on the hull, skip to step 16.</trim.para>
+						</note>
+						<para>
+							Using the remote control, BOOM EXTEND to create enough room at the 3rd and 4th axles to insert cones.
+						</para>
+					</specpara>
+				</step1>
+				<step1 id="O00015-9-451-S00018">
+					<para>
+						Insert the driver and curb long profile cones at the 3rd axle snubbers.
+					</para>
+				</step1>
+				<step1>
+					<para>
+						Secure with the bungee on the cones <callout assocfig="O00015-9-2320-451-F0006" label="1"/>.
+					</para>
+				</step1>
+				<step1>
+					<para>
+						Insert the left and right short profile cones at the 4th axle snubbers.
+					</para>
+				</step1>
+				<step1>
+					<para>
+						Secure with the bungee on the cones <callout assocfig="O00015-9-2320-451-F0006" label="2"/>.
+					</para>
+				</step1>
+
+					<figure id="O00015-9-2320-451-F0006">
+					<title>STRYKER Suspension Snubbers location and Cones.</title>
+					<graphic boardno="G06232000128"></graphic>
+					</figure>
+
+				<step1 id="O00015-9-451-S00022">
+					<para>Using remote control, "EXTEND" or "RETRACT" boom as needed to level the fifth-wheel section. Have a full hole exposed on the boom center ram for inserting the lock pin <callout assocfig="O00015-9-2320-451-F0007" label="1"/>.</para>
+				</step1>
+				<step1>
+					<para>Install boom lock pin <callout assocfig="O00015-9-2320-451-F0007" label="1"/> in the corresponding hole and using the remote control "RETRACT" the boom until weight rests on center ram <callout assocfig="O00015-9-2320-451-F0007" label="2"/>.</para>
+				</step1>
+				<step1>
+					<para>Using remote control, "EXTEND" to lift STRYKER to desired ride height.</para>
+				</step1>
+				<step1>
+					<para>Install driver and curb pivot pin <callout assocfig="O00015-9-2320-451-F0007" label="3"/> in mast using the half hole rest <callout assocfig="O00015-9-2320-451-F0007" label="4"/> on the mast, and then using remote control, "RETRACT" the mast to rest weight on pins.</para>
+				</step1>
+
+					<figure id="O00015-9-2320-451-F0007">
+					<title>Boom and Mast pinned for lift tow.</title>
+					<graphic boardno="G06232000129"></graphic>
+					</figure>
+
+				<step1>
+					<para>Install left side 1/2"x 8' safety chains and load binders as a two-part line from left side large lift/tow rings on LAV/STRYKER to the left front D-rings on FWTRD booms <xref figid="O00015-9-2320-451-F0008"/>.</para>
+				</step1>
+				<figure id="O00015-9-2320-451-F0008">
+					<title>STRYKER Safety Chaining for Lift Tow.</title>
+					<graphic boardno="G06232000130"></graphic>
+					</figure>
+				<step1>
+					<para>Repeat Step 27 on the curb side.</para>
+				</step1>
+				<step1>
+					<para>Attach light cord and towing light bar IAW <xref wpid="O00030-9-2320-451"/>.</para>
+				</step1>
+			</proc>
+		</prepforuse>
+	</opertsk>
+</opusualwp>

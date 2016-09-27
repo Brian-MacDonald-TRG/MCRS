@@ -1,0 +1,43 @@
+<tswp chngno="0" wpno="T00004-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="crew"/>
+		<title>CREW TROUBLESHOOTING PROCEDURES <?Pub _newline?> KINGPIN</title>
+	</wpidinfo>
+	<initial_setup>
+		<eqpconds>
+			<eqpconds-setup-item>
+				<condition>Assembly and Preparation for Use <xref wpid="O00002-9-2320-451"/>.</condition>
+			</eqpconds-setup-item>
+		</eqpconds>
+	</initial_setup>
+	<tsproc>
+		<faultproc>
+			<title>Crew Troubleshooting</title>
+			<symptom>FWTRD Kingpin fails to lock into Fifth Wheel.</symptom>
+			<malfunc label="malfunction">The FWTRD fifth wheel bolster plate is not resting on the prime mover's fifth wheel and parallel to the prime mover chassis for coupling.</malfunc>
+			<action>
+				
+					<para>BOOM EXTEND to allow bolster plate rests on the fifth wheel.</para>
+				
+			</action>
+			<malfunc label="malfunction">Fifth Wheel locks on the prime mover are engaged.</malfunc>
+			<action>
+				
+					<para>Release the Fifth Wheel locks on the prime mover IAW prime mover TM</para>
+				
+			</action>
+			<malfunc label="malfunction">Incorrect Kingpin size installed on the FWTRD</malfunc>
+			<action>
+				
+					<para>Replace Kingpin with proper size per <xref wpid="M00008-9-2320-451"/></para>
+				
+			</action>
+			<malfunc label="malfunction">The Kingpin is damaged</malfunc>
+			<action>
+				
+					<para>Notify Maintainer</para>
+				
+			</action>
+		</faultproc>
+	</tsproc>
+</tswp>

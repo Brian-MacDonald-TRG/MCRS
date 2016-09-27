@@ -1,0 +1,151 @@
+<maintwp chngno="0" wpno="M00065-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="maintainer"/>
+		<title>MAST TO BOOM HYDRAULIC CYLINDER REPLACE</title>
+	</wpidinfo>
+	<initial_setup>
+		<tools>
+			<tools-setup-item>
+				<name>Tool Kit, General Mechanics</name>
+				<itemref>
+					<xref itemid="S00007-9-2320-451-TOOL-4" wpid="S00007-9-2320-451"/>
+				</itemref>
+			</tools-setup-item>
+			<tools-setup-item>
+				<name>A suitable lifting device for 115 lbs (53 kg)</name>
+			</tools-setup-item>
+		</tools>
+		<persnreq>
+			<persnreq-setup-item>
+				<name>Motor Transport Operator</name>
+				<mos>88M</mos>
+				<qty>2</qty>
+			</persnreq-setup-item>
+		</persnreq>
+		<eqpconds>
+			<eqpconds-setup-item>
+				<condition>Fifth Wheel Towing and Recovery Device in loading configuration IAW <xref wpid="O00025-9-2320-451"/>.</condition>
+			</eqpconds-setup-item>
+			<eqpconds-setup-item>
+				<condition>Hydraulic pressure relieved.</condition>
+			</eqpconds-setup-item>
+		</eqpconds>
+	</initial_setup>
+	<maintsk>
+		<replace>
+			<proc>
+				<step1>
+					<specpara>
+						<warning>
+							<icon-set boardno="Heavy_Parts-above"/>
+							<icon-set boardno="Slick_Floor"/>
+							<icon-set boardno="Eye_Protection"/>
+							<trim.para>Ensure hydraulic protection valve is open (breather switch in line with breather) prior to operating hydraulics. Failure to comply could cause injury or death to personnel or damage to equipment.</trim.para>
+							<trim.para>High pressure is present in the XM20 Fifth Wheel Towing and Recovery Device hydraulic system. Do not disconnect any hydraulic system component unless hydraulic system pressure has been relieved. Ensure each hydraulic control lever is moved several times through all positions. Failure to comply may result in severe injury or death to personnel.</trim.para>
+							<trim.para>Spilled hydraulic oil is very slippery. Be careful when entering or working in area. Wipe up any spilled oil immediately. Failure to comply may result in severe injury or death to personnel.</trim.para>
+							<trim.para>While operating or performing maintenance on any hydraulic systems, never place personnel or equipment in a potentially hazardous position (i.e., between moving parts or under hydraulic supported equipment). Failure to comply may result in injury or death to personnel.</trim.para>
+						</warning>
+						<note>
+							<trim.para>All hydraulic hoses must be capped and/or plugged when disconnecting to prevent contamination of hydraulic system.</trim.para>
+							<trim.para>Cut plastic ties as needed. Note location of plastic ties and hydraulic hoses prior to removal.</trim.para>
+							<trim.para>The following procedures are for removal of both mast to boom cylinders. Adjust maintenance steps as necessary to achieve required maintenance.</trim.para>
+						</note>
+						<para>Disconnect hydraulic hose from elbow <callout assocfig="M00065-9-2320-451-F0001" label="8"/>.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Disconnect two hydraulic hoses from tee fitting <callout assocfig="M00065-9-2320-451-F0001" label="3"/>.</para>
+				</step1>
+				<step1>
+					<para>Disconnect driver and curb side hydraulic hoses from elbows <callout assocfig="M00065-9-2320-451-F0001" label="5"/>.</para>
+				</step1>
+				<step1>
+					<para>Gain access center ram. Loosen two lower set screws. Remove  center ram lower retaining pin.</para>
+				</step1>
+				<step1 id="M00065-9-2320-451-S00005">
+					<para>Rotate center ram toward the rear until the unserviceable boom cylinder upper retaining pin has clearance to be removed.</para>
+				</step1>
+				<step1>
+					<para>Loosen two screws <callout assocfig="M00065-9-2320-451-F0001" label="9"/> and remove retaining pin <callout assocfig="M00065-9-2320-451-F0001" label="1"/>.</para>
+				</step1>
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>It may be necessary to release hydraulic pressure from unserviceable boom cylinder, allowing the cylinder to collapse enough to clear the upper mast frame.</trim.para>
+						</note>
+						<para>Using a suitable lifting device, lower unserviceable boom cylinder <callout assocfig="M00065-9-2320-451-F0001" label="4"/> towards booms.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Loosen two screws <callout assocfig="M00065-9-2320-451-F0001" label="8"/> and remove retaining pin <callout assocfig="M00065-9-2320-451-F0001" label="9"/>.</para>
+				</step1>
+				<step1 id="M00065-9-2320-451-S00009">
+					<para>Remove unserviceable boom cylinder assembly from towing device.</para>
+				</step1>
+				<step1>
+					<para>Repeat <xref stepend="M00065-9-2320-451-S00009" stepstart="M00065-9-2320-451-S00005"/> for remaining cylinder assembly.</para>
+				</step1>
+				<step1>
+					<para>Remove tee fitting <callout assocfig="M00065-9-2320-451-F0001" label="3"/> from straight adapter <callout assocfig="M00065-9-2320-451-F0001" label="2"/>.</para>
+				</step1>
+				<step1>
+					<para>Remove straight adapter <callout assocfig="M00065-9-2320-451-F0001" label="2"/> from cylinder assembly.</para>
+				</step1>
+				<step1>
+					<para>Remove elbow <callout assocfig="M00065-9-2320-451-F0001" label="5"/> from cylinder assembly.</para>
+				</step1>
+					<figure id="M00065-9-2320-451-F0001">
+					<title>Hydraulic Boom Cylinder Removal.</title>
+					<graphic boardno="G06232000348"></graphic>
+					</figure>
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>Use sealing compound on all threads before installing fittings.</trim.para>
+						</note>
+						<para>Obtain serviceable item.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Install elbow <callout assocfig="M00065-9-2320-451-F0002" label="5"/> on serviceable boom cylinder assembly.</para>
+				</step1>
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>Curb and driver side boom cylinder hydraulic fitting locations vary.</trim.para>
+						</note>
+						<para>Install elbow <callout assocfig="M00065-9-2320-451-F0002" label="8"/> on serviceable curb side hydraulic cylinder.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Install straight adapter <callout assocfig="M00065-9-2320-451-F0002" label="2"/> on driver side boom cylinder.</para>
+				</step1>
+				<step1>
+					<para>Install tee fitting <callout assocfig="M00065-9-2320-451-F0002" label="3"/> onto straight adapter <callout assocfig="M00065-9-2320-451-F0002" label="2"/>.</para>
+				</step1>
+				<step1>
+					<para>Using a suitable lifting device, align boom cylinder assembly with lower mounting bracket at booms. Insert with retaining pin <callout assocfig="M00065-9-2320-451-F0002" label="7"/> and tighten two screws <callout assocfig="M00065-9-2320-451-F0002" label="6"/>.</para>
+				</step1>
+				<step1>
+					<para>Align serviceable boom cylinder with mast to boom mounting bracket. Insert retaining pin <callout assocfig="M00065-9-2320-451-F0002" label="1"/> and tighten two screws <callout assocfig="M00065-9-2320-451-F0002" label="9"/>.</para>
+				</step1>
+				<step1>
+					<para>Align center ram and reinstall lower mast retaining pin. Tighten two lower retaining pin set screws.</para>
+				</step1>
+				<step1>
+					<para>Connect hydraulic hoses to elbows <callout assocfig="M00065-9-2320-451-F0002" label="5"/>.</para>
+				</step1>
+				<step1>
+					<para>Connect two hydraulic hoses to tee fitting <callout assocfig="M00065-9-2320-451-F0002" label="3"/>.</para>
+				</step1>
+				<step1>
+					<para>Connect hydraulic hose to elbow <callout assocfig="M00065-9-2320-451-F0002" label="8"/>.</para>
+				</step1>
+					<figure id="M00065-9-2320-451-F0002">
+					<title>Hydraulic Boom Cylinder Installation</title>
+					<graphic boardno="G06232000348"></graphic>
+					</figure>
+			</proc>
+		</replace>
+	</maintsk>
+</maintwp>

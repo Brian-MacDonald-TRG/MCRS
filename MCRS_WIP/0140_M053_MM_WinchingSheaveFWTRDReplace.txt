@@ -1,0 +1,74 @@
+<maintwp chngno="0" wpno="M00053-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="maintainer"/>
+			<title>MAINTAINER MAINTENANCE - WINCHING SHEAVE FWTRD - REPLACE</title>
+	</wpidinfo>
+	<initial_setup>
+		<tools>
+			<tools-setup-item>
+				<name>Tool Kit, General Mechanics</name>
+				<itemref>
+					<xref itemid="S00007-9-2320-451-TOOL-4" wpid="S00007-9-2320-451"/>
+				</itemref>
+			</tools-setup-item>
+		</tools>
+		<mtrlpart>
+			<mtrlpart-setup-item>
+				<name>GLOVES,WELDERS</name>
+				<itemref>
+					<xref itemid="S00006-9-2320-451-0008" wpid="S00006-9-2320-451"/>
+				</itemref>
+			</mtrlpart-setup-item>
+		</mtrlpart>
+		<persnreq>
+			<persnreq-setup-item>
+				<name>Motor Transport Operator</name>
+				<mos>88M</mos>
+				<qty>2</qty>
+			</persnreq-setup-item>
+		</persnreq>
+		<eqpconds>
+			<eqpconds-setup-item>
+				<condition>Coupled to prime mover (<xref wpid="O00003-9-2320-451"/>).</condition>
+			</eqpconds-setup-item>
+			<eqpconds-setup-item>
+				<condition>Fifth Wheel Towing Device in uncoupled configuration (<xref wpid="O00035-9-2320-451"/>).</condition>
+			</eqpconds-setup-item>
+		</eqpconds>
+	</initial_setup>
+	<maintsk>
+		<replace>
+			<proc>
+				<step1>
+					<specpara>
+						<warning>
+							<trim.para>The Winching Sheave Assembly weighs 85lbs. Two personnel are required when removing or installing the Assembly. Failure to comply may result in injury or death to personnel or damage to the equipment.</trim.para>
+						</warning>
+						<para>Remove eight mounting bolts and lock washers <callout assocfig="M00053-9-2320-451-F0001" label="1"/> securing the Winching Sheave Assembly to the FWTRD.</para>
+					</specpara>
+				</step1>
+
+					<figure id="M00053-9-2320-451-F0001">
+					<title>Winching Sheave Removal</title>
+					<graphic boardno="G06232000345"/>
+					</figure>
+
+				<step1>
+					<para>Using a suitable lifting device, remove the unserviceable Winching Sheave Assembly. Discard all the lock washers.</para>
+				</step1>
+				<step1>
+					<para>Obtain serviceable item.</para>
+				</step1>
+				<step1>
+					<para>Using a suitable lifting device, position the Winching Sheave atop the mast and align mounting holes.</para>
+				</step1>
+				<step1>
+					<para>Loosely install eight mounting bolts and serviceable lock-washers.</para>
+				</step1>
+				<step1>
+					<para>Torque mounting bolts to 105ft.-lbs.</para>
+				</step1>
+			</proc>
+		</replace>
+	</maintsk>
+</maintwp>

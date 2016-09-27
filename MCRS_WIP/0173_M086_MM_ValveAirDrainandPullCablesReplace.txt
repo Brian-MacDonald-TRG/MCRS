@@ -1,0 +1,84 @@
+<maintwp chngno="0" wpno="M00086-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="maintainer"/>
+		<title>MAINTAINER MAINTENANCE - AIR RESERVOIR DRAIN AND PULL CABLE REPLACE</title>
+	</wpidinfo>
+	<initial_setup>
+		<tools>
+			<tools-setup-item>
+				<name>Tool Kit, Mechanics General</name>
+				<itemref>
+					<xref itemid="S00007-9-2320-451-TOOL-4" wpid="S00007-9-2320-451"/>	
+				</itemref>
+			</tools-setup-item>
+			<tools-setup-item>
+				<name>Jack stands</name>
+			</tools-setup-item>
+		</tools>
+		<persnreq>
+			<persnreq-setup-item>
+				<name>Motor Transport Operator</name>
+				<mos>88M</mos>
+				<qty>X</qty>
+			</persnreq-setup-item>
+		</persnreq>
+		<eqpconds>
+			<eqpconds-setup-item>
+				<condition>Tilt Deck Recovery Trailer in uncoupled configuration <xref wpid="O00027-9-2320-451"/></condition>
+			</eqpconds-setup-item>
+		</eqpconds>
+	</initial_setup>
+	<maintsk>
+		<replace>
+			<proc>
+				<step1>
+					<specpara>
+					<note>
+						<trim.para>Forward and rear air reservoir drains are removed and installed IAW this work package.</trim.para>
+						<trim.para>The lift air reservoir pull cable is located at the Lift Axle Control Box.</trim.para>
+						<trim.para>The brake air reservoir pull cable is located behind the driver side lift axle.</trim.para>
+					</note>
+					<para>Pull lanyard to drain reservoir.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Remove drain valve <callout assocfig="M00086-9-2320-451-F0001" label="1">.</para>
+				</step1>
+				
+				<figure id="M00086-9-2320-451-F0001">
+					<title>Drain Valve</title>
+					<graphic boardno="G06232000444"/>
+				</figure>	
+
+				<step1>
+					<specpara>
+					<note>
+						<trim.para>Lift Air Reservoir Pull Cable and Brake Air Reservoir Pull Cable is shown.</trim.para>
+					</note>
+					<para>Remove nut and washer securing Pull Cable clamp <callout assocfig="M00086-9-2320-451-F0002" label="1">. Set aside for reinstallation.</para>
+					</specpara>
+				</step1>
+
+					<figure id="M00086-9-2320-451-F0002">
+					<title>Pull Cable Clamp</title>
+					<graphic boardno="G06232000524"/>
+				</figure>
+
+				<step1>
+					<para>Remove lanyard. Obtain serviceable item.</para>
+				</step1>
+				<step1>
+					<para>Position and secure clamp around lanyard.</para>
+				</step1>
+				<step1>
+					<para>Install and secure Air Reservoir Drain <callout assocfig="M00086-9-2320-451-F0003" label="1">.</para>
+				</step1>
+
+				<figure id="M00086-9-2320-451-F0003">
+					<title>Air Drain Reservoir Installation</title>
+					<graphic boardno="G06232000444"/>
+				</figure>
+			</proc>
+		</replace>
+	</maintsk>
+</maintwp>

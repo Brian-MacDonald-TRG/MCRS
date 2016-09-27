@@ -1,0 +1,77 @@
+<maintwp chngno="0" wpno="M00039-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="maintainer"/>
+		<title>MAINTAINER MAINTENANCE <?Pub _newline?>AIR BRAKE PROTECTION VALVE <?Pub _newline?>REPLACE</title>
+	</wpidinfo>
+	<initial_setup>
+		<tools>
+			<tools-setup-item>
+				<name>Tool Kit, General Mechanics</name>
+				<itemref><xref itemid="S00007-9-2320-451-TOOL-4" wpid="S00007-9-2320-451"/>
+				</itemref>
+			</tools-setup-item>
+		</tools>
+		<mtrlpart>
+			<mtrlpart-setup-item>
+				<name>Washer, lock (2) (MS35333-40)</name>
+			</mtrlpart-setup-item>
+	
+			<mtrlpart-setup-item>
+				<name>Dry Cleaning Solvent (item 14, WP 0085)</name>
+			</mtrlpart-setup-item>
+			<mtrlpart-setup-item>
+				<name>Rags (item 10, WP 0085)</name>
+			</mtrlpart-setup-item>
+			<mtrlpart-setup-item>
+				<name>Brush, scrub (item 2, WP 0085)</name>
+			</mtrlpart-setup-item>
+			<mtrlpart-setup-item>
+				<name>Thread sealing compound</name>
+			</mtrlpart-setup-item>
+		</mtrlpart>
+
+		<persnreq>
+			<persnreq-setup-item>
+				<name>Motor Transport Operator</name>
+				<mos>88M</mos>
+				<qty>1</qty>
+			</persnreq-setup-item>
+		</persnreq>
+		<eqpconds>
+			<eqpconds-setup-item>
+				<condition>Uncoupled and Fifth Wheel Section Supported.</condition>
+			</eqpconds-setup-item>
+
+		</eqpconds>
+	</initial_setup>
+	<maintsk>
+		<replace>
+			<proc>
+				<title>REPLACE</title>
+				<step1>
+					<para> Tag and disconnect four air lines.</para>
+				</step1>
+				<step1>
+					<para>Remove two screws (Figure 1, item 1), lockwashers <callout assocfig="M00039-9-2320-451-F0001" label="2"/>, nuts <callout assocfig="M00039-9-2320-451-F0001" label="3"/>, from mounting bracket <callout assocfig="M00039-9-2320-451-F0001" label="5"/>. Discard lockwashers.
+					</para>
+				</step1>
+				<step1>
+					<para>Remove unserviceable air brake protection valve. </para>
+				</step1>
+				<step1>
+					<para>Obtain serviceable item.</para>
+				</step1>
+				<step1>
+					<para>Position protection valve onto mounting bracket and secure with two screws, serviceable lockwashers, and nuts.</para>
+				</step1>
+				<figure id="M00039-9-2320-451-F0001">
+					<title>Air Brake Protection Valve Mounting Bracket</title>
+					<graphic boardno="G06232001044"></graphic>
+				</figure>
+				<step1>
+					<para>Reconnect air lines.</para>
+				</step1>
+			</proc>
+		</replace>
+	</maintsk>
+</maintwp>

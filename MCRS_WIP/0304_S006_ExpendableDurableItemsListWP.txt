@@ -1,0 +1,175 @@
+<explistwp chngno="0" wpno="S00006-9-2320-451"><?Pub Dtl?>
+<wpidinfo>
+<maintlvl level="crew"/>
+<title>EXPENDABLE AND DURABLE ITEMS LIST</title>
+</wpidinfo>
+<intro><para0>
+<title>Introduction</title>
+<subpara1>
+<title>Scope</title>
+<para> 								This work package lists expendable
+and durable items 								that you will need
+to operate and maintain the SYSTEM NOMENCLATURE
+								(). This list is for information only
+and is not authority to requisition 								the
+listed items. These items are authorized to
+you by   						 								<extref
+docno="CTA 50-970"
+posttext=", Expendable Items (Except Medical, Class V, Repair Parts, and Heraldic Items)"
+/> 								.  					 							</para>
+</subpara1><subpara1>
+<title>Explanations of Columns in the Expendable/Durable
+Items List </title>
+<para> Column (1) ITEM NUMBER. This number
+is assigned to the entry 								in the list
+and is referenced in the narrative instructions
+to identify 								the item (e.g., Use Abrasive
+Cloth (WP 0055, Item 6).  							</para>
+<para> 								Column (2) LEVEL. This column
+includes the lowest level 								of maintenance
+that requires the listed item:  						 								<randlist>
+<item>C - Operator or Crew</item>
+<item>F - Field Maintenance</item>
+<item>H - Below Depot Maintenance</item>
+<item>D - Depot Maintenance</item>
+</randlist> 							</para>
+<para> Column (3) NATIONAL STOCK NUMBER (NSN).
+This is the National 								stock number
+assigned to the item; use it to request or
+requisition 								the item.  							</para>
+<para> Column (4) Item Name, Description,
+Part Number/(CAGEC). This 								column provides
+the other information you need to identify
+the item. 								The last line below the
+description is the part number and the Commercial
+								and Government Entity Code (CAGEC)
+(in parentheses)  							</para>
+<para> Column (5) U/I. Unit of Issue (U/I)
+code shows the physical 								measurement
+or count of an item, such as gallon, dozen,
+gross, etc.  							</para>
+</subpara1></para0></intro><explist>
+<title>Expendable and Durable Items List</title>
+<expdur-category>
+<title> Expendable and Durable Items List</title>
+<expdur-entry id="S00006-9-2320-451-0001">
+<itemno>1</itemno><maintenance lvl="f"/><nsn>
+<fsc>8040</fsc><niin>00-833-9563</niin></nsn>
+<name>ADHESIVE</name><desc></desc><partno
+>MIL-A-46106</partno><cageno>81349</cageno><ui
+>KT</ui></expdur-entry>
+<expdur-entry id="S00006-9-2320-451-0002">
+<itemno>2</itemno><maintenance lvl="f"/><nsn>
+<fsc>7920</fsc><niin>00-900-3577</niin></nsn>
+<name>BRUSH (WIRE)</name><desc></desc><partno
+>3577</partno><cageno>17987</cageno><ui>EA</ui>
+</expdur-entry>
+<expdur-entry id="S00006-9-2320-451-0003">
+<itemno>3</itemno><maintenance lvl="f"/><nsn>
+<fsc>7920</fsc><niin>00-061-0038</niin></nsn>
+<name>BRUSH,SCRUB</name><desc></desc><partno
+>7920-00-061-0038</partno><cageno>83421</cageno>
+<ui>EA</ui></expdur-entry>
+<expdur-entry id="S00006-9-2320-451-0004">
+<itemno>4</itemno><maintenance lvl="f"/><nsn>
+<fsc>6850</fsc><niin>01-474-2320</niin></nsn>
+<name>CLEANING COMPOUND,SOLVENT</name><desc
+></desc><partno>MIL-PRF-680</partno><cageno
+>81349</cageno><ui>CO</ui></expdur-entry>
+<expdur-entry id="S00006-9-2320-451-0005">
+<itemno>5</itemno><maintenance lvl="f"/><nsn>
+<fsc>8030</fsc><niin>01-418-9006</niin></nsn>
+<name>CORROSION PREVENTIVE COMPOUND</name><desc
+></desc><partno>490026</partno><cageno>09137</cageno>
+<ui>BX</ui></expdur-entry>
+<expdur-entry id="S00006-9-2320-451-0006">
+<itemno>6</itemno><maintenance lvl="f"/><nsn>
+<fsc>7930</fsc><niin>00-282-9699</niin></nsn>
+<name>DETERGENT,UTILITY</name><desc></desc>
+<partno>7930-00-282-9699</partno><cageno>83421</cageno>
+<ui>BX</ui></expdur-entry>
+<expdur-entry id="S00006-9-2320-451-0007">
+<itemno>7</itemno><maintenance lvl="f"/><nsn>
+<fsc>3439</fsc><niin>00-255-9935</niin></nsn>
+<name>FLUX,SOLDERING</name><desc></desc><partno
+>A-A-51145 TY 1 FORM A</partno><cageno>58536</cageno>
+<ui>LB</ui></expdur-entry>
+<expdur-entry id="S00006-9-2320-451-0008">
+<itemno>8</itemno><maintenance lvl="f"/><nsn>
+<fsc>8415</fsc><niin>00-268-7859</niin></nsn>
+<name>GLOVES,WELDERS</name><desc></desc><partno
+>A-A-50022</partno><cageno>58536</cageno><ui
+>PR</ui></expdur-entry>
+<expdur-entry id="S00006-9-2320-451-0009">
+<itemno>9</itemno><maintenance lvl="f"/><nsn>
+<fsc>9150</fsc><niin>01-197-7688</niin></nsn>
+<name>GREASE,AUTOMOTIVE AND ARTILLERY</name>
+<desc></desc><partno>M-10924-A</partno><cageno
+>81349</cageno><ui>TU</ui></expdur-entry>
+<expdur-entry id="S00006-9-2320-451-0010">
+<itemno>10</itemno><maintenance lvl="f"/><nsn>
+<fsc>9150</fsc><niin>00-252-6383</niin></nsn>
+<name>HYDRAULIC FLUID,PETROLEUM BASE</name>
+<desc></desc><partno>ROYCO 756</partno><cageno
+>07950</cageno><ui>QT</ui></expdur-entry>
+<expdur-entry id="S00006-9-2320-451-0011">
+<itemno>11</itemno><maintenance lvl="f"/><nsn>
+<fsc>5970</fsc><niin>00-815-1295</niin></nsn>
+<name>INSULATION SLEEVING,ELECTRICAL</name>
+<desc></desc><partno>PP1643-07</partno><cageno
+>63590</cageno><ui>FT</ui></expdur-entry>
+<expdur-entry id="S00006-9-2320-451-0012">
+<itemno>12</itemno><maintenance lvl="f"/><nsn>
+<fsc>9150</fsc><niin>01-260-2534</niin></nsn>
+<name>LUBRICANT, SOLID FILM </name><desc></desc>
+<partno>MIL-L-23398</partno><cageno>81349</cageno>
+<ui>CN</ui></expdur-entry>
+<expdur-entry id="S00006-9-2320-451-0013">
+<itemno>13</itemno><maintenance lvl="f"/><nsn>
+<fsc>9150</fsc><niin>01-518-9477</niin></nsn>
+<name>LUBRICATING OIL,ENGINE</name><desc></desc>
+<partno>MIL-PRF-2104</partno><cageno>81349</cageno>
+<ui>QT</ui></expdur-entry>
+<expdur-entry id="S00006-9-2320-451-0014">
+<itemno>14</itemno><maintenance lvl="f"/><nsn>
+<fsc>7920</fsc><niin>00-205-3570</niin></nsn>
+<name>RAG, WIPING</name><desc></desc><partno
+>7920-00-205-3570</partno><cageno>80244</cageno>
+<ui>BE</ui></expdur-entry>
+<expdur-entry id="S00006-9-2320-451-0015">
+<itemno>15</itemno><maintenance lvl="f"/><nsn>
+<fsc>8030</fsc><niin>01-054-0740</niin></nsn>
+<name>SEALING COMPOUND</name><desc></desc>
+<partno>59231</partno><cageno>05972</cageno><ui
+>BX</ui></expdur-entry>
+<expdur-entry id="S00006-9-2320-451-0016">
+<itemno>16</itemno><maintenance lvl="f"/><nsn>
+<fsc>3439</fsc><niin>00-265-7102</niin></nsn>
+<name>SOLDER,LEAD ALLOY</name><desc></desc>
+<partno>SN10WRP2 0.063 1LB</partno><cageno
+>81346</cageno><ui>SL</ui></expdur-entry>
+<expdur-entry id="S00006-9-2320-451-0017">
+<itemno>17</itemno><maintenance lvl="f"/><nsn>
+<fsc>5975</fsc><niin>01-379-4997</niin></nsn>
+<name>STRAP,TIEDOWN,ELECTRICAL COMPONENT</name>
+<desc></desc><partno>PLT3S-C0</partno><cageno
+>06383</cageno><ui>EA</ui></expdur-entry>
+<expdur-entry id="S00006-9-2320-451-0018">
+<itemno>18</itemno><maintenance lvl="f"/><nsn>
+<fsc>9905</fsc><niin>00-537-8954</niin></nsn>
+<name>TAG,MARKER</name><desc></desc><partno
+>9905-00-537-8954</partno><cageno>64067</cageno>
+<ui>BD</ui></expdur-entry>
+<expdur-entry id="S00006-9-2320-451-0019">
+<itemno>19</itemno><maintenance lvl="f"/><nsn>
+<fsc>8030</fsc><niin>00-889-3535</niin></nsn>
+<name>TAPE,ANTISEIZING</name><desc></desc>
+<partno>11072502</partno><cageno>18876</cageno>
+<ui>EA</ui></expdur-entry>
+<expdur-entry id="S00006-9-2320-451-0020">
+<itemno>20</itemno><maintenance lvl="f"/><nsn>
+<fsc>5640</fsc><niin>00-103-2254</niin></nsn>
+<name>TAPE,DUCT</name><desc></desc><partno
+>5640-00-103-2254</partno><cageno>5A291</cageno>
+<ui>RO</ui></expdur-entry>
+</expdur-category></explist></explistwp>

@@ -1,0 +1,147 @@
+<maintwp chngno="0" wpno="M00079-9-2320-452">
+	<wpidinfo>
+		<maintlvl level="maintainer"/>
+			<title>MAINTAINER MAINTENANCE - S-CAM SHAFT - TANDEM AXLE <?Pub _newline?>REMOVE/INSTALL/REPLACE</title>
+	</wpidinfo>
+	<initial_setup>
+	<tools>
+		<tools-setup-item>
+			<name>Tool Kit, General Mechanics</name>
+				<itemref>
+					<xref itemid="S00007-9-2320-451-TOOL-4" wpid="S00007-9-2320-451"/>
+				</itemref>
+		</tools-setup-item>
+		<tools-setup-item>
+			<name>Jack Stands</name>
+		</tools-setup-item>
+		<tools-setup-item>
+			<name>Jack</name>
+		</tools-setup-item>
+		<tools-setup-item>
+			<name>Retaining Ring Pliers</name>
+		</tools-setup-item>
+	</tools>
+	<mtrlpart>
+		<mtrlpart-setup-item>
+			<name>Grease, Silicone Insulated Electric Motor</name>
+		</mtrlpart-setup-item>
+		<mtrlpart-setup-item>
+			<name>Lock washer (4)</name>
+		</mtrlpart-setup-item>
+		<mtrlpart-setup-item>
+			<name>O-ring (2)</name>
+		</mtrlpart-setup-item>
+		<mtrlpart-setup-item>
+			<name>Retaining Ring</name>
+		</mtrlpart-setup-item>
+	</mtrlpart>
+	<persnreq>
+		<persnreq-setup-item>
+			<name>Motor Transport Operator</name>
+			<mos>88M</mos>
+			<qty>2</qty>
+		</persnreq-setup-item>
+	</persnreq>
+	<eqpconds>
+		<eqpconds-setup-item>
+			<condition>Tilt Deck Recovery Trailer in Uncoupled Configuration IAW <xref wpid="O00027-9-2320-451"/></condition>
+		</eqpconds-setup-item>
+		<eqpconds-setup-item>
+			<condition>Wheels Chocked</condition>
+		</eqpconds-setup-item>
+		<eqpconds-setup-item>
+			<condition>Axles Supported by Jack Stands</condition>
+		</eqpconds-setup-item>
+		<eqpconds-setup-item>
+			<condition>Tires Removed IAW <xref wpid="M00096-9-2320-451"/></condition>
+		</eqpconds-setup-item>
+		<eqpconds-setup-item>
+			<condition>Brake Drum Removed IAW <xref wpid="M00092-9-2320-451"/></condition>
+		</eqpconds-setup-item>
+		<eqpconds-setup-item>
+			<condition>Brake Shoes Removed IAW <xref wpid="M00031-9-2320-451"/></condition>
+		</eqpconds-setup-item>
+	</eqpconds>
+	</initial_setup>
+	<maintsk>
+		<remove>
+			<proc>
+				<step1>
+					<specpara>
+						<warning>
+							<icon-set boardno="Flying_Particles_wShield"/>
+							<icon-set boardno="Heavy_Parts-foot"/>
+							<icon-set boardno="Heavy_Parts-hand"/>
+							<icon-set boardno="Heavy_Parts-wall"/>
+							<icon-set boardno="Sharp_Object-in_hand"/>
+							<trim.para>All air brake chambers must be caged before you work on the air brake system. Failure to comply may result in personnel death or injury, or equipment damage. Seek medical attention in event of injury.</trim.para>
+							<trim.para>Before performing any work on the air brake system, chock front and rear wheels to prevent semitrailer movement. Failure to comply may result in personnel death or injury. Seek medical attention in event of injury.</trim.para>
+							<trim.para>The frame and axle must be firmly supported on a hard, level surface. Use ground boards if necessary. Direct all personnel to stay clear of semitrailer when supported in air. Failure to comply may result in personnel death or injury, or equipment damage. Seek medical attention in event of injury.</trim.para>
+							<trim.para>Clean and check all S-camshaft brake components for wear and damage. Replace worn or damaged parts. At triennial service, replace all O-rings, bushings, retainers, snap rings, lock washers, and brackets on each axle end. Failure to comply may result in personnel injury or equipment damage. Seek medical attention in event of injury.</trim.para>
+						</warning>
+						<note>
+							<trim.para>There are four brake S-camshafts (two left and two right), and they are removed and installed the same way. "Right" and "left" does not mean left and/or right side. Left or right S-camshaft is specific to S-camshaft rotation in operation. These procedures cover one brake S-camshaft.</trim.para>
+							<trim.para>S-camshafts and related parts are to be lubricated in accordance with Lubrication Order WP <xref wpid="M00118-9-2320-451"/>.</trim.para>
+						</note>
+						<para>Remove snap ring <callout assocfig="M00079-9-2320-452-F0001" label="7"/> and retaining ring <callout assocfig="M00079-9-2320-452-F0001" label="8"/> from S-camshaft <callout assocfig="M00079-9-2320-452-F0001" label="1"/>. Discard retaining ring <callout assocfig="M00079-9-2320-452-F0001" label="8"/>.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Remove S-camshaft <callout assocfig="M00079-9-2320-452-F0001" label="1"/>, washer <callout assocfig="M00079-9-2320-452-F0001" label="2"/>, two washers <callout assocfig="M00079-9-2320-452-F0001" label="3"/>, washer <callout assocfig="M00079-9-2320-452-F0001" label="6"/>, spacer <callout assocfig="M00079-9-2320-452-F0001" label="10"/>, and washer <callout assocfig="M00079-9-2320-452-F0001" label="9"/> from bushing retainer <callout assocfig="M00079-9-2320-452-F0001" label="4"/>.</para>
+				</step1>
+				<step1>
+					<para>Remove four screws <callout assocfig="M00079-9-2320-452-F0001" label="5"/> and bushing retainer <callout assocfig="M00079-9-2320-452-F0001" label="4"/>.</para>
+				</step1>
+				<step1>
+					<para>Remove four screws <callout assocfig="M00079-9-2320-452-F0001" label="11"/>, lock washers <callout assocfig="M00079-9-2320-452-F0001" label="12"/>, washers <callout assocfig="M00079-9-2320-452-F0001" label="13"/>, bushing retainer <callout assocfig="M00079-9-2320-452-F0001" label="15"/>, bushing <callout assocfig="M00079-9-2320-452-F0001" label="18"/> two O-rings <callout assocfig="M00079-9-2320-452-F0001" label="17"/>, and bushing retainer <callout assocfig="M00079-9-2320-452-F0001" label="19"/>. Discard lock washers <callout assocfig="M00079-9-2320-452-F0001" label="12"/> and O-rings <callout assocfig="M00079-9-2320-452-F0001" label="17"/>. Check for worn bushings.</para>
+				</step1>
+				<step1>
+					<para>Remove lubrication fitting <callout assocfig="M00079-9-2320-452-F0001" label="14"/> from bushing retainer <callout assocfig="M00079-9-2320-452-F0001" label="15"/>.</para>
+				</step1>
+		
+					<figure id="M00079-9-2320-452-F0001">
+					<title>S-Cam Removal</title>
+					<graphic boardno="G06232000424"></graphic>
+					</figure>
+
+			</proc>
+		</remove>
+	</maintsk>
+	<maintsk>
+		<install>
+			<proc>
+				<step1>
+					<para>Install lubrication fitting <callout assocfig="M00079-9-2320-452-F0002" label="14"/> on bushing retainer <callout assocfig="M00079-9-2320-452-F0002" label="15"/>.</para>
+				</step1>
+				<step1>
+					<para>Install bushing retainer <callout assocfig="M00079-9-2320-452-F0002" label="19"/>, bushing <callout assocfig="M00079-9-2320-452-F0002" label="18"/>, two new O-rings <callout assocfig="M00079-9-2320-452-F0002" label="17"/>, and bushing retainer <callout assocfig="M00079-9-2320-452-F0002" label="15"/> onto S-camshaft bushing mounting bracket <callout assocfig="M00079-9-2320-452-F0002" label="16"/> with four new lock washers <callout assocfig="M00079-9-2320-452-F0002" label="12"/>, washers <callout assocfig="M00079-9-2320-452-F0002" label="13"/>, and screws <callout assocfig="M00079-9-2320-452-F0002" label="11"/>.</para>
+				</step1>
+				<step1>
+					<para>Install bushing retainer <callout assocfig="M00079-9-2320-452-F0002" label="4"/> and four screws <callout assocfig="M00079-9-2320-452-F0002" label="5"/>.</para>
+				</step1>
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>Use a drain pan to capture any draining or leaking fluid. Refer to local procedures and plans for preventing and responding to fluid spills or leaks. Comply with local regulations when disposing of cleanup material and leaked and spilled fluids.</trim.para>
+							<trim.para>Refer to local procedures and plans for preventing and responding to fluid spills or leaks. Comply with local regulations when disposing of cleanup material and leaked and spilled fluids.</trim.para> 
+							<trim.para>Immediately clean up spilled fluid before proceeding with any task. Refer to local procedures and plans for responding to fluid spills or leaks. Comply with local regulations when disposing of cleanup material and spilled fluids.</trim.para>
+						</note>
+						<para>Lightly lubricate S-camshaft <callout assocfig="M00079-9-2320-452-F0002" label="1"/> lobes with grease. Wipe off excess grease.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Install S-camshaft <callout assocfig="M00079-9-2320-452-F0002" label="1"/> with washer <callout assocfig="M00079-9-2320-452-F0002" label="2"/>, two washers <callout assocfig="M00079-9-2320-452-F0002" label="3"/>, washer <callout assocfig="M00079-9-2320-452-F0002" label="6"/>, spacer <callout assocfig="M00079-9-2320-452-F0002" label="10"/>, and washer <callout assocfig="M00079-9-2320-452-F0002" label="9"/>.</para>
+				</step1>
+				<step1>
+					<para>Install S-camshaft <callout assocfig="M00079-9-2320-452-F0002" label="1"/>, snap ring <callout assocfig="M00079-9-2320-452-F0002" label="7"/>, and new retaining ring <callout assocfig="M00079-9-2320-452-F0002" label="8"/>.</para>
+				</step1>
+
+					<figure id="M00079-9-2320-452-F0002">
+					<title>S-Cam Installation</title>
+					<graphic boardno="G06232000425"></graphic>
+					</figure>
+
+			</proc>
+		</install>
+	</maintsk>
+</maintwp>

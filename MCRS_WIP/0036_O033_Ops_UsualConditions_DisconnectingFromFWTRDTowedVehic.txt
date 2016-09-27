@@ -1,0 +1,159 @@
+<opusualwp chngno="0" wpno="O00033-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="crew"/>
+		<title>OPERATING PROCEDURES <?Pub _newline?>DISCONNECTING FROM FWTRD TOWED VEHICLES</title>
+	</wpidinfo>
+	<initial_setup>
+		<persnreq>
+			<persnreq-setup-item>
+				<name>Wheeled Vehicle Mechanic</name>
+				<mos>91B</mos>
+				<qty>1</qty>
+			</persnreq-setup-item>
+		</persnreq>
+	</initial_setup>
+	<opertsk>
+		<oper>
+			<proc>
+				<step1>
+					<specpara>
+						<warning>
+							<icon-set boardno="Heavy_Parts-above"/>
+							<icon-set boardno="Heavy_Parts-foot"/>
+							<icon-set boardno="Heavy_Parts-hand"/>
+							<icon-set boardno="Heavy_Parts-wall"/>
+							<trim.para>All persons not involved in the loading or unloading operation must stand clear the full length of prime mover and towed load. A crush hazard exists.  Failure to comply may result in injury or death to personnel.</trim.para>
+							<trim.para>Due to the dimensions and center of gravity of some loads, Caution must be used when loading or unloading equipment to prevent shifting loads. Always use proper rigging as specified in FM 5-125 Rigging Techniques, Procedures, and Applications. Shifting loads can create a crush hazard that could cause injury or death to personnel and/or damage to equipment.</trim.para>
+							<trim.para>Visibility from the prime mover is significantly reduced when backing, whether the Fifth Wheel Towing and Recovery Device is loaded or not. If backing the FWTRD with its towed load is required, it should be done by two people, the first person in the prime mover cab and the second acting as a ground guide. The person in the prime mover cab must keep the ground guide in sight at all times. All other personnel should stand completely clear of the area. A crush hazard exists. Failure to comply may result in serious injury or death to personnel.</trim.para>
+							<trim.para>Use extremely low speeds (5mph or less) when loading or unloading vehicles. Higher speeds will exaggerate motions and create hazardous conditions, which could result in personal injury or death or damage to equipment.</trim.para>
+							<trim.para>Adding wheel chocks provides additional protection from the prime mover or towed load suddenly moving during disconnection. Failure to comply could result in a crush hazard causing injury or death to personnel.</trim.para>
+						</warning>
+						<caution>
+							<trim.para>There are two sets of glad-hands that must be connected from the prime mover through the FWTRD to the TDRT. All are operated in the same manner as described below.</trim.para>
+						</caution>
+						<para>Set parking brakes and chock wheels on towed vehicle before starting</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Turn electrical control box power switch to on position if using remote.</para>
+				</step1>
+				<step1>
+					<para>Connect hydraulic lines between prime mover and FWTRD. Engage the PTO</para>
+				</step1>
+				<step1>
+					<para>Disconnect 70 ft. cable from FWTRD and tow light assembly. Remove tow light assembly on rear of towed vehicle and store properly.</para>
+				</step1>
+				<step1>
+					<para>Disconnect air lines from fifth wheel towing and recovery device to towed vehicle.</para>
+				</step1>
+				<step1>
+					<para>Ensure towed vehicle's steering wheel is unsecured.</para>
+				</step1>
+				<step1>
+					<para>Remove and stow binders and safety chains.</para>
+				</step1>
+				<step1>
+					<para>Using the remote control, MAST EXTEND to unlock pivot pins.</para>
+				</step1>
+				<step1>
+					<para>Remove driver and curb side pivot pins <callout assocfig="O00033-9-2320-451-F0001" label="1"/>.</para>
+				</step1>
+				<step1>
+					<para>Using the remote control, MAST RETRACT until vehicle is lowered.</para>
+				</step1>
+				<step1>
+					<para>Using the remote control, BOOM EXTEND to unlock and remove hitch pin <callout assocfig="O00033-9-2320-451-F0001" label="2"/> from center ram.</para>
+				</step1>
+				<figure id="O00033-9-2320-451-F0001">
+					<title>Mast and Boom Lock Pin Locations</title>
+					<graphic boardno="G06232000216"></graphic>
+				</figure>
+				<step1>
+					<para>Using remote control, BOOM RETRACT until rubber blocks or pads inserted for lift tow are loose.</para>
+				</step1>
+				<step1>
+					<para>Remove rubber blocks <callout assocfig="O00033-9-2320-451-F0002" label="1"/> or pads from between towed vehicle U-bolts and FWTRD driver and curb side booms.</para>
+				</step1>
+				<figure id="O00033-9-2320-451-F0002">
+					<title>Rubber blocking removal</title>
+					<graphic boardno="G06232000217"></graphic>
+				</figure>
+				<step1>
+					<specpara>
+						<caution>
+							<trim.para>When loosening the rear safety chains, do not allow the boom extensions to contact underside of towed vehicle. Damage to towed vehicle may occur.</trim.para>
+						</caution>
+						<para>Using the remote control, BOOM RETRACT to loosen rear safety chains <callout assocfig="O00033-9-2320-451-F0003" label="1"/>.</para>
+					</specpara>
+				</step1>
+					<figure id="O00033-9-2320-451-F0003">
+					<title>Remove Chains</title>
+					<graphic boardno="G06232000218"></graphic>
+					</figure>
+				<step1>
+					<para>Remove and stow chains from driver and curb side boom extensions.</para>
+				</step1>
+				<step1>
+					<specpara>
+						<warning>
+							<icon-set boardno="Heavy_Parts-above"/>
+							<icon-set boardno="Heavy_Parts-foot"/>
+							<icon-set boardno="Heavy_Parts-hand"/>
+							<icon-set boardno="Heavy_Parts-wall"/>
+							<trim.para>Step 17 includes possible adjustment of the prime mover to help release tension on hitch pins. All personnel should stand clear of the area. Shifting loads creating a crush hazard can occur that may result in injury or death to personnel.</trim.para>
+						</warning>
+						<note>
+							<trim.para>The prime mover may be moved slightly forward or backward to relieve tension on hitch pin.</trim.para>
+						</note>
+						<para>Using the remote control, BOOM EXTEND to raise booms until tow bar assembly hitch pins are loose.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Remove lower hitch pins from tow bar assemblies <callout assocfig="O00033-9-2320-451-F0004" label="1"/>.</para>
+				</step1>
+					<figure id="O00033-9-2320-451-F0004">
+					<title>Transport Legs Lower Hitch Pin Removal</title>
+					<graphic boardno="G06232000219"></graphic>
+					</figure>
+				<step1>
+					<para>Using remote control or valve control levers, BOOM EXTEND until transport leg assembly can be lowered. Rotate transport leg swing arm handle <callout assocfig="O00033-9-2320-451-F0005" label="1"/> clockwise to lower and lock the legs into position.</para>
+				</step1>
+				<figure id="O00033-9-2320-451-F0005">
+					<title>Transport Leg Swing Arm Handle</title>
+					<graphic boardno="G06232001034"></graphic>
+				</figure>
+				<step1>
+					<para>Using the remote control, BOOM RETRACT to set the FWTRD on the transport legs.</para>
+				</step1>
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>Steps 21 and 22 will require the Operator to EXTEND or RETRACT the booms as needed to loosen the remaining tow bar assembly pins.</trim.para>
+						</note>
+						<para>Remove spring clip and hitch pin from upper section of tow bar <callout assocfig="O00033-9-2320-451-F0006" label="1"/> and front towing eye <callout assocfig="O00033-9-2320-451-F0006" label="2"/> of the towed vehicle.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Repeat for remaining Tow Bar.</para>
+				</step1>
+				<figure id="O00033-9-2320-451-F0006">
+					<title>Removal of Upper Tow Bar Connection Points</title>
+					<graphic boardno="G06232000221"></graphic>
+				</figure>
+				<step1>
+					<para>Using the remote control, BOOM RETRACT until the FWTRD contacts transport legs <callout assocfig="O00033-9-2320-451-F0007" label="1"/> and the booms <callout assocfig="O00033-9-2320-451-F0007" label="1"/>are slightly off the ground.</para>
+				</step1>
+				<figure id="O00033-9-2320-451-F0007">
+					<title>FWTRD Set On Transport Legs</title>
+					<graphic boardno="G06232000222"></graphic>
+				</figure>
+				<step1>
+					<para>Using remote control, fully RETRACT RIGHT and RETRACT LEFT  boom extensions to storage position and drive the prime mover away from the towed vehicle.</para>
+				</step1>
+				<step1>
+					<para>Stow the tow bar assemblies as described in <xref wpid="O00034-9-2320-451"/></para>
+				</step1>
+			</proc>
+		</oper>
+	</opertsk>
+</opusualwp>

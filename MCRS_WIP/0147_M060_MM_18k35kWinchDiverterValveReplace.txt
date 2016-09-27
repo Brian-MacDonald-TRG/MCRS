@@ -1,0 +1,148 @@
+<maintwp chngno="0" wpno="M00060-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="maintainer"/>
+			<title>18K/35K WINCH DIVERTER VALVE -REPLACE</title>
+	</wpidinfo>
+	<initial_setup>
+		<tools>
+			<tools-setup-item>
+				<name>Tool Kit, General Mechanics</name>
+				<itemref>
+					<xref itemid="S00007-9-2320-451-TOOL-4" wpid="S00007-9-2320-451"/>
+				</itemref>
+			</tools-setup-item>
+		</tools>
+		<mtrlpart>
+			<mtrlpart-setup-item>
+				<name>Drain Pan</name>
+			</mtrlpart-setup-item>
+		</mtrlpart>
+		<persnreq>
+			<persnreq-setup-item>
+				<name>Motor Transport Operator</name>
+				<mos>88M</mos>
+				<qty>2</qty>
+			</persnreq-setup-item>
+		</persnreq>
+		<eqpconds>
+			<eqpconds-setup-item>
+				<condition>Uncoupled and supported with jack stands <xref wpid="O00027-9-2320-451"/>.</condition>
+			</eqpconds-setup-item>
+		</eqpconds>
+	</initial_setup>
+	<maintsk>
+		<replace>
+			<proc>
+				<step1>
+					<para>Gain access to electric control box. Place ON/OFF switch to the OFF position.</para>
+				</step1>
+				<step1>
+					<para>Gain access to 35K winch assembly. Tag and disconnect two quick connect hydraulic lines from the 35k winch.</para>
+				</step1>
+				<step1>
+					<specpara>
+						<warning>
+							<icon-set boardno="Slick_Floor"/>
+							<trim.para>Hydraulic pressure from the prime mover can reach 3000 psi (20 684 kPa) when using wet lines. Never connect or disconnect hydraulic wet lines without ensuring that the prime mover Power Take Off (PTO) is disengaged and engine of the prime mover is off. If lines are disconnected with the PTO engaged, the system may become over-pressurized and cause lines or fittings to burst and hydraulic oil to spill creating a slip hazard. Failure to comply could result serious injury or death to personnel.</trim.para>
+						</warning>
+						<note>
+							<trim.para>Cap all fittings and connectors to prevent contamination of hydraulic oil.</trim.para>
+						</note>
+						<para>Tag and remove two each hydraulic lines from the 35k winch at the 18k/35k diverter valve <callout assocfig="M00060-9-2320-451-F0001" label="1"/> </para>
+					</specpara>
+				</step1>
+					<figure id="M00060-9-2320-451-F0001">
+					<title>35k Winch Lines Remove</title>
+					<graphic boardno="G06232000364"/>
+					</figure>
+				<step1>
+					<para>Tag and disconnect two hydraulic supply lines <callout assocfig="M00060-9-2320-451-F0002" label="1"/> from elbows on 18k/35k diverter valve.</para>
+				</step1>
+				<step1>
+					<para>Tag and disconnect two 18K winch hydraulic lines <callout assocfig="M00060-9-2320-451-F0002" label="2"/>.</para>
+				</step1>
+
+					<figure id="M00060-9-2320-451-F0002">
+					<title>Supply and 18k Hydraulic Lines Remove</title>
+					<graphic boardno="G06232000365"/>
+					</figure>
+				<step1>
+					<para>Tag and disconnect pressure releif hose <callout assocfig="M00060-9-2320-451-F0003" label="1"/> from elbow.</para>
+				</step1>
+					<figure id="M00060-9-2320-451-F0003">
+					<title>Pressure Relief Hose Remove</title>
+					<graphic boardno="G06232000366"/>
+					</figure>
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>Notate orientation of elbow fitting prior to removal.</trim.para>
+						</note>
+						<para>Remove elbow fitting. Set aside for reinstallation <callout assocfig="M00060-9-2320-451-F0004" label="1"/></para>
+					</specpara>
+				</step1>
+					<figure id="M00060-9-2320-451-F0004">
+					<title>Elbow Remove</title>
+					<graphic boardno="G06232000367"/>
+					</figure>
+				<step1>
+					<para>Remove two each mounting bolts <callout assocfig="M00060-9-2320-451-F0005" label="1"/>.</para>
+				</step1>
+					<figure id="M00060-9-2320-451-F0005">
+					<title>Mounting Bolts</title>
+					<graphic boardno="G06232000368"/>
+					</figure>
+				<step1>
+					<para>Remove unserviceable item</para>
+				</step1>
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>notate orientation of hydraulic fittings. Replace fittings if not serviceable.</trim.para>
+						</note>
+						<para>Transfer hydraulic fittings from six ports to serviceable item <callout assocfig="M00060-9-2320-451-F0006"/>.</para>
+					</specpara>
+				</step1>
+					<figure id="M00060-9-2320-451-F0006">
+					<title>Fittings to be Transferred</title>
+					<graphic boardno="G06232000369"/>
+					</figure>
+				<step1>
+					<para>Position 18k/35k diverter valve assembly onto mounting bracket.</para>
+				</step1>
+				<step1>
+					<para>Secure with 2 each bolts and serviceable washers.</para>
+				</step1>
+				<step1>
+					<para>Install elbow fitting <callout assocfig="M00060-9-2320-451-F0007" label="1"/>.</para>
+				</step1>
+				<step1>
+					<para>Attach pressure relief hose to elbow <callout assocfig="M00060-9-2320-451-F0007" label="2"/>.</para>
+				</step1>
+					<figure id="M00060-9-2320-451-F0007">
+					<title>Elbow and Pressure Relief Reinstalled</title>
+					<graphic boardno="G06232000370"/>
+					</figure>
+				<step1>
+					<para>Install 18K winch hydraulic lines <callout assocfig="M00060-9-2320-451-F0008" label="3"/> as tagged.</para>
+				</step1>
+				<step1>
+					<para>Install hydraulic supply lines <callout assocfig="M00060-9-2320-451-F0008" label="2"/> as tagged.</para>
+				</step1>
+				<step1>
+					<para>Install 35k quick connect hydraulic lines <callout assocfig="M00060-9-2320-451-F0008" label="1"/> as tagged.</para>
+				</step1>
+					<figure id="M00060-9-2320-451-F0008">
+					<title>All Lines Reconnected</title>
+					<graphic boardno="G06232000371"/>
+					</figure>
+				<step1>
+					<para>Install 35k quick connect hydraulic lines to 35k winch as tagged.</para>
+				</step1>
+				<step1>
+					<para>Check oil level IAW <xref wpid="M00003-9-2320-451"/>.</para>
+				</step1>
+			</proc>
+		</replace>
+	</maintsk>
+</maintwp>

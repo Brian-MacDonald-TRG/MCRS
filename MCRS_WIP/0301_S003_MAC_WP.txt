@@ -1,0 +1,3096 @@
+<macwp chngno="0" wpno="S00003-9-2320-451">
+	<wpidinfo>
+		<?Pub Dtl?> 
+		<maintlvl level="maintainer"/>
+		<title>MAINTENANCE ALLOCATION CHART (MAC)</title>
+	</wpidinfo>
+	<mac>
+		<?Pub Dtl?> 
+		<title> Maintenance Allocation Chart (MAC) for MODULAR CATASTROPHIC RECOVERY SYSTEM (MCRS) </title>
+		<mac-group-2lvl>
+			<groupno>00</groupno>
+			<compassemgroup-2lvl>
+				<compassem>
+					<name>MODULAR CATASTROPHIC RECOVERY SYSTEM (MCRS)</name>
+				</compassem>
+				<qualify-2lvl>
+					<maintfunc func="inspect"/>
+					<maintclass-2lvl>
+						<c >0.1</c>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+			</compassemgroup-2lvl>
+		</mac-group-2lvl>
+		<mac-group-2lvl>
+			<groupno>01</groupno>
+			<compassemgroup-2lvl>
+				<compassem>
+					<name>FIFTH WHEEL TOWING AND RECOVERY DEVICE (FWTRD)</name>
+				</compassem>
+				<qualify-2lvl>
+					<maintfunc func="inspect"/>
+					<maintclass-2lvl>
+						<c >0.1</c>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+			</compassemgroup-2lvl>
+		</mac-group-2lvl>
+		<mac-group-2lvl>
+			<groupno>0106</groupno>
+			<compassemgroup-2lvl>
+				<compassem>
+					<name>ELETRICAL SYSTEM</name>
+				</compassem>
+				<qualify-2lvl>
+					<maintfunc func="none"/>
+					<maintclass-2lvl>
+						<c> </c>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+			</compassemgroup-2lvl>
+		</mac-group-2lvl>
+		<mac-group-2lvl>
+			<groupno>010608</groupno>
+			<compassemgroup-2lvl>
+				<compassem>
+					<name>24 VOLT RECEPTACLE</name>
+				</compassem>
+				<qualify-2lvl>
+					<maintfunc func="inspect"/>
+					<maintclass-2lvl>
+						<c>0.1</c>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="test"/>
+					<maintclass-2lvl>
+						<f >0.2</f>
+					</maintclass-2lvl>
+					<terefs>
+						<teref refs="S00003-9-2320-451-TOOL3"/>
+						<teref refs="S00003-9-2320-451-TOOL4"/>
+						<teref refs="S00003-9-2320-451-TOOL5"/>
+					</terefs>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="remove"/>
+					<maintclass-2lvl>
+						<f>0.5</f>
+					</maintclass-2lvl>
+					<terefs>
+						<teref refs="S00003-9-2320-451-TOOL5"/>
+						<teref refs="S00003-9-2320-451-TOOL6"/>
+						<teref refs="S00003-9-2320-451-TOOL7"/>
+					</terefs>
+					<remarkrefs>
+						<remarkref refs="S00003-9-2320-451-REM1"/>
+					</remarkrefs>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="install"/>
+					<maintclass-2lvl>
+						<f>0.5</f>
+					</maintclass-2lvl>
+					<terefs>
+						<teref refs="S00003-9-2320-451-TOOL5"/>
+						<teref refs="S00003-9-2320-451-TOOL6"/>
+						<teref refs="S00003-9-2320-451-TOOL7"/>
+					</terefs>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="replace"/>
+					<maintclass-2lvl>
+						<f>1</f>
+					</maintclass-2lvl>
+					<terefs>
+						<teref refs="S00003-9-2320-451-TOOL5"/>
+						<teref refs="S00003-9-2320-451-TOOL6"/>
+						<teref refs="S00003-9-2320-451-TOOL7"/>
+					</terefs>
+				</qualify-2lvl>
+			</compassemgroup-2lvl>
+			<compassemgroup-2lvl>
+				<compassem>
+					<name>12 VOLT RECEPTACLE</name>
+				</compassem>
+				<qualify-2lvl>
+					<maintfunc func="inspect"/>
+					<maintclass-2lvl>
+						<c >0.1</c>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="test"/>
+					<maintclass-2lvl>
+						<f>0.2</f>
+					</maintclass-2lvl>
+					<terefs>
+						<teref refs="S00003-9-2320-451-TOOL3"/>
+						<teref refs="S00003-9-2320-451-TOOL4"/>
+						<teref refs="S00003-9-2320-451-TOOL5"/>
+					</terefs>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="remove"/>
+					<maintclass-2lvl>
+						<f>0.5</f>
+					</maintclass-2lvl>
+					<terefs>
+						<teref refs="S00003-9-2320-451-TOOL5"/>
+						<teref refs="S00003-9-2320-451-TOOL6"/>
+						<teref refs="S00003-9-2320-451-TOOL7"/>
+					</terefs>
+					<remarkrefs>
+						<remarkref refs="S00003-9-2320-451-REM1"/>
+					</remarkrefs>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="install"/>
+					<maintclass-2lvl>
+						<f>0.5</f>
+					</maintclass-2lvl>
+					<terefs>
+						<teref refs="S00003-9-2320-451-TOOL5"/>
+						<teref refs="S00003-9-2320-451-TOOL6"/>
+						<teref refs="S00003-9-2320-451-TOOL7"/>
+					</terefs>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="replace"/>
+					<maintclass-2lvl>
+						<f>1</f>
+					</maintclass-2lvl>
+					<terefs>
+						<teref refs="S00003-9-2320-451-TOOL5"/>
+						<teref refs="S00003-9-2320-451-TOOL6"/>
+						<teref refs="S00003-9-2320-451-TOOL7"/>
+					</terefs>
+				</qualify-2lvl>
+			</compassemgroup-2lvl>
+			<compassemgroup-2lvl>
+				<compassem>
+					<name>12-24 VOLT JUNCTION BOX</name>
+				</compassem>
+				<qualify-2lvl>
+					<maintfunc func="inspect"/>
+					<maintclass-2lvl>
+						<c>0.1</c>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="test"/>
+					<maintclass-2lvl>
+						<f>0.5</f>
+					</maintclass-2lvl>
+					<terefs>
+						<teref refs="S00003-9-2320-451-TOOL3"/>
+						<teref refs="S00003-9-2320-451-TOOL4"/>
+						<teref refs="S00003-9-2320-451-TOOL5"/>
+					</terefs>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="replace"/>
+					<maintclass-2lvl>
+						<f>1</f>
+					</maintclass-2lvl>
+					<terefs>
+						<teref refs="S00003-9-2320-451-TOOL5"/>
+						<teref refs="S00003-9-2320-451-TOOL6"/>
+						<teref refs="S00003-9-2320-451-TOOL7"/>
+					</terefs>
+				</qualify-2lvl>
+			</compassemgroup-2lvl>
+			<compassemgroup-2lvl>
+				<compassem>
+					<name>ELECTRIC CONTROL BOX</name>
+				</compassem>
+				<qualify-2lvl>
+					<maintfunc func="replace"/>
+					<maintclass-2lvl>
+						<c >1</c>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+			</compassemgroup-2lvl>
+			<compassemgroup-2lvl>
+				<compassem>
+					<name>SOLENOID ASSEMBLY</name>
+				</compassem>
+				<qualify-2lvl>
+					<maintfunc func="inspect"/>
+					<maintclass-2lvl>
+						<c>0.1</c>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="test"/>
+					<maintclass-2lvl>
+						<f >0.5</f>
+					</maintclass-2lvl>
+					<terefs>
+						<teref refs="S00003-9-2320-451-TOOL3"/>
+						<teref refs="S00003-9-2320-451-TOOL4"/>
+						<teref refs="S00003-9-2320-451-TOOL5"/>
+					</terefs>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="replace"/>
+					<maintclass-2lvl>
+						<f>1.0</f>
+					</maintclass-2lvl>
+					<terefs>
+						<teref refs="S00003-9-2320-451-TOOL5"/>
+						<teref refs="S00003-9-2320-451-TOOL6"/>
+						<teref refs="S00003-9-2320-451-TOOL7"/>
+					</terefs>
+				</qualify-2lvl>
+			</compassemgroup-2lvl>
+			<compassemgroup-2lvl>
+				<compassem>
+					<name>ELECTRIC CONTROL BYPASS VALVE</name>
+				</compassem>
+				<qualify-2lvl>
+					<maintfunc func="test"/>
+					<maintclass-2lvl>
+						<c>0.1</c>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="replace"/>
+					<maintclass-2lvl>
+						<f>1.0</f>
+					</maintclass-2lvl>
+					<terefs>
+						<teref refs="S00003-9-2320-451-TOOL5"/>
+					</terefs>
+				</qualify-2lvl>
+			</compassemgroup-2lvl>
+		</mac-group-2lvl>
+		<mac-group-2lvl>
+			<groupno>010609</groupno>
+			<compassemgroup-2lvl>
+				<compassem>
+					<name>12/24 VOLT TOW LIGHT</name>
+				</compassem>
+				<qualify-2lvl>
+					<maintfunc func="replace"/>
+					<maintclass-2lvl>
+						<c>0.2</c>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="repair"/>
+					<maintclass-2lvl>
+						<f >0.3</f>
+					</maintclass-2lvl>
+					<terefs>
+						<teref refs="S00003-9-2320-451-TOOL5"/>
+					</terefs>
+				</qualify-2lvl>
+			</compassemgroup-2lvl>
+			<compassemgroup-2lvl>
+				<compassem>
+					<name>FIXED WORK LIGHT</name>
+				</compassem>
+				<qualify-2lvl>
+					<maintfunc func="replace"/>
+					<maintclass-2lvl>
+						<f >0.5</f>
+					</maintclass-2lvl>
+					<terefs>
+						<teref refs="S00003-9-2320-451-TOOL5"/>
+					</terefs>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="repair"/>
+					<maintclass-2lvl>
+						<f>0.5</f>
+					</maintclass-2lvl>
+					<terefs>
+						<teref refs="S00003-9-2320-451-TOOL5"/>
+					</terefs>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="test"/>
+					<maintclass-2lvl>
+						<f>0.2</f>
+					</maintclass-2lvl>
+					<terefs>
+						<teref refs="S00003-9-2320-451-TOOL5"/>
+					</terefs>
+				</qualify-2lvl>
+			</compassemgroup-2lvl>
+			<compassemgroup-2lvl>
+				<compassem>
+					<name>STROBE LIGHT</name>
+				</compassem>
+				<qualify-2lvl>
+					<maintfunc func="replace"/>
+					<maintclass-2lvl>
+						<f >0.5</f>
+					</maintclass-2lvl>
+					<terefs>
+						<teref refs="S00003-9-2320-451-TOOL5"/>
+					</terefs>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="repair"/>
+					<maintclass-2lvl>
+						<f>0.1</f>
+					</maintclass-2lvl>
+					<terefs>
+						<teref refs="S00003-9-2320-451-TOOL5"/>
+					</terefs>
+				</qualify-2lvl>
+			</compassemgroup-2lvl>
+		</mac-group-2lvl>
+		<mac-group-2lvl>
+			<groupno>010612</groupno>
+			<compassemgroup-2lvl>
+				<compassem>
+					<name>BATTERY BOX</name>
+				</compassem>
+				<qualify-2lvl>
+					<maintfunc func="replace"/>
+					<maintclass-2lvl>
+						<f>1</f>
+					</maintclass-2lvl>
+					<terefs>
+						<teref refs="S00003-9-2320-451-TOOL5"/>
+					</terefs>
+				</qualify-2lvl>
+			</compassemgroup-2lvl>
+			<compassemgroup-2lvl>
+				<compassem>
+					<name>BATTERY</name>
+				</compassem>
+				<qualify-2lvl>
+					<maintfunc func="inspect"/>
+					<maintclass-2lvl>
+						<f>0.2</f>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="test"/>
+					<maintclass-2lvl>
+						<c >0.1</c>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="replace"/>
+					<maintclass-2lvl>
+						<f>0.5</f>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+			</compassemgroup-2lvl>
+		</mac-group-2lvl>
+		<mac-group-2lvl>
+			<groupno>010613</groupno>
+			<compassemgroup-2lvl>
+				<compassem>
+					<name>WIRING HARNESS/ CABLE</name>
+				</compassem>
+				<qualify-2lvl>
+					<maintfunc func="replace"/>
+					<maintclass-2lvl>
+						<f>1</f>
+					</maintclass-2lvl>
+					<terefs>
+						<teref refs="S00003-9-2320-451-TOOL5"/>
+					</terefs>
+				</qualify-2lvl>
+			</compassemgroup-2lvl>
+		</mac-group-2lvl>
+		<mac-group-2lvl>
+			<groupno>0112</groupno>
+			<compassemgroup-2lvl>
+				<compassem>
+					<name>BRAKES</name>
+				</compassem>
+				<qualify-2lvl>
+					<maintfunc func="none"/>
+					<maintclass-2lvl>
+						<c> </c>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+			</compassemgroup-2lvl>
+		</mac-group-2lvl>
+		<mac-group-2lvl>
+			<groupno>011208</groupno>
+			<compassemgroup-2lvl>
+				<compassem>
+					<name>GLADHANDS</name>
+				</compassem>
+				<qualify-2lvl>
+					<maintfunc func="inspect"/>
+					<maintclass-2lvl>
+						<c>0.2</c>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="service"/>
+					<maintclass-2lvl>
+						<c>0.2</c>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="replace"/>
+					<maintclass-2lvl>
+						<f >1</f>
+					</maintclass-2lvl>
+					<terefs>
+						<teref refs="S00003-9-2320-451-TOOL3"/>
+						<teref refs="S00003-9-2320-451-TOOL4"/>
+						<teref refs="S00003-9-2320-451-TOOL5"/>
+					</terefs>
+				</qualify-2lvl>
+			</compassemgroup-2lvl>
+		</mac-group-2lvl>
+		<mac-group-2lvl>
+			<groupno>010202</groupno>
+			<compassemgroup-2lvl>
+				<compassem>
+					<name>AIR BRAKE PROTECTION VALVE</name>
+				</compassem>
+				<qualify-2lvl>
+					<maintfunc func="replace"/>
+					<maintclass-2lvl>
+						<f>1.0</f>
+					</maintclass-2lvl>
+					<terefs>
+						<teref refs="S00003-9-2320-451-TOOL3"/>
+						<teref refs="S00003-9-2320-451-TOOL4"/>
+						<teref refs="S00003-9-2320-451-TOOL5"/>
+					</terefs>
+				</qualify-2lvl>
+			</compassemgroup-2lvl>
+			<compassemgroup-2lvl>
+				<compassem>
+					<name>AIR BRAKE FITTINGS</name>
+				</compassem>
+				<qualify-2lvl>
+					<maintfunc func="replace"/>
+					<maintclass-2lvl>
+						<f >1</f>
+					</maintclass-2lvl>
+					<terefs>
+						<teref refs="S00003-9-2320-451-TOOL3"/>
+						<teref refs="S00003-9-2320-451-TOOL4"/>
+						<teref refs="S00003-9-2320-451-TOOL5"/>
+					</terefs>
+				</qualify-2lvl>
+			</compassemgroup-2lvl>
+		</mac-group-2lvl>
+		<mac-group-2lvl>
+			<groupno>0115</groupno>
+			<compassemgroup-2lvl>
+				<compassem>
+					<name>FRAME, TOWING ATTACHMENTS, DRAWBAR, AND ARTICULATION</name>
+				</compassem>
+				<qualify-2lvl>
+					<maintfunc func="none"/>
+					<maintclass-2lvl>
+						<c> </c>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+			</compassemgroup-2lvl>
+		</mac-group-2lvl>
+		<mac-group-2lvl>
+			<groupno>011503</groupno>
+			<compassemgroup-2lvl>
+				<compassem>
+					<name>TOWBAR ASSEMBLY</name>
+				</compassem>
+				<qualify-2lvl>
+					<maintfunc func="inspect"/>
+					<maintclass-2lvl>
+						<c>0.1</c>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="lube"/>
+					<maintclass-2lvl>
+						<c >0.2</c>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="replace"/>
+					<maintclass-2lvl>
+						<c>0.8</c>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+			</compassemgroup-2lvl>
+			<compassemgroup-2lvl>
+				<compassem>
+					<name>KINGPIN</name>
+				</compassem>
+				<qualify-2lvl>
+					<maintfunc func="inspect"/>
+					<maintclass-2lvl>
+						<c>0.2</c>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="lube"/>
+					<maintclass-2lvl>
+						<c >0.2</c>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="replace"/>
+					<maintclass-2lvl>
+						<c>0.8</c>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+			</compassemgroup-2lvl>
+			<compassemgroup-2lvl>
+				<compassem>
+					<name>RECIEVER AND WHEEL STOP ASSEMBLY</name>
+				</compassem>
+				<qualify-2lvl>
+					<maintfunc func="inspect"/>
+					<maintclass-2lvl>
+						<c>0.2</c>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="lube"/>
+					<maintclass-2lvl>
+						<c>0.2</c>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="replace"/>
+					<maintclass-2lvl>
+						<c >0.5</c>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+			</compassemgroup-2lvl>
+			<compassemgroup-2lvl>
+				<compassem>
+					<name>STRYKER ADAPTERS</name>
+				</compassem>
+				<qualify-2lvl>
+					<maintfunc func="inspect"/>
+					<maintclass-2lvl>
+						<c>0.2</c>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="replace"/>
+					<maintclass-2lvl>
+						<c >0.5</c>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+			</compassemgroup-2lvl>
+			<compassemgroup-2lvl>
+				<compassem>
+					<name>BOOM CAPS</name>
+				</compassem>
+				<qualify-2lvl>
+					<maintfunc func="inspect"/>
+					<maintclass-2lvl>
+						<c>0.2</c>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="replace"/>
+					<maintclass-2lvl>
+						<c>0.5</c>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+			</compassemgroup-2lvl>
+		</mac-group-2lvl>
+		<mac-group-2lvl>
+			<groupno>0118</groupno>
+			<compassemgroup-2lvl>
+				<compassem>
+					<name>BODY, CAB, HOOD, AND HULL</name>
+				</compassem>
+				<qualify-2lvl>
+					<maintfunc func="none"/>
+					<maintclass-2lvl>
+						<c> </c>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+			</compassemgroup-2lvl>
+		</mac-group-2lvl>
+		<mac-group-2lvl>
+			<groupno>011802</groupno>
+			<compassemgroup-2lvl>
+				<compassem>
+					<name>MUD FLAPS</name>
+				</compassem>
+				<qualify-2lvl>
+					<maintfunc func="inspect"/>
+					<maintclass-2lvl>
+						<c>0.1</c>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="replace"/>
+					<maintclass-2lvl>
+						<f>1</f>
+					</maintclass-2lvl>
+					<terefs>
+						<teref refs="S00003-9-2320-451-TOOL3"/>
+						<teref refs="S00003-9-2320-451-TOOL4"/>
+						<teref refs="S00003-9-2320-451-TOOL5"/>
+					</terefs>
+				</qualify-2lvl>
+			</compassemgroup-2lvl>
+			<compassemgroup-2lvl>
+				<compassem>
+					<name>FENDER - PASSENGER</name>
+				</compassem>
+				<qualify-2lvl>
+					<maintfunc func="replace"/>
+					<maintclass-2lvl>
+						<f >1.5</f>
+					</maintclass-2lvl>
+					<terefs>
+						<teref refs="S00003-9-2320-451-TOOL3"/>
+						<teref refs="S00003-9-2320-451-TOOL4"/>
+						<teref refs="S00003-9-2320-451-TOOL5"/>
+					</terefs>
+				</qualify-2lvl>
+			</compassemgroup-2lvl>
+			<compassemgroup-2lvl>
+				<compassem>
+					<name>FENDER - DRIVER</name>
+				</compassem>
+				<qualify-2lvl>
+					<maintfunc func="replace"/>
+					<maintclass-2lvl>
+						<f >2.5</f>
+					</maintclass-2lvl>
+					<terefs>
+						<teref refs="S00003-9-2320-451-TOOL3"/>
+						<teref refs="S00003-9-2320-451-TOOL4"/>
+						<teref refs="S00003-9-2320-451-TOOL5"/>
+					</terefs>
+				</qualify-2lvl>
+			</compassemgroup-2lvl>
+		</mac-group-2lvl>
+		<mac-group-2lvl>
+			<groupno>011808</groupno>
+			<compassemgroup-2lvl>
+				<compassem>
+					<name>TOOL BOX</name>
+				</compassem>
+				<qualify-2lvl>
+					<maintfunc func="inspect"/>
+					<maintclass-2lvl>
+						<c>0.2</c>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="lube"/>
+					<maintclass-2lvl>
+						<c>0.2</c>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="replace"/>
+					<maintclass-2lvl>
+						<f >2</f>
+					</maintclass-2lvl>
+					<terefs>
+						<teref refs="S00003-9-2320-451-TOOL5"/>
+					</terefs>
+				</qualify-2lvl>
+			</compassemgroup-2lvl>
+		</mac-group-2lvl>
+		<mac-group-2lvl>
+			<groupno>011812</groupno>
+			<compassemgroup-2lvl>
+				<compassem>
+					<name>MAIN FRAME ASSEMBLY</name>
+				</compassem>
+				<qualify-2lvl>
+					<maintfunc func="inspect"/>
+					<maintclass-2lvl>
+						<c>0.2</c>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="replace"/>
+					<maintclass-2lvl>
+						<f >25</f>
+					</maintclass-2lvl>
+					<terefs>
+						<teref refs="S00003-9-2320-451-TOOL4"/>
+						<teref refs="S00003-9-2320-451-TOOL5"/>
+						<teref refs="S00003-9-2320-451-TOOL6"/>
+						<teref refs="S00003-9-2320-451-TOOL7"/>
+					</terefs>
+				</qualify-2lvl>
+			</compassemgroup-2lvl>
+			<compassemgroup-2lvl>
+				<compassem>
+					<name>MAST FRAME ASSEMBLY</name>
+				</compassem>
+				<qualify-2lvl>
+					<maintfunc func="inspect"/>
+					<maintclass-2lvl>
+						<c >0.2</c>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="replace"/>
+					<maintclass-2lvl>
+						<f>20</f>
+					</maintclass-2lvl>
+					<terefs>
+						<teref refs="S00003-9-2320-451-TOOL4"/>
+						<teref refs="S00003-9-2320-451-TOOL5"/>
+						<teref refs="S00003-9-2320-451-TOOL6"/>
+						<teref refs="S00003-9-2320-451-TOOL7"/>
+					</terefs>
+				</qualify-2lvl>
+			</compassemgroup-2lvl>
+			<compassemgroup-2lvl>
+				<compassem>
+					<name>BOOM ASSEMBLY</name>
+				</compassem>
+				<qualify-2lvl>
+					<maintfunc func="inspect"/>
+					<maintclass-2lvl>
+						<c >0.2</c>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="replace"/>
+					<maintclass-2lvl>
+						<f>10</f>
+					</maintclass-2lvl>
+					<terefs>
+						<teref refs="S00003-9-2320-451-TOOL4"/>
+						<teref refs="S00003-9-2320-451-TOOL5"/>
+						<teref refs="S00003-9-2320-451-TOOL6"/>
+						<teref refs="S00003-9-2320-451-TOOL7"/>
+					</terefs>
+				</qualify-2lvl>
+			</compassemgroup-2lvl>
+			<compassemgroup-2lvl>
+				<compassem>
+					<name>MAST FRAME PIVOT PIN</name>
+				</compassem>
+				<qualify-2lvl>
+					<maintfunc func="lube"/>
+					<maintclass-2lvl>
+						<c >1.0</c>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="replace"/>
+					<maintclass-2lvl>
+						<c>1.5</c>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+			</compassemgroup-2lvl>
+			<compassemgroup-2lvl>
+				<compassem>
+					<name>CENTER RAM</name>
+				</compassem>
+				<qualify-2lvl>
+					<maintfunc func="lube"/>
+					<maintclass-2lvl>
+						<c>0.2</c>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="replace"/>
+					<maintclass-2lvl>
+						<f >1.0</f>
+					</maintclass-2lvl>
+					<terefs>
+						<teref refs="S00003-9-2320-451-TOOL5"/>
+					</terefs>
+				</qualify-2lvl>
+			</compassemgroup-2lvl>
+			<compassemgroup-2lvl>
+				<compassem>
+					<name>SLIP PAD</name>
+				</compassem>
+				<qualify-2lvl>
+					<maintfunc func="replace"/>
+					<maintclass-2lvl>
+						<f>0.3</f>
+					</maintclass-2lvl>
+					<terefs>
+						<teref refs="S00003-9-2320-451-TOOL5"/>
+					</terefs>
+				</qualify-2lvl>
+			</compassemgroup-2lvl>
+			<compassemgroup-2lvl>
+				<compassem>
+					<name>BUMPER PAD</name>
+				</compassem>
+				<qualify-2lvl>
+					<maintfunc func="replace"/>
+					<maintclass-2lvl>
+						<f>0.6</f>
+					</maintclass-2lvl>
+					<terefs>
+						<teref refs="S00003-9-2320-451-TOOL5"/>
+					</terefs>
+				</qualify-2lvl>
+			</compassemgroup-2lvl>
+			<compassemgroup-2lvl>
+				<compassem>
+					<name>TRANSPORT LEG SWING ARM</name>
+				</compassem>
+				<qualify-2lvl>
+					<maintfunc func="replace"/>
+					<maintclass-2lvl>
+						<f >1.0</f>
+					</maintclass-2lvl>
+					<terefs>
+						<teref refs="S00003-9-2320-451-TOOL5"/>
+					</terefs>
+				</qualify-2lvl>
+			</compassemgroup-2lvl>
+			<compassemgroup-2lvl>
+				<compassem>
+					<name>TRANSPORT LEG FEET</name>
+				</compassem>
+				<qualify-2lvl>
+					<maintfunc func="replace"/>
+					<maintclass-2lvl>
+						<f >0.6</f>
+					</maintclass-2lvl>
+					<terefs>
+						<teref refs="S00003-9-2320-451-TOOL5"/>
+					</terefs>
+				</qualify-2lvl>
+			</compassemgroup-2lvl>
+		</mac-group-2lvl>
+		<mac-group-2lvl>
+			<groupno>0120</groupno>
+			<compassemgroup-2lvl>
+				<compassem>
+					<name>HOIST, WINCH, CAPSTAN, WINDLASS, POWER CONTROL UNIT, AND POWER TAKEOFFS</name>
+				</compassem>
+				<qualify-2lvl>
+					<maintfunc func="none"/>
+					<maintclass-2lvl>
+						<c> </c>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+			</compassemgroup-2lvl>
+		</mac-group-2lvl>
+		<mac-group-2lvl>
+			<groupno>012001</groupno>
+			<compassemgroup-2lvl>
+				<compassem>
+					<name>WINCH - 18K</name>
+				</compassem>
+				<qualify-2lvl>
+					<maintfunc func="inspect"/>
+					<maintclass-2lvl>
+						<c>0.2</c>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="replace"/>
+					<maintclass-2lvl>
+						<f>1.0</f>
+					</maintclass-2lvl>
+					<terefs>
+						<teref refs="S00003-9-2320-451-TOOL4"/>
+						<teref refs="S00003-9-2320-451-TOOL10"/>
+					</terefs>
+				</qualify-2lvl>
+			</compassemgroup-2lvl>
+			<compassemgroup-2lvl>
+				<compassem>
+					<name>WNCH - 35K</name>
+				</compassem>
+				<qualify-2lvl>
+					<maintfunc func="inspect"/>
+					<maintclass-2lvl>
+						<c >0.2</c>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="replace"/>
+					<maintclass-2lvl>
+						<f>3.0</f>
+					</maintclass-2lvl>
+					<terefs>
+						<teref refs="S00003-9-2320-451-TOOL4"/>
+						<teref refs="S00003-9-2320-451-TOOL10"/>
+					</terefs>
+				</qualify-2lvl>
+			</compassemgroup-2lvl>
+			<compassemgroup-2lvl>
+				<compassem>
+					<name>WINCHING SHEAVE</name>
+				</compassem>
+				<qualify-2lvl>
+					<maintfunc func="inspect"/>
+					<maintclass-2lvl>
+						<c >0.2</c>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="lube"/>
+					<maintclass-2lvl>
+						<c>0.1</c>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="replace"/>
+					<maintclass-2lvl>
+						<f>0.8</f>
+					</maintclass-2lvl>
+					<terefs>
+						<teref refs="S00003-9-2320-451-TOOL3"/>
+						<teref refs="S00003-9-2320-451-TOOL4"/>
+						<teref refs="S00003-9-2320-451-TOOL5"/>
+					</terefs>
+				</qualify-2lvl>
+			</compassemgroup-2lvl>
+			<compassemgroup-2lvl>
+				<compassem>
+					<name>18K CABLE ASSEMBLY</name>
+				</compassem>
+				<qualify-2lvl>
+					<maintfunc func="inspect"/>
+					<maintclass-2lvl>
+						<c >0.2</c>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="replace"/>
+					<maintclass-2lvl>
+						<f>1.0</f>
+					</maintclass-2lvl>
+					<terefs>
+						<teref refs="S00003-9-2320-451-TOOL4"/>
+						<teref refs="S00003-9-2320-451-TOOL10"/>
+					</terefs>
+				</qualify-2lvl>
+			</compassemgroup-2lvl>
+			<compassemgroup-2lvl>
+				<compassem>
+					<name>35K CABLE ASSEMBLY</name>
+				</compassem>
+				<qualify-2lvl>
+					<maintfunc func="inspect"/>
+					<maintclass-2lvl>
+						<c >0.2</c>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="replace"/>
+					<maintclass-2lvl>
+						<f>1.0</f>
+					</maintclass-2lvl>
+					<terefs>
+						<teref refs="S00003-9-2320-451-TOOL4"/>
+						<teref refs="S00003-9-2320-451-TOOL10"/>
+					</terefs>
+				</qualify-2lvl>
+			</compassemgroup-2lvl>
+		</mac-group-2lvl>
+		<mac-group-2lvl>
+			<groupno>0124</groupno>
+			<compassemgroup-2lvl>
+				<compassem>
+					<name>HYDRAULIC SYSTEMS</name>
+				</compassem>
+				<qualify-2lvl>
+					<maintfunc func="none"/>
+					<maintclass-2lvl>
+						<c> </c>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+			</compassemgroup-2lvl>
+		</mac-group-2lvl>
+		<mac-group-2lvl>
+			<groupno>012401</groupno>
+			<compassemgroup-2lvl>
+				<compassem>
+					<name>MOTOR ASSEMBLY</name>
+				</compassem>
+				<qualify-2lvl>
+					<maintfunc func="inspect"/>
+					<maintclass-2lvl>
+						<c>0.2</c>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="replace"/>
+					<maintclass-2lvl>
+						<f >1.0</f>
+					</maintclass-2lvl>
+					<terefs>
+						<teref refs="S00003-9-2320-451-TOOL3"/>
+						<teref refs="S00003-9-2320-451-TOOL4"/>
+						<teref refs="S00003-9-2320-451-TOOL5"/>
+					</terefs>
+				</qualify-2lvl>
+			</compassemgroup-2lvl>
+		</mac-group-2lvl>
+		<mac-group-2lvl>
+			<groupno>012402</groupno>
+			<compassemgroup-2lvl>
+				<compassem>
+					<name>SAFETY LOCK</name>
+				</compassem>
+				<qualify-2lvl>
+					<maintfunc func="inspect"/>
+					<maintclass-2lvl>
+						<c>0.2</c>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="replace"/>
+					<maintclass-2lvl>
+						<f>1.0</f>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+			</compassemgroup-2lvl>
+			<compassemgroup-2lvl>
+				<compassem>
+					<name>18K/35K WINCH DIVERTER BRACKET</name>
+				</compassem>
+				<qualify-2lvl>
+					<maintfunc func="remove"/>
+					<maintclass-2lvl>
+						<f>0.5</f>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="install"/>
+					<maintclass-2lvl>
+						<f >0.5</f>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="replace"/>
+					<maintclass-2lvl>
+						<f>1.0</f>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+			</compassemgroup-2lvl>
+			<compassemgroup-2lvl>
+				<compassem>
+					<name>MAIN VALVE</name>
+				</compassem>
+				<qualify-2lvl>
+					<maintfunc func="repair"/>
+					<maintclass-2lvl>
+						<f >4.0</f>
+					</maintclass-2lvl>
+					<terefs>
+						<teref refs="S00003-9-2320-451-TOOL3"/>
+						<teref refs="S00003-9-2320-451-TOOL4"/>
+						<teref refs="S00003-9-2320-451-TOOL5"/>
+					</terefs>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="replace"/>
+					<maintclass-2lvl>
+						<c>0.8</c>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+			</compassemgroup-2lvl>
+			<compassemgroup-2lvl>
+				<compassem>
+					<name>VALVE CONTROL LEVERS</name>
+				</compassem>
+				<qualify-2lvl>
+					<maintfunc func="replace"/>
+					<maintclass-2lvl>
+						<c>0.8</c>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+			</compassemgroup-2lvl>
+		</mac-group-2lvl>
+		<mac-group-2lvl>
+			<groupno>012406</groupno>
+			<compassemgroup-2lvl>
+				<compassem>
+					<name>HOSES AND FITTINGS</name>
+				</compassem>
+				<qualify-2lvl>
+					<maintfunc func="replace"/>
+					<maintclass-2lvl>
+						<c>4</c>
+					</maintclass-2lvl>
+					<terefs>
+						<teref refs="S00003-9-2320-451-TOOL5"/>
+					</terefs>
+				</qualify-2lvl>
+			</compassemgroup-2lvl>
+			<compassemgroup-2lvl>
+				<compassem>
+					<name>OIL FILTER ASSEMBLY</name>
+				</compassem>
+				<qualify-2lvl>
+					<maintfunc func="repair"/>
+					<maintclass-2lvl>
+						<c >0.2</c>
+					</maintclass-2lvl>
+					<terefs>
+						<teref refs="S00003-9-2320-451-TOOL3"/>
+						<teref refs="S00003-9-2320-451-TOOL4"/>
+						<teref refs="S00003-9-2320-451-TOOL5"/>
+					</terefs>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="replace"/>
+					<maintclass-2lvl>
+						<f>0.5</f>
+					</maintclass-2lvl>
+					<terefs>
+						<teref refs="S00003-9-2320-451-TOOL3"/>
+						<teref refs="S00003-9-2320-451-TOOL4"/>
+						<teref refs="S00003-9-2320-451-TOOL5"/>
+					</terefs>
+				</qualify-2lvl>
+			</compassemgroup-2lvl>
+			<compassemgroup-2lvl>
+				<compassem>
+					<name>CAM VALVE</name>
+				</compassem>
+				<qualify-2lvl>
+					<maintfunc func="replace"/>
+					<maintclass-2lvl>
+						<f >0.8</f>
+					</maintclass-2lvl>
+					<terefs>
+						<teref refs="S00003-9-2320-451-TOOL3"/>
+						<teref refs="S00003-9-2320-451-TOOL4"/>
+						<teref refs="S00003-9-2320-451-TOOL5"/>
+					</terefs>
+				</qualify-2lvl>
+			</compassemgroup-2lvl>
+		</mac-group-2lvl>
+		<mac-group-2lvl>
+			<groupno>012407</groupno>
+			<compassemgroup-2lvl>
+				<compassem>
+					<name>MAST FRAME TO MAST CYLINDER</name>
+				</compassem>
+				<qualify-2lvl>
+					<maintfunc func="replace"/>
+					<maintclass-2lvl>
+						<f>1.0</f>
+					</maintclass-2lvl>
+					<terefs>
+						<teref refs="S00003-9-2320-451-TOOL3"/>
+						<teref refs="S00003-9-2320-451-TOOL4"/>
+						<teref refs="S00003-9-2320-451-TOOL5"/>
+					</terefs>
+				</qualify-2lvl>
+			</compassemgroup-2lvl>
+			<compassemgroup-2lvl>
+				<compassem>
+					<name>MAST TO BOOM CYLINDER</name>
+				</compassem>
+				<qualify-2lvl>
+					<maintfunc func="replace"/>
+					<maintclass-2lvl>
+						<f>1.0</f>
+					</maintclass-2lvl>
+					<terefs>
+						<teref refs="S00003-9-2320-451-TOOL3"/>
+						<teref refs="S00003-9-2320-451-TOOL4"/>
+						<teref refs="S00003-9-2320-451-TOOL5"/>
+					</terefs>
+				</qualify-2lvl>
+			</compassemgroup-2lvl>
+			<compassemgroup-2lvl>
+				<compassem>
+					<name>BOOM EXTENSION CYLINDER</name>
+				</compassem>
+				<qualify-2lvl>
+					<maintfunc func="replace"/>
+					<maintclass-2lvl>
+						<f>2.0</f>
+					</maintclass-2lvl>
+					<terefs>
+						<teref refs="S00003-9-2320-451-TOOL3"/>
+						<teref refs="S00003-9-2320-451-TOOL4"/>
+						<teref refs="S00003-9-2320-451-TOOL5"/>
+					</terefs>
+					<remarkrefs>
+						<remarkref refs="S00003-9-2320-451-REM1"/>
+					</remarkrefs>
+				</qualify-2lvl>
+			</compassemgroup-2lvl>
+		</mac-group-2lvl>
+		<mac-group-2lvl>
+			<groupno>012408</groupno>
+			<compassemgroup-2lvl>
+				<compassem>
+					<name>RESERVOIR FITTINGS</name>
+				</compassem>
+				<qualify-2lvl>
+					<maintfunc func="replace"/>
+					<maintclass-2lvl>
+						<f>1.0</f>
+					</maintclass-2lvl>
+					<terefs>
+						<teref refs="S00003-9-2320-451-TOOL3"/>
+						<teref refs="S00003-9-2320-451-TOOL4"/>
+						<teref refs="S00003-9-2320-451-TOOL5"/>
+					</terefs>
+				</qualify-2lvl>
+			</compassemgroup-2lvl>
+		</mac-group-2lvl>
+		<mac-group-2lvl>
+			<groupno>02</groupno>
+			<compassemgroup-2lvl>
+				<compassem>
+					<name>TILT DECK RECOVERY TRAILER </name>
+				</compassem>
+				<qualify-2lvl>
+					<maintfunc func="none"/>
+					<maintclass-2lvl>
+						<c> </c>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+			</compassemgroup-2lvl>
+		</mac-group-2lvl>
+		<mac-group-2lvl>
+			<groupno>0206</groupno>
+			<compassemgroup-2lvl>
+				<compassem>
+					<name>ELECTRICAL SYSTEM</name>
+				</compassem>
+				<qualify-2lvl>
+					<maintfunc func="none"/>
+					<maintclass-2lvl>
+						<c> </c>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+			</compassemgroup-2lvl>
+		</mac-group-2lvl>
+		<mac-group-2lvl>
+			<groupno>020609</groupno>
+			<compassemgroup-2lvl>
+				<compassem>
+					<name>LIGHTS, STOP &amp; TAIL, LED </name>
+				</compassem>
+				<qualify-2lvl>
+					<maintfunc func="inspect"/>
+					<maintclass-2lvl>
+						<c>0.1</c>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="test"/>
+					<maintclass-2lvl>
+						<f >0.3</f>
+					</maintclass-2lvl>
+					<terefs>
+						<teref refs="S00003-9-2320-451-TOOL3"/>
+						<teref refs="S00003-9-2320-451-TOOL4"/>
+						<teref refs="S00003-9-2320-451-TOOL5"/>
+					</terefs>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="replace"/>
+					<maintclass-2lvl>
+						<f>0.2</f>
+					</maintclass-2lvl>
+					<terefs>
+						<teref refs="S00003-9-2320-451-TOOL3"/>
+						<teref refs="S00003-9-2320-451-TOOL4"/>
+						<teref refs="S00003-9-2320-451-TOOL5"/>
+					</terefs>
+					<remarkrefs>
+						<remarkref refs="S00003-9-2320-451-REM1"/>
+					</remarkrefs>
+				</qualify-2lvl>
+			</compassemgroup-2lvl>
+			<compassemgroup-2lvl>
+				<compassem>
+					<name>LIGHTS, BLACKOUT</name>
+				</compassem>
+				<qualify-2lvl>
+					<maintfunc func="inspect"/>
+					<maintclass-2lvl>
+						<c >0.1</c>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="remove"/>
+					<maintclass-2lvl>
+						<c>0.2</c>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="install"/>
+					<maintclass-2lvl>
+						<c>0.2</c>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="replace"/>
+					<maintclass-2lvl>
+						<c >0.5</c>
+					</maintclass-2lvl>
+					<terefs>
+						<teref refs="S00003-9-2320-451-TOOL3"/>
+						<teref refs="S00003-9-2320-451-TOOL4"/>
+						<teref refs="S00003-9-2320-451-TOOL5"/>
+					</terefs>
+					<remarkrefs>
+						<remarkref refs="S00003-9-2320-451-REM1"/>
+					</remarkrefs>
+				</qualify-2lvl>
+			</compassemgroup-2lvl>
+			<compassemgroup-2lvl>
+				<compassem>
+					<name>LIGHTS, MARKER LED</name>
+				</compassem>
+				<qualify-2lvl>
+					<maintfunc func="inspect"/>
+					<maintclass-2lvl>
+						<c >0.1</c>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="test"/>
+					<maintclass-2lvl>
+						<f>0.1</f>
+					</maintclass-2lvl>
+					<terefs>
+						<teref refs="S00003-9-2320-451-TOOL3"/>
+						<teref refs="S00003-9-2320-451-TOOL4"/>
+						<teref refs="S00003-9-2320-451-TOOL5"/>
+					</terefs>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="replace"/>
+					<maintclass-2lvl>
+						<f>0.3</f>
+					</maintclass-2lvl>
+					<terefs>
+						<teref refs="S00003-9-2320-451-TOOL3"/>
+						<teref refs="S00003-9-2320-451-TOOL4"/>
+						<teref refs="S00003-9-2320-451-TOOL5"/>
+					</terefs>
+					<remarkrefs>
+						<remarkref refs="S00003-9-2320-451-REM1"/>
+					</remarkrefs>
+				</qualify-2lvl>
+			</compassemgroup-2lvl>
+		</mac-group-2lvl>
+		<mac-group-2lvl>
+			<groupno>020613</groupno>
+			<compassemgroup-2lvl>
+				<compassem>
+					<name>LIGHTS, CONVOY</name>
+				</compassem>
+				<qualify-2lvl>
+					<maintfunc func="inspect"/>
+					<maintclass-2lvl>
+						<c>0.1</c>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="test"/>
+					<maintclass-2lvl>
+						<c >0.1</c>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="replace"/>
+					<maintclass-2lvl>
+						<c>0.2</c>
+					</maintclass-2lvl>
+					<remarkrefs>
+						<remarkref refs="S00003-9-2320-451-REM1"/>
+					</remarkrefs>
+				</qualify-2lvl>
+			</compassemgroup-2lvl>
+		</mac-group-2lvl>
+		<mac-group-2lvl>
+			<groupno>0211</groupno>
+			<compassemgroup-2lvl>
+				<compassem>
+					<name>REAR AXLE</name>
+				</compassem>
+				<qualify-2lvl>
+					<maintfunc func="none"/>
+					<maintclass-2lvl>
+						<c> </c>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+			</compassemgroup-2lvl>
+		</mac-group-2lvl>
+		<mac-group-2lvl>
+			<groupno>021100</groupno>
+			<compassemgroup-2lvl>
+				<compassem>
+					<name>AXLE, OVER SLUNG</name>
+				</compassem>
+				<qualify-2lvl>
+					<maintfunc func="inspect"/>
+					<maintclass-2lvl>
+						<c>0.5</c>
+					</maintclass-2lvl>
+					<remarkrefs>
+						<remarkref refs="S00003-9-2320-451-REM2"/>
+					</remarkrefs>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="adjust"/>
+					<maintclass-2lvl>
+						<f>2.0</f>
+					</maintclass-2lvl>
+					<terefs>
+						<teref refs="S00003-9-2320-451-TOOL1"/>
+						<teref refs="S00003-9-2320-451-TOOL4"/>
+					</terefs>
+					<remarkrefs>
+						<remarkref refs="S00003-9-2320-451-REM3"/>
+					</remarkrefs>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="remove"/>
+					<maintclass-2lvl>
+						<f>2.5</f>
+					</maintclass-2lvl>
+					<terefs>
+						<teref refs="S00003-9-2320-451-TOOL1"/>
+						<teref refs="S00003-9-2320-451-TOOL4"/>
+					</terefs>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="install"/>
+					<maintclass-2lvl>
+						<f>2.5</f>
+					</maintclass-2lvl>
+					<terefs>
+						<teref refs="S00003-9-2320-451-TOOL1"/>
+						<teref refs="S00003-9-2320-451-TOOL4"/>
+					</terefs>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="replace"/>
+					<maintclass-2lvl>
+						<f>5.0</f>
+					</maintclass-2lvl>
+					<terefs>
+						<teref refs="S00003-9-2320-451-TOOL1"/>
+						<teref refs="S00003-9-2320-451-TOOL4"/>
+					</terefs>
+					<remarkrefs>
+						<remarkref refs="S00003-9-2320-451-REM3"/>
+					</remarkrefs>
+				</qualify-2lvl>
+			</compassemgroup-2lvl>
+			<compassemgroup-2lvl>
+				<compassem>
+					<name>SEAT, SPRING</name>
+				</compassem>
+				<qualify-2lvl>
+					<maintfunc func="install"/>
+					<maintclass-2lvl>
+						<f >1.0</f>
+					</maintclass-2lvl>
+					<terefs>
+						<teref refs="S00003-9-2320-451-TOOL1"/>
+						<teref refs="S00003-9-2320-451-TOOL4"/>
+					</terefs>
+				</qualify-2lvl>
+			</compassemgroup-2lvl>
+			<compassemgroup-2lvl>
+				<compassem>
+					<name>DUST SHEILD</name>
+				</compassem>
+				<qualify-2lvl>
+					<maintfunc func="inspect"/>
+					<maintclass-2lvl>
+						<c >0.2</c>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="replace"/>
+					<maintclass-2lvl>
+						<f>0.5</f>
+					</maintclass-2lvl>
+					<terefs>
+						<teref refs="S00003-9-2320-451-TOOL2"/>
+						<teref refs="S00003-9-2320-451-TOOL4"/>
+					</terefs>
+				</qualify-2lvl>
+			</compassemgroup-2lvl>
+			<compassemgroup-2lvl>
+				<compassem>
+					<name>AXLE, LIFT</name>
+				</compassem>
+				<qualify-2lvl>
+					<maintfunc func="inspect"/>
+					<maintclass-2lvl>
+						<c>0.5</c>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="replace"/>
+					<maintclass-2lvl>
+						<f >4.5</f>
+					</maintclass-2lvl>
+					<terefs>
+						<teref refs="S00003-9-2320-451-TOOL2"/>
+						<teref refs="S00003-9-2320-451-TOOL4"/>
+					</terefs>
+				</qualify-2lvl>
+			</compassemgroup-2lvl>
+		</mac-group-2lvl>
+		<mac-group-2lvl>
+			<groupno>0212</groupno>
+			<compassemgroup-2lvl>
+				<compassem>
+					<name>BRAKES</name>
+				</compassem>
+				<qualify-2lvl>
+					<maintfunc func="inspect"/>
+					<maintclass-2lvl>
+						<c>0.1</c>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+			</compassemgroup-2lvl>
+		</mac-group-2lvl>
+		<mac-group-2lvl>
+			<groupno>021202</groupno>
+			<compassemgroup-2lvl>
+				<compassem>
+					<name>SERVICE BRAKE PARTS</name>
+				</compassem>
+				<qualify-2lvl>
+					<maintfunc func="inspect"/>
+					<maintclass-2lvl>
+						<c>0.1</c>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+			</compassemgroup-2lvl>
+			<compassemgroup-2lvl>
+				<compassem>
+					<name>SHOE ASSEMBLY, BRAKE</name>
+				</compassem>
+				<qualify-2lvl>
+					<maintfunc func="inspect"/>
+					<maintclass-2lvl>
+						<c>0.3</c>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="replace"/>
+					<maintclass-2lvl>
+						<f >1.5</f>
+					</maintclass-2lvl>
+					<remarkrefs>
+						<remarkref refs="S00003-9-2320-451-REM4"/>
+					</remarkrefs>
+				</qualify-2lvl>
+			</compassemgroup-2lvl>
+			<compassemgroup-2lvl>
+				<compassem>
+					<name>CAMSHAFT, S</name>
+				</compassem>
+				<qualify-2lvl>
+					<maintfunc func="inspect"/>
+					<maintclass-2lvl>
+						<c>0.2</c>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="remove"/>
+					<maintclass-2lvl>
+						<f>0.5</f>
+					</maintclass-2lvl>
+					<terefs>
+						<teref refs="S00003-9-2320-451-TOOL1"/>
+						<teref refs="S00003-9-2320-451-TOOL4"/>
+					</terefs>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="install"/>
+					<maintclass-2lvl>
+						<f>0.5</f>
+					</maintclass-2lvl>
+					<terefs>
+						<teref refs="S00003-9-2320-451-TOOL1"/>
+						<teref refs="S00003-9-2320-451-TOOL4"/>
+					</terefs>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="replace"/>
+					<maintclass-2lvl>
+						<f>1.0</f>
+					</maintclass-2lvl>
+					<terefs>
+						<teref refs="S00003-9-2320-451-TOOL1"/>
+						<teref refs="S00003-9-2320-451-TOOL4"/>
+					</terefs>
+					<remarkrefs>
+						<remarkref refs="S00003-9-2320-451-REM4"/>
+					</remarkrefs>
+				</qualify-2lvl>
+			</compassemgroup-2lvl>
+		</mac-group-2lvl>
+		<mac-group-2lvl>
+			<groupno>021206</groupno>
+			<compassemgroup-2lvl>
+				<compassem>
+					<name>SLACK ADJUSTER, AUTOMATIC</name>
+				</compassem>
+				<qualify-2lvl>
+					<maintfunc func="inspect"/>
+					<maintclass-2lvl>
+						<c>0.2</c>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="test"/>
+					<maintclass-2lvl>
+						<f >0.5</f>
+					</maintclass-2lvl>
+					<terefs>
+						<teref refs="S00003-9-2320-451-TOOL1"/>
+						<teref refs="S00003-9-2320-451-TOOL4"/>
+					</terefs>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="service"/>
+					<maintclass-2lvl>
+						<f>0.1</f>
+					</maintclass-2lvl>
+					<terefs>
+						<teref refs="S00003-9-2320-451-TOOL1"/>
+						<teref refs="S00003-9-2320-451-TOOL4"/>
+					</terefs>
+					<remarkrefs>
+						<remarkref refs="S00003-9-2320-451-REM1"/>
+					</remarkrefs>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="adjust"/>
+					<maintclass-2lvl>
+						<f>0.3</f>
+					</maintclass-2lvl>
+					<terefs>
+						<teref refs="S00003-9-2320-451-TOOL1"/>
+						<teref refs="S00003-9-2320-451-TOOL4"/>
+					</terefs>
+					<remarkrefs>
+						<remarkref refs="S00003-9-2320-451-REM1"/>
+					</remarkrefs>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="replace"/>
+					<maintclass-2lvl>
+						<f>0.5</f>
+					</maintclass-2lvl>
+					<terefs>
+						<teref refs="S00003-9-2320-451-TOOL1"/>
+						<teref refs="S00003-9-2320-451-TOOL4"/>
+					</terefs>
+					<remarkrefs>
+						<remarkref refs="S00003-9-2320-451-REM1"/>
+					</remarkrefs>
+				</qualify-2lvl>
+			</compassemgroup-2lvl>
+		</mac-group-2lvl>
+		<mac-group-2lvl>
+			<groupno>021207</groupno>
+			<compassemgroup-2lvl>
+				<compassem>
+					<name>CONTROL UNIT, ELECTRONIC (ECU) AND MODULE</name>
+				</compassem>
+				<qualify-2lvl>
+					<maintfunc func="inspect"/>
+					<maintclass-2lvl>
+						<f>0.1</f>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="replace"/>
+					<maintclass-2lvl>
+						<f>0.5</f>
+					</maintclass-2lvl>
+					<terefs>
+						<teref refs="S00003-9-2320-451-TOOL1"/>
+						<teref refs="S00003-9-2320-451-TOOL4"/>
+					</terefs>
+					<remarkrefs>
+						<remarkref refs="S00003-9-2320-451-REM1"/>
+					</remarkrefs>
+				</qualify-2lvl>
+			</compassemgroup-2lvl>
+			<compassemgroup-2lvl>
+				<compassem>
+					<name>HARNESS, ABS</name>
+				</compassem>
+				<qualify-2lvl>
+					<maintfunc func="inspect"/>
+					<maintclass-2lvl>
+						<c>0.5</c>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="test"/>
+					<maintclass-2lvl>
+						<f >0.2</f>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="replace"/>
+					<maintclass-2lvl>
+						<f>0.6</f>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+			</compassemgroup-2lvl>
+			<compassemgroup-2lvl>
+				<compassem>
+					<name>SENSOR, WHEEL WITH CABLE</name>
+				</compassem>
+				<qualify-2lvl>
+					<maintfunc func="inspect"/>
+					<maintclass-2lvl>
+						<c>0.1</c>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="replace"/>
+					<maintclass-2lvl>
+						<c>0.3</c>
+					</maintclass-2lvl>
+					<terefs>
+						<teref refs="S00003-9-2320-451-TOOL3"/>
+						<teref refs="S00003-9-2320-451-TOOL4"/>
+						<teref refs="S00003-9-2320-451-TOOL5"/>
+					</terefs>
+					<remarkrefs>
+						<remarkref refs="S00003-9-2320-451-REM4"/>
+					</remarkrefs>
+				</qualify-2lvl>
+			</compassemgroup-2lvl>
+		</mac-group-2lvl>
+		<mac-group-2lvl>
+			<groupno>021208</groupno>
+			<compassemgroup-2lvl>
+				<compassem>
+					<name>CHAMBER, AIR BRAKE</name>
+				</compassem>
+				<qualify-2lvl>
+					<maintfunc func="inspect"/>
+					<maintclass-2lvl>
+						<c>0.1</c>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="replace"/>
+					<maintclass-2lvl>
+						<f >1</f>
+					</maintclass-2lvl>
+					<terefs>
+						<teref refs="S00003-9-2320-451-TOOL1"/>
+						<teref refs="S00003-9-2320-451-TOOL4"/>
+					</terefs>
+				</qualify-2lvl>
+			</compassemgroup-2lvl>
+			<compassemgroup-2lvl>
+				<compassem>
+					<name>RESERVOIR , AIR (BRAKE)</name>
+				</compassem>
+				<qualify-2lvl>
+					<maintfunc func="inspect"/>
+					<maintclass-2lvl>
+						<c >0.1</c>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="service"/>
+					<maintclass-2lvl>
+						<c>0.2</c>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="replace"/>
+					<maintclass-2lvl>
+						<f>1.5</f>
+					</maintclass-2lvl>
+					<terefs>
+						<teref refs="S00003-9-2320-451-TOOL1"/>
+						<teref refs="S00003-9-2320-451-TOOL4"/>
+					</terefs>
+				</qualify-2lvl>
+			</compassemgroup-2lvl>
+			<compassemgroup-2lvl>
+				<compassem>
+					<name>VALVE, AIR DRAIN AND PULL CABLES</name>
+				</compassem>
+				<qualify-2lvl>
+					<maintfunc func="inspect"/>
+					<maintclass-2lvl>
+						<c>0.1</c>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="replace"/>
+					<maintclass-2lvl>
+						<f>0.3</f>
+					</maintclass-2lvl>
+					<terefs>
+						<teref refs="S00003-9-2320-451-TOOL3"/>
+						<teref refs="S00003-9-2320-451-TOOL4"/>
+						<teref refs="S00003-9-2320-451-TOOL5"/>
+					</terefs>
+				</qualify-2lvl>
+			</compassemgroup-2lvl>
+			<compassemgroup-2lvl>
+				<compassem>
+					<name>AIR SUPPLY, GLADHAND</name>
+				</compassem>
+				<qualify-2lvl>
+					<maintfunc func="inspect"/>
+					<maintclass-2lvl>
+						<c>0.1</c>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="service"/>
+					<maintclass-2lvl>
+						<f>0.1</f>
+					</maintclass-2lvl>
+					<terefs>
+						<teref refs="S00003-9-2320-451-TOOL3"/>
+						<teref refs="S00003-9-2320-451-TOOL4"/>
+						<teref refs="S00003-9-2320-451-TOOL5"/>
+					</terefs>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="replace"/>
+					<maintclass-2lvl>
+						<f>0.3</f>
+					</maintclass-2lvl>
+					<terefs>
+						<teref refs="S00003-9-2320-451-TOOL3"/>
+						<teref refs="S00003-9-2320-451-TOOL4"/>
+						<teref refs="S00003-9-2320-451-TOOL5"/>
+					</terefs>
+				</qualify-2lvl>
+			</compassemgroup-2lvl>
+			<compassemgroup-2lvl>
+				<compassem>
+					<name>VALVE, RELAY</name>
+				</compassem>
+				<qualify-2lvl>
+					<maintfunc func="inspect"/>
+					<maintclass-2lvl>
+						<c >0.2</c>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="replace"/>
+					<maintclass-2lvl>
+						<f>0.5</f>
+					</maintclass-2lvl>
+					<terefs>
+						<teref refs="S00003-9-2320-451-TOOL3"/>
+						<teref refs="S00003-9-2320-451-TOOL4"/>
+						<teref refs="S00003-9-2320-451-TOOL5"/>
+					</terefs>
+					<remarkrefs>
+						<remarkref refs="S00003-9-2320-451-REM5"/>
+					</remarkrefs>
+				</qualify-2lvl>
+			</compassemgroup-2lvl>
+			<compassemgroup-2lvl>
+				<compassem>
+					<name>LINES, AIR</name>
+				</compassem>
+				<qualify-2lvl>
+					<maintfunc func="inspect"/>
+					<maintclass-2lvl>
+						<c>0.3</c>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="replace"/>
+					<maintclass-2lvl>
+						<f >0.7</f>
+					</maintclass-2lvl>
+					<terefs>
+						<teref refs="S00003-9-2320-451-TOOL3"/>
+						<teref refs="S00003-9-2320-451-TOOL4"/>
+						<teref refs="S00003-9-2320-451-TOOL5"/>
+					</terefs>
+				</qualify-2lvl>
+			</compassemgroup-2lvl>
+			<compassemgroup-2lvl>
+				<compassem>
+					<name>VALVE, LEVELING</name>
+				</compassem>
+				<qualify-2lvl>
+					<maintfunc func="inspect"/>
+					<maintclass-2lvl>
+						<c >0.5</c>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="adjust"/>
+					<maintclass-2lvl>
+						<f>0.5</f>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="replace"/>
+					<maintclass-2lvl>
+						<f>1</f>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+			</compassemgroup-2lvl>
+		</mac-group-2lvl>
+		<mac-group-2lvl>
+			<groupno>0213</groupno>
+			<compassemgroup-2lvl>
+				<compassem>
+					<name>ASSEMBLY, WHEEL</name>
+				</compassem>
+				<qualify-2lvl>
+					<maintfunc func="none"/>
+					<maintclass-2lvl>
+						<c> </c>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+			</compassemgroup-2lvl>
+		</mac-group-2lvl>
+		<mac-group-2lvl>
+			<groupno>021301</groupno>
+			<compassemgroup-2lvl>
+				<compassem>
+					<name>SPRING ASSEMBLY, AIR (LOAD)</name>
+				</compassem>
+				<qualify-2lvl>
+					<maintfunc func="inspect"/>
+					<maintclass-2lvl>
+						<c>0.3</c>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="replace"/>
+					<maintclass-2lvl>
+						<f >1</f>
+					</maintclass-2lvl>
+					<terefs>
+						<teref refs="S00003-9-2320-451-TOOL1"/>
+						<teref refs="S00003-9-2320-451-TOOL4"/>
+					</terefs>
+				</qualify-2lvl>
+			</compassemgroup-2lvl>
+			<compassemgroup-2lvl>
+				<compassem>
+					<name>SPRING ASSEMBLY, AIR (LIFT)</name>
+				</compassem>
+				<qualify-2lvl>
+					<maintfunc func="inspect"/>
+					<maintclass-2lvl>
+						<c>0.3</c>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="replace"/>
+					<maintclass-2lvl>
+						<f>1</f>
+					</maintclass-2lvl>
+					<terefs>
+						<teref refs="S00003-9-2320-451-TOOL1"/>
+						<teref refs="S00003-9-2320-451-TOOL4"/>
+					</terefs>
+				</qualify-2lvl>
+			</compassemgroup-2lvl>
+		</mac-group-2lvl>
+		<mac-group-2lvl>
+			<groupno>021311</groupno>
+			<compassemgroup-2lvl>
+				<compassem>
+					<name>HUB CAPS</name>
+				</compassem>
+				<qualify-2lvl>
+					<maintfunc func="replace"/>
+					<maintclass-2lvl>
+						<f>0.5</f>
+					</maintclass-2lvl>
+					<terefs>
+						<teref refs="S00003-9-2320-451-TOOL4"/>
+						<teref refs="S00003-9-2320-451-TOOL10"/>
+					</terefs>
+				</qualify-2lvl>
+			</compassemgroup-2lvl>
+			<compassemgroup-2lvl>
+				<compassem>
+					<name>DRUM, BRAKE</name>
+				</compassem>
+				<qualify-2lvl>
+					<maintfunc func="inspect"/>
+					<maintclass-2lvl>
+						<f >0.2</f>
+					</maintclass-2lvl>
+					<remarkrefs>
+						<remarkref refs="S00003-9-2320-451-REM4"/>
+					</remarkrefs>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="remove"/>
+					<maintclass-2lvl>
+						<f >0.5</f>
+					</maintclass-2lvl>
+					<terefs>
+						<teref refs="S00003-9-2320-451-TOOL1"/>
+						<teref refs="S00003-9-2320-451-TOOL4"/>
+					</terefs>
+					<remarkrefs>
+						<remarkref refs="S00003-9-2320-451-REM4"/>
+					</remarkrefs>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="install"/>
+					<maintclass-2lvl>
+						<f>0.5</f>
+					</maintclass-2lvl>
+					<terefs>
+						<teref refs="S00003-9-2320-451-TOOL1"/>
+						<teref refs="S00003-9-2320-451-TOOL4"/>
+					</terefs>
+					<remarkrefs>
+						<remarkref refs="S00003-9-2320-451-REM4"/>
+					</remarkrefs>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="replace"/>
+					<maintclass-2lvl>
+						<f>1</f>
+					</maintclass-2lvl>
+					<terefs>
+						<teref refs="S00003-9-2320-451-TOOL1"/>
+						<teref refs="S00003-9-2320-451-TOOL4"/>
+					</terefs>
+					<remarkrefs>
+						<remarkref refs="S00003-9-2320-451-REM4"/>
+					</remarkrefs>
+				</qualify-2lvl>
+			</compassemgroup-2lvl>
+			<compassemgroup-2lvl>
+				<compassem>
+					<name>HUBS WITH TONE RINGS</name>
+				</compassem>
+				<qualify-2lvl>
+					<maintfunc func="inspect"/>
+					<maintclass-2lvl>
+						<f >0.2</f>
+					</maintclass-2lvl>
+					<remarkrefs>
+						<remarkref refs="S00003-9-2320-451-REM4"/>
+					</remarkrefs>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="remove"/>
+					<maintclass-2lvl>
+						<f >0.3</f>
+					</maintclass-2lvl>
+					<terefs>
+						<teref refs="S00003-9-2320-451-TOOL1"/>
+						<teref refs="S00003-9-2320-451-TOOL4"/>
+					</terefs>
+					<remarkrefs>
+						<remarkref refs="S00003-9-2320-451-REM4"/>
+					</remarkrefs>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="install"/>
+					<maintclass-2lvl>
+						<f>0.3</f>
+					</maintclass-2lvl>
+					<terefs>
+						<teref refs="S00003-9-2320-451-TOOL1"/>
+						<teref refs="S00003-9-2320-451-TOOL4"/>
+					</terefs>
+					<remarkrefs>
+						<remarkref refs="S00003-9-2320-451-REM4"/>
+					</remarkrefs>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="replace"/>
+					<maintclass-2lvl>
+						<f>0.5</f>
+					</maintclass-2lvl>
+					<terefs>
+						<teref refs="S00003-9-2320-451-TOOL1"/>
+						<teref refs="S00003-9-2320-451-TOOL4"/>
+					</terefs>
+					<remarkrefs>
+						<remarkref refs="S00003-9-2320-451-REM5"/>
+					</remarkrefs>
+				</qualify-2lvl>
+			</compassemgroup-2lvl>
+			<compassemgroup-2lvl>
+				<compassem>
+					<name>SEAL, WHEEL</name>
+				</compassem>
+				<qualify-2lvl>
+					<maintfunc func="replace"/>
+					<maintclass-2lvl>
+						<f >0.3</f>
+					</maintclass-2lvl>
+					<terefs>
+						<teref refs="S00003-9-2320-451-TOOL3"/>
+						<teref refs="S00003-9-2320-451-TOOL4"/>
+						<teref refs="S00003-9-2320-451-TOOL5"/>
+					</terefs>
+					<remarkrefs>
+						<remarkref refs="S00003-9-2320-451-REM6"/>
+					</remarkrefs>
+				</qualify-2lvl>
+			</compassemgroup-2lvl>
+		</mac-group-2lvl>
+		<mac-group-2lvl>
+			<groupno>021313</groupno>
+			<compassemgroup-2lvl>
+				<compassem>
+					<name>TIRES, RADIAL, AD SPARE ASSEMBLIES</name>
+				</compassem>
+				<qualify-2lvl>
+					<maintfunc func="inspect"/>
+					<maintclass-2lvl>
+						<c>0.2</c>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="service"/>
+					<maintclass-2lvl>
+						<f >0.5</f>
+					</maintclass-2lvl>
+					<terefs>
+						<teref refs="S00003-9-2320-451-TOOL1"/>
+						<teref refs="S00003-9-2320-451-TOOL4"/>
+					</terefs>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="remove"/>
+					<maintclass-2lvl>
+						<f>0.5</f>
+					</maintclass-2lvl>
+					<terefs>
+						<teref refs="S00003-9-2320-451-TOOL1"/>
+						<teref refs="S00003-9-2320-451-TOOL4"/>
+					</terefs>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="install"/>
+					<maintclass-2lvl>
+						<f>0.5</f>
+					</maintclass-2lvl>
+					<terefs>
+						<teref refs="S00003-9-2320-451-TOOL1"/>
+						<teref refs="S00003-9-2320-451-TOOL4"/>
+					</terefs>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="replace"/>
+					<maintclass-2lvl>
+						<f>1</f>
+					</maintclass-2lvl>
+					<terefs>
+						<teref refs="S00003-9-2320-451-TOOL1"/>
+						<teref refs="S00003-9-2320-451-TOOL4"/>
+					</terefs>
+				</qualify-2lvl>
+			</compassemgroup-2lvl>
+		</mac-group-2lvl>
+		<mac-group-2lvl>
+			<groupno>0215</groupno>
+			<compassemgroup-2lvl>
+				<compassem>
+					<name>FRAME, TOWING ATTACHMENTS</name>
+				</compassem>
+				<qualify-2lvl>
+					<maintfunc func="none"/>
+					<maintclass-2lvl>
+						<c> </c>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+			</compassemgroup-2lvl>
+		</mac-group-2lvl>
+		<mac-group-2lvl>
+			<groupno>021501</groupno>
+			<compassemgroup-2lvl>
+				<compassem>
+					<name>DECK, TDRT</name>
+				</compassem>
+				<qualify-2lvl>
+					<maintfunc func="inspect"/>
+					<maintclass-2lvl>
+						<c>0.1</c>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+			</compassemgroup-2lvl>
+			<compassemgroup-2lvl>
+				<compassem>
+					<name>RAMPS, FOLD DOWN, TAIL</name>
+				</compassem>
+				<qualify-2lvl>
+					<maintfunc func="inspect"/>
+					<maintclass-2lvl>
+						<c >0.1</c>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="service"/>
+					<maintclass-2lvl>
+						<f>0.1</f>
+					</maintclass-2lvl>
+					<terefs>
+						<teref refs="S00003-9-2320-451-TOOL1"/>
+						<teref refs="S00003-9-2320-451-TOOL4"/>
+					</terefs>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="remove"/>
+					<maintclass-2lvl>
+						<f>0.3</f>
+					</maintclass-2lvl>
+					<terefs>
+						<teref refs="S00003-9-2320-451-TOOL1"/>
+						<teref refs="S00003-9-2320-451-TOOL4"/>
+					</terefs>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="install"/>
+					<maintclass-2lvl>
+						<f>0.7</f>
+					</maintclass-2lvl>
+					<terefs>
+						<teref refs="S00003-9-2320-451-TOOL1"/>
+						<teref refs="S00003-9-2320-451-TOOL4"/>
+					</terefs>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="replace"/>
+					<maintclass-2lvl>
+						<f>0.7</f>
+					</maintclass-2lvl>
+					<terefs>
+						<teref refs="S00003-9-2320-451-TOOL1"/>
+						<teref refs="S00003-9-2320-451-TOOL4"/>
+					</terefs>
+				</qualify-2lvl>
+			</compassemgroup-2lvl>
+			<compassemgroup-2lvl>
+				<compassem>
+					<name>CARGO TIEDOWNS, DECK D RINGS</name>
+				</compassem>
+				<qualify-2lvl>
+					<maintfunc func="inspect"/>
+					<maintclass-2lvl>
+						<c>0.1</c>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="service"/>
+					<maintclass-2lvl>
+						<c>0.1</c>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="replace"/>
+					<maintclass-2lvl>
+						<f >1</f>
+					</maintclass-2lvl>
+					<terefs>
+						<teref refs="S00003-9-2320-451-TOOL1"/>
+						<teref refs="S00003-9-2320-451-TOOL4"/>
+					</terefs>
+				</qualify-2lvl>
+			</compassemgroup-2lvl>
+			<compassemgroup-2lvl>
+				<compassem>
+					<name>RAIL/SHIPMENT D RINGS</name>
+				</compassem>
+				<qualify-2lvl>
+					<maintfunc func="inspect"/>
+					<maintclass-2lvl>
+						<c >0.1</c>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="service"/>
+					<maintclass-2lvl>
+						<c>0.1</c>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="replace"/>
+					<maintclass-2lvl>
+						<f>1</f>
+					</maintclass-2lvl>
+					<terefs>
+						<teref refs="S00003-9-2320-451-TOOL3"/>
+						<teref refs="S00003-9-2320-451-TOOL4"/>
+						<teref refs="S00003-9-2320-451-TOOL5"/>
+					</terefs>
+				</qualify-2lvl>
+			</compassemgroup-2lvl>
+			<compassemgroup-2lvl>
+				<compassem>
+					<name>PULL OUT DECK SECTIONS</name>
+				</compassem>
+				<qualify-2lvl>
+					<maintfunc func="inspect"/>
+					<maintclass-2lvl>
+						<c>0.2</c>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="service"/>
+					<maintclass-2lvl>
+						<c>0.5</c>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="remove"/>
+					<maintclass-2lvl>
+						<f >0.5</f>
+					</maintclass-2lvl>
+					<terefs>
+						<teref refs="S00003-9-2320-451-TOOL3"/>
+						<teref refs="S00003-9-2320-451-TOOL4"/>
+						<teref refs="S00003-9-2320-451-TOOL5"/>
+					</terefs>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="install"/>
+					<maintclass-2lvl>
+						<f>0.5</f>
+					</maintclass-2lvl>
+					<terefs>
+						<teref refs="S00003-9-2320-451-TOOL3"/>
+						<teref refs="S00003-9-2320-451-TOOL4"/>
+						<teref refs="S00003-9-2320-451-TOOL5"/>
+					</terefs>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="replace"/>
+					<maintclass-2lvl>
+						<f>1</f>
+					</maintclass-2lvl>
+					<terefs>
+						<teref refs="S00003-9-2320-451-TOOL3"/>
+						<teref refs="S00003-9-2320-451-TOOL4"/>
+						<teref refs="S00003-9-2320-451-TOOL5"/>
+					</terefs>
+				</qualify-2lvl>
+			</compassemgroup-2lvl>
+			<compassemgroup-2lvl>
+				<compassem>
+					<name>VICE</name>
+				</compassem>
+				<qualify-2lvl>
+					<maintfunc func="service"/>
+					<maintclass-2lvl>
+						<c>0.2</c>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+			</compassemgroup-2lvl>
+			<compassemgroup-2lvl>
+				<compassem>
+					<name>CABLE, TROLLY</name>
+				</compassem>
+				<qualify-2lvl>
+					<maintfunc func="inspect"/>
+					<maintclass-2lvl>
+						<c>0.2</c>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="replace"/>
+					<maintclass-2lvl>
+						<f >0.5</f>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+			</compassemgroup-2lvl>
+		</mac-group-2lvl>
+		<mac-group-2lvl>
+			<groupno>021504</groupno>
+			<compassemgroup-2lvl>
+				<compassem>
+					<name>CARRIER, SPARE TIRE</name>
+				</compassem>
+				<qualify-2lvl>
+					<maintfunc func="inspect"/>
+					<maintclass-2lvl>
+						<c>0.1</c>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="replace"/>
+					<maintclass-2lvl>
+						<f >0.5</f>
+					</maintclass-2lvl>
+					<terefs>
+						<teref refs="S00003-9-2320-451-TOOL3"/>
+						<teref refs="S00003-9-2320-451-TOOL4"/>
+						<teref refs="S00003-9-2320-451-TOOL5"/>
+					</terefs>
+				</qualify-2lvl>
+			</compassemgroup-2lvl>
+		</mac-group-2lvl>
+		<mac-group-2lvl>
+			<groupno>021507</groupno>
+			<compassemgroup-2lvl>
+				<compassem>
+					<name>LEGS, LANDING</name>
+				</compassem>
+				<qualify-2lvl>
+					<maintfunc func="inspect"/>
+					<maintclass-2lvl>
+						<c>0.1</c>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="service"/>
+					<maintclass-2lvl>
+						<c >0.1</c>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="replace"/>
+					<maintclass-2lvl>
+						<f>1</f>
+					</maintclass-2lvl>
+					<terefs>
+						<teref refs="S00003-9-2320-451-TOOL3"/>
+						<teref refs="S00003-9-2320-451-TOOL4"/>
+						<teref refs="S00003-9-2320-451-TOOL5"/>
+					</terefs>
+				</qualify-2lvl>
+			</compassemgroup-2lvl>
+		</mac-group-2lvl>
+		<mac-group-2lvl>
+			<groupno>0216</groupno>
+			<compassemgroup-2lvl>
+				<compassem>
+					<name>SUSPENSION</name>
+				</compassem>
+				<qualify-2lvl>
+					<maintfunc func="none"/>
+					<maintclass-2lvl>
+						<c> </c>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+			</compassemgroup-2lvl>
+		</mac-group-2lvl>
+		<mac-group-2lvl>
+			<groupno>021601</groupno>
+			<compassemgroup-2lvl>
+				<compassem>
+					<name>SPRING ASSEMBLY, LEAF</name>
+				</compassem>
+				<qualify-2lvl>
+					<maintfunc func="inspect"/>
+					<maintclass-2lvl>
+						<f>0.2</f>
+					</maintclass-2lvl>
+					<remarkrefs>
+						<remarkref refs="S00003-9-2320-451-REM7"/>
+					</remarkrefs>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="replace"/>
+					<maintclass-2lvl>
+						<f>4</f>
+					</maintclass-2lvl>
+					<terefs>
+						<teref refs="S00003-9-2320-451-TOOL1"/>
+						<teref refs="S00003-9-2320-451-TOOL4"/>
+					</terefs>
+					<remarkrefs>
+						<remarkref refs="S00003-9-2320-451-REM7"/>
+					</remarkrefs>
+				</qualify-2lvl>
+			</compassemgroup-2lvl>
+			<compassemgroup-2lvl>
+				<compassem>
+					<name>TUBE, TRUNION, OVER SLUNG</name>
+				</compassem>
+				<qualify-2lvl>
+					<maintfunc func="inspect"/>
+					<maintclass-2lvl>
+						<f>0.2</f>
+					</maintclass-2lvl>
+					<remarkrefs>
+						<remarkref refs="S00003-9-2320-451-REM7"/>
+					</remarkrefs>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="replace"/>
+					<maintclass-2lvl>
+						<f>4</f>
+					</maintclass-2lvl>
+					<terefs>
+						<teref refs="S00003-9-2320-451-TOOL1"/>
+						<teref refs="S00003-9-2320-451-TOOL4"/>
+					</terefs>
+				</qualify-2lvl>
+			</compassemgroup-2lvl>
+			<compassemgroup-2lvl>
+				<compassem>
+					<name>RUBBER PAD</name>
+				</compassem>
+				<qualify-2lvl>
+					<maintfunc func="inspect"/>
+					<maintclass-2lvl>
+						<c>0.1</c>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="replace"/>
+					<maintclass-2lvl>
+						<f >0.1</f>
+					</maintclass-2lvl>
+					<terefs>
+						<teref refs="S00003-9-2320-451-TOOL1"/>
+						<teref refs="S00003-9-2320-451-TOOL4"/>
+					</terefs>
+				</qualify-2lvl>
+			</compassemgroup-2lvl>
+		</mac-group-2lvl>
+		<mac-group-2lvl>
+			<groupno>021604</groupno>
+			<compassemgroup-2lvl>
+				<compassem>
+					<name>SUSPENSION STOP, POLYURETHANE</name>
+				</compassem>
+				<qualify-2lvl>
+					<maintfunc func="inspect"/>
+					<maintclass-2lvl>
+						<c>0.1</c>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="replace"/>
+					<maintclass-2lvl>
+						<f >0.5</f>
+					</maintclass-2lvl>
+					<terefs>
+						<teref refs="S00003-9-2320-451-TOOL1"/>
+						<teref refs="S00003-9-2320-451-TOOL4"/>
+					</terefs>
+				</qualify-2lvl>
+			</compassemgroup-2lvl>
+		</mac-group-2lvl>
+		<mac-group-2lvl>
+			<groupno>021605</groupno>
+			<compassemgroup-2lvl>
+				<compassem>
+					<name>ROD, STABLIZER ASSEMBLY</name>
+				</compassem>
+				<qualify-2lvl>
+					<maintfunc func="inspect"/>
+					<maintclass-2lvl>
+						<f>0.2</f>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="adjust"/>
+					<maintclass-2lvl>
+						<f >1</f>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="replace"/>
+					<maintclass-2lvl>
+						<f>1</f>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+			</compassemgroup-2lvl>
+		</mac-group-2lvl>
+		<mac-group-2lvl>
+			<groupno>0218</groupno>
+			<compassemgroup-2lvl>
+				<compassem>
+					<name>BODY</name>
+				</compassem>
+				<qualify-2lvl>
+					<maintfunc func="none"/>
+					<maintclass-2lvl>
+						<c> </c>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+			</compassemgroup-2lvl>
+			<compassemgroup-2lvl>
+				<compassem>
+					<name>MUD FLAPS</name>
+				</compassem>
+				<qualify-2lvl>
+					<maintfunc func="inspect"/>
+					<maintclass-2lvl>
+						<c >0.1</c>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="replace"/>
+					<maintclass-2lvl>
+						<f>0.3</f>
+					</maintclass-2lvl>
+					<terefs>
+						<teref refs="S00003-9-2320-451-TOOL3"/>
+						<teref refs="S00003-9-2320-451-TOOL4"/>
+						<teref refs="S00003-9-2320-451-TOOL5"/>
+					</terefs>
+				</qualify-2lvl>
+			</compassemgroup-2lvl>
+			<compassemgroup-2lvl>
+				<compassem>
+					<name>FAIRLEAD, 18K WINCH</name>
+				</compassem>
+				<qualify-2lvl>
+					<maintfunc func="inspect"/>
+					<maintclass-2lvl>
+						<c >0.1</c>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="service"/>
+					<maintclass-2lvl>
+						<f>0.5</f>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="replace"/>
+					<maintclass-2lvl>
+						<f>0.5</f>
+					</maintclass-2lvl>
+					<terefs>
+						<teref refs="S00003-9-2320-451-TOOL3"/>
+						<teref refs="S00003-9-2320-451-TOOL4"/>
+						<teref refs="S00003-9-2320-451-TOOL5"/>
+					</terefs>
+				</qualify-2lvl>
+			</compassemgroup-2lvl>
+			<compassemgroup-2lvl>
+				<compassem>
+					<name>BOX, STOWAGE</name>
+				</compassem>
+				<qualify-2lvl>
+					<maintfunc func="inspect"/>
+					<maintclass-2lvl>
+						<c >0.1</c>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="replace"/>
+					<maintclass-2lvl>
+						<f>1</f>
+					</maintclass-2lvl>
+					<terefs>
+						<teref refs="S00003-9-2320-451-TOOL3"/>
+						<teref refs="S00003-9-2320-451-TOOL4"/>
+						<teref refs="S00003-9-2320-451-TOOL5"/>
+					</terefs>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="repair"/>
+					<maintclass-2lvl>
+						<f>1</f>
+					</maintclass-2lvl>
+					<terefs>
+						<teref refs="S00003-9-2320-451-TOOL3"/>
+						<teref refs="S00003-9-2320-451-TOOL4"/>
+						<teref refs="S00003-9-2320-451-TOOL5"/>
+					</terefs>
+				</qualify-2lvl>
+			</compassemgroup-2lvl>
+		</mac-group-2lvl>
+		<mac-group-2lvl>
+			<groupno>0222</groupno>
+			<compassemgroup-2lvl>
+				<compassem>
+					<name>ACCESSORY ITEMS</name>
+				</compassem>
+				<qualify-2lvl>
+					<maintfunc func="none"/>
+					<maintclass-2lvl>
+						<c> </c>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+			</compassemgroup-2lvl>
+		</mac-group-2lvl>
+		<mac-group-2lvl>
+			<groupno>022210</groupno>
+			<compassemgroup-2lvl>
+				<compassem>
+					<name>PLATES, DATA AND DECALS</name>
+				</compassem>
+				<qualify-2lvl>
+					<maintfunc func="replace"/>
+					<maintclass-2lvl>
+						<f>0.5</f>
+					</maintclass-2lvl>
+					<terefs>
+						<teref refs="S00003-9-2320-451-TOOL5"/>
+					</terefs>
+				</qualify-2lvl>
+			</compassemgroup-2lvl>
+		</mac-group-2lvl>
+		<mac-group-2lvl>
+			<groupno>0242</groupno>
+			<compassemgroup-2lvl>
+				<compassem>
+					<name>ELECTRICAL EQUIPMENT</name>
+				</compassem>
+				<qualify-2lvl>
+					<maintfunc func="none"/>
+					<maintclass-2lvl>
+						<c> </c>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+			</compassemgroup-2lvl>
+		</mac-group-2lvl>
+		<mac-group-2lvl>
+			<groupno>024209</groupno>
+			<compassemgroup-2lvl>
+				<compassem>
+					<name>LIGHT, WARNING ABS</name>
+				</compassem>
+				<qualify-2lvl>
+					<maintfunc func="inspect"/>
+					<maintclass-2lvl>
+						<c>0.1</c>
+					</maintclass-2lvl>
+					<remarkrefs>
+						<remarkref refs="S00003-9-2320-451-REM1"/>
+					</remarkrefs>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="replace"/>
+					<maintclass-2lvl>
+						<f>0.2</f>
+					</maintclass-2lvl>
+					<terefs>
+						<teref refs="S00003-9-2320-451-TOOL3"/>
+						<teref refs="S00003-9-2320-451-TOOL4"/>
+						<teref refs="S00003-9-2320-451-TOOL5"/>
+					</terefs>
+					<remarkrefs>
+						<remarkref refs="S00003-9-2320-451-REM1"/>
+					</remarkrefs>
+				</qualify-2lvl>
+			</compassemgroup-2lvl>
+		</mac-group-2lvl>
+		<mac-group-2lvl>
+			<groupno>0243</groupno>
+			<compassemgroup-2lvl>
+				<compassem>
+					<name>HYDRAULIC, FLUID, AIR, AND VACUUM SYSTEMS</name>
+				</compassem>
+				<qualify-2lvl>
+					<maintfunc func="none"/>
+					<maintclass-2lvl>
+						<c> </c>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+			</compassemgroup-2lvl>
+		</mac-group-2lvl>
+		<mac-group-2lvl>
+			<groupno>024319</groupno>
+			<compassemgroup-2lvl>
+				<compassem>
+					<name>PIN, AXLE LOCKING</name>
+				</compassem>
+				<qualify-2lvl>
+					<maintfunc func="inspect"/>
+					<maintclass-2lvl>
+						<c>0.2</c>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="replace"/>
+					<maintclass-2lvl>
+						<f>2</f>
+					</maintclass-2lvl>
+					<terefs>
+						<teref refs="S00003-9-2320-451-TOOL3"/>
+						<teref refs="S00003-9-2320-451-TOOL4"/>
+						<teref refs="S00003-9-2320-451-TOOL5"/>
+					</terefs>
+				</qualify-2lvl>
+			</compassemgroup-2lvl>
+			<compassemgroup-2lvl>
+				<compassem>
+					<name>CONROL, LOCK PIN</name>
+				</compassem>
+				<qualify-2lvl>
+					<maintfunc func="inspect"/>
+					<maintclass-2lvl>
+						<c >0.1</c>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="replace"/>
+					<maintclass-2lvl>
+						<f>0.2</f>
+					</maintclass-2lvl>
+					<terefs>
+						<teref refs="S00003-9-2320-451-TOOL3"/>
+						<teref refs="S00003-9-2320-451-TOOL4"/>
+						<teref refs="S00003-9-2320-451-TOOL5"/>
+					</terefs>
+				</qualify-2lvl>
+			</compassemgroup-2lvl>
+			<compassemgroup-2lvl>
+				<compassem>
+					<name>LIFT AXLE/ LOCKING CONTROL PANEL</name>
+				</compassem>
+				<qualify-2lvl>
+					<maintfunc func="replace"/>
+					<maintclass-2lvl>
+						<f>1</f>
+					</maintclass-2lvl>
+					<terefs>
+						<teref refs="S00003-9-2320-451-TOOL3"/>
+						<teref refs="S00003-9-2320-451-TOOL4"/>
+						<teref refs="S00003-9-2320-451-TOOL5"/>
+					</terefs>
+				</qualify-2lvl>
+			</compassemgroup-2lvl>
+		</mac-group-2lvl>
+		<mac-group-2lvl>
+			<groupno>024321</groupno>
+			<compassemgroup-2lvl>
+				<compassem>
+					<name>RESERVOIR, AIR (LIFT)</name>
+				</compassem>
+				<qualify-2lvl>
+					<maintfunc func="inspect"/>
+					<maintclass-2lvl>
+						<c>0.1</c>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="service"/>
+					<maintclass-2lvl>
+						<c >0.1</c>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="replace"/>
+					<maintclass-2lvl>
+						<f>1.5</f>
+					</maintclass-2lvl>
+					<terefs>
+						<teref refs="S00003-9-2320-451-TOOL3"/>
+						<teref refs="S00003-9-2320-451-TOOL4"/>
+						<teref refs="S00003-9-2320-451-TOOL5"/>
+					</terefs>
+				</qualify-2lvl>
+			</compassemgroup-2lvl>
+		</mac-group-2lvl>
+		<mac-group-2lvl>
+			<groupno>0247</groupno>
+			<compassemgroup-2lvl>
+				<compassem>
+					<name>GAGES (NON-ELECTRICAL)</name>
+				</compassem>
+				<qualify-2lvl>
+					<maintfunc func="none"/>
+					<maintclass-2lvl>
+						<c> </c>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+			</compassemgroup-2lvl>
+		</mac-group-2lvl>
+		<mac-group-2lvl>
+			<groupno>027401</groupno>
+			<compassemgroup-2lvl>
+				<compassem>
+					<name>HUBODOMETER</name>
+				</compassem>
+				<qualify-2lvl>
+					<maintfunc func="inspect"/>
+					<maintclass-2lvl>
+						<f>0.2</f>
+					</maintclass-2lvl>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="remove"/>
+					<maintclass-2lvl>
+						<f>0.4</f>
+					</maintclass-2lvl>
+					<terefs>
+						<teref refs="S00003-9-2320-451-TOOL3"/>
+						<teref refs="S00003-9-2320-451-TOOL4"/>
+						<teref refs="S00003-9-2320-451-TOOL5"/>
+					</terefs>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="install"/>
+					<maintclass-2lvl>
+						<f>0.4</f>
+					</maintclass-2lvl>
+					<terefs>
+						<teref refs="S00003-9-2320-451-TOOL3"/>
+						<teref refs="S00003-9-2320-451-TOOL4"/>
+						<teref refs="S00003-9-2320-451-TOOL5"/>
+					</terefs>
+				</qualify-2lvl>
+				<qualify-2lvl>
+					<maintfunc func="replace"/>
+					<maintclass-2lvl>
+						<f>0.6</f>
+					</maintclass-2lvl>
+					<terefs>
+						<teref refs="S00003-9-2320-451-TOOL3"/>
+						<teref refs="S00003-9-2320-451-TOOL4"/>
+						<teref refs="S00003-9-2320-451-TOOL5"/>
+					</terefs>
+				</qualify-2lvl>
+			</compassemgroup-2lvl>
+		</mac-group-2lvl>
+	</mac>
+	<tereqtab>
+		<?Pub Dtl?>
+		<title>Tools and Test Equipment for MODULAR CATASTROPHIC RECOVERY SYSTEM (MCRS) </title>
+		<teref-group>
+			<terefcode id="S00003-9-2320-451-TOOL1">1</terefcode>
+			<maintenance lvl="f"/>
+			<name>FORWARD REPAIR SYSTEM</name>
+			<nsn>
+				<fsc>4940</fsc>
+				<niin>-01-463-7940</niin>
+			</nsn>
+			<toolno>SC4940-95-E41 (19204)</toolno>
+		</teref-group>
+		<teref-group>
+			<terefcode id="S00003-9-2320-451-TOOL2">2</terefcode>
+			<maintenance lvl="f"/>
+			<name>SHOP EQUIPMENT, WELDING</name>
+			<nsn>
+				<fsc>3470</fsc>
+				<niin>-00-357-7268</niin>
+			</nsn>
+			<toolno>SC3470-95CLA08 (19204)</toolno>
+		</teref-group>
+		<teref-group>
+			<terefcode id="S00003-9-2320-451-TOOL3">3</terefcode>
+			<maintenance lvl="f"/>
+			<name>TOOL, CYLINDER ALIGNMENT</name>
+			<nsn>
+				<fsc></fsc>
+				<niin></niin>
+			</nsn>
+			<toolno>1084-1 (1BZD4)</toolno>
+		</teref-group>
+		<teref-group>
+			<terefcode id="S00003-9-2320-451-TOOL4">4</terefcode>
+			<maintenance lvl="f"/>
+			<name>TOOL KIT, GENERAL MECHANICS</name>
+			<nsn>
+				<fsc>5180</fsc>
+				<niin >-00-177-7033</niin>
+			</nsn>
+			<toolno>SC5180-90-CL-N26 (50980)</toolno>
+		</teref-group>
+		<teref-group>
+			<terefcode id="S00003-9-2320-451-TOOL5">5</terefcode>
+			<maintenance lvl="f"/>
+			<name>TOOL SET, SATS, BASE</name>
+			<nsn>
+				<fsc>4910</fsc>
+				<niin>-01-490-6453</niin>
+			</nsn>
+			<toolno>KTC-S2000 (00NS2)</toolno>
+		</teref-group>
+		<teref-group>
+			<terefcode id="S00003-9-2320-451-TOOL6">6</terefcode>
+			<maintenance lvl="f"/>
+			<name>TOOL SET, SATS, MOD 1</name>
+			<nsn>
+				<fsc>4910</fsc>
+				<niin>-01-501-7342</niin>
+			</nsn>
+			<toolno>SC4910-95-A82 (19204)</toolno>
+		</teref-group>
+		<teref-group>
+			<terefcode id="S00003-9-2320-451-TOOL7">7</terefcode>
+			<maintenance lvl="f"/>
+			<name>TOOL SET, SATS, MOD 2</name>
+			<nsn>
+				<fsc>4910</fsc>
+				<niin>-01-501-7343</niin>
+			</nsn>
+			<toolno>SC4910-95-A83 (19204)</toolno>
+		</teref-group>
+		<teref-group>
+			<terefcode id="S00003-9-2320-451-TOOL8">8</terefcode>
+			<maintenance lvl="f"/>
+			<name>WRENCH SET, WHEEL BEARING</name>
+			<nsn>
+				<fsc></fsc>
+				<niin></niin>
+			</nsn>
+			<toolno>9851 (33287)</toolno>
+		</teref-group>
+		<teref-group>
+			<terefcode id="S00003-9-2320-451-TOOL9">9</terefcode>
+			<maintenance lvl="f"/>
+			<name>WRENCH, TORQUE (0-200 lb-in (0-22.6 Nm))</name>
+			<nsn>
+				<fsc >5120</fsc>
+				<niin>-00-853-4538</niin>
+			</nsn>
+			<toolno>B107.300 (05047)</toolno>
+		</teref-group>
+		<teref-group>
+			<terefcode id="S00003-9-2320-451-TOOL10">10</terefcode>
+			<maintenance lvl="f"/>
+			<name>WRENCH, TORQUE (0-600 lb-ft (0-813 Nm))</name>
+			<nsn>
+				<fsc>5120</fsc>
+				<niin>-00-221-7983</niin>
+			</nsn>
+			<toolno>B107.300 (05047)</toolno>
+		</teref-group>
+	</tereqtab>
+	<remarktab>
+		<?Pub Dtl?>
+		<title>Remarks for Modular Catastrophic Recovery System (MCRS) </title>
+		<remark-group>
+			<remarkcode id="S00003-9-2320-451-REM1">A</remarkcode>
+			<remarks> Dielectric grease must be used on pins and connectors </remarks>
+		</remark-group>
+		<remark-group>
+			<remarkcode id="S00003-9-2320-451-REM2">B</remarkcode>
+			<remarks> Crew checks axle alignment only </remarks>
+		</remark-group>
+		<remark-group>
+			<remarkcode id="S00003-9-2320-451-REM3">C</remarkcode>
+			<remarks> The cylinder alignment tool (1BZD4) 1084-1, is supplied with each cylinder when shipped to the unit </remarks>
+		</remark-group>
+		<remark-group>
+			<remarkcode id="S00003-9-2320-451-REM4">D</remarkcode>
+			<remarks> Times are for one axle end only </remarks>
+		</remark-group>
+		<remark-group>
+			<remarkcode id="S00003-9-2320-451-REM5">E</remarkcode>
+			<remarks> Component comes as an assembly only </remarks>
+		</remark-group>
+		<remark-group>
+			<remarkcode id="S00003-9-2320-451-REM6">F</remarkcode>
+			<remarks> A correct size seal driver must be used to prevent damage/coxking of the seal. Hub bore must be clean and seal bottomed </remarks>
+		</remark-group>
+		<remark-group>
+			<remarkcode id="S00003-9-2320-451-REM7">G</remarkcode>
+			<remarks> New suspension hardware requires wet (oiled) torque valves. In service harware requires dry torque values. </remarks>
+		</remark-group>
+	</remarktab>
+</macwp>

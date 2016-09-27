@@ -1,0 +1,79 @@
+<maintwp chngno="0" wpno="M00047-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="maintainer"/>
+			<title>MAINTAINER MAINTENANCE - MAST FRAME PIVOT PIN REPLACE</title>
+	</wpidinfo>
+	<initial_setup>
+		<tools>
+			<tools-setup-item>
+				<name>Tool Kit, General Mechanics</name>
+				<itemref>
+					<xref itemid="S00007-9-2320-451-TOOL-4" wpid="S00007-9-2320-451"/>
+				</itemref>
+			</tools-setup-item>
+		</tools>
+		<mtrlpart>
+			<mtrlpart-setup-item>
+				<name>Nut, Self-Locking (4)</name>
+			</mtrlpart-setup-item>
+		</mtrlpart>
+		<persnreq>
+			<persnreq-setup-item>
+				<name>Motor Transport Operator</name>
+				<mos>88M</mos>
+				<qty>2</qty>
+			</persnreq-setup-item>
+		</persnreq>
+		<eqpconds>
+			<eqpconds-setup-item>
+				<condition>Fifth Wheel Towing and Recovery Device in storage configuration <xref wpid="O00036-9-2320-451"/>.</condition>
+			</eqpconds-setup-item>
+		</eqpconds>
+	</initial_setup>
+	<maintsk>
+		<replace>
+			<proc>
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>There are two mast frame assembly pivot pins. Both are removed the same way.</trim.para>
+						</note>
+						<para>Remove two bolts <callout assocfig="M00047-9-2320-451-F0001" label ="1"/> and locknuts from pivot pin <callout assocfig="M00047-9-2320-451-F0001" label ="2"/>.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Remove pivot pin from mast frame <callout assocfig="M00047-9-2320-451-F0001" label ="3"/> and boom assembly <callout assocfig="M00047-9-2320-451-F0001" label ="4"/>.</para>
+				</step1>
+				<step1>
+					<para>Obtain serviceable item.</para>
+				</step1>
+				<step1>
+					<para>Position boom assembly on mast frame and align holes.</para>
+				</step1>
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>Keep hole aligned with bolt hole and Mast section.</trim.para>
+						</note>
+						<para>Insert pivot pin.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Secure pivot pin with bolt and serviceable locknut.</para>
+				</step1>
+				<step1>
+					<para>Spot and drill remaining side of pivot pin.</para>
+				</step1>
+				<step1>
+					<para>Secure pivot pin with bolt and serviceable locknut.</para>
+				</step1>
+
+					<figure id="M00047-9-2320-451-F0001">
+					<title>Pivot Pin Replacement Assembly.</title>
+					<graphic boardno="G06232000300"/>
+					</figure>
+
+			</proc>
+		</replace>
+	</maintsk>
+</maintwp>

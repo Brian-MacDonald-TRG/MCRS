@@ -1,0 +1,170 @@
+<opusualwp chngno="0" wpno="O00042-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="crew"/>
+			<title>Operation Under Usual Conditions - OPERATING PROCEDURES - OFFLOADING VEHICLES FROM THE TDRT</title>
+	</wpidinfo>
+	<initial_setup>
+		<persnreq>
+			<persnreq-setup-item>
+				<name>Wheeled Vehicle Mechanic</name>
+				<mos>91B</mos>
+				<qty>2</qty>
+			</persnreq-setup-item>
+		</persnreq>
+		<eqpconds>
+			<eqpconds-setup-item>
+				<condition>TDRT Loaded IAW <xref wpid="O00026-9-2320-451"/></condition>
+			</eqpconds-setup-item>
+		</eqpconds>
+	</initial_setup>
+	<opertsk>
+		<oper>
+			<proc>
+				<step1>
+					<specpara>
+						<warning>
+							<icon-set boardno="Heavy_Parts-wall"/>
+							<icon-set boardno="Heavy_Parts-above"/>
+							<trim.para>Offloading should be done by two people, the first person in the prime mover cab and the second acting as a ground guide. The person in the prime mover cab must keep the ground guide in sight at all times. All other personnel should stand completely clear of the area. A crush hazard exists. Failure to comply may result in serious injury or death to personnel.</trim.para>
+						</warning>
+						<para>Position the MCRS in front of the area that the disabled vehicle will be offloaded. Leave enough distance to allow for the TDRT deck to be slid backward and tilted for offloading.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>At the TDRT Control Panel, release the air lock pin by pulling the knob <callout assocfig="O00042-9-2320-451-F0001" label="1"/> out and turning clockwise, and pull the knob <callout assocfig="O00042-9-2320-451-F0001" label="2"/> out to "unload" the lift axle.
+					</para>
+				</step1>
+				<figure id="O00042-9-2320-451-F0001">
+					<title>TDRT Control Panel</title>
+					<graphic boardno="G06232000192"></graphic>
+				</figure>
+				<step1>
+					<para>Release the prime mover and trailer brakes.
+					</para>
+				</step1>
+				<step1>
+					<para>Using the trailer brake lever to hold the TDRT axle brakes, back the TDRT deck until the sliding axle section contacts the forward stops <xref figid="O00042-9-2320-451-F0002"/>.
+					</para>
+				</step1>
+				<figure id="O00042-9-2320-451-F0002">
+					<title>TDRT Deck Slid to Rear</title>
+					<graphic boardno="G06232000188"></graphic>
+				</figure>
+				<step1>
+					<para>Set the brakes on the prime mover. Leave the TDRT brakes released until deck is tilted.
+					</para>
+				</step1>
+				<step1>
+					<para>Remove the FWTRD remote control from the tool box and bring to the driver side of the FWTRD.
+					</para>
+				</step1>
+				<step1>
+					<para>Ensure PTO is engaged on prime mover IAW prime mover TM.
+					</para>
+				</step1>
+				<step1>
+					<specpara>
+						<warning>
+							<icon-set boardno="Heavy_Parts-hand"/> 
+							<icon-set boardno="Sharp_Object-in_hand"/> 
+							<trim.para>All personnel must stand clear at a distance equal to the length of cable during winching operations. A snapped cable or shifting load could strike personnel causing injury or death to personnel.</trim.para>
+
+							<trim.para>Winch cable can become frayed or contain broken wires. Wear heavy leather-palmed work gloves when handling Winch cable. Frayed or broken wire can injure hands. Never let a winch cable slide through hands, even when wearing gloves. A broken wire could cut through glove and cut hand.</trim.para>
+
+							<trim.para>Refer to <extref docno="FM 5-125"/> or <extref docno="FM 4-30.31"/> for inspection of winch cable. A damaged winch cable, under load, could fail suddenly and strike personnel, and could cause the vehicle being recovered to shift suddenly creating a crush hazard. Failure to comply can result in injury or death to personnel.</trim.para>
+						</warning>
+						<note>
+							<trim.para>The following step assumes that the 35K FWTRD Winch was used for loading the TDRT, and that the winch cable and rigging was not removed for transport. If the 45K winch was used in loading the TDRT, it will be necessary to place the 45K winch cable through the FWTRD winching sheave and reattach it to the rigging on the disabled vehicle. Follow instructions in the prime mover TM for working with the 45K winch. 
+							</trim.para>
+						</note>
+						<para>Using the remote control, “Retract” the 35K winch to take the slack out of the winch cable and rigging on the disabled vehicle.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Check the rigging.
+					</para>
+				</step1>
+				<step1>
+					<para>Remove and stow the chains and binders from the disabled vehicle at the rear of the TDRT.
+					</para>
+				</step1>
+				<step1 id="O00042-9-2320-451-S0011">
+					<specpara>
+						<warning>
+							<icon-set boardno="Heavy_Parts-above"/>
+							<icon-set boardno="Heavy_Parts-foot"/>
+							<icon-set boardno="Heavy_Parts-hand"/>
+							<icon-set boardno="Heavy_Parts-wall"/>
+							<trim.para>The 45K or 35K winch should always be connected to the disabled vehicle when offloading the TDRT. When using the 18K to assist offloading a disabled vehicle, failure to have the 45K or 35K controlling the decent down the trailer deck could result in a disabled vehicle suddenly moving freely which may result in death or injury to personnel</trim.para>
+							<trim.para>Perform the setup of the 18K winch for offloading assist when the TDRT deck is still level, prior to sliding the axles for tilting. This reduces the chance of the disabled vehicle shifting suddenly creating a crush hazard. Failure to comply may result in injury or death to personnel.</trim.para>
+						</warning>
+						<note>
+							<trim.para><xref stepstart="O00042-9-2320-451-S0011" stepend="O00042-9-2320-451-S0013"/> are for using the 18K winch to assist in offloading a disabled vehicle with damage that prevents the vehicle from freely rolling off the TDRT deck as the 35/45K winch cable is paid out. If the disabled vehicle rolls freely skip to <xref stepstart="O00042-9-2320-451-S0014"/>.
+							</trim.para>
+						</note>
+						<para>Attach the 18K snatch block to one of the tie down rings at the rear of the TDRT.
+						</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Free spool the 18K cable and bring it up and through the fairlead on the headboard of the TDRT down through the snatch block, and then back toward the head of the TDRT and secure to a tie down point on the disabled vehicle. <xref figid="O00042-9-2320-451-F0003"/></para>
+				</step1>
+				<figure id="O00042-9-2320-451-F0003">
+					<title>Offloading Assist With 18K Winch</title>
+					<graphic boardno="G06232000136"></graphic>
+				</figure>
+				<step1 id="O00042-9-2320-451-S0013">
+					<para>Once the TDRT is tilted for offloading (steps 15 &amp; 16), use the remote control to bring the 18K winch cable "IN" as the 35K/45K winch is paid "OUT". This will assist moving a disabled vehicle down the ramp. Once the vehicle is partially off the deck, disconnect the 18K cable and continue offload procedures.</para>
+				</step1>
+				<step1 id="O00042-9-2320-451-S0014">
+					<para>Remove and stow the chains and binders from the disabled vehicle at the front of the TDRT.</para>
+				</step1>
+				<step1>
+					<specpara>
+						<warning>
+							<icon-set boardno="Heavy_Parts-above"/>
+							<icon-set boardno="Heavy_Parts-foot"/>
+							<icon-set boardno="Heavy_Parts-hand"/>
+							<icon-set boardno="Heavy_Parts-wall"/>
+							<trim.para>All personnel not involved in offloading should stand completely clear of the area. A crush hazard exists. Failure to comply may result in serious injury or death to personnel.</trim.para>
+						</warning>
+						<note>
+							<trim.para>The 35K/45K winch cable may need to be adjusted as the TDRT deck is tilted.
+							</trim.para>
+						</note>
+						<para>Using the remote control, boom "EXTEND" to tilt the TDRT deck to the ground.
+						</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Using an assistant, unfold the TDRT ramp sections.</para>
+				</step1>
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>If using the 18K winch to assist in offloading along with the 35K winch it will be necessary to use the FWTRD mounted diverter to alternate control between the 18K and 35K winches.
+							</trim.para>
+						</note>
+						<para>Using the remote control, winch “OUT” to pay out the cable and offload the disabled vehicle.
+						</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Once the disabled vehicle is completely off the TDRT deck, place chock blocks on the disabled vehicle.</para>
+				</step1>
+				<step1>
+					<para>Remove the winch cable and rigging from the disabled vehicle.</para>
+				</step1>
+				<step1>
+					<para>Using an assistant, fold the TDRT ramps back onto the TDRT.</para>
+				</step1>
+				<step1>
+					<para>Place the TDRT back into transport configuration IAW WP <xref figid="O00024-9-2320-451"/>.</para>
+				</step1>
+				<step1>
+					<para>Stow the winch cable.</para>
+				</step1>
+			</proc>
+		</oper>
+	</opertsk>
+</opusualwp>

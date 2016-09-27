@@ -1,0 +1,201 @@
+<opusualwp chngno="0" wpno="O00025-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="crew"/>
+		<title>Operation Under Usual Conditions - OPERATING PROCEDURES - PREPARING THE TDRT FOR LOADING</title>
+	</wpidinfo>
+	<initial_setup>
+		<tools>
+			<tools-setup-item>
+				<name>Gladhand Adapter</name>
+			</tools-setup-item>
+			<tools-setup-item>
+				<name>Air Hose</name>
+			</tools-setup-item>
+			<tools-setup-item>
+				<name>Air Ratchet</name>
+			</tools-setup-item>
+			<tools-setup-item>
+				<name>3 IN Square Adapter</name>
+			</tools-setup-item>
+		</tools>
+		<persnreq>
+			<persnreq-setup-item>
+				<name>Wheeled Vehicle Mechanic</name>
+				<mos>91B</mos>
+				<qty>1</qty>
+			</persnreq-setup-item>
+		</persnreq>
+		<eqpconds>
+			<eqpconds-setup-item>
+				<condition>TDRT coupled to the FWTRD in the Transport Configuration <xref wpid="O00024-9-2320-451"/>.</condition>
+			</eqpconds-setup-item>
+		</eqpconds>
+	</initial_setup>
+	<opertsk>
+		<oper>
+			<proc>
+				<step1 id="O00025-9-2320-451-S00001">
+					<specpara>
+						<warning>
+							<icon-set boardno="Flying_Particles_wShield"/>
+							<icon-set boardno="Heavy_Parts-above"/>
+							<icon-set boardno="Heavy_Parts-foot"/>
+							<icon-set boardno="Heavy_Parts-hand"/>
+							<icon-set boardno="Heavy_Parts-wall"/>
+							<trim.para>Air up to 120 psi pressure is used in the operation of the air tools. Be sure to wear the proper eye protection (safety glasses) when working air tools to avoid personal injury or death.</trim.para>
+							<trim.para>The TDRT deck pull-out sections weigh 158lbs (71.66Kg). There are stops to prevent the pull-outs from coming out of the deck completely, but caution should be exercised when positioning the pull-outs to prevent injury to personnel.</trim.para>
+							<trim.para>There are several pinch points when positioning the deck pullouts. Always use the Hand Holes when pulling out or pushing in the sections. Failure to comply may result in serious injury to personnel.</trim.para>
+							<trim.para>The hand holes in the side plates of the TDRT drawers are not intended for use in securing vehicles with chains. They are not rated for tie-down and could fail allowing a vehicle to break free during transport creating a crush hazard. Failure to comply may result in serious injury or death to personnel and or damage to equipment.</trim.para>
+						</warning>
+						<note>
+							<trim.para>The deck of the TDRT has the ability to go from 102" wide (standard DOT width) to 114" wide to accommodate varying vehicle configurations. The TDRT deck must be secured in one of these configurations prior to operating or loading.</trim.para>
+							<trim.para>These instructions describe bringing the deck out to the 114 inch configuration</trim.para>
+							<trim.para>Set screws do not need to be removed to position pull-outs.</trim.para>
+						</note>
+						<para>Loosen six set screws <callout assocfig="O00025-9-2320-451-F0001" label="1"/>  that secures the deck pull out.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Use hand holds <callout assocfig="O00025-9-2320-451-F0001" label="2"/> to position pull outs.</para>
+				</step1>
+					<figure id="O00025-9-2320-451-F0001">
+					<title>Pull-out Set Screws</title>
+					<graphic boardno="G06232000181"></graphic>
+					</figure>
+				<step1 id="O00025-9-2320-451-S00003">
+					<specpara>
+						<note>
+							<trim.para>As the set screws secure the pull-out, the edge of the pull-out section should align evenly with the TDRT main deck</trim.para>
+						</note>
+							<para>Starting with the center two set screws of each pull-out, tighten six set screws to 80ft lbs.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<specpara>
+						<warning>
+							<icon-set boardno="Flying_Particles_wShield"/>
+							<icon-set boardno="Sharp_Object-in_hand"/>
+							<trim.para>If backing the TDRT is required, it should be done by two people, the first person in the prime mover cab and the second acting as a ground guide. The person in the prime mover cab must keep the ground guide in sight at all times. All other personnel should stand completely clear of the area. A crush hazard exists. Failure to comply may result in serious injury or death to personnel.</trim.para>
+							<trim.para>All persons not involved in the loading or unloading operation must stand clear the full length of prime mover and Tilt Deck Recovery Trailer. A crush hazard exists. Failure to comply may result in injury or death to personnel.</trim.para>
+							<trim.para>The tail sections of the TDRT weigh 175lbs each (79.38Kg). Two people should be used to unfold the ramp sections. Caution should be exercised when handling these components. Failure to comply may result in injury or to personnel.</trim.para>
+							<trim.para>The prime mover winch may be utilized when loading the TDRT. All personnel must stand clear a distance twice the length of the cable during winching operations. A snapped cable or shifting load could cause injury or death to personnel.</trim.para>
+							<trim.para>Ensure the winch cable has at least 5 wraps on the winch drum before operating reel. Failure to comply could result in the cable giving way under load and could result in injury or death to personnel.</trim.para>
+							<trim.para>Winch cables can become frayed or contain broken wires. Wear heavy leather-palmed work gloves when handling winch cables. Frayed or broken wire can injure hands. Never let a winch cable slide through hands, even when wearing gloves. A broken wire could cut through glove and cut hand.</trim.para>
+							<trim.para>Refer to <extref docno="FM 5-125"/> "Rigging Techniques, Procedures, and Applications" for inspection of winch cables. A damaged winch cable, under load, could fail suddenly and strike personnel, and could cause the vehicle being recovered to shift suddenly creating a crush hazard. Failure to comply can result in injury or death to personnel.</trim.para>
+							<trim.para>While working with the heavy duty winches on the FWTRD, and loading a disabled vehicle onto the TDRT it may be necessary to climb on and walk on the equipment. Always use steps, ladders, and designated walking areas when on the equipment and maintain 3 points of contact with the FWTRD when working around the winching sheave of the FWTRD. Failure to comply may result in slips or falls resulting in serious injury or death to personnel.</trim.para>
+						</warning>
+						<note>
+							<trim.para>TDRT Deck is now set to 114 inch wide position <callout assocfig="O00025-9-2320-451-F0002" label="1"/>. </trim.para>
+							<trim.para> <xref stepend="O00025-9-2320-451-S00003" stepstart="O00025-9-2320-451-S00001"/> are followed in the same manner to return the drawers to the 102 inch position <callout assocfig="O00025-9-2320-451-F0002" label="2"/>.</trim.para>
+						</note>
+						<para>Position the TDRT in front of and aligned with the disabled vehicle to be loaded, leaving space for the TDRT deck to be slid rearward prior to tilting.</para>
+					</specpara>
+				</step1>
+					<figure id="O00025-9-2320-451-F0002">
+					<title>TDRT Deck Pull-out 102 inch Width and 114 inch Width</title>
+					<graphic boardno="G06232000179"></graphic>
+				</figure>
+				<step1>
+					<para>Set the trailer brakes.</para>
+				</step1>
+				<step1>
+					<para>Gain access to 35k winch. Lift free spool lever to the up position.</para>
+				</step1>
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>Leave the winch in free spool mode until the trailer is configured for loading.</trim.para>
+							<trim.para>If the operator determines that the 45K winch is required, refer to <extref docno="Prime Mover TM 9-2320-340-10"/>. If operator determins tandem 45K/35K winching is required, refer to <xref wpid=O00018-9-2320-451> XXXX for specific operational instructions.</trim.para>
+						</note>
+						<para>Route and secure the 35k winch cable through the double sheave <callout assocfig="O00025-9-2320-451-F0003" label="1"/>.</para>
+					</specpara>
+				</step1>
+					<figure id="O00025-9-2320-451-F0003">
+					<title>Winch Cable Through Sheave</title>
+					<graphic boardno="G06232000183"></graphic>
+					</figure>
+				<step1>
+					<para>Route the winch cable down to the deck of the TDRT.</para>
+				</step1>
+
+				<step1>
+					<para>Start prime mover, release the trailer brakes, and allow full air pressure to build in the system.</para>
+				</step1>
+				<step1>
+					<para> Gain acces to the TDRT control panel. Pull the air lock pin knob <callout assocfig="O00025-9-2320-451-F0004" label="1"/> out position and rotate clockwise.</para>
+				</step1>
+				<step1>
+					<para>Pull the lift axle knob <callout assocfig="O00025-9-2320-451-F0004" label="2"/> outward to the UNLOADED position.</para>
+				</step1>
+					<figure id="O00025-9-2320-451-F0004">
+					<title>TDRT Air Lock Pin and Lift Axle Knobs</title>
+					<graphic boardno="G06232000184"></graphic>
+				</figure>
+				<step1>
+					<para>Release the prime mover brakes.</para>
+				</step1>
+				<step1>
+					<para>Using the trailer brake lever to hold the TDRT axle brakes, back the TDRT deck until the sliding axle section contacts the forward stops <xref figid="O00014-9-2320-451-F0005"/>.</para>
+				</step1>
+
+					<figure id="O00025-9-2320-451-F0005">
+					<title>TDRT Deck Slid to the Rear. TDRT Axles Held by Trailer Parking Brake Control Lever</title>
+					<graphic boardno="G06232000185"></graphic>
+					</figure>
+
+				<step1>
+					<para>Set the trailer brakes on the Prime Mover. Leave the TDRT brakes released until deck is tilted.</para>
+				</step1>
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>The following steps place the deck of the TDRT in the tilted position. This will place the FWTRD control valve levers in a position not easily reached while standing on the ground. It is recommended that the FWTRD handheld remote be utilized for the following steps. The following steps may require a step aid.</trim.para>
+						</note>
+						<para>Remove the FWTRD remote control from the tool box and bring to the driver side of the FWTRD.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Ensure PTO is engaged on prime mover IAW prime mover TM.</para>
+				</step1>
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>The Mast is currently pinned at the second hole from coupling/transport. Unless additional adjustment is needed after tilting the deck, the mast can stay pinned in the second hole location. This makes tilting and loading the TDRT a "boom" function operation.</trim.para>
+						</note>
+						<para>Power on the remote control.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Using the remote control, BOOM EXTEND until Center Ram lock pin loosens. Remove and stow pin.</para>
+				</step1>
+				<step1>
+					<para>BOOM EXTEND until the trailer deck nears the ground.</para>
+				</step1>
+				<step1>
+					<para>Once fully tilted, set the trailer brakes.</para>
+				</step1>
+				<step1>
+					<specpara>
+						<warning>
+							<icon-set boardno="Heavy_Object"/>
+							<trim.para>The ramp sections of the TDRT weigh 175lbs each (79.38Kg). Two people should be used to unfold the ramp sections. Caution should be exercised when handling these components. Failure to comply may result in injury or death to personnel.</trim.para>
+						</warning>
+						<note>
+							<trim.para>When folding the tail sections out for loading, start with the center section first. Then if extra width is needed, pull the two side sections out to the side prior to unfolding.</trim.para>
+						</note>
+						<para>Fold out the TDRT tail sections.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>The TDRT is now ready for loading.</para>
+				</step1>
+				
+					<figure id="O00025-9-2320-451-F0006">
+					<title>Deck Tilted. Outer Tail Section Shown Moved to Wide Position (inset)</title>
+					<graphic boardno="G06232000186"></graphic>
+					</figure>
+
+			</proc>
+		</oper>
+	</opertsk>
+</opusualwp>

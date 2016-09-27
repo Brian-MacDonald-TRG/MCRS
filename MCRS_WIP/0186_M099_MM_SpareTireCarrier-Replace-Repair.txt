@@ -1,0 +1,155 @@
+<maintwp chngno="0" wpno="M00099-9-2320-451"><?Pub Dtl?>
+	<wpidinfo>
+		<maintlvl level="maintainer"/>
+			<title>MAINTAINER MAINTENANCE - SPARE TIRE CARRIER <?Pub _newline?>REPLACE/REPAIR</title>
+	</wpidinfo>
+	<initial_setup>
+		<tools>
+			<tools-setup-item>
+				<name>Tool Kit, Mechanics General</name>
+				<itemref>
+					<xref itemid="S00007-9-2320-451-TOOL-4" wpid="S00007-9-2320-451"/>
+				</itemref>
+			</tools-setup-item>
+			<tools-setup-item>
+				<name>3/4 Ratchet Wrench w/extension and socket (TDRT BII)</name>
+			</tools-setup-item>
+			<tools-setup-item>
+			<name>BII jack - 12 ton</name>
+			</tools-setup-item>
+			<tools-setup-item>
+				<name>Support blocking (FWTRD/ TDRT BII as needed)</name>
+			</tools-setup-item>
+			<tools-setup-item>
+				<name>J-hook chain (FWTRD BII)</name>
+			</tools-setup-item>
+			<tools-setup-item>
+				<name>3-ply belting (FWTRD BII)</name>
+			</tools-setup-item>
+		</tools>
+		<persnreq>
+			<persnreq-setup-item>
+				<name>Motor Transport Operator</name>
+				<mos>88M</mos>
+				<qty>2</qty>
+			</persnreq-setup-item>
+		</persnreq>
+		<eqpconds>
+			<eqpconds-setup-item>
+				<condition>Tilt Deck Recovery Trailer in coupled with FWTRD/Prime Mover <xref wpid="O00023-9-2320-451"/></condition>
+			</eqpconds-setup-item>
+			<eqpconds-setup-item>
+				<condition>Tires chocked</condition>
+			</eqpconds-setup-item>
+			<eqpconds-setup-item>
+				<condition>35K winch cable in place on FWTRD</condition>
+			</eqpconds-setup-item>
+			<eqpconds-setup-item>
+				<condition>Support blocking in place</condition>
+			</eqpconds-setup-item>
+		</eqpconds>
+	</initial_setup>
+	<maintsk>
+		<remove>
+			<proc>
+				<step1>
+					<specpara>
+						<warning>
+							<trim.para>Jack must be positioned directly under axle to prevent slippage. Direct all personnel to stay clear of vehicle when vehicle is supported in the air. Failure to do so could result in serious injury or death to personnel and damage to the equipment.</trim.para>
+							<trim.para>To prevent shifting of the trailer, the jack should be positioned on a hard level surface. Use support blocking as needed. Failure to comply could result in injury or death to personnel.</trim.para>
+							<trim.para>The TDRT spare tire and wheel weigh approximately 200 lbs. (91kg). This requires use of the FWTRD 35K winch to help remove the tire from its holder or replace it on the holder. If the 35K winch is not available, two people must be used to remove or replace the spare. Failure to comply could result in injury to personnel.</trim.para>
+						</warning>
+						<note>
+							<trim.para>Wheel replacement as described here is an �in the field� Operator task. The 12 ton jack is supported on the blocking from the BII. Place one of the 3-ply belting pieces between the jack and the support blocking to help prevent slippage of the jack.</trim.para>
+							<trim.para>There are twelve tire and wheel assemblies and they are removed and installed the same way. This procedure covers one wheel assembly.</trim.para>
+						</note>
+					<para>Chock tires on axle not being lifted.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Using plastic blocking as needed from the FWTRD/TDRT BII to create a solid platform, position a piece of 3-ply belting and then the jack under the axle closest to where the wheel(s) will be removed, as shown. Note: The belting helps keep the jack from slipping on the plastic blocking.</para>
+				</step1>
+				<step1>
+					<para>Using the 3/4 inch ratchet with extension and socket from the TDRT BII, loosen, but do not remove, 10 lug nuts while the TDRT tires are in contact with the ground.</para>
+				</step1>
+				<step1>
+					<para>Jack up the axle until the wheel assemblies clear the ground.</para>
+				</step1>
+				<step1>
+					<para>Remove 10 nuts and the wheel assembly(s).</para>
+				</step1>
+				<step1>
+					<para>Bring the assembly to be changed out over to the spare tire holder area of the TDRT.</para>
+				</step1>
+				<step1>
+					<para>Remove the step from the spare tire holder of the TDRT.</para>
+				</step1>
+				<step1>
+					<para>With the 35K winch cable paid out to the spare tire, run a 1/2 inch x 6 foot chain with one hook (FWTRD BII) through the 1-1/4 inch shackle at the end of the cable loop and then around the wheel and tire as shown.</para>
+				</step1>
+
+					<figure id="M00099-9-2320-451-F0001">
+					<title>Spare Tire With 1/2" Chain Secured to 35K Winch Cable For Removal/Installation</title>
+					<graphic boardno="G06232000549"/>
+					</figure>
+
+				<step1>
+					<para>Loosen and remove the three lug nuts that hold the spare tire.</para>
+				</step1>
+				<step1>
+					<para>Using the FWTRD Remote or the valve control levers, use the 35K winch to lift and then support the spare tire as it is removed from its holder. Maneuver the tire to the side needed and using the winch, bring it to the ground. Note: If the tire is being brought to the driver side of the TDRT, removing the air lines and lighting cord will make maneuvering the wheel assembly easier.</para>
+				</step1>
+
+					<figure id="M00099-9-2320-451-F0002">
+					<title>Using 35K Winch to Remove Spare Wheel Assembly</title>
+					<graphic boardno="G06232000550"/>
+					</figure>
+
+			</proc>
+		</remove>
+	</maintsk>
+	<maintsk>
+		<install>
+			<proc>
+				<step1>
+					<para>Using the 12 ton jack, raise the axle high enough so that the wheel assemblies can be mounted on the axle.</para>
+				</step1>
+				<step1>
+					<para>Install the wheel assemblies and 10 lug nuts. Secure the lug nuts with the 3/4 ratchet.</para>
+				</step1>
+				<step1>
+					<para>Lower the wheel assemblies to the ground and then tighten the lug nuts as securely as possible with the 3/4 ratchet. If a torque wrench is available, wheels should be torqued to 450-500 lb-ft (610-678Nm) of torque.</para>
+				</step1>
+				<step1>
+					<specpara>
+						<warning>
+							<icon-set boardno="Heavy_Parts-above"/>
+							<icon-set boardno="Heavy_Parts-foot"/>
+							<icon-set boardno="Heavy_Parts-wall"/>
+							<trim.para>If the wheel change is done in the field and the flange nuts cannot be torqued, at the first opportunity have Organization Maintenance torque the flange nuts to the proper specifications. Periodically stop and check flange nuts for tightness. if not initially torqued the wheel assembly could separate, resulting in injury to personnel and or damage to the equipment.</trim.para>
+						</warning>
+						<para>Remove and store jack and support blocking.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Store replaced wheel assembly in the TDRT spare tire holder using the 35K winch with j-hook chain to help lift and maneuver. Secure with 3 lug nuts provided.</para>
+				</step1>
+				<step1>
+					<para>Replace any air lines or electrical cords removed during change out of wheel assembly.</para>
+				</step1>
+				<step1>
+					<para>Remove/store all chock blocks.</para>
+				</step1>
+				<step1>
+					<para>Store 3/4 ratchet, extension and socket.</para>
+				</step1>
+				<step1>
+					<para>Check for proper tire inflation. 120 psi (827kPa.)</para>
+				</step1>
+				<step1>
+					<para>When back to Unit, insure proper torque has been applied to flange nuts.</para>
+				</step1>
+			</proc>
+		</install>
+	</maintsk>
+</maintwp>

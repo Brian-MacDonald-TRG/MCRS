@@ -1,0 +1,483 @@
+<gen.maintwp chngno="0" wpno="M00117-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="maintainer"/>
+		<title>GENERAL MAINTENANCE INSTRUCTIONS</title>
+	</wpidinfo>
+	<initial_setup>
+		<persnreq>
+			<persnreq-setup-item>
+				<name>Motor Transport Operator</name>
+				<mos>88M</mos>
+				<qty>X</qty>
+			</persnreq-setup-item>
+		</persnreq>
+	</initial_setup>
+			<proc>
+				<title>GENERAL</title>
+				<step1>
+					<para>These general maintenance instructions contain shop practices and specific methods you must be familiar with to properly maintain the equipment.  You should read and understand these practices and methods before performing any maintenance procedures.</para>
+				</step1>
+				<step1>
+					<para>Before beginning a task, find out how much repair, modification, or replacement is needed to fix the equipment.  Sometimes the reason for equipment failure can be seen right away and complete tear down is not necessary.  Disassemble equipment only as far as necessary to repair or replace damaged parts.</para>
+				</step1>
+				<step1>
+					<para>In some cases, a part may be damaged during removal.  If the part appears to be good, and other parts behind it are not defective, leave it in place and continue with the procedure.  Here are a few simple rules:</para>
+				<step2>
+					<para>Do not remove dowel pins or studs unless loose, bent, broken, or otherwise damaged.</para>
+				</step2>
+				<step2>
+					<para>Do not remove bearings or bushings unless damaged. If you need to remove them to access parts behind, carefully pull out bearings and bushings.</para>
+				</step2>
+				<step2>
+					<para>Replace all gaskets, lockwashers, self-locking nuts, seals, cotter pins, and preformed packings.</para>
+				</step2>
+				</step1>
+				<step1>
+					<para>The following "Initial Setup" information applies to all maintenance procedures:</para>
+				<step2>
+					<para>Resources are not listed unless they apply to the procedure.</para>
+				</step2>
+				<step2>
+					<para>"Personnel Required" is listed only if more than one mechanic is required to complete the procedure.</para>
+				</step2>
+				</step1>
+				<step1>
+					<para>All tags and forms attached to the equipment must be checked to learn the reason for removal of equipment from service. Modification Work Orders (MWOs) and Technical Bulletins (TBs) must also be checked for equipment changes and updates.</para>
+				</step1>
+			</proc>
+			<proc>
+				<title>WORK SAFETY</title>
+				<step1>
+					<specpara>
+						<warning>
+							<icon-set boardno="Vapor"><icon-set boardno="Heavy_Parts-above"><icon-set boardno="Eye_Protection">
+							<trim.para>No personnel shall perform maintenance above or below the main frame without the main frame being supported at the front by use of a jack stand or the prime mover. Failure to comply may result in death or injury to personnel.</trim.para>
+						</warning>
+						<para>Before beginning a procedure, think about the safety risks and hazards to yourself and to others.  Wear protective gear such as safety goggles or lenses, safety shoes, rubber apron, or gloves.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Before beginning a procedure, ensure that the following conditions have been observed, unless otherwise specified:</para>
+				<step2>
+					<para>Towing device, if coupled, should be parked on level ground with prime mover parking brake set and chock blocks in place.</para>
+				</step2>
+				<step2>
+					<para>If prime mover is coupled to towing device, engine must be off unless otherwise indicated.</para>
+				</step2>
+				</step1>
+				<step1>
+					<para>Immediately clean up spilled fluids to avoid slipping.</para>
+				</step1>
+				<step1>
+					<para>When lifting heavy parts, have someone help you.  Ensure that lifting equipment or jack is working properly, that it meets weight requirement of part being lifted, and that it is securely fastened to part.</para>
+				</step1>
+				<step1>
+					<para>Always use power tools carefully.</para>
+				</step1>
+			</proc>
+			<proc>
+				<title>CLEANING INSTRUCTIONS</title>
+				<step1>
+					<specpara>
+						<warning>
+							<icon-set boardno="Vapor"><icon-set boardno="Heavy_Parts-above">
+							<trim.para>Improper cleaning methods and use of unauthorized cleaning liquids or solvents can cause injury or death to personnel and damage equipment.</trim.para>
+							<trim.para>After washing the fifth wheel towing device, ensure the appropriate breather valve is opened prior to operation of the fifth wheel towing device.  Failure to comply can result in death or injury to personnel.</trim.para>
+						</warning>
+						<caution>
+							<trim.para>Ensure oth breather valves are closed prior to washing the fifth wheel towing device.  Failure to comply could result in water contamination of hydraulic system.</trim.para>
+						</caution>
+						<note>
+							<trim.para>Keep it clean. Dirt, grease, oil, and debris get in the way and may cover up a serious problem.  Clean as you work as needed. Use detergent.</trim.para>
+						</note>
+						<para>General. Cleaing instructions wll be the same for the majority of parts and components which make up the equipment.  The following applies to all cleaning operations:</para>
+					</specpara>
+					<step2>
+						<para>Clean all parts before inspection, after repair, and before assembly.</para>
+					</step2>
+					<step2>
+						<para>Keep hands free of grease which can collect dust, dirt, and grit.</para>
+					</step2>
+					<step2>
+						<para>After cleaning, all parts should be covered or wrapped to protect them from dust and dirt.  Parts that are subject to rust should be lightly oiled after cleaning (See "Preservation of Parts").</para>
+					</step2>
+				</step1>
+				<step1>
+					<para>Castings, Forgings, and Machined Metal Parts</para>
+				<step2>
+					<para>Clean inner and outer surfaces with dry cleaning solvent and dry with clean rags.</para>
+				</step2>
+				<step2>
+					<para>Remove grease and accumulated deposits with a scrub brush.</para>
+				</step2>
+				<step2>
+					<specpara>
+						<warning>
+							<icon-set boardno="Eye_Protection">
+							<trim.para>Compressed air used for cleaning or drying purposes, or for clearing restrictions, should never exceed 30 psi (207 kPa). Wear protective clothing (goggles/shield, gloves, etc.) and use caution to avoid injury or death to personnel.</trim.para>
+						</warning>
+						<para>Clear all threaded holes with compressed air to remove dirt and cleaning fluids.</para>
+					</specpara>
+				</step2>
+				</step1>
+				<step1>
+					<specpara>
+						<caution>
+							<trim.para>DO NOT wash electrical cable, and flexible hoses with dry cleaning solvent or mineral spirits.  Serious damage or destruction of material will result.</trim.para>
+						</caution>
+						<para>Electrical Cables, and Flexible Hoses.  Wash electrical cables and flexible hoses with a solution of detergent and water, and wipe dry with a clean rag.</para>
+					</specpara>
+				</step1>
+			</proc>
+			<proc>
+				<title>PRESERVATION OF PARTS</title>
+					<para>Unpainted metal parts that will not be installed immediately after cleaning should be covered with a thin coat of lubricating oil.</para>
+			</proc>
+			<proc>
+				<title>PAINTING</title>
+					<para>On painted areas where paint has been removed, paint in accordance with procedures outlined in TM 43-0139 and TB 43-209</para>
+			</proc>
+			<proc>
+				<title>INSPECTION INSTRUCTIONS</title>
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>All damaged areas should be marked for repair or replacement.</trim.para>
+						</note>
+						<para>All components and parts must be carefully checked to determine if they are serviceable for use, can be repaired, or must be replaced.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Inspect drilled and tapped (threaded) holes for the following:</para>
+				<step2>
+					<para>Wear, distortion, cracks, and any other damage in or around holes.</para>
+				</step2>
+				<step2>
+					<para>Threaded areas for wear distortion (stretching) and evidence of cross-threading.</para>
+				</step2>
+				</step1>
+				<step1>
+					<para>Inspect metal lines, flexible lines or hoses, and metal fittings and connectors for the following:</para>
+				<step2>
+					<para>Metal lines for sharp kinks, cracks, bad bends, and dents.</para>
+				</step2>
+				<step2>
+					<para>Flexible lines or hoses for fraying, evidence of leakage, and loose metal fittings or connectors.</para>
+				</step2>
+				<step2>
+					<para>Metal fittings and connectors for thread damage and worn or rounded hex heads.</para>
+				</step2>
+				</step1>
+				<step1>
+					<para>Inspect castings, forgings, and machined metal parts for the following:</para>
+				<step2>
+					<para>Machined surfaces for nicks, burrs, scoring, grooves, raised metal wear, and other damage.</para>
+				</step2>
+				<step2>
+					<para>Inner and outer surfaces for breaks and cracks.</para>
+				</step2>
+				</step1>
+				<step1>
+					<para>Inspect bearings in accordance with TM 9-214.</para>
+				</step1>
+			</proc>
+			<proc>
+				<title>DISASSEMBLY AND ASSEMBLY INSTRUCTIONS</title>
+				<step1>
+					<para>Follow these general practices when performing disassembly and assembly procedures:</para>
+				<step2>
+					<para>Keep major components together whenever possible and practical.</para>
+				</step2>
+				<step2>
+					<para>Tag hoses, electrical wires, cables, and harnesses to identify them and aid during installation.</para>
+				</step2>
+				<step2>
+					<para>Keep related parts together for identification purposes.</para>
+				</step2>
+				<step2>
+					<para>Temporarily install attaching hardware such as screws, bolts, washers, and nuts to prevent loss.</para>
+				</step2>
+				<step2>
+					<para>Only disassemble to the point of the problem.</para>
+				</step2>
+				<step2>
+					<para>Ensure that parts are clean and lubricated before assembly.</para>
+				</step2>
+				</step1>
+				<step1>
+					<para>Refer to WP 0039 00 for detailed, illustrated instructions on proper lubrication. Some general practices to remember:</para>
+				<step2>
+					<para>Use the correct lubricant.</para>
+				</step2>
+				<step2>
+					<para>Keep lubricants clean.</para>
+				</step2>
+				<step2>
+					<para>Clean all fittings prior to lubrication.</para>
+				</step2>
+				<step2>
+					<para>Lubricate clean, disassembled, and new parts to prevent rust (WP 0038 00-2 "Preservation of Parts").</para>
+				</step2>
+				<step2>
+					<para>If a lubrication fitting will not accept grease, check for dirt or clogged fitting.This may require removal, cleaning, and installation of the fitting. If the fitting is on a hydraulic cylinder and will not accept grease, it may be due to pressure applied by the position of the cylinder. Repositioning the cylinder may resolve the fitting not accepting grease.</para>
+				</step2>
+				</step1>
+			</proc>
+			<proc>
+				<title>APPLICATION OF ADHESIVES</title>
+				<step1>
+					<para>General. Adhesives are recommended in some tasks to ensure and strengthen seals. The following information describes their correct use and application.</para>
+				</step1>
+				<step1>
+					<para>Silicone Sealant. Silicone sealant (item 11, WP 0085 00) is used to seal parts against moisture. Use the following instructions when applying:</para>
+				<step2>
+					<para>Anytime a seal is broken, the part must be thoroughly cleaned to remove any remaining sealing compound and dirt.</para>
+				</step2>
+				<step2>
+					<para>Thoroughly clean surface before applying sealant.</para>
+				</step2>
+				<step2>
+					<para>When applying sealant, ensure that the area is completely covered. Press sealant into and around parts as necessary.</para>
+				</step2>
+				<step2>
+					<para>Silicone sealant will set in 15-30 minutes depending on temperature and humidity.</para>
+				</step2>
+				</step1>
+				<step1>
+					<para>Loctite Adhesive. Loctite adhesive (item 12, WP 0085 00) provides a seal against leakage and a resistance to loosening when used in the assembly of threaded, slip-fitted, or press-fitted parts. Always use grade of Loctite adhesive specified and never use when other reat ining means are provided, such as lockwires, lockwashers, lockplates, and fasteners. DO NOT use Loctite adhesive on brass fittings, plugs, or items that need frequent servicing, or when operating temperature exceeds 300&deg;F (149&deg;C). Apply Loctite adhesive as follows:</para>
+				<step2>
+					<para>Before application, clean threads to remove oil, grease, and metal chips.</para>
+				</step2>
+				<step2>
+					<para>Apply Loctite adhesive to second and third threads. DO NOT apply to first thread to ensure system cleanliness.</para>
+				</step2>
+				<step2>
+					<para>Adjustments for elbows, gages, and valves can be made up to 24 hours after application without affecting the seal.</para>
+				</step2>
+				</step1>
+			</proc>
+			<proc>
+				<title>STANDARD TOOL REQUIREMENTS</title>
+				<step1>
+					<para>The following are general practices regarding the use of tools:</para>
+				<step2>
+					<para>Always use the proper tool kit and tools for the procedure being performed.</para>
+				</step2>
+				<step2>
+					<para>Ensure that tools are clean and lubricated to reduce wear and to prevent rust.</para>
+				</step2>
+				<step2>
+					<para>Keep track of tools. Do not be careless with them.</para>
+				</step2>
+				<step2>
+					<para>Return tools to toolbox when finished with repair or maintenance.</para>
+				</step2>
+				<step2>
+					<para>Return toolboxes and tools to tool storage when not in use.</para>
+				</step2>
+				<step2>
+					<para>Inventory tools before and after each use.</para>
+				</step2>
+				</step1>
+				<step1>
+					<para>Some maintenance tasks may require special or fabricated tools. The "Initial Setup" of the procedure will specify any special or fabricated tools needed to perform that procedure. Use these special tools only for the maintenance procedures for which they are designed or called out. If you are unfamiliar with a required tool, see your supervisor.</para>
+				</step1>
+			</proc>
+			<proc>
+				<title>TAGGING WIRES AND HOSES</title>
+				<step1>
+					<para>Use marker tags (item 15, WP 0085 00) to identify all electrical wires, lines, and any other parts which may be hard to identify or replace later. Fasten tags to parts during removal by wrapping wire fasteners around or through parts and twisting ends together. Position tags to be out of the way during cleaning, inspection, and repair. Mark tags with a pencil, pen, or marker.</para>
+				</step1>
+				<step1>
+					<para>Whenever possible, identify electrical wires with the number of the terminal or wire to which it connects. If no markings can be found, tag both wires or wire and terminal, and use the same identifying mark for both. If you cannot tag a wire because it must fit through a small hole or you cannot reach it, write down the description of the wire and the point to which it connects or draw a simple diagram on paper. Be sure to write down enough information so you will be able to properly connect the wires during assembly. If you need to identify a loose wire, look for identifying numbers near the end of the wire, stamped on a permanent metal tag. Compare this number to wire number on the appropriate electrical schematic.</para>
+				</step1>
+				<step1>
+					<para>Identify lines when you are taking off more than one line at the same time. Mark tags with points to which lines and hoses must be connected. If it is not obvious which end of a line goes where, at g each end of the line.</para>
+				</step1>
+				<step1>
+					<para>Identify and tag other parts as required by name and installed location.</para>
+				</step1>
+			</proc>
+			<proc>
+				<title>SOLDERING</title>
+				<step1>
+					<specpara>
+						<caution>
+							<trim.para>Use low wattage soldering gun when soldering electrical wires, connectors, terminal lugs, and receptacles. High wattage soldering guns may damage parts by overheating.</trim.para>
+						</caution>
+						<para>Solder connection must be bright and clean before soldering. Remove dirt and grease with a wire brush (item 2, WP 0085 00) or a pocket knife. Solder used must be of lead alloy (item 13, WP 0085 00) with soldering flux (item 5, WP 0085 00). All wires, parts, and soldering gun must be tinned for good connection and maximum transfer of heat.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>To prevent overheating damage to electrical parts when soldering and unsoldering connections, hold bare wire, lead, or terminal lug close to soldering point with long roundnose pliers. Pliers act as heat sink and absorb excess heat.</para>
+				</step1>
+			</proc>
+			<proc>
+				<title>HEAT SHRINKABLE TUBING</title>
+				<step1>
+					<para>Use the heat shrinkable tubing (item 19, WP 0085 00) to insulate soldered and crimped electrical connections as follows:</para>
+				<step2>
+					<para>Cut desired length of new heat shrinkable tubing twice the length of the connection to be covered.</para>
+				</step2>
+				<step2>
+					<para>Slide the heat shrinkable tubing onto the wire and out of the way before making electrical connection.</para>
+				</step2>
+				<step2>
+					<para>After making electrical connection, slide heat shrinkable tubing into place over electrical connection.</para>
+				</step2>
+				</step1>
+				<step1>
+					<specpara>
+						<warning>
+							<icon-set boardno="Hot_Area">
+							<trim.para>DO NOT touch heat shrinkable tubing for at least 30 seconds after heating. Heat shrinkable tubing is hot and will burn you causing serious injury or death.</trim.para>
+						</warning>
+							<para>Hold hot air blow gun 4-5 in. (10.2-12.7 cm) away from heat shrinkable tubing and apply heat for approximately 30 seconds. Stop applyling heat as soon as heat shrinkable tubing forms to the shape of the electrical connection.</para>
+					</specpara>
+				</step1>
+			</proc>
+			<proc>
+				<title>ELECTRICAL GROUND POINTS</title>
+				<step1>
+					<para>Many electrical problems are the result of poor ground connection. You can ensure that ground connections are good by performing the following steps:</para>
+				</step1>
+				<step1>
+					<specpara>
+						<warning>
+							<icon-set boardno="Electrical_Symbols">
+							<trim.para>Although battery ground cable must be connected in order to test electrical circuit voltage, disconnect battery ground cable from prime mover before performing resistance tests or replacing parts. This will prevent shock to personnel, and damage to parts and equipment.</trim.para>
+						</warning>
+						<para>Remove hardware connecting ground cable terminal lug to ground point.</para>
+					</specpara>
+				<step2>
+					<para>Clean mounting hardware, ground cable terminal lugs, and ground point with dry cleaning solvent (item 14, WP 0085 00) and scrub brush (item 1, WP 0085 00).</para>
+				</step2>
+				<step2>
+					<para>Remove any rust with wire brush (item 2, WP 008500).</para>
+				</step2>
+				<step2>
+					<para>Look for cracks, loose terminal lugs, and stripped threads. Replace any defective parts.</para>
+				</step2>
+				<step2>
+					<para>Install hardware connecting ground cable terminal lug to ground point. Ensure that all hardware is tight.</para>
+				</step2>
+				</step1>
+			</proc>
+			<proc>
+				<title>LINES AND PORTS</title>
+				<step1>
+					<para>To keep dirt from contaminating fluid systems when removing and installing lines, perform the following steps:</para>
+				</step1>
+				<step1>
+					<para>Clean fittings and surrounding area before disconnecting lines.</para>
+				<step2>
+					<para>Cover, cap, plug, or tape lines and ports after disconnecting lines. Use cap and plug set on air lines. When these are not available, use hand-carved wooden plugs, clean rags (item 10, WP 0085 00), duct tape (item 16, WP 0085 00), or other similar materials to prevent dirt from entering system.</para>
+				</step2>
+				<step2>
+					<para>Ensure that new and used parts are clean before installing.</para>
+				</step2>
+				<step2>
+					<para>Wait to remove covers, caps, plugs, or tape from lines and ports until just before installing lines.</para>
+				</step2>
+				</step1>
+			</proc>
+			<proc>
+				<title>ANTISEIZE TAPE</title>
+				<step1>
+					<specpara>
+						<caution>
+							<trim.para>Apply antiseize tape only to pipe threads of male fittings of air system or damage to air valves may result.</trim.para>
+						</caution>
+						<para>When connecting air lines and fittings without compression sleeves or packings, antiseize tape (item 17, WP 0085 00) may be used to keep connections from leaking. Use as follows:</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Ensure that threads are clean and dry.</para>
+				<step2>
+					<para>Start antiseize tape one or two threads from small or leading edge of fitting, joining tape together with an overlap of about 1/8 in. (3.18 mm) for fittings with fine threads. For fittings with coarse threads, tape should be wrapped around threads two or three times.</para>
+				</step2>
+				<step2>
+					<para>Tightly wrap antiseize tape in same direction as you would tighten a nut.Tape must be pressed into threads without cutting or ripping.</para>
+				</step2>
+				<step2>
+					<specpara>
+						<caution>
+							<trim.para>DO NOT overtighten or use power tools to tighten fittings taped with antiseize tape. Over tightening could damage fitting threads and cause connection to leak.</trim.para>
+						</caution>
+						<para>Using hand tools, tighten fittings.</para>
+					</specpara>
+				</step2>
+				</step1>
+			</proc>
+			<proc>
+				<title>TUBES AND COMPRESSION FITTINGS</title>
+				<step1>
+					<para>Tubes with inverted nuts and compression fittings are designed for one-time assembly. Once assembled, they must be replaced as a unit if any parts are found defective. Used parts may not seal properly when used with new ones.</para>
+				</step1>
+				<step1>
+					<para>Used tube assemblies in good condition can be installed to their original location without leaking.</para>
+				</step1>
+				<step1>
+					<para>Assemble new tubes, compression sleeves, and inverted nuts as follows:</para>
+				<step2>
+					<para>Slide inverted nut onto end of tube.</para>
+				</step2>
+				<step2>
+					<para>Slide compression sleeve onto end of tube.</para>
+				</step2>
+				<step2>
+					<para>Repeat previous two steps for other end of tube as required.</para>
+				</step2>
+				</step1>
+				
+				<figure id="M00130-9-2320-451-F0001">
+				<title>Tube Assembly</title>
+				<graphic boardno="G06232000677"></graphic>
+				</figure>
+		
+				<step1>
+					<para>Install new tube assemblies as follows:</para>
+				<step2>
+					<para>Insert end of tube as far as it will go into compression fitting to which tube is being installed.</para>
+				</step2>
+				<step2>
+					<para>Twist inverted nut into compression fitting and tighten inverted nut against compression sleeve with open-end wrench. Compression sleeve will clamp down around tube and conform to internal surface of compression fitting and inverted nut.</para>
+				</step2>
+				<step2>
+					<para>Repeat previous two steps for other end of tube as required.</para>
+				</step2>
+				</step1>
+				<step1>
+					<para>FLUID DISPOSAL</para>
+				</step1>
+				<step1>
+				<specpara>
+					<warning>
+						<trim.para>When servicing this vehicle, performing maintenance, or disposing  of materials such as engine coolant, transmission fluid, lubricants, battery acids or batteries and CARC paint, consult your Unit/Local Hazardous Waste Disposal Center or safety office for local regulatory guidance. If further information is needed, please contact the  Army Environmental Hotline at 1-800-872-3845. Failure to comply may result in injury or death to personnel.</trim.para>
+					</warning>
+				<para></para>
+				</specpara>
+				</step1>
+			</proc>
+			<proc>
+				<title>SERVICE REPLACEMENT PARTS AND KITS</title>
+				<para>Many service replacement parts are available in standard sizes as well as various undersized and/or oversized sizes. Service kits for reconditioning certain parts and service sets, which include all parts necessary to complete a procedure, are also available.</para>
+			</proc>
+			<proc>
+				<title>WELDING</title>
+				<step1>
+				<specpara>
+					<caution>
+						<trim.para>If welding towing device, it must be uncoupled from prime mover. Failure to follow this warning may damage electronic components.</trim.para>
+					</caution>
+					<para>Refer toTC 9-237, Operator's Manual for Welding Theory and Application, for instructions on welding components.</para>
+				</specpara>
+				</step1>
+				<step1>
+				<para>ELECTRICAL REPAIR</para>
+				</step1>
+				<step1>
+				<para>Specific electrical system maintenance tasks are covered in WP 0040 00 through WP 0051 00 of this manual.</para>
+				</step1>
+			</proc>
+</gen.maintwp>

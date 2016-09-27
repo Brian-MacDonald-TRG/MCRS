@@ -1,0 +1,115 @@
+<maintwp chngno="0" wpno="M00054-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="maintainer"/>
+			<title>18K CABLE ASSEMBLY REPLACE</title>
+	</wpidinfo>
+	<initial_setup>
+		<tools>
+			<tools-setup-item>
+				<name>Tool Kit, General Mechanics</name>
+				<itemref>
+					<xref itemid="S00007-9-2320-451-TOOL-4" wpid="S00007-9-2320-451"/>
+				</itemref>
+			</tools-setup-item>
+		</tools>
+		<mtrlpart>
+			<mtrlpart-setup-item>
+				<name>GLOVES,WELDERS</name>
+				<itemref>
+					<xref itemid="S00006-9-2320-451-0008" wpid="S00006-9-2320-451"/>
+				</itemref>
+			</mtrlpart-setup-item>
+		</mtrlpart>
+		<persnreq>
+			<persnreq-setup-item>
+				<name>Motor Transport Operator</name>
+				<mos>88M</mos>
+				<qty>2</qty>
+			</persnreq-setup-item>
+		</persnreq>
+		<eqpconds>
+			<eqpconds-setup-item>
+				<condition>Fifth Wheel Towing and Recovery Device in coupled configuration <xref wpid="O00035-9-2320-451"/>.</condition>
+			</eqpconds-setup-item>
+		</eqpconds>
+	</initial_setup>
+	<maintsk>
+		<replace>
+			<proc>
+				<step1>
+					<specpara>
+						<warning>
+							<trim.para>If winch cable has to be cut to remove winch assembly, wrap cut end of cable in tape and secure loose end of cable to prevent it from swinging free during winch assembly removal. Failure to follow this warning could result in injury or death to personnel.</trim.para>
+						</warning>
+						<para>Gain access to electric control box. Remove electric control box step cover. Set aside for reinstallation.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Position electric control box OFF/ON switch <callout assocfig="M00054-9-2320-451-F0001" label="1"/> to the ON position.</para>
+				</step1>
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>If prime mover hydraulics is preferred, position ELECTRIC/WET-LINE switch to WET-LINE position.</trim.para>
+						</note>
+						<para>Position ELECTRIC/WET-LINE switch <callout assocfig="M00054-9-2320-451-F0001" label="2"/> to the ELECTRIC position.</para>
+					</specpara>
+				</step1>
+					<figure id="M00054-9-2320-451-F0001">
+					<title>Electric Control Box</title>
+					<graphic boardno="G06232000317"/>
+					</figure>
+				<step1>
+					<para>Gain access to 35K/18K diverter valve <callout assocfig="M00054-9-2320-451-F0001" label="1"/> and depress to ensure 18K winch operation.</para>
+				</step1>
+					<figure id="M00054-9-2320-451-F0002">
+					<title>35K/18K Diverter Valve</title>
+					<graphic boardno="G06232000321"/>
+					</figure>
+				<step1>
+					<para>Gain access to electric control box, depress and hold the electric motor button <callout assocfig="M00054-9-2320-451-F0003" label="1"/>.</para>
+				</step1>
+					<figure id="M00054-9-2320-451-F0003">
+					<title>Electric Motor Button</title>
+					<graphic boardno="G06232000040"/>
+					</figure>
+				<step1>
+					<para>Using the valve control levers, payout 18K winch cable <callout assocfig="M00054-9-2320-451-F0004" label="1"/> to relieve tension on boom cross-member d-rings. </para>
+				</step1>
+				<step1>
+					<para>Unhook winch cable from boom cross-member d-rings <callout assocfig="M00054-9-2320-451-F0004" label="2"/>.</para>
+				</step1>
+					<figure id="M00054-9-2320-451-F0004">
+					<title>Boom Cross-Member D-Rings</title>
+					<graphic boardno="G06232000323"/>
+					</figure>
+				<step1>
+					<para>Payout 18K Winch Cable in its entirety.</para>
+				</step1>
+				<step1>
+					<para>Remove hex screw <callout assocfig="M00054-9-2320-451-F0005" label="1"/>.</para>
+				</step1>
+				<step1>
+					<para>Remove cable <callout assocfig="M00054-9-2320-451-F0005" label="2"/> from 18K Winch <callout assocfig="M00054-9-2320-451-F0005" label="3"/>.</para>
+				</step1>
+					<figure id="M00054-9-2320-451-F0005">
+					<title>Winch Cable Removal</title>
+					<graphic boardno="G06232000324"/>
+					</figure>
+				<step1>
+					<para>Obtain serviceable item.</para>
+				</step1>
+				<step1>
+					<para>Route serviceable 18K cable <callout assocfig="M00054-9-2320-451-F0006" label="1"/> through cable anchor slot and secure with hex screw <callout assocfig="M00054-9-2320-451-F0006" label="2"/>.</para>
+				</step1>
+					<figure id="M00054-9-2320-451-F0006">
+					<title>Winch Cable Installation</title>
+					<graphic boardno="G06232000324"/>
+					</figure>
+				<step1>
+					<para>Using valve control levers, WINCH IN 18k winch cable.</para>
+				</step1>
+			</proc>
+		</replace>
+	</maintsk>
+</maintwp>

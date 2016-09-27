@@ -1,0 +1,58 @@
+<maintwp chngno="0" wpno="M00025-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="maintainer"/>
+		<title>MAINTAINER MAINTENANCE <?Pub _newline?>12/24 VOLT TOW LIGHT <?Pub _newline?>REPAIR</title>
+	</wpidinfo>
+	<initial_setup>
+		<tools>
+			<tools-setup-item>
+				<name>Tool Kit, General Mechanics</name>
+				<itemref>
+					<xref itemid="S00007-9-2320-451-TOOL-4" wpid="S00007-9-2320-451"/>
+				</itemref>
+			</tools-setup-item>
+		</tools>
+		<mtrlpart>
+			<mtrlpart-setup-item>
+				<name>Grease, Dielectric</name>
+			</mtrlpart-setup-item>
+		</mtrlpart>
+		<persnreq>
+			<persnreq-setup-item>
+				<name>Motor Transport Operator</name>
+				<mos>88M</mos>
+				<qty>1</qty>
+			</persnreq-setup-item>
+		</persnreq>
+		<eqpconds>
+			<eqpconds-setup-item>
+				<condition>Fifth Wheel Towing and Recovery Device in Uncoupled Configuration (<xref wpid="O00035-9-2320-451"/>).</condition>
+			</eqpconds-setup-item>
+		</eqpconds>
+	</initial_setup>
+	<maintsk>
+		<repair>
+			<proc>
+				<step1>
+					<para>Pry unserviceable 12/24-volt tow light <callout assocfig="M00025-9-2320-451-F0001" label="1"/> away from grommet <callout assocfig="M00025-9-2320-451-F0001" label="2"/>.</para>
+				</step1>
+				<figure id="M00025-9-2320-451-F0001" label="1">
+				<title>12/24 Tow Light Repair</title>
+				<graphic boardno="G06232001037"></graphic>
+				</figure>
+				<step1>
+					<para>Disconnect QD electrical connector.</para>
+				</step1>
+				<step1>
+					<para>Remove unserviceable tail light. Obtain serviceable item.</para>
+				</step1>
+				<step1>
+					<para>Plug QD electrical connector into serviceable tail light.</para>
+				</step1>
+				<step1>
+					<para>Install tail light assembly into rubber grommet.</para>
+				</step1>
+			</proc>
+		</repair>
+	</maintsk>
+</maintwp>

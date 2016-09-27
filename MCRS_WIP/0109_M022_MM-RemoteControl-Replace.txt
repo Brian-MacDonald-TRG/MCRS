@@ -1,0 +1,165 @@
+<maintwp chngno="0" wpno="M00022-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="maintainer"/>
+		<title>MAINTAINER MAINTENANCE <?Pub _newline?>REMOTE CONTROL REPLACE</title>
+	</wpidinfo>
+	<initial_setup>
+		<tools>
+			<tools-setup-item>
+				<name>Tool Kit, General Mechanics</name>
+				<itemref>
+					<xref itemid="S00007-9-2320-451-TOOL-4" wpid="S00007-9-2320-451"/>
+				</itemref>
+			</tools-setup-item>
+		</tools>
+		<mtrlpart>
+			<mtrlpart-setup-item>
+				<name>Washer, Lock (8) </name>
+			</mtrlpart-setup-item>
+			<mtrlpart-setup-item>
+				<name>Nut, Lock (4) (115120)</name>
+			</mtrlpart-setup-item>
+		</mtrlpart>
+		<persnreq>
+			<persnreq-setup-item>
+				<name>Motor Transport Operator</name>
+				<mos>88M</mos>
+				<qty>1</qty>
+			</persnreq-setup-item>
+		</persnreq>
+		<eqpconds>
+			<eqpconds-setup-item>
+				<condition>Fifth Wheel Towing and Recovery Device in coupling configuration (<xref wpid="O00003-9-2320-451"/>).</condition>
+			</eqpconds-setup-item>
+			<eqpconds-setup-item>
+				<condition>Disconnect Batteries (<xref wpid="M00035-9-2320-451"/>).</condition>
+			</eqpconds-setup-item>
+		</eqpconds>
+	</initial_setup>
+	<maintsk>
+		<replace>
+			<proc>
+				<step1>
+					<specpara>
+						<warning>
+							<icon-set boardno="Electrical_Symbols"/>
+							<trim.para>Disconnect electrical power from semitrailer before performing any cleaning or maintenance of electrical system. Failure to comply may result in personnel death or injury, or equipment damage. Seek medical attention in event of injury.</trim.para>
+						</warning>
+						<para>Remove electric control box step cover.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Remove two bolts from electric control box step cover rear bracket <callout assocfig="M00022-9-2320-451-F0001" label="1" />.</para>
+				</step1>
+				<figure id="M00022-9-2320-451-F0001">
+					<title>Bolts to Removed on Electric Control Box Step Cover Rear Bracket</title>
+					<graphic boardno="G06232000373"></graphic>
+				</figure>
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>
+								The 3 bolts to be loosened also pass through the air protection valve and 24V lighting harness brackets.
+							</trim.para>
+						</note>
+						<para>Loosen but do not remove three bolts at the other end of the electric control box cover rear bracket.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Remove three bolts on 18K/35K diverter bracket <callout assocfig="M00022-9-2320-451-F0002" label="1"/>.</para>
+				</step1>
+				<figure id="M00022-9-2320-451-F0002">
+					<title>Diverter Bracket Bolt Locations, One Bolt Hidden From View</title>
+					<graphic boardno="G06232000374"></graphic>
+				</figure>
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>
+								Bracket is loose enough to lift up and pull cannon plug through. Notate cable route. Reinstallation must route the same.
+							</trim.para>
+						</note>
+						<para>Disconnect remote control cannon plug <callout assocfig="M00022-9-2320-451-F0003" label="1"/> from electric control box.</para>
+					</specpara>
+				</step1>
+				<figure id="M00022-9-2320-451-F0003">
+					<title>Remote Control Canon Plug</title>
+					<graphic boardno="G06232000375"></graphic>
+				</figure>
+				<step1>
+					<para>Remove wiring harness clamp <callout assocfig="M00022-9-2320-451-F0004" label="1"/></para>
+				</step1>
+				<figure id="M00022-9-2320-451-F0004">
+					<title>Wiring Clamp</title>
+					<graphic boardno="G06232000377"></graphic>
+				</figure>
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>
+								It may be necessary to remove BII from inside toolbox to gain access to grommet.
+							</trim.para>
+						</note>
+						<para>Gain access to the FWTRD toolbox. Remove remote control grommet. Set aside for reinstallation <callout assocfig="M00022-9-2320-451-F0005" label="1"/>.</para>
+					</specpara>
+				</step1>
+				<figure id="M00022-9-2320-451-F0005">
+					<title>Remote Control Grommet</title>
+					<graphic boardno="G06232000378"></graphic>
+				</figure>
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>
+								Notate remote control route. Reinstallation must follow same route.
+							</trim.para>
+						</note>
+						<para>Feed cannon plug side of remote control through tool box.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Remove unserviceable remote control. Obtain serviceable item.</para>
+				</step1>
+			</proc>
+		</replace>
+	</maintsk>
+	<maintsk>
+		<install>
+			<proc>
+				<step1>
+					<para>Feed remote control cannon plug through opening <callout assocfig="M00022-9-2320-451-F0006" label="1"/> in rear of tool box.</para>
+				</step1>
+				<figure id="M00022-9-2320-451-F0006">
+					<title>Toolbox Remote Pass Through Hole</title>
+					<graphic boardno="G06232000379"></graphic>
+				</figure>
+				<step1>
+					<para>Route serviceable remote control cable and secure with cable clamp <callout assocfig="M00022-9-2320-451-F0007" label="1"/>.</para>
+				</step1>
+				<figure id="M00022-9-2320-451-F0007">
+					<title>Wiring Clamp</title>
+					<graphic boardno="G06232000380"></graphic>
+				</figure>
+				<step1>
+					<para>Reinstall two bolts forward of electric control box cover bracket <callout assocfig="M00022-9-2320-451-F0008" label="1"/> and reinstall three bolts rear of electric control box cover bracket <callout assocfig="M00022-9-2320-451-F0008" label="2"/>. Be sure to reinstall air line clamps </para>
+				</step1>
+				<step1>
+					<para>Connect remote control cannon plug to electric control box <callout assocfig="M00022-9-2320-451-F0008" label="3"/></para>
+				</step1>
+				<step1>
+					<para>Reinstall three bolts on 18K/35K diverter bracket.</para>
+				</step1>
+				<figure id="M00022-9-2320-451-F0008">
+					<title>All brackets reinstalled and remote control canon plug connected</title>
+					<graphic boardno="G06232000381"></graphic>
+				</figure>
+				<step1>
+					<para>Reinstall the remote control grommet in the FWTRD tool box. </para>
+				</step1>
+				<step1>
+					<para>Reinstall electric control box step cover.</para>
+				</step1>
+			</proc>
+		</install>
+	</maintsk>
+</maintwp>

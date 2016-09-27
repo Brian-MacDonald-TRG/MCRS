@@ -1,0 +1,169 @@
+<opusualwp chngno="0" wpno="O00022-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="crew"/>
+		<title>Operation Under Usual Conditions<?Pub_newline?>RECOVERY WINCHING WITH THE XM20 FWTRD � EXTREME CONDITIONS</title>
+	</wpidinfo>
+	<initial_setup>
+		<tools>
+			<tools-setup-item>
+				<name>Tool Kit, General Mechanics</name>
+				<itemref>
+					<xref itemid="S00007-9-2320-451-TOOL-4" wpid="S00007-9-2320-451"/>
+				</itemref>
+			</tools-setup-item>
+			<tools-setup-item>
+				<name>1 1/4" Shackle</name>
+			</tools-setup-item>
+		</tools>
+		<persnreq>
+			<persnreq-setup-item>
+				<name>Motor Transport Operator</name>
+				<mos>91B</mos>
+				<qty>1</qty>
+			</persnreq-setup-item>
+		</persnreq>
+		<eqpconds>
+			<eqpconds-setup-item>
+				<condition>Fifth Wheel Towing and Recovery Device Prepared for Lift Tow IAW <xref wpid="O00005-9-2320-451"/>.</condition>
+			</eqpconds-setup-item>
+		</eqpconds>
+	</initial_setup>
+	<opertsk>
+		<oper>
+			<proc>
+				<title>Quick Evacuation Sledding</title>
+				<step1>
+					<specpara>
+						<warning>
+							<trim.para>Quick Evacuation Sledding is performed with the FWTRD boom extensions dragging on the ground, unsecured from the disabled vehicle. This could cause the load to shift side to side resulting in loss of control of the load and/or the prime mover. For this reason, speeds must be kept 10 mph or less during Quick Evacuation Sledding operations. Failure to comply can result injury or death to personnel.</trim.para>
+							<trim.para>The Cross Bar for Sledding and Sledding Shoes are very heavy (Sledding Shoes 105 lbs./47.62 Kg each and the Cross Bar 270 lbs./122.47 Kg). The FWTRD should be used as much as possible in removing, positioning, and storing these items. Always use an assistant when it is necessary to physically handle the Cross Bar for Sledding and Sledding Shoes. Failure to comply can result in serious injury or death to personnel and or damage to equipment.</trim.para>
+						</warning>
+						<caution>
+							<trim.para>Quick Evacuation Sledding should be performed for the shortest distance to bring a disabled vehicle to a safe and secured area. The disabled vehicle should then be properly configured for lift tow and/or loading onto the TDRT for transport. Failure to comply may result in damage to the equipment.</trim.para>
+						</caution>
+						<note>
+							<trim.para>Refer to WP's 0009.4 00 for instructions on installing the Cross Bar for Sledding and/or Sledding Shoes.</trim.para>
+							<trim.para>If the Cross Bar for Sledding and/or Sledding Shoes are to be used install them (<xref wpid="O00012-9-2320-451"/>) prior to beginning Quick Evacuation Steps.</trim.para>
+						</note>
+						<para>Position the prime mover with the FWTRD in line with and as close to the disabled vehicle as possible.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Using remote control, EXTEND LEFT and EXTEND RIGHT boom extensions and align with axle of disabled vehicle.</para>
+				</step1>
+				<step1>
+					<para>Using remote control, BOOM EXTEND to create a ramp <xref figid="O00022-9-2320-451-F0001"/> for the disable vehicle to travel up while being winched.</para>
+				</step1>
+					<figure id="O00022-9-2320-451-F0001">
+					<title>Quick Evacuation Setup</title>
+					<graphic boardno="G06232000161"></graphic>
+					</figure>
+				<step1>
+					<para>Rotate transport leg swing arm handle counter clockwise to stow transport legs.</para>
+				</step1>
+				<step1>
+					<para>Lift 35K winch assembly handle to place in free spool mode.</para>
+				</step1>
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>See <extref docno="FM 4-30.31"/> �Recovery and Battle Damage Assessment� to determine proper rigging.</trim.para>
+						</note>
+						<para>Pay the 35K winch cable out to the disabled vehicle and attach with rigging.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Disengage free spool mode on 35K winch assembly.</para>
+				</step1>
+				<step1>
+					<para>Using remote control, WINCH IN until slack in 35k winch cable is removed.</para>
+				</step1>
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>As a severely disabled vehicle is winched up onto the booms, additional "steering" ability may be needed to help position the vehicle onto the FWTRD booms. It is permissible to use the FWTRD 18K winch cable to assist the heavy duty winch in positioning the disabled vehicle onto the FWTRD booms.</trim.para>
+						</note>
+						<para>Using remote control, WINCH IN until disabled vehicle contacts wheel stops, STRYKER adaptors, or if no suspension is present, until the disabled vehicle contacts bumper stops <callout assocfig="O00022-9-2320-451-F0002" label="1"/> at the base of the booms.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Using two 1/2" X 8' chains and two binders, secure vehicle by attaching to the driver and curb side D-Rings <callout assocfig="O00022-9-2320-451-F0002" label="2"/> at the base of the FWTRD Booms.</para>
+				</step1>
+
+					<figure id="O00022-9-2320-451-F0002">
+					<title>Vehicle Against FWTRD Bumper Stops and then Chained to FWTRD D-Rings</title>
+					<graphic boardno="G06232000162"></graphic>
+					</figure>
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>Slackening the heavy duty winch cable to allow for turns as the FWTRD pivots when towing.</trim.para>
+						</note>
+						<para>Sled the vehicle the shortest distance possible to reach a safe location for completing a proper lift for trailering operation or configuration <xref figid="O00022-9-2320-451-F0003"/>.</para>
+					</specpara>
+				</step1>
+				
+					<figure id="O00022-9-2320-451-F0003">
+					<title>Quick Evacuation Sledding</title>
+					<graphic boardno="G06232000163"></graphic>
+					</figure>
+
+			</proc>
+		</oper>
+	</opertsk>
+	<opertsk>
+		<oper>
+			<proc>
+				<title>LIFT-TOW CONFIGURATION FOR A STRYKER WITH NO SUSPENSION PARTS, WINCHED TO THE FWTRD</title>
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>This procedure is only for lift tow situations where the A-arm suspension of the STRYKER is severely damaged and/or missing. If A-arms are intact, follow lift tow procedures as outlined in <xref wpid="O00015-9-2320-451"/></trim.para>
+						</note>
+						<para>Perform the steps 1-9 as described in Quick Evacuation Part A for bringing the disabled STRYKER onto the FWTRD Booms.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>If needed, place blocks under the booms as described in <xref wpid="O00007-9-2320-451"/> (Pre-picking) to get extensions tight to the hull.</trim.para>
+						</note>
+						<para>Using remote control, BOOM RETRACT to bring the extensions as close to the STRYKER hull as possible</para>
+					</specpara>
+				</step1>
+				<step1>
+					<specpara>
+						<warning>
+							<trim.para>The following step involves wrapping chains/straps around the STRYKER and the FWTRD boom extensions in one continuous loop. DO NOT attach the chains to individual boom extensions. If chained individually, the extensions would be pulled to the outside causing damage to the equipment, and possibly causing the load to shift suddenly creating a crush hazard that could result in death or injury to personnel.</trim.para>
+						</warning>
+						<note>
+							<trim.para>Recovery Straps may be used as well if needed for completing the loop</trim.para>
+						</note>
+						<para>Utilizing 1/2 inch chains and binders from BII, make a continuous loop around the STRYKER hull and the FWTRD boom extensions.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Secure the chains tightly using the binders.</para>
+				</step1>
+				<step1>
+					<para>Using remote control, BOOM EXTEND to bring the vehicle into lift tow configuration.</para>
+				</step1>
+				<step1>
+					<para>Using 1/2" X 8' chains and two binders, secure the STRYKER to the diver side and curb side D-rings at the front of the FWTRD booms <callout assocfig="O00022-9-2320-451-F0004" label="1"/>.</para>
+				</step1>
+					<figure id="O00022-9-2320-451-F0004">
+					<title>Hull Wrapped Lift Tow Configuration</title>
+					<graphic boardno="G06232000164"></graphic>
+					</figure>
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>Ensure to place slack in winch cable prior to towing to allow the FWTRD to pivot properly on the fifth wheel.</trim.para>
+						</note>
+						<para>Tow the STRYKER to the nearest TDRT loading point.</para>
+					</specpara>
+				</step1>
+			</proc>
+		</oper>
+	</opertsk>
+</opusualwp>

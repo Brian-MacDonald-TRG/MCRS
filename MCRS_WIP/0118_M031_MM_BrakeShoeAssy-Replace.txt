@@ -1,0 +1,166 @@
+<maintwp chngno="0" wpno="M00031-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="maintainer"/>
+		<title>MAINTAINER MAINTENANCE <?Pub _newline?>BRAKE SHOE ASSEMBLY <?Pub _newline?>REPLACE</title>
+	</wpidinfo>
+	<initial_setup>
+		<tools>
+			<tools-setup-item>
+				<name>Tool Kit, General Mechanics</name>
+				<itemref>
+					<xref itemid="S00007-9-2320-451-TOOL-4" wpid="S00007-9-2320-451"/>
+				</itemref>
+			</tools-setup-item>
+			<tools-setup-item>
+				<name>Jack Stands</name>
+			</tools-setup-item>
+		</tools>
+		<!-- Spring, retaining (15) (1105-1) -->
+		<mtrlpart>
+			<mtrlpart-setup-item>
+				<name>Antiseize Compound</name>
+			</mtrlpart-setup-item>
+			<mtrlpart-setup-item>
+				<name>Brake Shoe Kit</name>
+			</mtrlpart-setup-item>
+			<mtrlpart-setup-item>
+				<name>RAG, WIPING</name>
+				<itemref>
+					<xref itemid="S00006-9-2320-451-0014" wpid="S00006-9-2320-451"/>
+				</itemref>
+			</mtrlpart-setup-item>
+		</mtrlpart>
+		<persnreq>
+			<persnreq-setup-item>
+				<name>Motor Transport Operator</name>
+				<mos>88M</mos>
+				<qty>1</qty>
+			</persnreq-setup-item>
+		</persnreq>
+		<eqpconds>
+			<eqpconds-setup-item>
+				<condition>Tilt Deck Recovery Trailer in uncoupled configuration IAW <xref wpid="O00027-9-2320-451"/>.</condition>
+			</eqpconds-setup-item>
+			<eqpconds-setup-item>
+				<condition>Wheels Chocked Tires Removed IAW <xref wpid="M00096-9-2320-451"/>.</condition>
+			</eqpconds-setup-item>
+			<eqpconds-setup-item>
+				<condition>Brake Drums Removed IAW <xref wpid="M00092-9-2320-451"/>.</condition>
+			</eqpconds-setup-item>
+		</eqpconds>
+	</initial_setup>
+	<maintsk>
+		<replace>
+			<proc>
+				<step1>
+					<specpara>
+						<warning>
+							<icon-set boardno="Flying_Particles_wShield"/>
+							<icon-set boardno="Heavy_Parts-foot"/>
+							<icon-set boardno="Heavy_Parts-hand"/>
+							<icon-set boardno="Heavy_Parts-wall"/>
+							<trim.para>Clean and check service brakes and all brake components for wear and damage. Replace worn or damaged parts. At Triennial Service replace all springs, pins, rollers, clips, and bushings on each axle end. Failure to comply may cause injury or death to personnel and damage to the equipment.</trim.para>
+							<trim.para>The semitrailer and axles must be firmly supported with suitable support devices rated at no less than 62,660 lbs. (28,422 kg). Suitable support devices must be positioned directly under axles to prevent slippage. Suitable support devices must be used only on a hard, level surface to prevent shifting of semitrailer. Use ground boards and wheel chocks. Direct all personnel to stay clear of semitrailer when supported in air. Failure to comply may result in personnel death or injury, or equipment damage. Seek medical attention in event of injury.</trim.para>
+						</warning>
+						<caution>
+							<trim.para>Do not allow lining surfaces to become contaminated with any lubrication. Failure to comply may result in equipment damage.</trim.para>
+						</caution>
+						<note>
+							<trim.para>Use a drain pan to capture any draining or leaking fluid. Refer to local procedures and plans for preventing and responding to fluid spills or leaks. Comply with local regulations when disposing of cleanup material and leaked and spilled fluids.</trim.para>
+							<trim.para>There are six brake shoe assemblies, and they are removed and installed the same way. These procedures cover one brake shoe assembly.</trim.para>
+							<trim.para>If installing new brake shoes and linings, discard old return springs, retainer springs, return spring holding pins, brake shoe rollers, anchor pins and bushings, and roller retainers; replace with new.</trim.para>
+							<trim.para>Balance repairs on both axle ends.</trim.para>
+						</note>
+						<para>Support axle on both sides with jack stands.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Push S-camshaft end of lower shoe and lining <callout assocfig="M00031-9-2320-451-F0001" label="7"/> down. Pull lower roller retainer <callout assocfig="M00031-9-2320-451-F0001" label="5"/> to remove roller <callout assocfig="M00031-9-2320-451-F0001" label="6"/> and lower roller retainer <callout assocfig="M00031-9-2320-451-F0001" label="5"/>.</para>
+				</step1>
+				<step1>
+					<para>Lift S-camshaft end of upper shoe and lining <callout assocfig="M00031-9-2320-451-F0001" label="1"/>. Pull upper roller retainer <callout assocfig="M00031-9-2320-451-F0001" label="3"/> to remove top roller <callout assocfig="M00031-9-2320-451-F0001" label="2"/> and upper roller retainer <callout assocfig="M00031-9-2320-451-F0001" label="3"/>.</para>
+				</step1>
+				<step1>
+					<para>Lift free end of lower shoe and lining <callout assocfig="M00031-9-2320-451-F0001" label="7"/>, and remove return spring <callout assocfig="M00031-9-2320-451-F0001" label="4"/>.</para>
+				</step1>
+				<step1>
+					<para>Swing free end of lower shoe and lining <callout assocfig="M00031-9-2320-451-F0001" label="7"/> away from S-camshaft <callout assocfig="M00031-9-2320-451-F0001" label="9"/> to release tension on two retaining springs <callout assocfig="M00031-9-2320-451-F0001" label="8"/>.</para>
+				</step1>
+				<step1>
+					<para>Remove two retaining springs <callout assocfig="M00031-9-2320-451-F0001" label="8"/> and upper and lower shoes and linings <callout assocfig="M00031-9-2320-451-F0001" label="1"/><callout assocfig="M00031-9-2320-451-F0001" label="7"/>.</para>
+				</step1>
+				<step1>
+					<para>Remove two anchor pins <callout assocfig="M00031-9-2320-451-F0001" label="10"/>.</para>
+				</step1>
+				<step1>
+					<para>Use a hammer and suitable driver to remove two bushings <callout assocfig="M00031-9-2320-451-F0001" label="11"/> from spider <callout assocfig="M00031-9-2320-451-F0001" label="12"/>.</para>
+				</step1>
+				<figure id="M00031-9-2320-451-F0001">
+					<title>Service Brakes Shoes and Linings Removal</title>
+					<graphic boardno="G06232000407"></graphic>
+				</figure>
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>Install new return springs, retainer springs, return spring holding pins, brake shoe rollers, anchor pins and bushings, and roller retainers at each brake shoe and lining replacement. </trim.para>
+						</note>
+						<para>Drive two bushings <callout assocfig="M00031-9-2320-451-F0002" label="12"/> into spider <callout assocfig="M00031-9-2320-451-F0002" label="13"/>.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<specpara>
+						<warning>
+							<icon-set boardno="Chemical"/>
+							<icon-set boardno="Vapor"/>
+							<icon-set boardno="Eye_Protection"/>
+							<icon-set boardno="Fire"/>
+							<trim.para>Antiseize compounds are toxic and flammable. Always use in well-ventilated areas, away from heat, sparks, and flames. DO NOT breathe fumes. Continued exposure can cause dizziness and irritate your eyes and throat. Failure to comply may result in personnel death or injury. Seek medical attention in event of injury.</trim.para>
+							<trim.para>DO NOT allow antiseize compound to contact skin or eyes. Use eye protection or face shield and protective gloves. If antiseize compound contacts eyes, try to keep eyes open and flush with water for 15 minutes. Seek immediate medical attention. Failure to comply may result in personnel death or injury. Seek medical attention in event of injury.</trim.para>
+							<trim.para>When not using adhesive, solvent, and sealing compound containers, ensure containers are sealed. Failure to comply may result in personnel death or injury. Seek medical attention in event of injury.</trim.para>
+							<trim.para>Refer to local procedures and plans for preventing and responding to spills or leaks. Comply with local regulations when disposing of cleanup material and leaked and spilled materials. Failure to comply may result in personnel death or injury. Seek medical attention in event of injury.</trim.para>
+							<trim.para>Store, transport, and dispose adhesive waste and contaminated rags in compliance with local procedures and regulations. Failure to comply may result in personnel death or injury. Seek medical attention in event of injury.</trim.para>
+						</warning>
+						<para>Apply light coating of antiseize compound to two anchor pins <callout assocfig="M00031-9-2320-451-F0002" label="11"/>, and install anchor pins <callout assocfig="M00031-9-2320-451-F0002" label="11"/> into two bushings <callout assocfig="M00031-9-2320-451-F0002" label="12"/> (WP 0076).</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Install two return spring holding pins <callout assocfig="M00031-9-2320-451-F0002" label="8"/> into upper and lower brake shoes and linings <callout assocfig="M00031-9-2320-451-F0002" label="1"/><callout assocfig="M00031-9-2320-451-F0002" label="7"/>.</para>
+				</step1>
+				<step1>
+					<para>Place upper brake shoe and lining <callout assocfig="M00031-9-2320-451-F0002" label="1"/> in position on top anchor pin <callout assocfig="M00031-9-2320-451-F0002" label="11"/>.</para>
+				</step1>
+				<step1>
+					<para>Hold lower brake shoe and lining <callout assocfig="M00031-9-2320-451-F0002" label="7"/> against bottom anchor pin <callout assocfig="M00031-9-2320-451-F0002" label="11"/>, and install two retainer springs <callout assocfig="M00031-9-2320-451-F0002" label="9"/>.</para>
+				</step1>
+				<step1>
+					<para>Swing free end of lower brake shoe and lining <callout assocfig="M00031-9-2320-451-F0002" label="7"/> to S-camshaft <callout assocfig="M00031-9-2320-451-F0002" label="10"/>, pull lower brake shoe and lining <callout assocfig="M00031-9-2320-451-F0002" label="7"/> up, and install return spring <callout assocfig="M00031-9-2320-451-F0002" label="4"/> on both brake shoe and lining holding pins <callout assocfig="M00031-9-2320-451-F0002" label="8"/>.</para>
+				</step1>
+				<step1>
+					<para>Install lower roller retainer <callout assocfig="M00031-9-2320-451-F0002" label="5"/> on bottom roller <callout assocfig="M00031-9-2320-451-F0002" label="6"/>.</para>
+				</step1>
+				<step1>
+					<para>Install S-camshaft end of lower brake shoe and lining <callout assocfig="M00031-9-2320-451-F0002" label="7"/> down.</para>
+				</step1>
+				<step1>
+					<para>Squeeze sides of lower roller retainer <callout assocfig="M00031-9-2320-451-F0002" label="5"/> together so it fits between lower brake shoe and lining <callout assocfig="M00031-9-2320-451-F0002" label="7"/> webs. Position bottom roller <callout assocfig="M00031-9-2320-451-F0002" label="6"/> on webs, and push lower roller retainer <callout assocfig="M00031-9-2320-451-F0002" label="5"/> between lower brake shoe and lining <callout assocfig="M00031-9-2320-451-F0002" label="7"/> webs until it locks into web holes.</para>
+				</step1>
+				<step1>
+					<para>Install upper roller retainer <callout assocfig="M00031-9-2320-451-F0002" label="3"/> on top roller <callout assocfig="M00031-9-2320-451-F0002" label="2"/>.</para>
+				</step1>
+				<step1>
+					<para>Pull S-camshaft end of upper brake shoe and lining <callout assocfig="M00031-9-2320-451-F0002" label="1"/> up.</para>
+				</step1>
+				<step1>
+					<para>Squeeze sides of upper roller retainer <callout assocfig="M00031-9-2320-451-F0002" label="13"/> together so it fits between upper brake shoe and lining <callout assocfig="M00031-9-2320-451-F0002" label="1"/> webs. Position top roller <callout assocfig="M00031-9-2320-451-F0002" label="2"/> on webs, and push upper roller retainer <callout assocfig="M00031-9-2320-451-F0002" label="13"/> between upper brake shoe and lining <callout assocfig="M00031-9-2320-451-F0002" label="1"/> webs.</para>
+				</step1>
+				<step1>
+					<para>Adjust automatic slack adjusters manually as required <xref wpid="M00089-9-2320-451"/>.</para>
+				</step1>
+				<figure id="M00031-9-2320-451-F0002">
+					<title>Service Brakes Shoes and Linings Installation</title>
+					<graphic boardno="G06232000407"></graphic>
+				</figure>
+			</proc>
+		</replace>
+	</maintsk>
+</maintwp>

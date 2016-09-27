@@ -1,0 +1,204 @@
+<bulk_itemswp chngno="0"
+wpno="R00079-9-2320-451"><?Pub Dtl?><wpidinfo>
+<maintlvl level="maintainer"/>
+<title>BULK ITEMS WORK PACKAGE</title>
+</wpidinfo><fncgrp>
+<fnccode>BULK MATERIAL</fnccode>
+<fnctitle id="figBULK">FIG BULK</fnctitle>
+</fncgrp><pi.item><callout assocfig="figBULK"
+label="1"/>
+<uoc></uoc><qty>V</qty><smr maintcode="CZ"
+recovercode="Z" sourcecode="PA"/><nsn><fsc
+>5970</fsc><niin>011752052</niin></nsn><partno
+>5001001303S</partno><cageno>81851</cageno>
+<name>SLEEVING,TEXTILE,EL</name>
+<desc>  </desc></pi.item><pi.item><callout
+assocfig="figBULK" label="2"/>
+<uoc></uoc><qty>V</qty><smr maintcode="CZ"
+recovercode="Z" sourcecode="PA"/><nsn><fsc
+>9390</fsc><niin>014697255</niin></nsn><partno
+>8451A62</partno><cageno>39428</cageno><name
+>NONMETALLIC CHANNEL</name>
+<desc></desc></pi.item><pi.item><callout
+assocfig="figBULK" label="3"/>
+<uoc></uoc><qty>V</qty><smr maintcode="CZ"
+recovercode="Z" sourcecode="PA"/><nsn><fsc
+>5970</fsc><niin>000083295</niin></nsn><partno
+>M23053/10-004-0</partno><cageno>81349</cageno>
+<name>INSULATION SLEEVING</name>
+<desc></desc></pi.item><pi.item><callout
+assocfig="figBULK" label="4"/>
+<uoc></uoc><qty>V</qty><smr maintcode="CZ"
+recovercode="Z" sourcecode="PA"/><nsn><fsc
+>6145</fsc><niin>000236778</niin></nsn><partno
+>AA59551-E04G1B</partno><cageno>58536</cageno>
+<name>WIRE,ELECTRICAL</name>
+<desc></desc></pi.item><pi.item><callout
+assocfig="figBULK" label="5"/>
+<uoc></uoc><qty>V</qty><smr maintcode="CZ"
+recovercode="Z" sourcecode="PA"/><nsn><fsc
+>5970</fsc><niin>014818421</niin></nsn><partno
+>M23053/12-106-2</partno><cageno>81349</cageno>
+<name>INSULATION SLEEVING</name>
+<desc> </desc></pi.item><pi.item><callout
+assocfig="figBULK" label="6"/>
+<uoc></uoc><qty>V</qty><smr maintcode="CZ"
+recovercode="Z" sourcecode="PA"/><nsn><fsc
+>6145</fsc><niin>012027748</niin></nsn><partno
+>M24643/43-06U0</partno><cageno>81349</cageno>
+<name>CABLE,POWER,ELECTRI</name>
+<desc></desc></pi.item><pi.item><callout
+assocfig="figBULK" label="7"/>
+<uoc></uoc><qty>V</qty><smr maintcode="CZ"
+recovercode="Z" sourcecode="PA"/><nsn><fsc
+>6145</fsc><niin>002950806</niin></nsn><partno
+>M76MWPC1619A1</partno><cageno>81349</cageno>
+<name>WIRE,ELECTRICAL</name>
+<desc></desc></pi.item><pi.item><callout
+assocfig="figBULK" label="8"/>
+<uoc></uoc><qty>V</qty><smr maintcode="CZ"
+recovercode="Z" sourcecode="PA"/><nsn><fsc
+>6145</fsc><niin>008548211</niin></nsn><partno
+>J-C-580TFF6CF 1/16TUJ</partno><cageno>81348</cageno>
+<name>WIRE,ELECTRICAL</name>
+<desc></desc></pi.item><pi.item><callout
+assocfig="figBULK" label="9"/>
+<uoc></uoc><qty>V</qty><smr maintcode="CZ"
+recovercode="Z" sourcecode="PA"/><nsn><fsc
+>6145</fsc><niin>003435767</niin></nsn><partno
+>M81381/7-16-6</partno><cageno>81349</cageno>
+<name>WIRE,ELECTRICAL</name>
+<desc></desc></pi.item><pi.item><callout
+assocfig="figBULK" label="10"/>
+<uoc></uoc><qty>V</qty><smr maintcode="CZ"
+recovercode="Z" sourcecode="PA"/><nsn><fsc
+>6145</fsc><niin>010990050</niin></nsn><partno
+>M5086/1-16-60</partno><cageno>81349</cageno>
+<name>WIRE,ELECTRICAL</name>
+<desc></desc></pi.item><pi.item><callout
+assocfig="figBULK" label="11"/>
+<uoc></uoc><qty>V</qty><smr maintcode="CZ"
+recovercode="A" sourcecode="PA"/><nsn><fsc
+>6145</fsc><niin>006006173</niin></nsn><partno
+>M22759/11-16-3</partno><cageno>81349</cageno>
+<name>WIRE,ELECTRICAL</name>
+<desc></desc></pi.item><pi.item><callout
+assocfig="figBULK" label="12"/>
+<uoc></uoc><qty>V</qty><smr maintcode="CZ"
+recovercode="Z" sourcecode="PA"/><nsn><fsc
+>6145</fsc><niin>010994741</niin></nsn><partno
+>M5086/1-16-30</partno><cageno>81349</cageno>
+<name>WIRE,ELECTRICAL</name>
+<desc></desc></pi.item><pi.item><callout
+assocfig="figBULK" label="13"/>
+<uoc></uoc><qty>V</qty><smr maintcode="CZ"
+recovercode="Z" sourcecode="PA"/><nsn><fsc
+>6145</fsc><niin>014560311</niin></nsn><partno
+>M22759/34-16-4</partno><cageno>81349</cageno>
+<name>WIRE,ELECTRICAL</name>
+<desc></desc></pi.item><pi.item><callout
+assocfig="figBULK" label="14"/>
+<uoc></uoc><qty>V</qty><smr maintcode="CZ"
+recovercode="Z" sourcecode="PA"/><nsn><fsc
+>6145</fsc><niin>013812385</niin></nsn><partno
+>M16878/1BJE80</partno><cageno>81349</cageno>
+<name>WIRE,ELECTRICAL</name>
+<desc></desc></pi.item><pi.item><callout
+assocfig="figBULK" label="15"/>
+<uoc></uoc><qty>V</qty><smr maintcode="CZ"
+recovercode="Z" sourcecode="PA"/><nsn><fsc
+>6145</fsc><niin>011046028</niin></nsn><partno
+>J-C-580TFF6CF1/16TUJ5</partno><cageno>81348</cageno>
+<name>WIRE,ELECTRICAL</name>
+<desc></desc></pi.item><pi.item><callout
+assocfig="figBULK" label="16"/>
+<uoc></uoc><qty>V</qty><smr maintcode="CZ"
+recovercode="Z" sourcecode="PA"/><nsn><fsc
+>6145</fsc><niin>012361935</niin></nsn><partno
+>M5086/1-16-19</partno><cageno>81349</cageno>
+<name>WIRE,ELECTRICAL</name>
+<desc></desc></pi.item><pi.item><callout
+assocfig="figBULK" label="17"/>
+<uoc></uoc><qty>V</qty><smr maintcode="CZ"
+recovercode="A" sourcecode="PA"/><nsn><fsc
+>6145</fsc><niin>010910241</niin></nsn><partno
+>M22759/9-16-2</partno><cageno>81349</cageno>
+<name>WIRE,ELECTRICAL</name>
+<desc></desc></pi.item><pi.item><callout
+assocfig="figBULK" label="18"/>
+<uoc></uoc><qty>V</qty><smr maintcode="CZ"
+recovercode="A" sourcecode="PA"/><nsn><fsc
+>6145</fsc><niin>006006052</niin></nsn><partno
+>M22759/11-16-0</partno><cageno>81349</cageno>
+<name>WIRE,ELECTRICAL</name>
+<desc></desc></pi.item><pi.item><callout
+assocfig="figBULK" label="19"/>
+<uoc></uoc><qty>V</qty><smr maintcode="CZ"
+recovercode="Z" sourcecode="PA"/><nsn><fsc
+>6145</fsc><niin>001779527</niin></nsn><partno
+>M5086/1-10-9</partno><cageno>81349</cageno>
+<name>WIRE,ELECTRICAL</name>
+<desc></desc></pi.item><pi.item><callout
+assocfig="figBULK" label="20"/>
+<uoc></uoc><qty>V</qty><smr maintcode="CZ"
+recovercode="Z" sourcecode="PA"/><nsn><fsc
+>6145</fsc><niin>010910239</niin></nsn><partno
+>M22759/9-14-0</partno><cageno>81349</cageno>
+<name>WIRE,ELECTRICAL</name>
+<desc></desc></pi.item><pi.item><callout
+assocfig="figBULK" label="21"/>
+<uoc></uoc><qty>V</qty><smr maintcode="CZ"
+recovercode="A" sourcecode="PA"/><nsn><fsc
+>6145</fsc><niin>000825172</niin></nsn><partno
+>M16878/6BFE0</partno><cageno>81349</cageno>
+<name>WIRE,ELECTRICAL</name>
+<desc></desc></pi.item><pi.item><callout
+assocfig="figBULK" label="22"/>
+<uoc></uoc><qty>V</qty><smr maintcode="CZ"
+recovercode="Z" sourcecode="PA"/><nsn><fsc
+>6145</fsc><niin>000236923</niin></nsn><partno
+>C0-12MGF(12/18)0 685</partno><cageno>81349</cageno>
+<name>CABLE,POWER,ELECTRI</name>
+<desc></desc></pi.item><pi.item><callout
+assocfig="figBULK" label="23"/>
+<uoc></uoc><qty>V</qty><smr maintcode="CZ"
+recovercode="Z" sourcecode="PA"/><nsn><fsc
+>6145</fsc><niin>000443579</niin></nsn><partno
+>M5086/1-12-0</partno><cageno>81349</cageno>
+<name>WIRE,ELECTRICAL</name>
+<desc></desc></pi.item><pi.item><callout
+assocfig="figBULK" label="24"/>
+<uoc></uoc><qty>V</qty><smr maintcode="CZ"
+recovercode="Z" sourcecode="PA"/><nsn><fsc
+>5970</fsc><niin>004704575</niin></nsn><partno
+>M23053/10-002-0</partno><cageno>81349</cageno>
+<name>INSULATION SLEEVING</name>
+<desc> </desc></pi.item><pi.item><callout
+assocfig="figBULK" label="25"/>
+<uoc></uoc><qty>V</qty><smr maintcode="CZ"
+recovercode="Z" sourcecode="PA"/><nsn><fsc
+>4720</fsc><niin>012898293</niin></nsn><partno
+>417200C2</partno><cageno>29510</cageno><name
+>TUBING,NONMETALLIC </name>
+<desc> </desc></pi.item><pi.item><callout
+assocfig="figBULK" label="26"/>
+<uoc></uoc><qty>V</qty><smr maintcode="CZ"
+recovercode="Z" sourcecode="PA"/><nsn><fsc
+>9330</fsc><niin>009122707</niin></nsn><partno
+>M200SERIES1X1-8</partno><cageno>99806</cageno>
+<name>PLASTIC STRIP,PRESS</name>
+<desc></desc></pi.item><pi.item><callout
+assocfig="figBULK" label="27"/>
+<uoc></uoc><qty>V</qty><smr maintcode="CZ"
+recovercode="Z" sourcecode="PA"/><nsn><fsc
+>5640</fsc><niin>014624252</niin></nsn><partno
+>93695K62</partno><cageno>39428</cageno><name
+>WEATHER STRIP </name>
+<desc></desc></pi.item><pi.item><callout
+assocfig="figBULK" label="28"/>
+<uoc></uoc><qty>V</qty><smr maintcode="CZ"
+recovercode="Z" sourcecode="PA"/><nsn><fsc
+>4720</fsc><niin>013477388</niin></nsn><partno
+>417202C2</partno><cageno>89346</cageno><name
+>HOSE,NONMETALLLIC</name>
+<desc></desc></pi.item></bulk_itemswp>

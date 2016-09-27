@@ -1,0 +1,171 @@
+<opunuwp chngno="0" wpno="O00039-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="crew"/>
+		<title>OPERATION UNDER UNUSUAL CONDITIONS <?Pub _newline?>TRDT</title>
+	</wpidinfo>
+	<initial_setup>
+		<persnreq>
+			<persnreq-setup-item>
+				<name>Wheeled Vehicle Mechanic</name>
+				<mos>91B</mos>
+				<qty>1</qty>
+			</persnreq-setup-item>
+		</persnreq>
+	</initial_setup>
+	<opunutsk>
+		<unusualenv>
+			<proc>
+				<title>OPERATION IN EXTREME COLD</title>
+				<step1>
+					<specpara>
+						<caution>
+							<trim.para>Because the TDRT is coupled to the FWTRD for operation, all cold weather instructions regarding operation of the FWTRD must be followed for the TDRT to operate properly. Consult WP <xref wpid="O00001-9-2320-451"/> of the FWTRD TM for cold weather instructions regarding the FWTRD. Failure to comply may result in damage to the equipment.</trim.para>
+						</caution>
+						<para>Operation:</para>
+					</specpara>
+					<step2>
+						<para>Insulation may crack and cause electrical short circuits. Rubber and plastic air lines can become hard, brittle, and easily damaged or broken. Handle these materials with care in extreme cold.</para>
+					</step2>
+					<step2>
+						<para>Refer to FM 9-207 and FM 21-305 for special instructions on driving hazards in extreme cold.</para>
+					</step2>
+					<step2>
+						<para>Refer to <xref wpid="M00118-9-2320-451"/> for proper lubrication during extreme cold weather conditions.</para>
+					</step2>
+				</step1>
+				<step1>
+					<para>At-Halt Parking:</para>
+					<step2>
+						<para>When parking short term, park in a sheltered area out of the wind.</para>
+					</step2>
+					<step2>
+						<para>When parking long term, prepare a footing of planks or brush if high, dry ground is not available.</para>
+					</step2>
+					<step2>
+						<para>Remove all buildup of ice and snow as soon as possible after shutdown.</para>
+					</step2>
+					<step2>
+						<para>Cover the TDRT and shield the TDRT with canvas covers if available. Keep ends of covers off the ground to keep them from freezing to the ground.</para>
+					</step2>
+				</step1>
+				<step1>
+					<para>Cover inactive TDRT with tarpaulins, if they are available and if there is no other available shelter. For several hours each week, shake out and air canvas covers or other items subject to deterioration from mildew or attacks by insects or vermin.</para>
+				</step1>
+				<step1>
+					<para>If inactive for long periods in hot, humid weather, the TDRT is subject to rapid rusting and accumulation of fungi growth. Frequently inspect, clean, and lubricate to prevent excessive deterioration.</para>
+				</step1>
+			</proc>
+		</unusualenv>
+	</opunutsk>
+	<opunutsk>
+		<unusualenv>
+			<proc>
+				<title>OPERATION IN SANDY OR DUSTY AREAS</title>
+				<step1>
+					<para>Inspect, clean and lubricate the TDRT frequently when operating in dusty or sandy areas. Refer to WP <xref wpid="O00001-9-2320-451"/> for proper lubrication instructions.</para>
+				</step1>
+				<step1>
+					<para>Make sure no sand or dust enters exposed mechanisms or lubrication fittings during inspections and repair operations. Cover Exposed parts with tarpaulins or other suitable cover during disassembly and assembly.</para>
+				</step1>
+			</proc>
+		</unusualenv>
+	</opunutsk>
+	<opunutsk>
+		<unusualenv>
+			<proc>
+				<title>OPERATION IN MUD AND SNOW</title>
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>Refer to FM 21-305 for special instructions for operation in snow.</trim.para>
+						</note>
+						<para>Frequently clean, inspect, and lubricate the TDRT. Refer to WP <xref wpid="M00118-9-2320-451"/> for proper lubrication instructions.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>After each operation, remove ice, snow, and mud from underneath the TDRT and from hoses, lines, tubes, and electrical connections.</para>
+				</step1>
+			</proc>
+		</unusualenv>
+	</opunutsk>
+	<opunutsk>
+		<unusualenv>
+			<proc>
+				<title>OPERATION IN SALTWATER AREAS</title>
+				<step1>
+					<para>Wash salt deposits from all equipment with fresh water.</para>
+				</step1>
+				<step1>
+					<para>Moist and salty areas can destroy the rust preventative qualities of oils and greases. When equipment is active, exposed surfaces should be cleaned and lubricated daily. Refer to WP <xref wpid="O00001-9-2320-451"/> for proper lubrication in high humidity and saltwater areas.</para>
+				</step1>
+				<step1>
+					<para>When equipment is inactive, unpainted parts should be coated with lubricating oil (refer to WP <xref wpid="M00118-9-2320-451"/>). All covers and caps should be in place.</para>
+				</step1>
+			</proc>
+		</unusualenv>
+	</opunutsk>
+	<opunutsk>
+		<unusualenv>
+			<proc>
+				<title>OPERATION ON ROCKY TERRAIN</title>
+				<para>Before driving over stumps or rocks, make sure that the TDRT/FWTRD can clear them. Such objects can damage components on the underside of the TDRT/FWTRD. Beware of low hanging limbs that can damage cargo.</para>
+			</proc>
+		</unusualenv>
+	</opunutsk>
+	<opunutsk>
+		<unusualenv>
+			<proc>
+				<title>FORDING</title>
+				<step1>
+					<para>Before Fording:</para>
+					<step2>
+						<para>Refer to operating instructions in prime mover technical manual for information on fording operations. Towed vehicle fording instructions are also applicable.</para>
+					</step2>
+					<step2>
+						<para>The fording depth of the TDRT/FWTRD is limited to the fording depth of the prime mover or towed vehicle, whichever is lower.</para>
+					</step2>
+					<step2>
+						<para>Before entering the water, check bottom surface conditions. If bottom is too soft, do not ford.</para>
+					</step2>
+					<step2>
+						<para>Cables and terminals must be protected by applying silicone compound (<xref wpid="S00006-9-2320-451"/>)</para>
+					</step2>
+				</step1>
+				<step1>
+					<para>After Fording:</para>
+					<step2>
+						<para>Drain or dry all areas where water has collected.</para>
+					</step2>
+					<step2>
+						<para>Lubricate all unpainted surfaces. See lubrication chart WP <xref wpid="M00118-9-2320-451"/>.</para>
+					</step2>
+				</step1>
+			</proc>
+		</unusualenv>
+	</opunutsk>
+	<opunutsk>
+		<unusualenv>
+			<proc>
+				<title>ROLL-ON/ROLL-OFF (RORO) OPERATIONS</title>
+				<step1>
+					<para>The following procedures are roll-on/roll-off (RORO) procedures for shipment of the TDRT when attached to the FWTRD.</para>
+				</step1>
+				<step1>
+					<para>Couple the TDRT to the FWTRD as described in WP <xref wpid="O00001-9-2320-451"/>.</para>
+				</step1>
+				<step1>
+					<para>Omit step 8 of WP <xref wpid="O00001-9-2320-451"/>.</para>
+				</step1>
+				<step1>
+					<para>Omit step 9 of WP <xref wpid="O00001-9-2320-451"/>. Instead "extend" the mast to the fifth hole setting and pin the mast in the half hole setting. "Retract" mast to secure the pin.</para>
+				</step1>
+				<step1>
+					<para>When ascending ramp, it may be necessary to BOOM EXTEND for additional height after the prime mover passes the ramp crest. Use the remote control to extend and retract the boom as necessary.</para>
+				</step1>
+				<step1>
+					<para>After the TDRT travels over the crest, adjust mast and boom as needed to bring FWTRD fifth wheel section level for normal travel.</para>
+				</step1>
+			</proc>
+		</unusualenv>
+	</opunutsk>
+</opunuwp>

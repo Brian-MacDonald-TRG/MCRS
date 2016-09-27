@@ -1,0 +1,34 @@
+<tswp chngno="0" wpno="T00006-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="crew"/>
+		<title>TROUBLESHOOTING PROCEDURES <?Pub _newline?> STOP AND TAIL LIGHTS </title>
+	</wpidinfo>
+	<initial_setup>
+		<eqpconds>
+			<eqpconds-setup-item>
+				<condition> Coupling the TDRT to the FWTRD (<xref wpid="O00022-9-2320-451"/>).</condition>
+			</eqpconds-setup-item>
+		</eqpconds>
+	</initial_setup>
+	<tsproc>
+		<faultproc>
+			<title>Crew Troubleshooting</title>
+			<symptom> Tail Lights on Tilt Deck Recovery Trailer dose not work.</symptom>
+			<malfunc label="malfunction"> Prime mover to FWTRD and FWTRD to TDRT 12' Lighting Cord disconnected.</malfunc>
+			<action>
+				<step1>
+					<para>Reconnect cables if not properly connected.</para>
+				</step1>
+			</action>
+			<malfunc label="malfunction"> Electrical connectors are dirty, corroded, or has damaged pins.</malfunc>
+			<action>
+				<step1>
+					<para>Clean dirty or corroded electrical connections</para>
+				</step1>
+				<step1>
+					<para>Notify Maintainer if pins are damaged.</para>
+				</step1>
+			</action>
+		</faultproc>
+	</tsproc>
+</tswp>

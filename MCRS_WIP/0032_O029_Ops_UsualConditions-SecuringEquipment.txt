@@ -1,0 +1,123 @@
+<opusualwp chngno="0" wpno="O00029-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="crew"/>
+			<title>Operation Under Usual Conditions - OPERATING PROCEDURES - SECURING EQUIPMENT</title>
+	</wpidinfo>
+	<initial_setup>
+		<persnreq>
+			<persnreq-setup-item>
+				<name>Wheeled Vehicle Mechanic</name>
+				<mos>91B</mos>
+				<qty>1</qty>
+			</persnreq-setup-item>
+		</persnreq>
+	</initial_setup>
+	<opertsk>
+		<oper>
+			<proc>
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>Try to secure safety chains to un-sprung weight such as an axle, A-Arm mount, etc. Securing equipment at front tow eyes or spring hangers allows the chassis to "bounce" on the suspension which momentarily slacks/shocks the safety chains during transport.</trim.para>
+						</note>
+						<para>Perform lift tow procedure as described in <xref wpid="O00013-9-2320-451"/>.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Position 1/2" chain at an un-sprung point (axle, lower a-arm, suspension mount, etc.) <callout assocfig="O00029-9-2320-451-F0001" label="1"/>.</para>
+				</step1>
+
+					<figure id="O00029-9-2320-451-F0001">
+					<title>Safety Chain to Solid, Un-Sprung Mounting Point</title>
+					<graphic boardno="G06232000198"></graphic>
+					</figure>
+
+				<step1>
+					<para>Bring the safety chain to the outside of the booms and under the wheel stop <callout assocfig="O00029-9-2320-451-F0002" label="1"/>.</para>
+				</step1>
+
+					<figure id="O00029-9-2320-451-F0002">
+					<title>Safety Chain Outside Booms and Under Wheel Stop</title>
+					<graphic boardno="G06232000199"></graphic>
+					</figure>
+
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>An alternative method may be required.</trim.para>
+						</note>
+						<para>Route the chain through the D-Ring at the base of the booms and secure with a binder <callout assocfig="O00029-9-2320-451-F0003" label="1"/>.</para>
+					</specpara>
+				</step1>
+
+					<figure id="O00029-9-2320-451-F0003">
+					<title>Safety Chain Secured with Binder</title>
+					<graphic boardno="G06232000200"></graphic>
+					</figure>
+
+				<step1>
+					<para>Perform Steps 2-4 on the other side of the disabled vehicle.</para>
+				</step1>
+			</proc>
+			<proc>
+				<title>ALTERNATIVE METHOD FOR SECURING VEHICLE</title>
+				<step1>
+					<para>Run the left and right chains up through the vertical tubes on the receivers.</para>
+				</step1>
+				<step1>
+					<para>Join the chains in the center with one binder.</para>
+				</step1>
+				<step1>
+					<para>Be sure the binder and chains are positioned over the 18K winch cable.</para>
+				</step1>
+
+					<figure id="O00029-9-2320-451-F0004">
+					<title>Single Binder Securing Left and Right Chains</title>
+					<graphic boardno="G06232000201"></graphic>
+					</figure>
+
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>When securing loads on the TDRT, utilize 5/8" chains at the primary tie-down locations. Auxiliary tie-downs can use 1/2" chains as needed.</trim.para>
+						</note>
+						<para>Using 5/8" chains and binders, secure loads to the primary front.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Using 5/8" chains and binders, secure loads to the rear primary tiedowns.</para>
+				</step1>
+
+					<figure id="O00029-9-2320-451-F0005">
+					<title>Front Tie-Down Locations</title>
+					<graphic boardno="G06232000202"></graphic>
+					</figure>
+					
+					<figure id="O00029-9-2320-451-F0006">
+					<title>Rear Tie-Down Locations</title>
+					<graphic boardno="G06232000203"></graphic>
+					</figure>
+
+					<figure id="O00029-9-2320-451-F0007">
+					<title>TDRT Tie-Down Locations</title>
+					<graphic boardno="G06232000204"></graphic>
+					</figure>
+
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>When securing loads on the TDRT, utilize 5/8" chains at the primary tie-down locations. Auxiliary tie-downs can use 1/2" chains as needed.</trim.para>
+						</note>
+						<para>Position the load on the TDRT deck so that the center of gravity is placed in the load window as shown in Figure <callout assocfig="O00029-9-2320-451-F0006" label="1"/>.</para>
+					</specpara>
+				</step1>
+
+					<figure id="O00029-9-2320-451-F0008">
+					<title>Optimal Load Distribution</title>
+					<graphic boardno="G06232000205"></graphic>
+					</figure>
+
+				</proc>
+			</oper>
+		</opertsk>
+</opusualwp>

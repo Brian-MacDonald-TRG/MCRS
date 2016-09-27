@@ -1,0 +1,25 @@
+<tswp chngno="0" wpno="T00018-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="crew"/>
+		<title>TROUBLESHOOTING PROCEDURES <?Pub _newline?>MAST CYLINDER LEAK</title>
+	</wpidinfo>
+	<initial_setup>
+		<eqpconds>
+			<eqpconds-setup-item>
+				<condition>Coupling FWTRD to Prime Mover(<xref wpid="O00003-9-2320-451"/>).</condition>
+			</eqpconds-setup-item>
+		</eqpconds>
+	</initial_setup>
+	<tsproc>
+		<faultproc>
+			<title>Crew Troubleshooting</title>
+			<symptom>Mast cylinder is leaking.</symptom>
+			<malfunc label="malfunction"> With the Mast in the track, insert the Pivot Pins into the Mast and the using the Valve Control Levers, MAST EXTEND and hold pressure for 5 seconds.</malfunc>
+			<action>
+				<step1>
+					<para>If leak is Class III type, Notify Maintainer to replace Main Frame to Mast Cylinder IAW <xref wpid="M00074-9-2320-451"/></para>
+				</step1>
+			</action>
+		</faultproc>
+	</tsproc>
+</tswp>

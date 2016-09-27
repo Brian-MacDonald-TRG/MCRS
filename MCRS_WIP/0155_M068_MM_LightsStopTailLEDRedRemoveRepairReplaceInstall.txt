@@ -1,0 +1,124 @@
+<maintwp chngno="0" wpno="M00068-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="maintainer"/>
+		<title>MAINTAINER MAINTENANCE - MAINTAINER LIGHTS STOP TAIL LED RED REMOVE/REPAIR/REPLACE/INSTALL</title>
+	</wpidinfo>
+	<initial_setup>
+		<tools>
+			<tools-setup-item>
+				<name>Tool Kit, General Mechanics</name>
+				<itemref>
+					<xref itemid="S00007-9-2320-451-TOOL-4" wpid="S00007-9-2320-451"/>
+				</itemref>
+			</tools-setup-item>
+		</tools>
+		<persnreq>
+			<persnreq-setup-item>
+				<name>Motor Transport Operator</name>
+				<mos>88M</mos>
+				<qty>X</qty>
+			</persnreq-setup-item>
+		</persnreq>
+	</initial_setup>
+	<maintsk>
+		<remove>
+			<proc>
+				<step1>
+					<para>Pry unserviceable stop and tail light <callout assocfig="M00068-9-2320-451-F0001" label="1"> away from gasket.</para>
+				</step1>
+				<step1>
+					<para>Disconnect QD electrical connector <callout assocfig="M00068-9-2320-451-F0001" label="2"></para>
+				</step1>
+				<figure id="M00068-9-2320-451-F0001">
+					<title>Stop and Tail Light Removal</title>
+					<graphic boardno="G06232000390"/>
+				</figure>
+				<step1>
+					<para>Remove unserviceable tail light.</para>
+				</step1>
+			</proc>
+		</remove>
+	</maintsk>
+	<maintsk>
+		<repair>
+			<proc>
+				<step1>
+					<para>Pry unserviceable tail light <callout assocfig="M00068-9-2320-451-F0002" label="1"> away from grommet.</para>
+				</step1>
+				<step1>
+					<para>Disconnect QD electrical connector <callout assocfig="M00068-9-2320-451-F0002" label="2">.</para>
+				</step1>
+				<figure id="M00068-9-2320-451-F0002">
+					<title>Tail Light Removal</title>
+					<graphic boardno="G06232000390"/>
+				</figure>
+				<step1>
+					<para>Remove heat shrink <callout assocfig="M00068-9-2320-451-F0003" label="1"> on three wires.</para>
+				</step1>
+				<figure id="M00068-9-2320-451-F0003">
+					<title>Heat Shrink Removal</title>
+					<graphic boardno="G06232000391"/>
+				</figure>
+				<step1>
+					<para>Tag and disconnect wires.</para>
+				</step1>
+				<step1>
+					<para>Obtain serviceable item.</para>
+				</step1>
+				<step1>
+					<para>Install wires as tagged.</para>
+				</step1>
+				<step1>
+					<para>Heat shrink connectors.</para>
+				</step1>
+				<step1>
+					<para>Connect QD electrical connector <callout assocfig="M00068-9-2320-451-F0004" label="1"> to serviceable item.</para>
+				</step1>
+				<figure id="M00068-9-2320-451-F0004">
+					<title>Electrical Connector Installation</title>
+					<graphic boardno="G06232000389"/>
+				</figure>
+				<step1>
+					<para>Install tail light assembly into rubber grommet.</para>
+				</step1>
+			</proc>
+		</repair>
+	</maintsk>
+	<maintsk>
+		<replace>
+			<proc>
+				<step1>
+					<para>Pry unserviceable tail light <callout assocfig="M00068-9-2320-451-F0005" label="1"> away from grommet.</para>
+				</step1>
+				<figure id="M00068-9-2320-451-F0005">
+					<title>Tail Light Removal</title>
+					<graphic boardno="G06232000389"/>
+				</figure>
+				<step1>
+					<para>Disconnect QD electrical connector.</para>
+				</step1>
+				<step1>
+					<para>Remove unserviceable tail light. Obtain serviceable item.</para>
+				</step1>
+				<step1>
+					<para>Plug QD electrical connector into serviceable tail light.</para>
+				</step1>
+				<step1>
+					<para>Install tail light assembly into rubber grommet.</para>
+				</step1>
+			</proc>
+		</replace>
+	</maintsk>
+	<maintsk>
+		<install>
+			<proc>
+				<step1>
+					<para>Plug QD electrical connector into serviceable stop and tail light.</para>
+				</step1>
+				<step1>
+					<para>Install tail light assembly into rubber gasket.</para>
+				</step1>
+			</proc>
+		</install>
+	</maintsk>
+</maintwp>

@@ -1,0 +1,31 @@
+<tswp chngno="0" wpno="T00008-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="crew"/>
+		<title>TROUBLESHOOTING PROCEDURES <?Pub _newline?>WORK LIGHT</title>
+	</wpidinfo>
+	<initial_setup>
+		<eqpconds>
+			<eqpconds-setup-item>
+				<condition>Coupling FWTRD to Prime Mover(<xref wpid="O00003-9-2320-451"/>).</condition>
+			</eqpconds-setup-item>
+		</eqpconds>
+	</initial_setup>
+	<tsproc>
+		<faultproc>
+			<title>Crew Troubleshooting</title>
+			<symptom>Work light inoperable.</symptom>
+			<malfunc label="malfunction">Work Light Switch is in "ON" position and light does not come on.</malfunc>
+			<action>
+				<step1>
+					<para>Check for voltage on Electric Control Box gauge.</para>
+				</step1>
+				<step1>
+					<para>Connect NATO Cord from FWTRD to prime mover.</para>
+				</step1>
+				<step1>
+					<para>If light still does not work, notify Maintainer.</para>
+				</step1>
+			</action>
+		</faultproc>
+	</tsproc>
+</tswp>

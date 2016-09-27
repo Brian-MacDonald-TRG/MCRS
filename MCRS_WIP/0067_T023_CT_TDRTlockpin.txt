@@ -1,0 +1,37 @@
+<tswp chngno="0" wpno="T00023-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="crew"/>
+		<title>TROUBLESHOOTING PROCEDURES <?Pub _newline?> TDRT LOCK PIN </title>
+	</wpidinfo>
+	<initial_setup>
+		<eqpconds>
+			<eqpconds-setup-item>
+				<condition> Coupling the TDRT to the FWTRD (<xref wpid="O00023-9-2320-451"/>).</condition>
+			</eqpconds-setup-item>
+		</eqpconds>
+	</initial_setup>
+	<tsproc>
+		<faultproc>
+			<title>Crew Troubleshooting</title>
+			<symptom>TDRT Slide Lock Pin will not release.</symptom>
+			<malfunc label="malfunction">The gladhands from prime mover to FWTRD and FWTRD to TDRT are connected improperly.</malfunc>
+			<action>
+				<step1>
+					<para>Connect gladhands properly</para>
+				</step1>
+			</action>
+			<malfunc label="malfunction">TDRT Control Panel Air Supply Gauge shows less than 100 psi</malfunc>
+			<action>
+				<step1>
+					<para>Make sure Trailer Supply Valve in prime mover is pressed in, and wait for gauge to show 1003psi.</para>
+				</step1>
+			</action>
+			<malfunc label="malfunction">The pin is misaligned in locking hole.</malfunc>
+			<action>
+				<step1>
+					<para>Notify maintainer to remove, test, repair, or replace the Axle Lock Pin IAW <xref wpid="M00112-9-2320-451"/>.</para>
+				</step1>
+			</action>
+		</faultproc>
+	</tsproc>
+</tswp>

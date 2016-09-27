@@ -1,0 +1,50 @@
+<opusualwp chngno="0" wpno="O00034-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="crew"/>
+		<title>OPERATING PROCEDURES <?Pub _newline?>STOWAGE OF TOW BAR ASSEMBLIES</title>
+	</wpidinfo>
+	<initial_setup>
+		<persnreq>
+			<persnreq-setup-item>
+				<name>Wheeled Vehicle Mechanic</name>
+				<mos>91B</mos>
+				<qty>1</qty>
+			</persnreq-setup-item>
+		</persnreq>
+	</initial_setup>
+	<opertsk>
+		<oper>
+			<proc>
+				<step1>
+					<para>Remove upper section of tow bar assembly from lower section and set aside.</para>
+				</step1>
+				<step1>
+					<para>Loosen all four T-bolts on lower section and remove lower section from boom.</para>
+				</step1>
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>If necessary, use same procedure of tilting lower section of tow bar assembly to insert upper section. Refer to steps 1 through 5 in <xref wpid="O00006-9-2320-451"/>.</trim.para>
+						</note>
+						<para>Position lower section onto storage bracket slide to inner position and tighten all T-bolts.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<specpara>
+						<caution>
+							<trim.para>Ensure offset mounting plates are facing forward to avoid contact with the mast during operation. Damage to equipment may occur.</trim.para>
+						</caution>
+						<para>Position upper section onto lower section and secure with hitch pin and spring pin.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Repeat steps for remaining tow bar assembly.</para>
+				</step1>
+				<figure id="O00034-9-2320-451-F0001">
+					<title>Tow Bar Assembly and Storage</title>
+					<graphic boardno="G06232000224"></graphic>
+				</figure>
+			</proc>
+		</oper>
+	</opertsk>
+</opusualwp>

@@ -1,0 +1,189 @@
+<opusualwp chngno="0" wpno="O00014-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="crew"/>
+		<title>OPERATING PROCEDURES <?Pub _newline?>CONNECTING TO TOWED VEHICLES WITHOUT ADAPTERS</title>
+	</wpidinfo>
+	<initial_setup>
+		<persnreq>
+			<persnreq-setup-item>
+				<name>Wheeled Vehicle Mechanic</name>
+				<mos>91B</mos>
+				<qty>1</qty>
+			</persnreq-setup-item>
+		</persnreq>
+		<eqpconds>
+			<eqpconds-setup-item>
+				<condition>FWTRD Prepared for Towing IAW <xref wpid="O00005-9-2320-451"/></condition>
+			</eqpconds-setup-item>
+		</eqpconds>
+	</initial_setup>
+	<opertsk>
+		<prepforuse>
+			<proc>
+				<step1>
+					<specpara>
+						<warning>
+							<icon-set boardno="Heavy_Parts-foot"/>
+							<icon-set boardno="Heavy_Parts-wall"/>
+							<trim.para>Connecting to a towed vehicle should be done by two people, the first person in the prime mover cab and the second acting as a ground guide. The person in the prime mover cab must keep the ground guide in sight at all times. All other personnel should stand completely clear of the area. A crush hazard exists. Failure to comply may result in serious injury or death to personnel.</trim.para>
+							<trim.para>Wheels on the towed vehicle should be chocked and parking brakes engaged prior to beginning lift tow connection. Failure to comply could result in the vehicle moving unexpectedly creating a crush hazard causing serious injury or death to personnel.</trim.para>
+						</warning>
+						<caution>
+							<trim.para>If the valve control levers are used, an assistant must monitor boom extensions to prevent contact with the towed vehicle that could result in damage to the equipment.</trim.para>
+						</caution>
+						<note>
+							<trim.para>If the vehicle you are towing has tow bar mounts that are compatible to the FWTRD tow bar adapters, proceed directly to <xref wpid="O00013-9-2320-451"/> for specific instructions applicable to connecting to disabled vehicles with tow bar adapers. </trim.para> 
+							<trim.para>If the vehicle you are towing is the STRYKER, then proceed directly to <xref wpid="O00015-9-2320-451"/> for specific STRYKER lift tow instructions.</trim.para>
+						</note>
+					<para>Position the FWTRD so that the FWTRD booms are centered to, and can be backed evenly under the disabled vehicle. <xref figid="O00014-9-2320-451-F0001"/></para>
+					</specpara>
+				</step1>
+				
+					<figure id="O00014-9-2320-451-F0001">
+					<title>FWTRD Lined Up To Disabled Vehicle</title>
+					<graphic boardno="G06232000561"/>
+					</figure>
+				
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>Position the receivers <callout assocfig="O00014-9-2320-451-F0002" label="1"/> so that, after the tires of the towed vehicle contact the tire stops, there is approximately 12 inches of space between the front of the towed vehicle and the bumper stops of the FWTRD.</trim.para>
+						</note>
+						<para>Position the receivers with wheel stops on the FWTRD Booms.</para>
+					</specpara>
+				</step1>
+				
+					<figure id="O00014-9-2320-451-F0002">
+					<title>Receivers With Wheel Stops When Tow Bar Adapters Not Used</title>
+					<graphic boardno="G06232000562"/>
+					</figure>
+				<step1>
+					<para>Using an assistant, back the FWTRD under the vehicle until the wheel stops <callout assocfig="O00014-9-2320-451-F0003" label="1"/> align evenly with and contact the tires.</para>
+				</step1>
+				
+					<figure id="O00014-9-2320-451-F0003">
+					<title>Backing Under Disabled Vehicle</title>
+					<graphic boardno="G06232000563"/>
+					</figure>
+
+				<step1>
+					<specpara>
+						<caution>
+							<trim.para>For rear tie-down, the FWTRD Extensions should be located in the area between the rear of the cab and the forward rear axle on the towed vehicle frame. Failure to comply may result in an unstable hook-up and the frame of the truck being overstressed during lift-tow resulting in damage to the equipment.</trim.para>
+						</caution>
+						<para>Using the remote control, EXTEND OUT left and right boom extensions <xref figid="O00014-9-2320-451-F0004"/> to the position where rear tie-down chains will be installed for the disabled vehicle. </para>
+					</specpara>
+				</step1>
+			
+					<figure id="O00014-9-2320-451-F0004">
+					<title>Towing Connection Location</title>
+					<graphic boardno="G06232000564"/>
+					</figure>
+
+				<step1>
+					<para>Using the remote control, BOOM EXTEND until the transport leg assembly is free of the prime mover after-frame.</para>
+				</step1>
+				<step1>
+					<para>Rotate transport leg swing arm handle, counter-clockwise, to raise and stow the transport legs <callout assocfig="O00014-9-2320-451-F0005" label="1"/>. Secure the swing arm handle with the small bungee.</para>
+				</step1>
+				
+					<figure id="O00014-9-2320-451-F0005">
+					<title>Boom "Extend" to Stow Transport Leg Assembly</title>
+					<graphic boardno="G06232000565"/>
+					</figure>
+
+				<step1>
+					<para>Using the remote control, BOOM RETRACT until booms touches the ground.</para>
+				</step1>
+				<step1>
+					<para>Using the remote control, BOOM RETRACT to allow for ground clearance when attaching 1/2 inch chains. Retract booms as much as possible without interference to axles, fuel tanks, support brackets, etc under the towed vehicle. <callout assocfig="O00014-9-2320-451-F0006"/></para>
+				</step1>
+					
+					<figure id="O00014-9-2320-451-F0006">
+					<title>Booms Retracted For Rear Chain Hook-up</title>
+					<graphic boardno="G06232000566"/>
+					</figure>
+
+				<step1>
+					<specpara>
+						<caution>
+							<trim.para>Use care not to wrap chain around frame flange or any air, hydraulic, or fuel lines that may run along the frame. This could bend the frame flange or damage hoses and lines. Chain may be wrapped over both frame rails. This will not pull down on the frame flange.</trim.para>
+						</caution>
+						<note>
+							<trim.para>There are a wide variety of rear suspension configurations.  The FWTRD BII of 1/2" chains, sling/grab hooks, frame hooks, and clevises, are provided to use in combinations as determined to complete rear chaining of the boom extensions.</trim.para>
+							<trim.para>Rear chaining should be configured as vertically, from the boom extensions to the disabled vehicle connection point, as possible.</trim.para>
+							<trim.para>It is permissible to wrap the 1/2" chain around the end of the boom extension.</trim.para>
+						</note>
+						<para>Using 1/2" chains, secure the boom extensions, as close to the damaged vehoicle's frame as possible. Chain around an area that can withstand towing force to include rear axle or spring hangers <xref figid="O00014-9-2320-451-F0007"/>.</para>
+					</specpara>
+				</step1>
+					
+					<figure id="O00014-9-2320-451-F0007">
+					<title>Rear Chaining Example</title>
+					<graphic boardno="G06232000567"/>
+					</figure>
+
+				<step1>
+					<para>Using the valve control levers or remote control, BOOM EXTEND until the rear safety chains tighten. Check your chains once tight.</para>
+				</step1>
+				<step1>
+					<specpara>
+						<warning>
+							<icon-set boardno="Heavy_Parts-above"/>
+							<trim.para>Step 12 involves placing blocks between the booms and the front suspension of the towed vehicle. If an assistant is used, the assistant must be kept in sight by the operator at all times and must be clear of the area prior to performing step 13. A crush hazard exists. Failure to comply may result in injury or death to personnel.</trim.para>
+						</warning>
+						<note>
+							<trim.para>Blocking and/or rubber pads help create space for steering linkage, tie rods, U-bolts, etc.</trim.para>
+						</note>
+						<para>Position rubber blocks between towed vehicle and booms <xref figid="O00014-9-2320-451-F0008"/>.</para>
+					</specpara>
+				</step1>
+
+					<figure id="O00014-9-2320-451-F0008">
+					<title>Block Location</title>
+					<graphic boardno="G06232000568"/>
+					</figure>
+				
+				<step1>
+					<para>Using valve control levers, BOOM EXTEND until blocks contact the suspension lift point.</para>
+				</step1>
+				<step1>
+					<para>Using valve lever controls, BOOM EXTEND to level fifth wheel and install hitch pin into center ram.</para>
+				</step1>
+				<step1>
+					<para>Using valve lever controls, BOOM RETRACT to lock hitch pin into position. Secure hitch pin with spring pin.</para>
+				</step1>
+				<step1>
+					<specpara>	
+						<note>
+							<trim.para>When setting the mast to towing height the fifth wheel should be kept as level as possible.
+							</trim.para>
+						</note>
+						<para>Using valve lever controls, MAST EXTEND to raise towed vehicle to towing height required for terrain.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Install pivot pin in slot above arrow and MAST RETRACT to lock pin into position, using valve lever control.</para>
+				</step1>
+				<step1>
+					<para>Secure front axle to boom IAW <xref wpid="O00029-9-2320-451"/>.</para>
+				</step1>
+				<step1>
+					<para>Secure towed vehicle steering wheel to prevent rotation while in transport.</para>
+				</step1>
+				<step1>
+					<para>Connect 70 ft. cable from fifth wheel towing device to light assembly and install tow light assembly on rear of towed vehicle IAW <xref wpid="O00030-9-2320-451"/>.</para>
+				</step1>
+				<step1>
+					<para>Connect air lines from FWTRD to disabled vehicle IAW <xref wpid="O00031-9-2320-451"/>.</para>
+				</step1>
+				<step1>
+					<para>Inspect lights and brakes on towed vehicle for proper operation.</para>
+				</step1>
+				<step1>
+					<para>Place electrical control box, and remote control power switches in the OFF position.</para>
+				</step1>
+			</proc>
+		</prepforuse>
+	</opertsk>
+</opusualwp>

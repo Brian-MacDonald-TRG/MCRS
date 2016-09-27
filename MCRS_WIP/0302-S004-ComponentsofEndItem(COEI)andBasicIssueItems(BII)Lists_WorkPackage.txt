@@ -1,0 +1,1668 @@
+<coeibiiwp chngno="0" wpno="S00004-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="crew"/>
+		<title>COMPONENTS OF END ITEM (COEI) AND BASIC ISSUE ITEMS (BII) LIST</title>
+	</wpidinfo>
+	<intro frame="no">
+		<para0>
+			<title>INTRODUCTION</title>
+			<subpara1>
+				<title>Scope</title>
+				<para>This work package lists COEI and BII for the Modular Catastrophic Recovery System (MCRS) to help you inventory items for safe and efficient operation of the equipment.</para>
+			</subpara1>
+			<subpara1>
+				<title>General</title>
+				<para>The COEI and BII information is divided into the following lists:</para>
+				<para>Components of End Item (COEI). This list is for information purposes only and is not authority to requisition replacements. These items are part of the MCRS. As part of the end item, these items must be with the end item whenever it is issued or transferred between property accounts. Items of COEI are removed and separately packaged for transportation or shipment only when necessary. Illustrations are furnished to help you find and identify the items.</para>
+				<para>Basic Issue Items (BII). These essential items are required to place the MCRS in operation, operate it, and to do emergency repairs. Although shipped separately packaged, BII must be with the MCRS during operation and when it is transferred between property accounts. Listing these items is your authority to request/requisition them for replacement based on authorization of the end item by the Table of Organization and Equipment/Modified Table of Organization and Equipment (TOE/MTOE). Illustrations are furnished to help you find and identify the items.</para>
+			</subpara1>
+			<subpara1>
+				<title>Explanation of Columns in the COEI List and BII List:</title>
+				<para>Column (1) Item Number. Gives you the reference number of the item listed.</para>
+				<para>Column (2) National Stock Number (NSN) and illustration. Identifies the stock number of the item to be used for requisitioning purposes and provides and illustration of the item.</para>
+				<para>Column (3) Description, Part Number/(CAGEC). Identifies the Federal item name (in all capital letters) followed by a minimum description when needed. The stowage location of COEI and BII is also included in this column. The last line below the description is the CAGEC (Commercial and Government Entity Code) (in parentheses) and the part number.</para>
+				<para>Column (4) Usable On Code. When applicable, gives you a code if the item you need is not the same for different models of equipment.</para>
+				<para>Column (5) U/I. Unit of Issue (U/I) indicates the physical measurement or count of the item as issued per the National Stock Number shown in column (2).</para>
+				<para>Column (6) Qty Rqr. Indicates the quantity required.</para>
+			</subpara1>
+		</para0>
+	</intro>
+	<coei-opt>
+		<title>Components of End Item List</title>
+		<coei-opt-entry>
+			<itemno>1</itemno>
+			<nsn>
+				<fsc>2510</fsc>
+				<niin>01-560-3567</niin>
+			</nsn>
+			<graphic boardno="missing"></graphic>
+			<dcpno>
+				<name>TOWING AND RECOVERY DEVICE, FIFTH WHEEL</name>
+				<partno>M250A2</partno>
+				<cageno>1BZD4</cageno>
+				<uoc>SRS</uoc>
+			</dcpno>
+			<ui>EA</ui>
+			<qty>1</qty>
+		</coei-opt-entry>
+		<coei-opt-entry>
+			<itemno>2</itemno>
+			<nsn>
+				<fsc>2330</fsc>
+				<niin>01-596-6932</niin>
+			</nsn>
+			<graphic boardno="G06232001035"></graphic>
+			<dcpno>
+				<name>TRAILER, RECOVERY</name>
+				<partno>XM1250</partno>
+				<cageno>1BZD4</cageno>
+				<uoc>SRS</uoc>
+			</dcpno>
+			<ui>EA</ui>
+			<qty>1</qty>
+		</coei-opt-entry>
+	</coei-opt>
+	<bii-opt id="S00020-10-4520-269-bii-0010">
+		<title>Basic Issue Items (BII) List</title>
+		<bii-opt-entry>
+			<itemno>1</itemno>
+			<nsn>
+				<fsc>4030</fsc>
+				<niin>01-566-7066</niin>
+			</nsn>
+			<graphic boardno="G06232000703"></graphic>
+			<dcpno>
+				<name>ADAPTER SLEEVE, SHACKLE</name>
+				<partno>8218-A2</partno>
+				<cageno>27646</cageno>
+				<uoc>SRS</uoc>
+			</dcpno>
+			<ui>EA</ui>
+			<qty>2</qty>
+		</bii-opt-entry>
+		<bii-opt-entry>
+			<itemno>2</itemno>
+			<nsn>
+				<fsc>2540</fsc>
+				<niin>01-566-7069</niin>
+			</nsn>
+			<graphic boardno="G06232000709"></graphic>
+			<dcpno>
+				<name>ASSEMBLY,SLEDDING SHOE</name>
+				<partno>8213-A2</partno>
+				<cageno>75535</cageno>
+				<uoc>SRS</uoc>
+			</dcpno>
+			<ui>EA</ui>
+			<qty>2</qty>
+		</bii-opt-entry>
+		<bii-opt-entry>
+			<itemno>3</itemno>
+			<nsn>
+				<fsc></fsc>
+				<niin></niin>
+			</nsn>
+			<graphic boardno="G06232000710"></graphic>
+			<dcpno>
+				<name>ASSEMBLY,SLING HOOK</name>
+				<partno>00932</partno>
+				<cageno>1BZD4</cageno>
+				<uoc>SRS</uoc>
+			</dcpno>
+			<ui>EA</ui>
+			<qty>2</qty>
+		</bii-opt-entry>
+		<bii-opt-entry>
+			<itemno>4</itemno>
+			<nsn>
+				<fsc></fsc>
+				<niin></niin>
+			</nsn>
+			<graphic boardno="G06232000711"></graphic>
+			<dcpno>
+				<name>ASSEMBLY,U-TOOL</name>
+				<partno>8182-A2</partno>
+				<cageno>1BZD4</cageno>
+				<uoc>SRS</uoc>
+			</dcpno>
+			<ui>EA</ui>
+			<qty>1</qty>
+		</bii-opt-entry>
+		<bii-opt-entry>
+			<itemno>5</itemno>
+			<nsn>
+				<fsc></fsc>
+				<niin></niin>
+			</nsn>
+			<graphic boardno="G06232000844"></graphic>
+			<dcpno>
+				<name>BAR, PINCH, 36 INCHES</name>
+				<partno>58875A53</partno>
+				<cageno>1BZD4</cageno>
+				<uoc>SRS</uoc>
+			</dcpno>
+			<ui>EA</ui>
+			<qty>1</qty>
+		</bii-opt-entry>
+		<bii-opt-entry>
+			<itemno>6</itemno>
+			<nsn>
+				<fsc>3940</fsc>
+				<niin>01-556-5844</niin>
+			</nsn>
+			<graphic boardno="G06232000884"></graphic>
+			<dcpno>
+				<name>BLOCK, TACKLE</name>
+				<partno>63490</partno>
+				<cageno>1BZD4</cageno>
+				<uoc>SRS</uoc>
+			</dcpno>
+			<ui>EA</ui>
+			<qty>1</qty>
+		</bii-opt-entry>
+		<bii-opt-entry>
+			<itemno>7</itemno>
+			<nsn>
+				<fsc>3940</fsc>
+				<niin>01-566-8125</niin>
+			</nsn>
+			<graphic boardno="G06232000885"></graphic>
+			<dcpno>
+				<name>BLOCK, TACKLE</name>
+				<partno>103523</partno>
+				<cageno>1BZD4</cageno>
+				<uoc>SRS</uoc>
+			</dcpno>
+			<ui>EA</ui>
+			<qty>1</qty>
+		</bii-opt-entry>
+		<bii-opt-entry>
+			<itemno>8</itemno>
+			<nsn>
+				<fsc></fsc>
+				<niin></niin>
+			</nsn>
+			<graphic boardno="G06232000719"></graphic>
+			<dcpno>
+				<name>BRACKET,STRYKER,CURB</name>
+				<partno>1146-1</partno>
+				<cageno>1BZD4</cageno>
+				<uoc>SRS</uoc>
+			</dcpno>
+			<ui>EA</ui>
+			<qty>1</qty>
+		</bii-opt-entry>
+		<bii-opt-entry>
+			<itemno>9</itemno>
+			<nsn>
+				<fsc></fsc>
+				<niin></niin>
+			</nsn>
+			<graphic boardno="G06232001020"></graphic>
+			<dcpno>
+				<name>BRACKET,STRYKER, DRIVER</name>
+				<partno>1147-1</partno>
+				<cageno>1BZD4</cageno>
+				<uoc>SRS</uoc>
+			</dcpno>
+			<ui>EA</ui>
+			<qty>1</qty>
+		</bii-opt-entry>
+		<bii-opt-entry>
+			<itemno>10</itemno>
+			<nsn>
+				<fsc>6150</fsc>
+				<niin>01-506-5250</niin>
+			</nsn>
+			<graphic boardno="G06232000910"></graphic>
+			<dcpno>
+				<name>CABLE ASSEMBLY, SPECIAL PURPOSE</name>
+				<partno>00805</partno>
+				<cageno>1BZD4</cageno>
+				<uoc>SRS</uoc>
+			</dcpno>
+			<ui>EA</ui>
+			<qty>1</qty>
+		</bii-opt-entry>
+		<bii-opt-entry>
+			<itemno>11</itemno>
+			<nsn>
+				<fsc>6150</fsc>
+				<niin>01-502-2043</niin>
+			</nsn>
+			<graphic boardno="G06232000721"></graphic>
+			<dcpno>
+				<name>CABLE,ASSEMBLY,SPECIAL PURPOSE:</name>
+				<partno>1094-1</partno>
+				<cageno>1BZD4</cageno>
+				<uoc>SRS</uoc>
+			</dcpno>
+			<ui>EA</ui>
+			<qty>1</qty>
+		</bii-opt-entry>
+		<bii-opt-entry>
+			<itemno>12</itemno>
+			<nsn>
+				<fsc></fsc>
+				<niin></niin>
+			</nsn>
+			<graphic boardno="G06232000722"></graphic>
+			<dcpno>
+				<name>CAP,BOOM,CURB</name>
+				<partno>8242-A2</partno>
+				<cageno>1BZD4</cageno>
+				<uoc>SRS</uoc>
+			</dcpno>
+			<ui>EA</ui>
+			<qty>1</qty>
+		</bii-opt-entry>
+		<bii-opt-entry>
+			<itemno>13</itemno>
+			<nsn>
+				<fsc></fsc>
+				<niin></niin>
+			</nsn>
+			<graphic boardno="G06232000723"></graphic>
+			<dcpno>
+				<name>CAP,BOOM, DRIVER</name>
+				<partno>8241-A2</partno>
+				<cageno>1BZD4</cageno>
+				<uoc>SRS</uoc>
+			</dcpno>
+			<ui>EA</ui>
+			<qty>1</qty>
+		</bii-opt-entry>
+		<bii-opt-entry>
+			<itemno>14</itemno>
+			<nsn>
+				<fsc>2510</fsc>
+				<niin>01-566-7067</niin>
+			</nsn>
+			<graphic boardno="G06232000893"></graphic>
+			<dcpno>
+				<name>CAP,BUMPER</name>
+				<partno>8221-A2</partno>
+				<cageno>1BZD4</cageno>
+				<uoc>SRS</uoc>
+			</dcpno>
+			<ui>EA</ui>
+			<qty>3</qty>
+		</bii-opt-entry>
+		<bii-opt-entry>
+			<itemno>15</itemno>
+			<nsn>
+				<fsc>4010</fsc>
+				<niin>01-630-3113</niin>
+			</nsn>
+			<graphic boardno="G06232000707"></graphic>
+			<dcpno>
+				<name>CHAIN ASSEMBLY, SINGLE LEG</name>
+				<partno>00933-1</partno>
+				<cageno>1BZD4</cageno>
+				<uoc>SRS</uoc>
+			</dcpno>
+			<ui>EA</ui>
+			<qty>2</qty>
+		</bii-opt-entry>
+		<bii-opt-entry>
+			<itemno>16</itemno>
+			<nsn>
+				<fsc>4010</fsc>
+				<niin>01-630-3117</niin>
+			</nsn>
+			<graphic boardno="G06232000725"></graphic>
+			<dcpno>
+				<name>CHAIN ASSEMBLY, SINGLE LEG</name>
+				<partno>00934</partno>
+				<cageno></cageno>
+				<uoc>SRS</uoc>
+			</dcpno>
+			<ui>EA</ui>
+			<qty>2</qty>
+		</bii-opt-entry>
+		<bii-opt-entry>
+			<itemno>17</itemno>
+			<nsn>
+				<fsc>4010</fsc>
+				<niin>01-630-3115</niin>
+			</nsn>
+			<graphic boardno="G06232000728"></graphic>
+			<dcpno>
+				<name>CHAIN ASSEMBLY, SINGLE LEG</name>
+				<partno>00951</partno>
+				<cageno>1BZD4</cageno>
+				<uoc>SRS</uoc>
+			</dcpno>
+			<ui>EA</ui>
+			<qty>2</qty>
+		</bii-opt-entry>
+		<bii-opt-entry>
+			<itemno>18</itemno>
+			<nsn>
+				<fsc></fsc>
+				<niin></niin>
+			</nsn>
+			<graphic boardno="G06232000736"></graphic>
+			<dcpno>
+				<name>CLEVIS, STRAIGHT ,7/8 INCH</name>
+				<partno>1136-A2</partno>
+				<cageno></cageno>
+				<uoc>SRS</uoc>
+			</dcpno>
+			<ui>EA</ui>
+			<qty>2</qty>
+		</bii-opt-entry>
+		<bii-opt-entry>
+			<itemno>19</itemno>
+			<nsn>
+				<fsc></fsc>
+				<niin></niin>
+			</nsn>
+			<graphic boardno="G06232000738"></graphic>
+			<dcpno>
+				<name>CLEVIS, TWIST ,7/8 INCH</name>
+				<partno>1079-A2</partno>
+				<cageno>1BZD4</cageno>
+				<uoc>SRS</uoc>
+			</dcpno>
+			<ui>EA</ui>
+			<qty>2</qty>
+		</bii-opt-entry>
+		<bii-opt-entry>
+			<itemno>20</itemno>
+			<nsn>
+				<fsc></fsc>
+				<niin></niin>
+			</nsn>
+			<graphic boardno="G06232000742"></graphic>
+			<dcpno>
+				<name>COLLAR ,1 1/2 INCH PIN</name>
+				<partno>8286-1</partno>
+				<cageno>39428</cageno>
+				<uoc>SRS</uoc>
+			</dcpno>
+			<ui>EA</ui>
+			<qty>1</qty>
+		</bii-opt-entry>
+		<bii-opt-entry>
+			<itemno>21</itemno>
+			<nsn>
+				<fsc>5935</fsc>
+				<niin>01-502-2014</niin>
+			</nsn>
+			<graphic boardno="G06232001022"></graphic>
+			<dcpno>
+				<name>CONNECTOR,PLUG, DUMMY</name>
+				<partno>1135-1</partno>
+				<cageno>1BZD4</cageno>
+				<uoc>SRS</uoc>
+			</dcpno>
+			<ui>EA</ui>
+			<qty>1</qty>
+		</bii-opt-entry>
+		<bii-opt-entry>
+			<itemno>22</itemno>
+			<nsn>
+				<fsc></fsc>
+				<niin></niin>
+			</nsn>
+			<graphic boardno="G06232000746"></graphic>
+			<dcpno>
+				<name>CROSS BAR, FOR SLEDDING</name>
+				<partno>8243-C</partno>
+				<cageno>1BZD4</cageno>
+				<uoc>SRS</uoc>
+			</dcpno>
+			<ui>EA</ui>
+			<qty>1</qty>
+		</bii-opt-entry>
+		<bii-opt-entry>
+			<itemno>23</itemno>
+			<nsn>
+				<fsc>5120</fsc>
+				<niin>00-224-1390</niin>
+			</nsn>
+			<graphic boardno="G06232001023"></graphic>
+			<dcpno>
+				<name>CROWBAR</name>
+				<partno>9150189</partno>
+				<cageno>1BZD4</cageno>
+				<uoc>SRS</uoc>
+			</dcpno>
+			<ui>EA</ui>
+			<qty>1</qty>
+		</bii-opt-entry>
+		<bii-opt-entry>
+			<itemno>24</itemno>
+			<nsn>
+				<fsc>4210</fsc>
+				<niin>01-552-5109</niin>
+			</nsn>
+			<graphic boardno="G06232000750"></graphic>
+			<dcpno>
+				<name>EXTINGUISHER, FIRE</name>
+				<partno>B402T</partno>
+				<cageno>1BZD4</cageno>
+				<uoc>SRS</uoc>
+			</dcpno>
+			<ui>EA</ui>
+			<qty>1</qty>
+		</bii-opt-entry>
+		<bii-opt-entry>
+			<itemno>25</itemno>
+			<nsn>
+				<fsc></fsc>
+				<niin></niin>
+			</nsn>
+			<graphic boardno="G06232000758"></graphic>
+			<dcpno>
+				<name>HAMMER ,12 LB</name>
+				<partno>5884A17</partno>
+				<cageno>1BZD4</cageno>
+				<uoc>SRS</uoc>
+			</dcpno>
+			<ui>EA</ui>
+			<qty>1</qty>
+		</bii-opt-entry>
+		<bii-opt-entry>
+			<itemno>26</itemno>
+			<nsn>
+				<fsc>4030</fsc>
+				<niin>01-566-7076</niin>
+			</nsn>
+			<graphic boardno="G06232000706"></graphic>
+			<dcpno>
+				<name>HOOK, HOIST</name>
+				<partno>8198-A2</partno>
+				<cageno>1BZD4</cageno>
+				<uoc>SRS</uoc>
+			</dcpno>
+			<ui>EA</ui>
+			<qty>1</qty>
+		</bii-opt-entry>
+		<bii-opt-entry>
+			<itemno>27</itemno>
+			<nsn>
+				<fsc>4030</fsc>
+				<niin>01-501-9637</niin>
+			</nsn>
+			<graphic boardno="G06232000768"></graphic>
+			<dcpno>
+				<name>HOOK, RELEASE</name>
+				<partno>1130-1</partno>
+				<cageno>3LWD7</cageno>
+				<uoc>SRS</uoc>
+			</dcpno>
+			<ui>EA</ui>
+			<qty>2</qty>
+		</bii-opt-entry>
+		<bii-opt-entry>
+			<itemno>28</itemno>
+			<nsn>
+				<fsc>4720</fsc>
+				<niin>01-502-2123</niin>
+			</nsn>
+			<graphic boardno="G06232000770"></graphic>
+			<dcpno>
+				<name>HOSE ASSEMBLY, NONME</name>
+				<partno>1132-1</partno>
+				<cageno>1BZD4</cageno>
+				<uoc>SRS</uoc>
+			</dcpno>
+			<ui>EA</ui>
+			<qty>1</qty>
+		</bii-opt-entry>
+		<bii-opt-entry>
+			<itemno>29</itemno>
+			<nsn>
+				<fsc>4720</fsc>
+				<niin>01-502-2108</niin>
+			</nsn>
+			<graphic boardno="G06232000772"></graphic>
+			<dcpno>
+				<name>HOSE ASSEMBLY, NONME</name>
+				<partno>1133-1</partno>
+				<cageno>13743</cageno>
+				<uoc>SRS</uoc>
+			</dcpno>
+			<ui>EA</ui>
+			<qty>1</qty>
+		</bii-opt-entry>
+		<bii-opt-entry>
+			<itemno>30</itemno>
+			<nsn>
+				<fsc></fsc>
+				<niin></niin>
+			</nsn>
+			<graphic boardno="G06232000793"></graphic>
+			<dcpno>
+				<name>J-HOOK, W/ 5 FOOT CH</name>
+				<partno>8210-A2</partno>
+				<cageno>1BZD4</cageno>
+				<uoc>SRS</uoc>
+			</dcpno>
+			<ui>EA</ui>
+			<qty>2</qty>
+		</bii-opt-entry>
+		<bii-opt-entry>
+			<itemno>31</itemno>
+			<nsn>
+				<fsc>5120</fsc>
+				<niin>01-507-1183</niin>
+			</nsn>
+			<graphic boardno="G06232000794"></graphic>
+			<dcpno>
+				<name>KING PIN TOOL</name>
+				<partno>1081-1</partno>
+				<cageno>1BZD4</cageno>
+				<uoc>SRS</uoc>
+			</dcpno>
+			<ui>EA</ui>
+			<qty>1</qty>
+		</bii-opt-entry>
+		<bii-opt-entry>
+			<itemno>32</itemno>
+			<nsn>
+				<fsc></fsc>
+				<niin></niin>
+			</nsn>
+			<graphic boardno="G06232000795"></graphic>
+			<dcpno>
+				<name>KIT, MAX TOOL</name>
+				<partno>56K3528</partno>
+				<cageno>1BZD4</cageno>
+				<uoc>SRS</uoc>
+			</dcpno>
+			<ui>EA</ui>
+			<qty>1</qty>
+		</bii-opt-entry>
+		<bii-opt-entry>
+			<itemno>33</itemno>
+			<nsn>
+				<fsc></fsc>
+				<niin></niin>
+			</nsn>
+			<graphic boardno="G06232000796"></graphic>
+			<dcpno>
+				<name>KIT, WET LINE HOSE</name>
+				<partno>8240-A2</partno>
+				<cageno>0FR58</cageno>
+				<uoc>SRS</uoc>
+			</dcpno>
+			<ui>EA</ui>
+			<qty>1</qty>
+		</bii-opt-entry>
+		<bii-opt-entry>
+			<itemno>34</itemno>
+			<nsn>
+				<fsc></fsc>
+				<niin></niin>
+			</nsn>
+			<graphic boardno="G06232000799"></graphic>
+			<dcpno>
+				<name>LINK, MASTER</name>
+				<partno>555279</partno>
+				<cageno>1BZD4</cageno>
+				<uoc>SRS</uoc>
+			</dcpno>
+			<ui>EA</ui>
+			<qty>1</qty>
+		</bii-opt-entry>
+		<bii-opt-entry>
+			<itemno>35</itemno>
+			<nsn>
+				<fsc>5340</fsc>
+				<niin>01-496-2171</niin>
+			</nsn>
+			<graphic boardno="G06232000812"></graphic>
+			<dcpno>
+				<name>PAD, CUSHIONING</name>
+				<partno>00775</partno>
+				<cageno>1BZD4</cageno>
+				<uoc>SRS</uoc>
+			</dcpno>
+			<ui>EA</ui>
+			<qty>2</qty>
+		</bii-opt-entry>
+		<bii-opt-entry>
+			<itemno>36</itemno>
+			<nsn>
+				<fsc>5340</fsc>
+				<niin>01-503-8656</niin>
+			</nsn>
+			<graphic boardno="G06232000813"></graphic>
+			<dcpno>
+				<name>PAD, CUSHIONING</name>
+				<partno>00785</partno>
+				<cageno>1BZD4</cageno>
+				<uoc>SRS</uoc>
+			</dcpno>
+			<ui>EA</ui>
+			<qty>4</qty>
+		</bii-opt-entry>
+		<bii-opt-entry>
+			<itemno>37</itemno>
+			<nsn>
+				<fsc>5340</fsc>
+				<niin>01-502-6249</niin>
+			</nsn>
+			<graphic boardno="G06232000814"></graphic>
+			<dcpno>
+				<name>PAD, CUSHIONING</name>
+				<partno>00790</partno>
+				<cageno>1BZD4</cageno>
+				<uoc>SRS</uoc>
+			</dcpno>
+			<ui>EA</ui>
+			<qty>4</qty>
+		</bii-opt-entry>
+		<bii-opt-entry>
+			<itemno>38</itemno>
+			<nsn>
+				<fsc></fsc>
+				<niin></niin>
+			</nsn>
+			<graphic boardno="G06232000816"></graphic>
+			<dcpno>
+				<name>PADLOCK</name>
+				<partno>31819351</partno>
+				<cageno>1BZD4</cageno>
+				<uoc>SRS</uoc>
+			</dcpno>
+			<ui>EA</ui>
+			<qty>3</qty>
+		</bii-opt-entry>
+		<bii-opt-entry>
+			<itemno>39</itemno>
+			<nsn>
+				<fsc>6220</fsc>
+				<niin>01-544-3398</niin>
+			</nsn>
+			<graphic boardno="G06232000797"></graphic>
+			<dcpno>
+				<name>PARTS KIT, VEHICULAR LIGHTING</name>
+				<partno>1156-1</partno>
+				<cageno>1BZD4</cageno>
+				<uoc>SRS</uoc>
+			</dcpno>
+			<ui>EA</ui>
+			<qty>1</qty>
+		</bii-opt-entry>
+		<bii-opt-entry>
+			<itemno>40</itemno>
+			<nsn>
+				<fsc>2540</fsc>
+				<niin>01-502-2031</niin>
+			</nsn>
+			<graphic boardno="G06232000827"></graphic>
+			<dcpno>
+				<name>PIN, PINTLE</name>
+				<partno>02530</partno>
+				<cageno>1BZD4</cageno>
+				<uoc>SRS</uoc>
+			</dcpno>
+			<ui>EA</ui>
+			<qty>2</qty>
+		</bii-opt-entry>
+		<bii-opt-entry>
+			<itemno>41</itemno>
+			<nsn>
+				<fsc>2540</fsc>
+				<niin>01-501-5365</niin>
+			</nsn>
+			<graphic boardno="G06232000828"></graphic>
+			<dcpno>
+				<name>PIN, PINTLE</name>
+				<partno>02560</partno>
+				<cageno>1BZD4</cageno>
+				<uoc>SRS</uoc>
+			</dcpno>
+			<ui>EA</ui>
+			<qty>2</qty>
+		</bii-opt-entry>
+		<bii-opt-entry>
+			<itemno>42</itemno>
+			<nsn>
+				<fsc>2540</fsc>
+				<niin>01-502-2034</niin>
+			</nsn>
+			<graphic boardno="G06232000829"></graphic>
+			<dcpno>
+				<name>PIN, PINTLE</name>
+				<partno>02561</partno>
+				<cageno>39428</cageno>
+				<uoc>SRS</uoc>
+			</dcpno>
+			<ui>EA</ui>
+			<qty>2</qty>
+		</bii-opt-entry>
+		<bii-opt-entry>
+			<itemno>43</itemno>
+			<nsn>
+				<fsc>5315</fsc>
+				<niin>01-502-2507</niin>
+			</nsn>
+			<graphic boardno="G06232000830"></graphic>
+			<dcpno>
+				<name>PIN, PIVOT</name>
+				<partno>02535</partno>
+				<cageno>39428</cageno>
+				<uoc>SRS</uoc>
+			</dcpno>
+			<ui>EA</ui>
+			<qty>2</qty>
+		</bii-opt-entry>
+		<bii-opt-entry>
+			<itemno>44</itemno>
+			<nsn>
+				<fsc>5315</fsc>
+				<niin>01-567-1633</niin>
+			</nsn>
+			<graphic boardno="G06232000838"></graphic>
+			<dcpno>
+				<name>PIN, RETAINGING</name>
+				<partno>02536</partno>
+				<cageno>39428</cageno>
+				<uoc>SRS</uoc>
+			</dcpno>
+			<ui>EA</ui>
+			<qty>2</qty>
+		</bii-opt-entry>
+		<bii-opt-entry>
+			<itemno>45</itemno>
+			<nsn>
+				<fsc>5315</fsc>
+				<niin>01-498-4029</niin>
+			</nsn>
+			<graphic boardno="G06232000839"></graphic>
+			<dcpno>
+				<name>PIN, STRAIGHT HEADED</name>
+				<partno>02540</partno>
+				<cageno>75535</cageno>
+				<uoc>SRS</uoc>
+			</dcpno>
+			<ui>EA</ui>
+			<qty>6</qty>
+		</bii-opt-entry>
+		<bii-opt-entry>
+			<itemno>46</itemno>
+			<nsn>
+				<fsc>5315</fsc>
+				<niin>01-497-9960</niin>
+			</nsn>
+			<graphic boardno="G06232000840"></graphic>
+			<dcpno>
+				<name>PIN, STRAIGHT HEADED</name>
+				<partno>02545</partno>
+				<cageno></cageno>
+				<uoc>SRS</uoc>
+			</dcpno>
+			<ui>EA</ui>
+			<qty>4</qty>
+		</bii-opt-entry>
+		<bii-opt-entry>
+			<itemno>47</itemno>
+			<nsn>
+				<fsc></fsc>
+				<niin></niin>
+			</nsn>
+			<graphic boardno="G06232000844"></graphic>
+			<dcpno>
+				<name>PINCH BAR,36 INCH</name>
+				<partno>58875A53</partno>
+				<cageno>8D865</cageno>
+				<uoc>SRS</uoc>
+			</dcpno>
+			<ui>EA</ui>
+			<qty>1</qty>
+		</bii-opt-entry>
+		<bii-opt-entry>
+			<itemno>48</itemno>
+			<nsn>
+				<fsc></fsc>
+				<niin></niin>
+			</nsn>
+			<graphic boardno="G06232000848"></graphic>
+			<dcpno>
+				<name>PLIER, CURVED 8.5 INCH</name>
+				<partno>5369A6</partno>
+				<cageno>13743</cageno>
+				<uoc>SRS</uoc>
+			</dcpno>
+			<ui>EA</ui>
+			<qty>1</qty>
+		</bii-opt-entry>
+		<bii-opt-entry>
+			<itemno>49</itemno>
+			<nsn>
+				<fsc></fsc>
+				<niin></niin>
+			</nsn>
+			<graphic boardno="G06232000849"></graphic>
+			<dcpno>
+				<name>PLIER, STRAIGHT 8.5 INCH</name>
+				<partno>5369A2</partno>
+				<cageno>13743</cageno>
+				<uoc>SRS</uoc>
+			</dcpno>
+			<ui>EA</ui>
+			<qty>1</qty>
+		</bii-opt-entry>
+		<bii-opt-entry>
+			<itemno>50</itemno>
+			<nsn>
+				<fsc></fsc>
+				<niin></niin>
+			</nsn>
+			<graphic boardno="G06232000861"></graphic>
+			<dcpno>
+				<name>RATCHET BINDER ,1/2 - 5/8</name>
+				<partno>108440</partno>
+				<cageno>3S8N7</cageno>
+				<uoc>SRS</uoc>
+			</dcpno>
+			<ui>EA</ui>
+			<qty>2</qty>
+		</bii-opt-entry>
+		<bii-opt-entry>
+			<itemno>51</itemno>
+			<nsn>
+				<fsc></fsc>
+				<niin></niin>
+			</nsn>
+			<graphic boardno="G06232000864"></graphic>
+			<dcpno>
+				<name>RATCHET, EXTENDABLE, 3 /4 INCH</name>
+				<partno>EZRMR34</partno>
+				<cageno>39428</cageno>
+				<uoc>SRS</uoc>
+			</dcpno>
+			<ui>EA</ui>
+			<qty>1</qty>
+		</bii-opt-entry>
+		<bii-opt-entry>
+			<itemno>52</itemno>
+			<nsn>
+				<fsc>4030</fsc>
+				<niin>01-518-9551</niin>
+			</nsn>
+			<graphic boardno="G06232000875"></graphic>
+			<dcpno>
+				<name>SHACKLE</name>
+				<partno>S-253 1020611</partno>
+				<cageno>75535</cageno>
+				<uoc>SRS</uoc>
+			</dcpno>
+			<ui>EA</ui>
+			<qty>4</qty>
+		</bii-opt-entry>
+		<bii-opt-entry>
+			<itemno>53</itemno>
+			<nsn>
+				<fsc></fsc>
+				<niin></niin>
+			</nsn>
+			<graphic boardno="G06232000873"></graphic>
+			<dcpno>
+				<name>SHACKLE,1 1/2 INCH</name>
+				<partno>M657P</partno>
+				<cageno>1BZD4</cageno>
+				<uoc>SRS</uoc>
+			</dcpno>
+			<ui>EA</ui>
+			<qty>1</qty>
+		</bii-opt-entry>
+		<bii-opt-entry>
+			<itemno>54</itemno>
+			<nsn>
+				<fsc></fsc>
+				<niin></niin>
+			</nsn>
+			<graphic boardno="G06232000874"></graphic>
+			<dcpno>
+				<name>SHACKLE,1 1/4 INCH</name>
+				<partno>M656P</partno>
+				<cageno>13743</cageno>
+				<uoc>SRS</uoc>
+			</dcpno>
+			<ui>EA</ui>
+			<qty>2</qty>
+		</bii-opt-entry>
+		<bii-opt-entry>
+			<itemno>55</itemno>
+			<nsn>
+				<fsc></fsc>
+				<niin></niin>
+			</nsn>
+			<graphic boardno="G06232000876"></graphic>
+			<dcpno>
+				<name>SHACKLE, SLINGING,1 INCH</name>
+				<partno>24028</partno>
+				<cageno>1BZD4</cageno>
+				<uoc>SRS</uoc>
+			</dcpno>
+			<ui>EA</ui>
+			<qty>2</qty>
+		</bii-opt-entry>
+		<bii-opt-entry>
+			<itemno>56</itemno>
+			<nsn>
+				<fsc></fsc>
+				<niin></niin>
+			</nsn>
+			<graphic boardno="G06232000880"></graphic>
+			<dcpno>
+				<name>SLEDGE,3LB</name>
+				<partno>5881A4</partno>
+				<cageno>8D865</cageno>
+				<uoc>SRS</uoc>
+			</dcpno>
+			<ui>EA</ui>
+			<qty>1</qty>
+		</bii-opt-entry>
+		<bii-opt-entry>
+			<itemno>57</itemno>
+			<nsn>
+				<fsc></fsc>
+				<niin></niin>
+			</nsn>
+			<graphic boardno="G06232000887"></graphic>
+			<dcpno>
+				<name>SNATCH BLOCK,45 TON</name>
+				<partno>103603</partno>
+				<cageno>1BZD4</cageno>
+				<uoc>SRS</uoc>
+			</dcpno>
+			<ui>EA</ui>
+			<qty>1</qty>
+		</bii-opt-entry>
+		<bii-opt-entry>
+			<itemno>58</itemno>
+			<nsn>
+				<fsc></fsc>
+				<niin></niin>
+			</nsn>
+			<graphic boardno="G06232001021"></graphic>
+			<dcpno>
+				<name>SOCKET, 1/ 2 INCH SQUARE DRIVE EXTENSION 3 INCH</name>
+				<partno>02712</partno>
+				<cageno>0J2L7</cageno>
+				<uoc>SRS</uoc>
+			</dcpno>
+			<ui>EA</ui>
+			<qty>1</qty>
+		</bii-opt-entry>
+		<bii-opt-entry>
+			<itemno>59</itemno>
+			<nsn>
+				<fsc></fsc>
+				<niin></niin>
+			</nsn>
+			<graphic boardno="G06232000889"></graphic>
+			<dcpno>
+				<name>SOCKET SET</name>
+				<partno>35338</partno>
+				<cageno>1BZD4</cageno>
+				<uoc>SRS</uoc>
+			</dcpno>
+			<ui>EA</ui>
+			<qty>1</qty>
+		</bii-opt-entry>
+		<bii-opt-entry>
+			<itemno>60</itemno>
+			<nsn>
+				<fsc></fsc>
+				<niin></niin>
+			</nsn>
+			<graphic boardno="G06232000894"></graphic>
+			<dcpno>
+				<name>STOP, BUMPER, SHORT</name>
+				<partno>8236-A2</partno>
+				<cageno>39428</cageno>
+				<uoc>SRS</uoc>
+			</dcpno>
+			<ui>EA</ui>
+			<qty>3</qty>
+		</bii-opt-entry>
+		<bii-opt-entry>
+			<itemno>61</itemno>
+			<nsn>
+				<fsc></fsc>
+				<niin></niin>
+			</nsn>
+			<graphic boardno="G06232001025"></graphic>
+			<dcpno>
+				<name>STRAP, RECOVERY</name>
+				<partno>TPXCEE</partno>
+				<cageno>39428</cageno>
+				<uoc>SRS</uoc>
+			</dcpno>
+			<ui>EA</ui>
+			<qty>2</qty>
+		</bii-opt-entry>
+		<bii-opt-entry>
+			<itemno>62</itemno>
+			<nsn>
+				<fsc></fsc>
+				<niin></niin>
+			</nsn>
+			<graphic boardno="missing"></graphic>
+			<dcpno>
+				<name>TM</name>
+				<partno>02438</partno>
+				<cageno>39428</cageno>
+				<uoc>SRS</uoc>
+			</dcpno>
+			<ui>EA</ui>
+			<qty>1</qty>
+		</bii-opt-entry>
+		<bii-opt-entry>
+			<itemno>63</itemno>
+			<nsn>
+				<fsc></fsc>
+				<niin></niin>
+			</nsn>
+			<graphic boardno="G06232001026"></graphic>
+			<dcpno>
+				<name>TOOL BAG</name>
+				<partno>23600</partno>
+				<cageno>1BZD4</cageno>
+				<uoc>SRS</uoc>
+			</dcpno>
+			<ui>EA</ui>
+			<qty>1</qty>
+		</bii-opt-entry>
+		<bii-opt-entry>
+			<itemno>64</itemno>
+			<nsn>
+				<fsc>2520</fsc>
+				<niin>01-506-8789</niin>
+			</nsn>
+			<graphic boardno="G06232001027"></graphic>
+			<dcpno>
+				<name>UNIVERSAL JOINT, VEHICULAR</name>
+				<partno>1018-1</partno>
+				<cageno>1BZD4</cageno>
+				<uoc>SRS</uoc>
+			</dcpno>
+			<ui>EA</ui>
+			<qty>1</qty>
+		</bii-opt-entry>
+		<bii-opt-entry>
+			<itemno>65</itemno>
+			<nsn>
+				<fsc></fsc>
+				<niin></niin>
+			</nsn>
+			<graphic boardno="G06232000911"></graphic>
+			<dcpno>
+				<name>WRECKING BAR</name>
+				<partno>5992A14</partno>
+				<cageno>1BZD4</cageno>
+				<uoc>SRS</uoc>
+			</dcpno>
+			<ui>EA</ui>
+			<qty>1</qty>
+		</bii-opt-entry>
+		<bii-opt-entry>
+			<itemno>66</itemno>
+			<nsn>
+				<fsc>5120</fsc>
+				<niin>00-264-3796</niin>
+			</nsn>
+			<graphic boardno="G06232000912"></graphic>
+			<dcpno>
+				<name>WRENCH,ADJUSTABLE</name>
+				<partno>5385A15</partno>
+				<cageno>1BZD4</cageno>
+				<uoc>SRS</uoc>
+			</dcpno>
+			<ui>EA</ui>
+			<qty>1</qty>
+		</bii-opt-entry>
+		<bii-opt-entry>
+			<itemno>67</itemno>
+			<nsn>
+				<fsc></fsc>
+				<niin></niin>
+			</nsn>
+			<graphic boardno="G06232000913"></graphic>
+			<dcpno>
+				<name>WRENCH,18 INCH ADJ</name>
+				<partno>5385A17</partno>
+				<cageno>1BZD4</cageno>
+				<uoc>SRS</uoc>
+			</dcpno>
+			<ui>EA</ui>
+			<qty>1</qty>
+		</bii-opt-entry>
+		<bii-opt-entry>
+			<itemno>68</itemno>
+			<nsn>
+				<fsc></fsc>
+				<niin></niin>
+			</nsn>
+			<graphic boardno="G06232000701"></graphic>
+			<dcpno>
+				<name>ADAPTER, AIR</name>
+				<partno>5331-1</partno>
+				<cageno>1BZD4</cageno>
+				<uoc>SRS</uoc>
+			</dcpno>
+			<ui>EA</ui>
+			<qty>1</qty>
+		</bii-opt-entry>
+		<bii-opt-entry>
+			<itemno>69</itemno>
+			<nsn>
+				<fsc></fsc>
+				<niin></niin>
+			</nsn>
+			<graphic boardno="G06232001031"></graphic>
+			<dcpno>
+				<name>ADAPTER, FEMALE</name>
+				<partno>5330-1</partno>
+				<cageno>75535</cageno>
+				<uoc>SRS</uoc>
+			</dcpno>
+			<ui>EA</ui>
+			<qty>1</qty>
+		</bii-opt-entry>
+		<bii-opt-entry>
+			<itemno>70</itemno>
+			<nsn>
+				<fsc></fsc>
+				<niin></niin>
+			</nsn>
+			<graphic boardno="G06232000702"></graphic>
+			<dcpno>
+				<name>ADAPTER, MALE</name>
+				<partno>5329-1</partno>
+				<cageno>6721</cageno>
+				<uoc>SRS</uoc>
+			</dcpno>
+			<ui>EA</ui>
+			<qty>1</qty>
+		</bii-opt-entry>
+		<bii-opt-entry>
+			<itemno>71</itemno>
+			<nsn>
+				<fsc></fsc>
+				<niin></niin>
+			</nsn>
+			<graphic boardno="G06232000704"></graphic>
+			<dcpno>
+				<name>ADAPTER, VISE MOUNT</name>
+				<partno>8194-A2</partno>
+				<cageno>1BZD4</cageno>
+				<uoc>SRS</uoc>
+			</dcpno>
+			<ui>EA</ui>
+			<qty>1</qty>
+		</bii-opt-entry>
+		<bii-opt-entry>
+			<itemno>72</itemno>
+			<nsn>
+				<fsc></fsc>
+				<niin></niin>
+			</nsn>
+			<graphic boardno="G06232000708"></graphic>
+			<dcpno>
+				<name>ASSEMBLY, POLE LIGHT</name>
+				<partno>5334-1</partno>
+				<cageno>1BZD4</cageno>
+				<uoc>SRS</uoc>
+			</dcpno>
+			<ui>EA</ui>
+			<qty>1</qty>
+		</bii-opt-entry>
+		<bii-opt-entry>
+			<itemno>73</itemno>
+			<nsn>
+				<fsc></fsc>
+				<niin></niin>
+			</nsn>
+			<graphic boardno="G06232000716"></graphic>
+			<dcpno>
+				<name>BLOCK, CRIBBING</name>
+				<partno>8211-A2</partno>
+				<cageno>13743</cageno>
+				<uoc>SRS</uoc>
+			</dcpno>
+			<ui>EA</ui>
+			<qty>4</qty>
+		</bii-opt-entry>
+		<bii-opt-entry>
+			<itemno>74</itemno>
+			<nsn>
+				<fsc>3940</fsc>
+				<niin>01-566-8125</niin>
+			</nsn>
+			<graphic boardno="G06232000885"></graphic>
+			<dcpno>
+				<name>BLOCK,TACKLE</name>
+				<partno>103523</partno>
+				<cageno>6721</cageno>
+				<uoc>SRS</uoc>
+			</dcpno>
+			<ui>EA</ui>
+			<qty>1</qty>
+		</bii-opt-entry>
+		<bii-opt-entry>
+			<itemno>75</itemno>
+			<nsn>
+				<fsc></fsc>
+				<niin></niin>
+			</nsn>
+			<graphic boardno="G06232000718"></graphic>
+			<dcpno>
+				<name>BOLT, BRAKE CAGE</name>
+				<partno>ZAJ9007003P</partno>
+				<cageno>1BZD4</cageno>
+				<uoc>SRS</uoc>
+			</dcpno>
+			<ui>EA</ui>
+			<qty>4</qty>
+		</bii-opt-entry>
+		<bii-opt-entry>
+			<itemno>76</itemno>
+			<nsn>
+				<fsc>6150</fsc>
+				<niin>01-630-3148</niin>
+			</nsn>
+			<graphic boardno="G06232000743"></graphic>
+			<dcpno>
+				<name>CABLE ASSEMBLY,POWER,ELECTRICAL</name>
+				<partno>5905-1</partno>
+				<cageno>1BZD4</cageno>
+				<uoc>SRS</uoc>
+			</dcpno>
+			<ui>EA</ui>
+			<qty>1</qty>
+		</bii-opt-entry>
+		<bii-opt-entry>
+			<itemno>77</itemno>
+			<nsn>
+				<fsc>4010</fsc>
+				<niin>01-630-3115</niin>
+			</nsn>
+			<graphic boardno="G06232000728"></graphic>
+			<dcpno>
+				<name>CHAIN ASSEMBLY, SINGLE LEG</name>
+				<partno>00951</partno>
+				<cageno>1BZD4</cageno>
+				<uoc>SRS</uoc>
+			</dcpno>
+			<ui>EA</ui>
+			<qty>4</qty>
+		</bii-opt-entry>
+		<bii-opt-entry>
+			<itemno>78</itemno>
+			<nsn>
+				<fsc>4010</fsc>
+				<niin>01-631-2785</niin>
+			</nsn>
+			<graphic boardno="G06232000726"></graphic>
+			<dcpno>
+				<name>CHAIN, WELDED</name>
+				<partno>607050</partno>
+				<cageno>3V431</cageno>
+				<uoc>SRS</uoc>
+			</dcpno>
+			<ui>EA</ui>
+			<qty>2</qty>
+		</bii-opt-entry>
+		<bii-opt-entry>
+			<itemno>79</itemno>
+			<nsn>
+				<fsc>2540</fsc>
+				<niin>01-499-5553</niin>
+			</nsn>
+			<graphic boardno="G06232000705"></graphic>
+			<dcpno>
+				<name>CHOCK, WHEEL-TRACK</name>
+				<partno>07758014</partno>
+				<cageno>39428</cageno>
+				<uoc>SRS</uoc>
+			</dcpno>
+			<ui>EA</ui>
+			<qty>2</qty>
+		</bii-opt-entry>
+		<bii-opt-entry>
+			<itemno>80</itemno>
+			<nsn>
+				<fsc>4720</fsc>
+				<niin>01-502-2123</niin>
+			</nsn>
+			<graphic boardno="G06232000770"></graphic>
+			<dcpno>
+				<name>HOSE ASSEMBLY, NONME</name>
+				<partno>1132-1</partno>
+				<cageno>39428</cageno>
+				<uoc>SRS</uoc>
+			</dcpno>
+			<ui>EA</ui>
+			<qty>1</qty>
+		</bii-opt-entry>
+		<bii-opt-entry>
+			<itemno>81</itemno>
+			<nsn>
+				<fsc>4720</fsc>
+				<niin>01-502-2108</niin>
+			</nsn>
+			<graphic boardno="G06232000772"></graphic>
+			<dcpno>
+				<name>HOSE ASSEMBLY, NONME</name>
+				<partno>1133-1</partno>
+				<cageno>0FR58</cageno>
+				<uoc>SRS</uoc>
+			</dcpno>
+			<ui>EA</ui>
+			<qty>1</qty>
+		</bii-opt-entry>
+		<bii-opt-entry>
+			<itemno>82</itemno>
+			<nsn>
+				<fsc></fsc>
+				<niin></niin>
+			</nsn>
+			<graphic boardno="G06232000777"></graphic>
+			<dcpno>
+				<name>HOSE, AIR</name>
+				<partno>5332-1</partno>
+				<cageno>1BZD4</cageno>
+				<uoc>SRS</uoc>
+			</dcpno>
+			<ui>EA</ui>
+			<qty>1</qty>
+		</bii-opt-entry>
+		<bii-opt-entry>
+			<itemno>83</itemno>
+			<nsn>
+				<fsc></fsc>
+				<niin></niin>
+			</nsn>
+			<graphic boardno="G06232000791"></graphic>
+			<dcpno>
+				<name>JACK, BOTTLE,12 TON</name>
+				<partno>B51125</partno>
+				<cageno>75535</cageno>
+				<uoc>SRS</uoc>
+			</dcpno>
+			<ui>EA</ui>
+			<qty>1</qty>
+		</bii-opt-entry>
+		<bii-opt-entry>
+			<itemno>84</itemno>
+			<nsn>
+				<fsc>4010</fsc>
+				<niin>01-240-1480</niin>
+			</nsn>
+			<graphic boardno="G06232000883"></graphic>
+			<dcpno>
+				<name>LINK SNAP, HOISTING</name>
+				<partno>3934T14</partno>
+				<cageno>39428</cageno>
+				<uoc>SRS</uoc>
+			</dcpno>
+			<ui>EA</ui>
+			<qty>4</qty>
+		</bii-opt-entry>
+		<bii-opt-entry>
+			<itemno>85</itemno>
+			<nsn>
+				<fsc>5310</fsc>
+				<niin>01-533-0511</niin>
+			</nsn>
+			<graphic boardno="G06232000810"></graphic>
+			<dcpno>
+				<name>NUT,SELF-LOCKING HEXAGON</name>
+				<partno>97135A250</partno>
+				<cageno>065B5</cageno>
+				<uoc></uoc>
+			</dcpno>
+			<ui>EA</ui>
+			<qty>4</qty>
+		</bii-opt-entry>
+		<bii-opt-entry>
+			<itemno>86</itemno>
+			<nsn>
+				<fsc></fsc>
+				<niin></niin>
+			</nsn>
+			<graphic boardno="G06232000816"></graphic>
+			<dcpno>
+				<name>PADLOCK</name>
+				<partno>A5200KA37272</partno>
+				<cageno>39428</cageno>
+				<uoc></uoc>
+			</dcpno>
+			<ui>EA</ui>
+			<qty>3</qty>
+		</bii-opt-entry>
+		<bii-opt-entry>
+			<itemno>87</itemno>
+			<nsn>
+				<fsc></fsc>
+				<niin></niin>
+			</nsn>
+			<graphic boardno="G06232000826"></graphic>
+			<dcpno>
+				<name>PIN, LOCK, VISE</name>
+				<partno>8197-A2</partno>
+				<cageno>39428</cageno>
+				<uoc></uoc>
+			</dcpno>
+			<ui>EA</ui>
+			<qty>1</qty>
+		</bii-opt-entry>
+		<bii-opt-entry>
+			<itemno>88</itemno>
+			<nsn>
+				<fsc></fsc>
+				<niin></niin>
+			</nsn>
+			<graphic boardno="G06232000861"></graphic>
+			<dcpno>
+				<name>RATCHET BINDER ,1/2 - 5/8</name>
+				<partno>108440</partno>
+				<cageno>0GRF0</cageno>
+				<uoc></uoc>
+			</dcpno>
+			<ui>EA</ui>
+			<qty>4</qty>
+		</bii-opt-entry>
+		<bii-opt-entry>
+			<itemno>89</itemno>
+			<nsn>
+				<fsc>5305</fsc>
+				<niin>01-531-6853</niin>
+			</nsn>
+			<graphic boardno="G06232000868"></graphic>
+			<dcpno>
+				<name>SCREW, CAP, HEXAGON HEAD</name>
+				<partno>92316A722</partno>
+				<cageno>1BZD4</cageno>
+				<uoc></uoc>
+			</dcpno>
+			<ui>EA</ui>
+			<qty>4</qty>
+		</bii-opt-entry>
+		<bii-opt-entry>
+			<itemno>90</itemno>
+			<nsn>
+				<fsc></fsc>
+				<niin></niin>
+			</nsn>
+			<graphic boardno="G06232001028"></graphic>
+			<dcpno>
+				<name>SKATE, LOADING</name>
+				<partno>TS-4W</partno>
+				<cageno>0BTD0</cageno>
+				<uoc></uoc>
+			</dcpno>
+			<ui>EA</ui>
+			<qty>4</qty>
+		</bii-opt-entry>
+		<bii-opt-entry>
+			<itemno>91</itemno>
+			<nsn>
+				<fsc></fsc>
+				<niin></niin>
+			</nsn>
+			<graphic boardno="G06232000890"></graphic>
+			<dcpno>
+				<name>SOCKET,3/4 SQ. DR, EXT.,10 INCH</name>
+				<partno>5552A105</partno>
+				<cageno>58536</cageno>
+				<uoc></uoc>
+			</dcpno>
+			<ui>EA</ui>
+			<qty>1</qty>
+		</bii-opt-entry>
+		<bii-opt-entry>
+			<itemno>92</itemno>
+			<nsn>
+				<fsc></fsc>
+				<niin></niin>
+			</nsn>
+			<graphic boardno="G06232000891"></graphic>
+			<dcpno>
+				<name>SOCKET, IMPACT, 3/4 SQ. DR.,33MM</name>
+				<partno>54175A11</partno>
+				<cageno>66983</cageno>
+				<uoc></uoc>
+			</dcpno>
+			<ui>EA</ui>
+			<qty>1</qty>
+		</bii-opt-entry>
+		<bii-opt-entry>
+			<itemno>93</itemno>
+			<nsn>
+				<fsc>1670</fsc>
+				<niin>00-725-1437</niin>
+			</nsn>
+			<graphic boardno="G06232000895"></graphic>
+			<dcpno>
+				<name>TIE DOWN,CARGO,AIRCRAFT</name>
+				<partno>41842-10</partno>
+				<cageno>73195</cageno>
+				<uoc></uoc>
+			</dcpno>
+			<ui>EA</ui>
+			<qty>4</qty>
+		</bii-opt-entry>
+		<bii-opt-entry>
+			<itemno>94</itemno>
+			<nsn>
+				<fsc></fsc>
+				<niin></niin>
+			</nsn>
+			<graphic boardno="G06232001029"></graphic>
+			<dcpno>
+				<name>TIE DOWN RING, TRAILER, REAR</name>
+				<partno>5335-1</partno>
+				<cageno>1BZD4</cageno>
+				<uoc></uoc>
+			</dcpno>
+			<ui>EA</ui>
+			<qty>1</qty>
+		</bii-opt-entry>
+		<bii-opt-entry>
+			<itemno>95</itemno>
+			<nsn>
+				<fsc></fsc>
+				<niin></niin>
+			</nsn>
+			<graphic boardno="G06232000902"></graphic>
+			<dcpno>
+				<name>TIRE, # 275/70R 22.5</name>
+				<partno>XTY2</partno>
+				<cageno>MECHA</cageno>
+				<uoc></uoc>
+			</dcpno>
+			<ui>EA</ui>
+			<qty>1</qty>
+		</bii-opt-entry>
+		<bii-opt-entry>
+			<itemno>96</itemno>
+			<nsn>
+				<fsc>2640</fsc>
+				<niin>00-555-2823</niin>
+			</nsn>
+			<graphic boardno="G06232000906"></graphic>
+			<dcpno>
+				<name>VALVE, PNEUMATIC TIRE</name>
+				<partno>A-A-52611-2-2-TR572</partno>
+				<cageno></cageno>
+				<uoc></uoc>
+			</dcpno>
+			<ui>EA</ui>
+			<qty>1</qty>
+		</bii-opt-entry>
+		<bii-opt-entry>
+			<itemno>97</itemno>
+			<nsn>
+				<fsc></fsc>
+				<niin></niin>
+			</nsn>
+			<graphic boardno="G06232000907"></graphic>
+			<dcpno>
+				<name>VISE,6 INCH, TYPE IV</name>
+				<partno>10033</partno>
+				<cageno></cageno>
+				<uoc></uoc>
+			</dcpno>
+			<ui>EA</ui>
+			<qty>1</qty>
+		</bii-opt-entry>
+		<bii-opt-entry>
+			<itemno>98</itemno>
+			<nsn>
+				<fsc>2530</fsc>
+				<niin>01-450-3126</niin>
+			</nsn>
+			<graphic boardno="G06232000908"></graphic>
+			<dcpno>
+				<name>WHEEL SEGMENT, PNEUMATIC TIRE</name>
+				<partno>28828</partno>
+				<cageno></cageno>
+				<uoc></uoc>
+			</dcpno>
+			<ui>EA</ui>
+			<qty>1</qty>
+		</bii-opt-entry>
+		<bii-opt-entry>
+			<itemno>99</itemno>
+			<nsn>
+				<fsc></fsc>
+				<niin></niin>
+			</nsn>
+			<graphic boardno="G06232001030"></graphic>
+			<dcpno>
+				<name>WRENCH, AIR 1/2 INCH</name>
+				<partno>5333-1</partno>
+				<cageno></cageno>
+				<uoc></uoc>
+			</dcpno>
+			<ui>EA</ui>
+			<qty>1</qty>
+		</bii-opt-entry>
+		<bii-opt-entry>
+			<itemno>100</itemno>
+			<nsn>
+				<fsc></fsc>
+				<niin></niin>
+			</nsn>
+			<graphic boardno="G06232000915"></graphic>
+			<dcpno>
+				<name>WRENCH, RATCHET 3/4 INCH</name>
+				<partno>KDT85964</partno>
+				<cageno></cageno>
+				<uoc></uoc>
+			</dcpno>
+			<ui>EA</ui>
+			<qty>1</qty>
+		</bii-opt-entry>
+	</bii-opt>
+</coeibiiwp>

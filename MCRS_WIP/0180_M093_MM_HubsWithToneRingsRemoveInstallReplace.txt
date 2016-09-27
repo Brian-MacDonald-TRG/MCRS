@@ -1,0 +1,173 @@
+<maintwp chngno="0" wpno="M00093-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="maintainer"/>
+			<title>MAINTAINER MAINTENANCE - HUB WITH TONE RINGS<?Pub _newline?>REMOVE, REPLACE, INSTALL</title>
+	</wpidinfo>
+	<initial_setup>
+		<tools>
+			<tools-setup-item>
+				<name>Tool Kit, Mechanics General</name>
+					<itemref>
+						<xref itemid="S00007-9-2320-451-TOOL-4" wpid="S00007-9-2320-451"/>
+					</itemref>
+			</tools-setup-item>
+		</tools>
+		<mtrlpart>
+			<mtrlpart-setup-item>
+				<name>Suitable Lifting Device</name>
+			</mtrlpart-setup-item>
+			<mtrlpart-setup-item>
+				<name>Jack Stands</name>
+			</mtrlpart-setup-item>
+		</mtrlpart>
+		<persnreq>
+			<persnreq-setup-item>
+				<name>Motor Transport Operator</name>
+				<mos>88M</mos>
+				<qty>X</qty>
+			</persnreq-setup-item>
+		</persnreq>
+		<eqpconds>
+			<eqpconds-setup-item>
+				<condition>Tilt Deck Recovery Trailer in uncoupled configuration. <xref wpid="O00027-9-2320-451"/></condition>
+			</eqpconds-setup-item>
+			<eqpconds-setup-item>
+				<condition>Hub Removed.</condition>
+			</eqpconds-setup-item>
+		</eqpconds>
+	</initial_setup>
+	<maintsk>
+		<remove>
+			<proc>
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>Antilock Brake System (ABS) tone ring is part of hub assembly, not a separate item of supply.</trim.para>
+							<trim.para>There are six sets of hubs and drums on the semitrailer. These procedures remove and install one complete set.</trim.para>
+						</note>
+						<para>Remove six bolts and washers securing hub cap.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Remove hub cap.</para>
+				</step1>
+				<step1>
+					<para>Remove set screw from the lock washer. <callout assocfig="M00093-9-2320-451-F0001" label="1"/></para>
+				</step1>
+
+					<figure id="M00093-9-2320-451-F0001">
+					<title>Set Screw</title>
+					<graphic boardno="G06232000471"/>
+					</figure>
+
+				<step1>
+					<para>Remove outer jam nut <callout assocfig="M00093-9-2320-451-F0002" label="1"/>.</para>
+				</step1>
+				<step1>
+					<para>Remove lock washer <callout assocfig="M00093-9-2320-451-F0002" label="2"/>.</para>
+				</step1>
+
+					<figure id="M00093-9-2320-451-F0002">
+					<title>Outer Jam Nut and Lock Washer Removed</title>
+					<graphic boardno="G06232000472"/>
+					</figure>
+
+				<step1>
+					<para>Remove adjusting nut <callout assocfig="M00093-9-2320-451-F0003" label="1"/>.</para>
+				</step1>
+				<step1>
+					<para>Remove outer wheel bearing <callout assocfig="M00093-9-2320-451-F0003" label="2"/>.</para>
+				</step1>
+
+					<figure id="M00093-9-2320-451-F0003">
+					<title>Inner Adjusting Nut and Outer Bearing Removed</title>
+					<graphic boardno="G06232000473"/>
+					</figure>
+			
+				<step1>
+					<para>Remove hub.</para>		
+				</step1>
+			</proc>
+		</remove>
+	</maintsk>
+	<maintsk>
+		<install>
+			<proc>
+				<step1>
+					<para>Lubricate inner bearing and install into hub</para>
+				</step1>
+				<step1>
+					<para>Install hub seal IAW <xref wpid="M00094-9-2320-451"/></para>
+				</step1>
+				<step1>
+					<para>Mount hub on spindle <callout assocfig="M00093-9-2320-451-F0004"/>.</para>
+				</step1>
+
+					<figure id="M00093-9-2320-451-F0004">
+					<title>Hub on Spindle</title>
+					<graphic boardno="G06232000474"/>
+					</figure>
+
+				<step1>
+					<para>Pre-lube outer bearing with grease.</para>
+				</step1>
+				<step1>
+					<para>Install outer bearing on spindle.</para>
+				</step1>
+				<step1>
+					<para>Install adjusting nut, making sure that dowel is facing out <callout assocfig="M00093-9-2320-451-F0005"/></para>
+				</step1>
+
+					<figure id="M00093-9-2320-451-F0005">
+					<title>Inner Nut Installed </title>
+					<graphic boardno="G06232000475"/>
+					</figure>
+
+				<step1>
+					<para>Torque adjusting nut to 200 ft. lbs. (271 Nm) while rotating hub by hand.</para>
+				</step1>
+				<step1>
+					<para>Back off adjusting nut one full turn.</para>
+				</step1>
+				<step1>
+					<para>Rotate hub at least 5 revolutions.</para>
+				</step1>
+				<step1>
+					<para>Torque adjusting nut to 50 ft. lbs. (68 Nm) while rotating hub by hand</para>
+				</step1>
+				<step1>
+					<para>Back off adjusting nut 1/4 turn.</para>
+				</step1>
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>DO NOT tighten inner adjusting nut for dowel pin alignment. This can excessively pre-load bearing resulting in premature failure.</trim.para>
+						</note>
+						<para>Install lock washer. Make sure that lock washer tang fits in the spindle keyway slot and adjusting nut dowel fits in one of the holes of the lock washer. If this alignment cannot be achieved, remove the lock washer, flip it over and reinstall. If the dowel and lock washer holes still do not mate, loosen the adjusting nut slightly until alignment occurs.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Install outer jam nut, Torque to 300 ft. lbs.</para>
+				</step1>
+				<step1>
+					<para>Install set screw into lock washer <callout assocfig="M00093-9-2320-451-F0006"/></para>
+				</step1>
+
+					<figure id="M00093-9-2320-451-F0006">
+					<title>Set Screw Installed Into Lock Washer</title>
+					<graphic boardno="G06232000476"/>
+					</figure>
+
+				<step1>
+					<para>Ensure hub spins freely.</para>
+				</step1>
+				<step1>
+					<para>Install serviceable hub cap and gasket, and secure with six bolts and washers.</para>
+				</step1>
+				<step1>
+					<para>Install brake drum IAW <xref wpid="M00092-9-2320-451"/>.</para>
+				</step1>
+			</proc>
+		</install>
+	</maintsk>
+</maintwp>

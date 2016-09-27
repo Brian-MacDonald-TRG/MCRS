@@ -1,0 +1,34 @@
+<tswp chngno="0" wpno="T00031-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="maintainer"/>
+		<title>TROUBLESHOOTING PROCEDURES <?Pub _newline?>MOTOR ASSEMBLY</title>
+	</wpidinfo>
+	<initial_setup>
+		<eqpconds>
+			<eqpconds-setup-item>
+				<condition>Coupling FWTRD to Prime Mover(<xref wpid="O00003-9-2320-451"/>).</condition>
+			</eqpconds-setup-item>
+		</eqpconds>
+	</initial_setup>
+	<tsproc>
+		<faultproc>
+			<title>Maintainer Troubleshooting</title>
+			<symptom>Electric Motors do not activate when Electric Motor Push Button is engaged. </symptom>
+			<malfunc label="malfunction">When the Electric Motor push button pressed, 12V is not present on both sides of the electric motor push button.</malfunc>
+			<action>
+				<step1>
+					<para>Change electric Motor Push Button IAW <xref wpid="M00028-9-2320-451"/></para>
+				</step1>
+			</action>
+			<malfunc label="malfunction">12V at the electric motor solenoids with the Electric Motor Push Button engaged but one or both motors do not activate.</malfunc>
+			<action>
+				<step1>
+					<para>Test for 12V at output side of solenoid when Motor Control Button is pressed. If no voltage on output side, replace the solenoid.</para>
+				</step1>
+				<step1>
+					<para>If solenoids are working and motors do not engage, replace motor assemblies IAW <xref wpid="M00067-9-2320-451"/></para>
+				</step1>
+			</action>
+		</faultproc>
+	</tsproc>
+</tswp>

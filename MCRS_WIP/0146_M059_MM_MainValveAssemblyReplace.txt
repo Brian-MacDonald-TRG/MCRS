@@ -1,0 +1,346 @@
+<maintwp chngno="0" wpno="M00059-9-2320-451"><?Pub Dtl?><wpidinfo>
+	<maintlvl level="maintainer"/>
+		<title>MAINTAINER MAINTENANCE - MAIN VALVE ASSEMBLY REPLACE</title>
+	</wpidinfo><initial_setup>
+		<tools>
+			<tools-setup-item><name>Tool Kit, General Mechanics</name><itemref>
+				<xref itemid="S00007-9-2320-451-TOOL-4" wpid="S00007-9-2320-451"/>
+				</itemref>
+			</tools-setup-item>
+		</tools>
+		<mtrlpart>
+			<mtrlpart-setup-item>
+				<name>Adhesive</name>
+				<itemref><xref itemid="S00006-9-2320-451-0001" wpid="S00006-9-2320-451"/>
+				</itemref>
+			</mtrlpart-setup-item>
+			<mtrlpart-setup-item>
+				<name>Drain Pan</name>
+			</mtrlpart-setup-item>
+		</mtrlpart>
+		<persnreq>
+			<persnreq-setup-item>
+				<name>Motor Transport Operator</name>
+				<mos>88M</mos>
+				<qty>2</qty>
+			</persnreq-setup-item>
+		</persnreq>
+		<eqpconds>
+			<eqpconds-setup-item>
+				<condition>Fifth Wheel Towing and Recovery Device in uncoupled configuration <xref wpid="O00002-9-2320-451"/>.</condition>
+			</eqpconds-setup-item>
+			<eqpconds-setup-item>
+				<condition>Hydraulic pressure relieved.</condition>
+			</eqpconds-setup-item>
+		</eqpconds>
+	</initial_setup>
+	<maintsk>
+		<replace>
+			<proc>
+				<title>REPLACE</title>
+				<step1 id="M00035-9-2320-451-S00001">
+					<specpara>
+						<warning>
+							<icon-set boardno="Slick_Floor"/>
+							<icon-set boardno="Eye_Protection"/>
+							<trim.para>High pressure is present in the 250M Fifth Wheel Towing Device hydraulic system. Do not disconnect any hydraulic system component unless hydraulic system pressure has been relieved. Ensure each hydraulic control lever is moved several times through all positions and hydraulic tank relief valve is slowly loosened to relieve pressure. Failure to comply may result in severe injury or death to personnel.</trim.para>
+							<trim.para>Spilled hydraulic oil is very slippery. Be careful when entering or working in area. Wipe up any spilled oil immediately. Failure to comply may result in severe injury or death to personnel.</trim.para>
+						</warning>
+						<caution>
+							<trim.para>Always clean around fittings before disconnecting or connecting hoses or fittings. Ensure area is clean before installing hydraulic components. Failure to comply may result in damage to equipment.</trim.para>
+							<trim.para>Cover, cap, or plug all openings, ports, and tube or hose ends when they are disconnected. Failure to comply may result in damage to equipment. Fittings must be installed and hand-tightened. If a fitting cannot be hand tightened, it may be cross-threaded or have damaged threads. Use wrench only for final tightening. Failure to comply may result in damage to equipment.</trim.para>
+							<trim.para>Do not use Teflon tape as a sealer on any fittings. It can separate from the fittings and cause control valves, relief valves, and actuators to become contaminated and fail. Do not apply sealant to the first threads of NPT fittings. If sealant enters the hydraulic system, it may cause components to fail.</trim.para>
+							<trim.para>When connecting a hose to a fitting, always use two wrenches. Use one wrench to turn the swivel nut onto the fitting, and use another wrench to keep the hose from rotating. If the hose rotates, it can loosen the other end of the hose or loosen the fitting at the other end.</trim.para>
+						</caution>
+						<note>
+							<trim.para>Tag all hoses and fittings prior to disconnecting to ease installation.</trim.para>
+							<trim.para>Hydraulic hoses must be capped and/or plugged when disconnecting to prevent contamination of hydraulic system.</trim.para>
+						</note>
+						<note>
+							<trim.para>Mast may need to extend or retract to align from Mast Pivot Pin holes.</trim.para>
+						</note>
+						<para>Insert driver and curb side mast pivot pins <callout assocfig="M00059-9-2320-451-F0001" label="1"/>.</para>
+					</specpara>
+				</step1>
+					<figure id="M00059-9-2320-451-F0001">
+					<title>Mast Pin Inserted</title>
+					<graphic boardno="G06232000526"></graphic>
+					</figure>
+			
+				<step1>
+					<para>Relieve hydraulic pressure IAW WP XXXX.</para>
+				</step1>
+				<step1>
+					<para>Disconnect batteries IAW <xref wpid="M00035-9-2320-451"/> <xref stepend="M00035-9-2320-451-S00005" stepstart="M00035-9-2320-451-S00001"/></para>
+				</step1>
+				<step1>
+					<para>Remove hydraulic hose wrap. <callout assocfig="M00059-9-2320-451-F0002" label="1"/>.</para>
+				</step1>
+					<figure id="M00059-9-2320-451-F0002">
+					<title>Hydraulic Hose Wrap</title>
+					<graphic boardno="G06232000527"></graphic>
+					</figure>
+				<step1 id="M00035-9-2320-451-S00005">
+					<para>Disconnect ten hydraulic hoses <callout assocfig="M00059-9-2320-451-F0003" label="1"/> from elbows <callout assocfig="M00059-9-2320-451-F0003" label="2"/>. Cap elbow connection points.</para>
+				</step1>
+				
+					<figure id="M00059-9-2320-451-F0003">
+					<title>Hydraulic Hoses and Elbows</title>
+					<graphic boardno="G06232000528"></graphic>
+					</figure>
+			
+				<step1>
+					<para>Remove mounting bolt <callout assocfig="M00059-9-2320-451-F0004" label="1"/>. Tag and disconnect ground wire <callout assocfig="M00059-9-2320-451-F0004" label="2"/> from main valve assembly.</para>
+				</step1>
+				
+					<figure id="M00059-9-2320-451-F0004">
+					<title>Ground Wire Bolt</title>
+					<graphic boardno="G06232000529"></graphic>
+					</figure>
+
+				<step1>
+					<para>Remove two screws <callout assocfig="M00059-9-2320-451-F0005" label="1"/> at solenoid cover.</para>
+				</step1>
+				<step1>
+					<para>Remove solenoid cover <callout assocfig="M00059-9-2320-451-F0005" label="2"/> from main valve assembly.</para>
+				</step1>
+					<figure id="M00059-9-2320-451-F0005">
+					<title>Solenoid Cover</title>
+					<graphic boardno="G06232000530"></graphic>
+					</figure>
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>Tag all electrical wires prior to disconnecting to ease installation.</trim.para>
+						</note>
+						<para>Disconnect power and ground wires <callout assocfig="M00059-9-2320-451-F0006" label="1"/> from solenoids.</para>
+					</specpara>
+				</step1>
+					<figure id="M00059-9-2320-451-F0006">
+					<title>Solenoid Harness Wires</title>
+					<graphic boardno="G06232000531"></graphic>
+					</figure>
+				<step1 id="M00035-9-2320-451-S00010">
+					<para>Remove End Plug <callout assocfig="M00059-9-2320-451-F0007" label="1"/> from main valve assembly. Set aside for reinstallation.</para>
+				</step1>
+					
+					<figure id="M00059-9-2320-451-F0007">
+					<title>End Plug</title>
+					<graphic boardno="G06232000532"></graphic>
+					</figure>
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>Restrictor Springs reside in ports behind last four elbows on right side of the valve.</trim.para>
+						</note>
+						<para>Remove ten elbows from main valve assembly. Set aside for reinstallation.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Remove four flow restrictor valves and springs <callout assocfig="M00059-9-2320-451-F0008" label="1"/>from main valve ports. Set aside for reinstallation.</para>
+				</step1>
+					<figure id="M00059-9-2320-451-F0008">
+					<title>Flow Restrictors and Springs</title>
+					<graphic boardno="G06232000533"></graphic>
+					</figure>
+				<step1>
+					<para>Disconnect hydraulic hose <callout assocfig="M00059-9-2320-451-F0009" label="1"/> at filter housing.</para>
+				</step1>
+					<figure id="M00059-9-2320-451-F0009">
+					<title>Hydraulic Hose at Filter Housing</title>
+					<graphic boardno="G06232000534"></graphic>
+					</figure>
+				<step1>
+					<para>Disconnect hard tube return-line <callout assocfig="M00059-9-2320-451-F0010" label="1"/> at end of check valve.</para>
+				</step1>
+				<step1 id="M00035-9-2320-451-S00015">
+					<para>Disconnect hose <callout assocfig="M00059-9-2320-451-F0010" label="2"/> at electric control bypass valve.</para>
+				</step1>
+				<step1>
+					<para>Tag and disconnect the wiring at electric control bypass valve <callout assocfig="M00059-9-2320-451-F0010" label="3"/>.</para>
+				</step1>
+					<figure id="M00059-9-2320-451-F0010">
+					<title>Check Valve and Electric Control Bypass Valve Connection Points</title>
+					<graphic boardno="G06232000535"></graphic>
+					</figure>
+				<step1>
+					<specpara>
+						<caution>
+							<trim.para>The Main Valve Assembly weighs 75lbs (34 Kg). Use an assistant to lift and or remove the valve. Failure to comply may result in damage to the equipment.</trim.para>
+						</caution>
+						<para>Remove two screws <callout assocfig="M00059-9-2320-451-F0011" label="1"/>and lock washers. Discard lock washers.</para>
+					</specpara>
+				</step1>
+					<figure id="M00059-9-2320-451-F0011">
+					<title>Main Valve Mounting Bolts</title>
+					<graphic boardno="G06232000536"></graphic>
+					</figure>	
+				<step1>
+					<para>Remove main valve assembly from frame.</para>
+				</step1>
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>Notate all fitting orientation for reinstallation.</trim.para>
+							<trim.para>Hydraulic hoses must not be uncapped and/or unplugged until ready to connect to prevent contamination of hydraulic system.</trim.para>
+							<trim.para>Use sealing compound on all pipe thread fittings prior to installing.</trim.para>
+						</note>
+						<para>Remove pressure gauge <callout assocfig="M00059-9-2320-451-F0012" label="1"/> from straight adapter <callout assocfig="M00059-9-2320-451-F0012" label="2"/>.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Remove straight adapter <callout assocfig="M00059-9-2320-451-F0012" label="2"/> from tee pipe <callout assocfig="M00059-9-2320-451-F0012" label="3"/>.</para>
+				</step1>
+				<step1>
+					<para>Remove tee pipe <callout assocfig="M00059-9-2320-451-F0012" label="3"/> from straight adapter <callout assocfig="M00059-9-2320-451-F0012" label="4"/></para>
+				</step1>
+				<step1>
+					<para>Remove straight adapter from main valve assembly <callout assocfig="M00059-9-2320-451-F0012" label="4"/>.</para>
+				</step1>
+				<step1>
+					<para>Remove bypass valve assembly <callout assocfig="M00059-9-2320-451-F0012" label="5"/> from straight adapter <callout assocfig="M00059-9-2320-451-F0012" label="6"/>.</para>
+				</step1>
+				<step1>
+					<para>Remove tee fitting <callout assocfig="M00059-9-2320-451-F0012" label="7"/> from straight adapter <callout assocfig="M00059-9-2320-451-F0012" label="8"/>.</para>
+				</step1>
+				<step1>
+					<para>Remove straight adapter from main valve <callout assocfig="M00059-9-2320-451-F0012" label="8"/>.</para>
+				</step1>
+					<figure id="M00059-9-2320-451-F0012">
+					<title>Component Removal From Unserviceable Main Valve</title>
+					<graphic boardno="G06232000537"></graphic>
+					</figure>
+				<step1>
+					<para>Removeport plug <callout assocfig="M00059-9-2320-451-F0013" label="1"/>.</para>
+				</step1>
+					<figure id="M00059-9-2320-451-F0013">
+					<title>Bottom Center Port Plug Remove</title>
+					<graphic boardno="G06232000538"></graphic>
+					</figure>
+				<step1>
+					<para>Obtain serviceable item.</para>
+				</step1>
+				<step1>
+					<para>Remove Limiter from bottom center port serviceable item.</para>
+				</step1>
+				<step1>
+					<para>Install port plug <callout assocfig="M00059-9-2320-451-F0014" label="1"/>.</para>
+				</step1>
+					<figure id="M00059-9-2320-451-F0014">
+					<title>Port Plug Installed in Place of Limiter</title>
+					<graphic boardno="G06232000539"></graphic>
+					</figure>
+				<step1>
+					<para>Install straight adapter <callout assocfig="M00059-9-2320-451-F0015" label="8"/> in to main valve.</para>
+				</step1>
+				<step1>
+					<para>Install tee fitting <callout assocfig="M00059-9-2320-451-F0015" label="7"/> into straight adapter <callout assocfig="M00059-9-2320-451-F0015" label="8"/>.</para>
+				</step1>
+				<step1>
+					<para>Install bypass valve <callout assocfig="M00059-9-2320-451-F0015" label="5"/> into straight adaptor <callout assocfig="M00059-9-2320-451-F0015" label="6"/>.</para>
+				</step1>
+				<step1>
+					<para>Install straight adapter <callout assocfig="M00059-9-2320-451-F0015" label="4"/> in to main valve.</para>
+				</step1>
+				<step1>
+					<para>Install tee fitting <callout assocfig="M00059-9-2320-451-F0015" label="3"/> on straight adapter <callout assocfig="M00059-9-2320-451-F0015" label="4"/>.</para>
+				</step1>
+				<step1>
+					<para>Install straight adapter <callout assocfig="M00059-9-2320-451-F0015" label="2"/> in tee fitting <callout assocfig="M00059-9-2320-451-F0015" label="3"/>.</para>
+				</step1>
+				<step1>
+					<para>Install pressure gauge <callout assocfig="M00059-9-2320-451-F0015" label="1"/> into straight adaptor <callout assocfig="M00059-9-2320-451-F0015" label="2"/>.</para>
+				</step1>
+					<figure id="M00059-9-2320-451-F0015">
+					<title>Fittings Installed in Main Valve</title>
+					<graphic boardno="G06232000540"></graphic>
+					</figure>
+				<step1>
+					<para>Install valve control levers IAW <xref wpid="M00030-9-2320-451"/>.</para>
+				</step1>
+				<step1>
+					<specpara>
+						<caution>
+							<trim.para>The Main Valve Assembly weighs 75lbs (34 Kg). Use an assistant to lift and or remove the valve. Failure to comply may result in damage to the equipment.</trim.para>
+						</caution>
+						<para>Install ground wiring harness <callout assocfig="M00059-9-2320-451-F0016" label="1"/> on solenoids <callout assocfig="M00059-9-2320-451-F0016" label="2"/> as tagged.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Position main valve assembly to frame and align with hard return-line <callout assocfig="M00059-9-2320-451-F0016" label="7"/>.</para>
+				</step1>
+				<step1>
+					<para>Install ground wire and secure with mounting bolt <callout assocfig="M00059-9-2320-451-F0016" label="9"/>.</para>
+				</step1>
+				<step1>
+					<para>Install two bolts<callout assocfig="M00059-9-2320-451-F0016" label="3"/> and serviceable lock washers to secure valve to FWTRD.</para>
+				</step1>
+				<step1>
+					<para>Connect and secure hard return-line fitting <callout assocfig="M00059-9-2320-451-F0016" label="6"/> to check valve <callout assocfig="M00059-9-2320-451-F0016" label="8"/>.</para>
+				</step1>
+				<step1>
+					<para>Connect hydraulic hose <callout assocfig="M00059-9-2320-451-F0016" label="5"/> to bypass valve <callout assocfig="M00059-9-2320-451-F0016" label="4"/>.</para>
+				</step1>
+					<figure id="M00059-9-2320-451-F0016">
+					<title>Valve Connections</title>
+					<graphic boardno="G06232000541"></graphic>
+					</figure>
+				<step1>
+					<para>Connect and secure hydraulic hose <callout assocfig="M00059-9-2320-451-F0017" label="1"/> to oil filter.</para>
+				</step1>
+		
+					<figure id="M00059-9-2320-451-F0017">
+					<title>Hydraulic Hose at Filter Housing</title>
+					<graphic boardno="G06232000542"></graphic>
+					</figure>
+				<step1>
+					<para>Install four each flow restrictor valves and springs <callout assocfig="M00059-9-2320-451-F0018" label="1"/> to main valve.</para>
+				</step1>
+					<figure id="M00059-9-2320-451-F0018">
+					<title>Flow Restrictors and Springs Installed</title>
+					<graphic boardno="G06232000543"></graphic>
+					</figure>
+				<step1>
+					<para>Install ten elbows <callout assocfig="M00059-9-2320-451-F0019" label="1"/> to main valve assembly.</para>
+				</step1>
+					<figure id="M00059-9-2320-451-F0019">
+					<title>Elbows Installed</title>
+					<graphic boardno="G06232000544"></graphic>
+					</figure>
+				<step1>
+					<para>Install end plug <callout assocfig="M00059-9-2320-451-F0020" label="1"/> to main valve assembly.</para>
+				</step1>
+					<figure id="M00059-9-2320-451-F0020">
+					<title>End Plug Installed</title>
+					<graphic boardno="G06232000545"></graphic>
+					</figure>
+
+				<step1>
+					<para>Connect power wires <callout assocfig="M00059-9-2320-451-F0021" label="1"/> to solenoids as tagged.</para>
+				</step1>
+					<figure id="M00059-9-2320-451-F0021">
+					<title>Power Wires Reinstalled on Solenoids</title>
+					<graphic boardno="G06232000546"></graphic>
+					</figure>
+
+				<step1>
+					<para>Position and align solenoid cover. Secure using two bolts.</para>
+				</step1>
+				<step1>
+					<para>Connect ten hydraulic hoses <callout assocfig="M00059-9-2320-451-F0022" label="1"/> to elbows as tagged.</para>
+				</step1>
+					<figure id="M00059-9-2320-451-F0022">
+					<title>Hydraulic Hoses Reinstalled</title>
+					<graphic boardno="G06232000547"></graphic>
+					</figure>
+
+				<step1>
+					<para>Reinstall hydraulic hose wrap.</para>
+				</step1>
+				<step1>
+					<para>Reconnect batteries IAW <xref wpid="M00035-9-2320-451"/> <xref stepend="M00035-9-2320-451-S00015" stepstart="M00035-9-2320-451-S00010"/></para>
+				</step1>
+			</proc>
+		</replace>
+	</maintsk>
+</maintwp>

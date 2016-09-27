@@ -1,0 +1,193 @@
+<maintwp chngno="0" wpno="M00052-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="maintainer"/>
+		<title>35K WINCH ASSEMBLY REPLACE</title>
+	</wpidinfo>
+	<initial_setup>
+		<tools>
+			<tools-setup-item>
+				<name>Tool Kit, General Mechanics</name>
+				<itemref><xref itemid="S00007-9-2320-451-TOOL-4" wpid="S00007-9-2320-451"/>
+				</itemref>
+			</tools-setup-item>
+		</tools>
+		<mtrlpart>
+			<mtrlpart-setup-item>
+				<name>Eight new 5/8" lock washers</name>
+			</mtrlpart-setup-item>
+			<mtrlpart-setup-item>
+				<name>Two new 1/2" lock washers</name>
+			</mtrlpart-setup-item>
+		</mtrlpart>
+		<persnreq>
+			<persnreq-setup-item>
+				<name>Motor Transport Operator</name>
+				<mos>88M</mos>
+				<qty>2</qty>
+			</persnreq-setup-item>
+		</persnreq>
+		<eqpconds>
+			<eqpconds-setup-item>
+				<condition>FWTRD Uncoupled from Prime Mover IAW <xref wpid="O00035-9-2320-451"/>.</condition>
+			</eqpconds-setup-item>
+			<eqpconds-setup-item>
+				<condition>Jack Stands</condition>
+			</eqpconds-setup-item>
+		</eqpconds>
+	</initial_setup>
+	<maintsk>
+		<replace>
+			<proc>
+				<title>REPLACE</title>
+				<step1>
+					<specpara>
+						<caution>
+							<trim.para>The 35K Winch Assembly weighs 645 lbs. At least two personnel and proper lifting equipment are required when removing or installing the Winch. Failure to comply may result in injury to personnel and or damage to the equipment.</trim.para>
+						</caution>
+						<para>Remove Cross Bar for Sledding and Sledding Shoes IAW <xref wpid="M000XX-9-2320-451"/>.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Remove 35K winch cable IAW <xref wpid="M00055-9-2320-451"/></para>
+				</step1>
+				<step1>
+					<para>Remove the Winch Cable Hold Down by removing the two mounting bolts. Set aside for reinstallation <callout assocfig="M00052-9-2320-451-F0001" label="1"/>.</para>
+				</step1>
+			
+					<figure id="M00052-9-2320-451-F0001">
+					<title>Winch Cable Hold Down Bolts</title>
+					<graphic boardno="G06232000569"/>
+					</figure>
+
+				<step1>
+					<para>Disconnect the 35K Winch hydraulic lines <callout assocfig="M00052-9-2320-451-F0002" label="1"/> at the quick couplers.</para>
+				</step1>
+				
+					<figure id="M00052-9-2320-451-F0002">
+					<title>35K Winch Hydraulic Lines</title>
+					<graphic boardno="G06232000570"/>
+					</figure>
+
+				<step1>
+					<para>Remove four bolts and nuts <callout assocfig="M00052-9-2320-451-F0003" label="1"/>.</para>
+				</step1>
+					<figure id="M00052-9-2320-451-F0003">
+					<title>Sledding Bar Bracket Removal</title>
+					<graphic boardno="G06232000571"/>
+					</figure>
+				<step1>
+					<specpara>
+						<warning>
+							<icon-set boardno="Falling_Parts"/>
+							<icon-set boardno="Heavy_Parts-foot"/>
+							<icon-set boardno="Heavy_Parts-hand"/>
+							<trim.para>Additional personnel is required for removal of sledding bar bracket. Once final mounting bolt is removed, sledding bar brackets could fall and strike personnel causing injury or death to personnel.</trim.para>
+						</warning>
+						<para>With additional personnel, remove remianing driver and curb side sledding bar bracket mounting bolts <callout assocfig="M00052-9-2320-451-F0004" label="1"/>. Remove sledding bar brackets. Set aside for reinstallation. Discard old lock washers.</para>
+					</specpara>
+				</step1>
+					<figure id="M00052-9-2320-451-F0004">
+					<title>Driver Side Sledding Bar Bracket.</title>
+					<graphic boardno="G06232001042"/>
+					</figure>
+				<step1>
+					<para>Gain access to curb side of 35K winch. Remove the Shut-off/Breather Valve <callout assocfig="M00052-9-2320-451-F0005" label="1"/>. Set aside for installation.</para>
+				</step1>
+					<figure id="M00052-9-2320-451-F0005">
+					<title>35K Winch Breather Removal</title>
+					<graphic boardno="G06232000572"/>
+					</figure>
+				<step1>
+					<para>Gain access to fifth wheel section.</para>
+				</step1>
+				<step1>
+					<specpara>
+						<warning>
+							<icon-set boardno="Falling_Parts"/>
+							<icon-set boardno="Heavy_Parts-foot"/>
+							<icon-set boardno="Heavy_Parts-hand"/>
+							<trim.para>Once bolts are removed, outer mounting plates can fall and strike personnel causing injury to personnel.</trim.para>
+						</warning>
+						<note>
+							<trim.para>For ease of removal, it may be necessary to remove spare king pin spring clip.</trim.para>
+							<trim.para>There are four mounting plates, two outside of the winch tray and two inside the fifth wheel section of the FWTRD.</trim.para>
+						</note>
+						<para>Using and assistant, remove three mounting bolts <callout assocfig="M00052-9-2320-451-F0006" label="1"/> and nuts from both sets of mounting plates.</para>
+					</specpara>
+				</step1>
+					<figure id="M00052-9-2320-451-F0006">
+					<title>35K Winch Mounting Bolt Locations</title>
+					<graphic boardno="G06232000573"/>
+					</figure>
+				<step1>
+					<para>Remove 4 each mounting plates. Set aside for reinstallation.</para>
+				</step1>
+				<step1>
+					<para>Remove bolt <callout assocfig="M00052-9-2320-451-F0007" label="1"/> and locknut securing fifth wheel cover locking pin. Discard locknut.</para>
+				</step1>
+					<figure id="M00052-9-2320-451-F0007">
+					<title>Fifth Wheel Cover Locking Pin bolt location and Pin Shown Removed</title>
+					<graphic boardno="G06232000574"/>
+					</figure>
+				<step1>
+					<para>Remove Fifth Wheel Cover locking pin. Set aside for reinstallation.</para>
+				</step1>
+				<step1>
+					<para>Using a suitable lifting device, remove unserviceable 35K Winch Assembly.</para>
+				</step1>
+				<step1>
+					<para>Obtain serviceable item.</para>
+				</step1>
+				<step1>
+					<para>Using a suitable lifting device, align 35K winch assembly with fifth wheel cover locking pin mount <callout assocfig="M00052-9-2320-451-F0008" label="1"/> and position onto fifth wheel section.</para>
+				</step1>
+					<figure id="M00052-9-2320-451-F0008">
+					<title>35K Winch Assembly positioned for Installation</title>
+					<graphic boardno="G06232000575"/>
+					</figure>
+				<step1>
+					<para>Using assistant, position and align forward mounting plate onto 35K Winch Assembly. Insert mounting bolts <callout assocfig="M00052-9-2320-451-F0009" label="1"/> through forward mounting plate holes.</para>
+				</step1>
+				<step1>
+					<para>Gain access to fifth wheel section at rear of 35K winch. Align rear mounting plate onto serviceable 35K Winch Assembly. Secure forward mounting plate to rear mounting plate with three serviceable locknuts <callout assocfig="M00052-9-2320-451-F0009" label="2"/>.</para>
+				</step1>
+					<figure id="M00052-9-2320-451-F0009">
+					<title>35K Winch Assembly positioned for Installation</title>
+					<graphic boardno="G06232000576"/>
+					</figure>
+				<step1>
+					<para>Install fifth wheel section locking pin and secure with bolt and locknut.</para>
+				</step1>
+				<step1>
+					<para>Close fifth wheel section cover.</para>
+				</step1>
+				<step1>
+					<para>Remove quick connect couplers <callout assocfig="M00052-9-2320-451-F0010" label="1"/> from the unserviceable winch and reinstall them on the serviceable 35K winch. Position them as they were on the unserviceable 35K Winch Assembly.</para>
+				</step1>
+					<figure id="M00052-9-2320-451-F0010">
+					<title>35K Winch Quick Couplers</title>
+					<graphic boardno="G06232000577"/>
+					</figure>
+				<step1>
+					<para>Position driver and curb side sledding bar brackets and loosely install three bolts, serviceable lock washers, and nuts.</para>
+				</step1>
+				<step1>
+					<para>Remove standard breather valve from serviceable 35K winch and reinstall breather with shut off valve <callout assocfig="M00052-9-2320-451-F0011" label="1"/> onto serviceable 35K winch assembly.</para>
+				</step1>
+					<figure id="M00052-9-2320-451-F0011">
+					<title>Winch Breather With Shut Off.</title>
+					<graphic boardno="G06232000578"/>
+					</figure>
+				<step1>
+					<para>Gain access to 35K winch motor. Connect hydraulic lines as tagged.</para>
+				</step1>
+				<step1>
+					<para>Install 35K Winch Cable IAW <xref wpid="M00055-9-2320-451"/>.</para>
+				</step1>
+				<step1>
+					<para>Reinstall sledding bar IAW <xref wpid="O00010-9-2320-451"/>.</para>
+				</step1>	
+			</proc>
+		</replace>
+	</maintsk>
+</maintwp>

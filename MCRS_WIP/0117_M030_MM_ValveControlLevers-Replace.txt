@@ -1,0 +1,75 @@
+<maintwp chngno="0" wpno="M00030-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="maintainer"/>
+		<title>MAINTAINER MAINTENANCE <?Pub _newline?>HYDRAULIC VALVE CONTROL LEVER <?Pub _newline?>REPLACE</title>
+	</wpidinfo>
+	<initial_setup>
+		<tools>
+			<tools-setup-item>
+				<name>Tool Kit, General Mechanics</name>
+				<itemref>
+					<xref itemid="S00007-9-2320-451-TOOL-4" wpid="S00007-9-2320-451"/>
+				</itemref>
+			</tools-setup-item>
+		</tools>
+<!--
+Spring, retaining (15) (1105-1)
+-->
+		<mtrlpart>
+			<mtrlpart-setup-item>
+				<name>Spring, retaining</name>
+			</mtrlpart-setup-item>
+		</mtrlpart>
+		<persnreq>
+			<persnreq-setup-item>
+				<name>Motor Transport Operator</name>
+				<mos>88M</mos>
+				<qty>1</qty>
+			</persnreq-setup-item>
+		</persnreq>
+		<eqpconds>
+			<eqpconds-setup-item>
+				<condition>Fifth Wheel Towing Device in coupling configuration (<xref wpid="O00003-9-2320-451"/>). </condition>
+			</eqpconds-setup-item>
+		</eqpconds>
+	</initial_setup>
+	<maintsk>
+		<replace>
+			<proc>
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>Handles can only be removed from left to right.</trim.para>
+						</note>
+						<para>Gain access and remove cotter pin <callout assocfig="M00030-9-2320-451-F0001" label="1"/> attached to retaining pin <callout assocfig="M00030-9-2320-451-F0001" label="2"/>.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Remove Pin <callout assocfig="M00030-9-2320-451-F0001" label="2"/>.</para>
+				</step1>
+				<step1>
+					<para>Remove cotter pins <callout assocfig="M00030-9-2320-451-F0001" label="3"/> and connecting links <callout assocfig="M00030-9-2320-451-F0001" label="4"/> and <callout assocfig="M00030-9-2320-451-F0001" label="5"/>.</para>
+				</step1>
+				<step1>
+					<para>Remove control lever <callout assocfig="M00030-9-2320-451-F0001" label="6"/>.</para>
+				</step1>
+				<step1>
+					<para>Obtain serviceable item.</para>
+				</step1>
+				<step1>
+					<para>Position control lever by installing connecting links <callout assocfig="M00030-9-2320-451-F0001" label="4"/>.</para>
+				</step1>
+				<step1>
+					<para>Secure with serviceable cotter pins while ensuring holes match up <callout assocfig="M00030-9-2320-451-F0001" label="3"/>.</para>
+				</step1>
+				<step1>
+					<para>Reinstall pin and secure with serviceable cotter pin.</para>
+				</step1>
+				<figure id="M00030-9-2320-451-F0001">
+					<title>Hydraulic Control Lever</title>
+					<graphic boardno="G06232000336"></graphic>
+				</figure>
+			</proc>
+		</replace>
+	</maintsk>
+</maintwp>

@@ -1,0 +1,110 @@
+<maintwp chngno="0" wpno="M00100-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="maintainer"/>
+		<title>MAINTAINER MAINTENANCE - LANDING LEGS REPLACE</title>
+	</wpidinfo>
+	<initial_setup>
+		<tools>
+			<tools-setup-item>
+				<name>Tool Kit, Mechanics General</name>
+				<itemref>
+					<xref itemid="S00007-9-2320-451-TOOL-4" wpid="S00007-9-2320-451"/>
+				</itemref>
+			</tools-setup-item>
+		</tools>
+		<persnreq>
+			<persnreq-setup-item>
+				<name>Motor Transport Operator</name>
+				<mos>88M</mos>
+				<qty>1</qty>
+			</persnreq-setup-item>
+		</persnreq>
+		<eqpconds>
+			<eqpconds-setup-item>
+				<condition>Tilt Deck Recovery Trailer in coupled configuration <xref wpid="O00023-9-2320-451"/>.</condition>
+			</eqpconds-setup-item>
+		</eqpconds>
+	</initial_setup>
+	<maintsk>
+		<replace>
+			<proc>
+				<step1>
+					<specpara>
+						<warning>
+							<icon-set boardno="Heavy_Parts-foot"><icon-set boardno="Heavy_Parts-hand">
+							<trim.para>The TDRT Landing Leg weighs 150 lbs. Two personnel are required when removing or installing the leg. Failure to comply may result in injury to personnel and or damage to the equipment.</trim.para>
+						</warning>
+						<note>
+							<trim.para>Taking the TDRT to the wash rack and cleaning the ramp area prior to beginning the procedures may aid in easier removal of parts.</trim.para>
+							<trim.para>There are two landing legs. They are both changed in the same way.</trim.para>
+							<trim.para>It will be necessary to operate the FWTRD to complete this replacement.</trim.para>
+						</note>
+						<para>Using and assistant carefully remove the assist spring <callout assocfig="M00100-9-2320-451-F0001" label="1">.from the leg. Set aside for reinstallation.</para>
+					</specpara>
+				</step1>
+
+					<figure id="M00100-9-2320-451-F0001">
+					<title>Landing Leg Spring</title>
+					<graphic boardno="G06232000488"></graphic>
+					</figure>
+
+				<step1>
+					<specpara>
+						<warning>
+							<icon-set boardno="Heavy_Parts-foot"><icon-set boardno="Heavy_Parts-hand">
+							<trim.para>The TDRT Landing Leg weighs 150 lbs. Two personnel are required when removing or installing the leg. Failure to comply may result in injury to personnel and or damage to the equipment.</trim.para>
+						</warning>
+						<note>
+							<trim.para>With the assist spring removed you are lowering the full weight of the landing leg.</trim.para>
+						</note>
+						<para>Using an assistant, Remove the Lock pin from the leg and carefully bring leg into lowered position.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Remove the two R-Clips from the stop pin at the top of the landing leg <callout assocfig="M00100-9-2320-451-F0002">.</para>
+				</step1>
+
+					<figure id="M00100-9-2320-451-F0002">
+					<title>Landing Leg Stop Pin with Clips</title>
+					<graphic boardno="G06232000489"></graphic>
+					</figure>
+				
+				<step1>
+					<para>Using the remote control, BOOM RETRACT to take some tension off the pin and remove from the top of the leg.</para>
+				</step1>
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>To completely remove the leg, it may be necessary to adjust the position of the leg as the booms are extended.</trim.para>
+						</note>
+						<para>Using the remote control, BOOM EXTEND until the landing leg is free of the TDRT.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Obtain serviceable part.</para>
+				</step1>
+				<step1>
+					<para>Position the new leg at the TDRT making sure the tab on the leg faces to the rear <callout assocfig="M00100-9-2320-451-F0003">.</para>
+				</step1>
+
+					<figure id="M00100-9-2320-451-F0003">
+					<title>Landing Leg Tab to Face to the Rear of the TDRT</title>
+					<graphic boardno="G06232000490"></graphic>
+					</figure>
+
+				<step1>
+					<para>Using the remote control, BOOM RETRACT until the landing leg engages the TDRT and the stop pin can be reinserted.</para>
+				</step1>
+				<step1>
+					<para>Insert the stop pin and the two R-Clips.</para>
+				</step1>
+				<step1>
+					<para>Reinstall the assist spring.</para>
+				</step1>
+				<step1>
+					<para>Lift landing leg and reinsert lock pin.</para>
+				</step1>
+			</proc>
+		</replace>
+	</maintsk>
+</maintwp>

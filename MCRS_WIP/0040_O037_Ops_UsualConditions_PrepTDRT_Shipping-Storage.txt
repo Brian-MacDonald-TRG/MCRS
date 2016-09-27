@@ -1,0 +1,88 @@
+<opusualwp chngno="0" wpno="O00037-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="crew"/>
+		<title>OPERATING PROCEDURES <?Pub _newline?>PREPARE TDRT FOR SHIPPING/STORAGE</title>
+	</wpidinfo>
+	<initial_setup>
+		<persnreq>
+			<persnreq-setup-item>
+				<name>Wheeled Vehicle Mechanic</name>
+				<mos>91B</mos>
+				<qty>1</qty>
+			</persnreq-setup-item>
+		</persnreq>
+		<eqpconds>
+			<eqpconds-setup-item>
+				<condition>Tilt Deck Recovery Trailer in uncoupled configuration <xref wpid="O00034-9-2320-451"/>.</condition>
+			</eqpconds-setup-item>
+		</eqpconds>
+	</initial_setup>
+	<opertsk>
+		<prepforuse>
+			<proc>
+				<step1>
+					<specpara>
+						<warning>
+							<icon-set boardno="Flying_Particles_wShield"/>
+							<icon-set boardno="Heavy_Parts-foot"/>
+							<icon-set boardno="Heavy_Parts-wall"/>
+							<trim.para>
+								Air up to 100 psi pressure is used in the operation of the air tools. Be sure to wear the proper eye protection (safety glasses) when working air tools to avoid personal injury or death.
+							</trim.para>
+							<trim.para>
+								The TDRT deck pull-out sections weigh 158lbs (71.66Kg). There are stops to prevent the pull-outs from coming out of the deck completely, but caution should be exercised when positioning the pull-outs to prevent injury to personnel.
+							</trim.para>
+							<trim.para>
+								There are several pinch points when positioning the deck pullouts. Always use the Hand Holes when pulling out or pushing in the sections. Failure to comply may result in serious injury to personnel.
+							</trim.para>
+						</warning>
+						<para>
+							Ensure that the transport legs are in the up position and the handle is secured with the bungee.
+						</para>
+					</specpara>
+				</step1>
+				<step1>
+					<specpara>
+						<warning>
+							<icon-set boardno="Heavy_Parts-above"/>
+							<icon-set boardno="Heavy_Parts-wall"/>
+							<trim.para>
+								Operators must be familiar with the fifth wheel towing device in order to work with the Tilt Deck Recovery Trailer. Failure to comply may result in injury or death.
+							</trim.para>
+							<trim.para>
+								During uncoupling from the Tilt Deck Recovery Trailer, it may be necessary to adjust the angle of the FWTRD Booms to match the angle of the Tilt Deck Recovery Trailer mating cove. Only personnel involved in performing the operation should be near the prime mover and should exercise caution. Failure to comply may result in serious injury or death to personnel.
+							</trim.para>
+							<trim.para>
+								All other persons not involved in the actual coupling/uncoupling should stand clear of the prime mover to prevent serious injury or death. Never stand between the prime mover and the Tilt Deck Recovery Trailer when the prime mover is being pulled away from the TDRT. A crush hazard exists. Serious injury or death may result.
+							</trim.para>
+							<trim.para>
+								Uncoupling should be done by two people, the first person in the prime mover cab and the second acting as a ground guide. The person in the prime mover cab must keep the ground guide in sight at all times. All other personnel should stand completely clear of the area. A crush hazard exists. Failure to comply may result in serious injury or death to personnel.
+							</trim.para>
+						</warning>
+						<para>
+							For shipping or extended storage the TDRT should have the deck pull-outs placed in the stowed position. Refer to <xref wpid="O00037-9-2320-451"/> for instructions on setting the deck pull outs.
+						</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>
+						The TDRT should be uncoupled from the FWTRD for shipping. Refer to <xref wpid="O00027-9-2320-451"/> for instructions on uncoupling the TDRT from the FWTRD.
+					</para>
+				</step1>
+				<step1>
+					<specpara>
+						<warning>
+							<icon-set boardno="Heavy_Parts-above"/> <icon-set boardno="Helmet_Protection"/>
+							<trim.para>
+								Ensure that all tool boxes are closed and the main deck is free of all unsecured items. Loose items could fall striking personnel. Failure to comply may result in death or injury to personnel.
+							</trim.para>
+						</warning>
+						<para>
+							There are four large tie-down rings, two at the front and two at the rear of the TDRT. These can be used to secure the TDRT for shipment.
+						</para>
+					</specpara>
+				</step1>
+			</proc>
+		</prepforuse>
+	</opertsk>
+</opusualwp>

@@ -1,0 +1,336 @@
+<sim chap-toc="no" chngno="0" revno="0" tocentry="1">
+<titlepg comment="Chapter 6 Support Information" maintlvl="crew"><?Pub Dtl?>
+<name>MODULAR CATASTROPHIC RECOVERY SYSTEM (MCRS)</name></titlepg>
+<refwp chngno="0" wpno="S00001-9-2320-451">
+<wpidinfo>
+<maintlvl level="crew"/>
+<title> REFERENCES </title>
+</wpidinfo><scope>
+<title> Scope </title>
+<para> This work package lists all Army regulations,
+field manuals, 						forms, pamphlets, technical
+bulletins, technical manuals and miscellaneous
+						publications referenced in this manual.
+ 					</para>
+</scope><publist>
+<title> ARMY REGULATIONS </title>
+<pubident><name> 							<extref
+docno="AR 700-138"/> 						</name>
+<title> Army Logistics Readiness and Sustainability </title>
+</pubident></publist><publist>
+<title> FIELD MANUALS </title>
+<pubident><name> 							<extref
+docno="FM 4-20.07 (FM 42-424)"/> 						</name>
+<title> Quartermaster Force Provider Company </title>
+</pubident></publist><publist>
+<title> FORMS </title>
+<pubident><name> 							<extref
+docno="DA Form 12-R"/> 						</name>
+<title> Request For Establishment Of A Publications
+Account </title>
+</pubident>
+<pubident><name> 							<extref
+docno="DA Form 2404/5988E"/> 						</name>
+<title> Equipment Inspection &amp; Maintenance
+Worksheet </title>
+</pubident>
+<pubident><name> 							<extref
+docno="DA Form 2028"/> 						</name>
+<title> Recommended Changes to Publications
+and Blank Forms </title>
+</pubident>
+<pubident><name> 							<extref
+docno="DD Form 1750"/> 						</name>
+<title> Packing List </title>
+</pubident>
+<pubident><name> 							<extref docno="SF-368"
+/> 						</name>
+<title> Product Quality Deficiency Report </title>
+</pubident></publist><publist>
+<title> PAMPHLETS </title>
+<pubident><name> 							<extref
+docno="DA PAM 25-33"/> 						</name>
+<title> User's Guide for Army Publications
+and Forms </title>
+</pubident>
+<pubident><name> 							<extref
+docno="DA PAM 738-750"/> 						</name>
+<title> Functional Users Manual for The Army
+Maintenance Management 							System (TAMMS)
+ 						</title>
+</pubident>
+<pubident><name> 							<extref
+docno="DA PAM 738-751"/> 						</name>
+<title> Functional Users Manual for the Army
+Maintenance Management 							System- Aviation
+(TAMMS-A)  						</title>
+</pubident>
+<pubident><name> 							<extref
+docno="DA PAM 750-8"/> 						</name>
+<title> The Army Maintenance Management System
+(TAMMS) User's Manual </title>
+</pubident></publist><publist>
+<title> SPECIFICATIONS AND STANDARDS </title>
+<pubident><name> 							<extref docno="A-A-1898"
+/> 						</name>
+<title> Commercial Item Description: Cushioning
+Material, Cellulosic, 							Packaging  						</title>
+</pubident>
+<pubident><name> 							<extref docno="A-A-3174"
+/> 						</name>
+<title> Commercial Item Description: Plastic
+Sheet, Polyolefin </title>
+</pubident>
+<pubident><name> 							<extref
+docno="A-A-59622 "/> 						</name>
+<title> Commercial Item Description: Tags,
+Shipping And Stock </title>
+</pubident>
+<pubident><name> 							<extref
+docno="TB 43-0002-34"/> 						</name>
+<title> Standard Practice for Methods of Closing,
+Sealing, and Reinforcing 							Fiberboard
+Boxes  						</title>
+</pubident>
+<pubident><name> 							<extref
+docno="ASTM D4727"/> 						</name>
+<title> Standard Specification for Corrugated
+and Solid Fiberboard 							Sheet Stock (Container
+Grade) and Cut Shapes  						</title>
+</pubident>
+<pubident><name> 							<extref
+docno="ASTM d5118"/> 						</name>
+<title> Standard Practice for Fabrication
+of Fiberboard Shipping Boxes </title>
+</pubident>
+<pubident><name> 							<extref
+docno="ASTM F104 "/> 						</name>
+<title> Standard Classification System for
+Nonmetallic Gasket Materials </title>
+</pubident>
+<pubident><name> 							<extref
+docno="ASTM-D5486"/> 						</name>
+<title> Standard Specification for Pressure-Sensitive
+Tape for Packaging, 							Box Closure, and
+Sealing  						</title>
+</pubident>
+<pubident><name> 							<extref docno="L-P-378"
+/> 						</name>
+<title> Federal Specification: Plastic Sheet
+And Strip, Thin Gauge, 							Polyolefin 
+						</title>
+</pubident>
+<pubident><name> 							<extref
+docno="MIL-B- 22191"/> 						</name>
+<title> Performance Specification: Barrier
+Materials, Transparent, 							Flexible, Heat-Sealable
+ 						</title>
+</pubident>
+<pubident><name> 							<extref
+docno="MIL-D-3464"/> 						</name>
+<title> Military Specification: Desiccants,
+Activated, Bagged, Packaging 							Use And
+Static Dehumidification  						</title>
+</pubident>
+<pubident><name> 							<extref
+docno="MIL-DTL-6060"/> 						</name>
+<title> Detail Specification: Bags, Water
+Vapor Proof, Heat-Sealable, 							Complex
+ 						</title>
+</pubident>
+<pubident><name> 							<extref
+docno="MIL-PRF-121"/> 						</name>
+<title> Performance Specification: Barrier
+Materials, Greaseproof, 							Waterproof,
+Flexible, Heat-Sealable  						</title>
+</pubident>
+<pubident><name> 							<extref
+docno="MIL-PRF-131"/> 						</name>
+<title> Performance Specification Barrier
+Materials, Watervaporproof, 							Greaseproof,
+Flexible, Heat-Sealable  						</title>
+</pubident>
+<pubident><name> 							<extref
+docno="MIL-PRF-22191"/> 						</name>
+<title> Performance Specification: Barrier
+Materials, Transparent, 							Flexible, Heat-Sealable
+ 						</title>
+</pubident>
+<pubident><name> 							<extref
+docno="MIL-SPEC 46146B"/> 						</name>
+<title> Military Specification: Adhesives-Sealants,
+Silicone, Rtv, 							Noncorrosive (For Use
+With Sensitive Metals And Equipment)  						</title>
+</pubident>
+<pubident><name> 							<extref
+docno="MIL-STD-129"/> 						</name>
+<title> Department Of Defense Standard Practice
+Military Marking For 							Shipment And Storage
+ 						</title>
+</pubident>
+<pubident><name> 							<extref
+docno="MIL-STD-2073"/> 						</name>
+<title> Department of Defense Standard Practice
+for Military Packaging </title>
+</pubident>
+<pubident><name> 							<extref
+docno="MMM-A-1617"/> 						</name>
+<title> Federal Specification: Adhesive, Rubber
+Base, General Purpose </title>
+</pubident>
+<pubident><name> 							<extref
+docno="PPP-B-636"/> 						</name>
+<title> Federal Specification: Boxes, Shipping,
+Fiberboard </title>
+</pubident>
+<pubident><name> 							<extref
+docno="PPP-C-1797"/> 						</name>
+<title> Federal Specification: Cushioning
+Material, Resilient, Low 							Density, Unicellular,
+Polypropylene Foam  						</title>
+</pubident>
+<pubident><name> 							<extref
+docno="PPP-C-795"/> 						</name>
+<title> Federal Specification: Cushioning
+Material, Packaging (Flexible 							Closed
+Cell Plastic Film, for Long Distribution Cycles)
+ 						</title>
+</pubident>
+<pubident><name> 							<extref
+docno="SAE-AMS-T-22085"/> 						</name>
+<title> Military Specification: Tapes, Pressure-Sensitive,
+Adhesive, 							Preservation And Sealing
+ 						</title>
+</pubident></publist><publist>
+<title> TECHNICAL BULLETINS </title>
+<pubident><name> 							<extref
+docno="TB 43-0002-34"/> 						</name>
+<title> Maintenance Expenditure Limits For
+FSC Group 54; FSC Classes 							54 5420 And
+5430  						</title>
+</pubident></publist><publist>
+<title> TECHNICAL MANUALS </title>
+<pubident><name> 							<extref
+docno="LO 9-6115-645-12"/> 						</name>
+<title> Generator Set, Skid Mounted, Tactical
+Quiet 60 Kw, 50/60 And 							400 Hz MEP-806A,
+Tactical Quiet, 50/60 Hz, NSN 6115-01-274-7390
+MEP-816A, 							Tactical Quiet, 400 Hz, NSN
+6115-01-274-7395 Generator Preparation 							For
+Long And Short Term Preservation And Storage
+ 						</title>
+</pubident>
+<pubident><name> 							<extref
+docno="TM 4700-15/1"/> 						</name>
+<title> Equipment Maintenance Forms and Procedures </title>
+</pubident>
+<pubident><name> 							<extref
+docno="TM 5-1080-250-12&amp;P"/> 						</name>
+<title> Operator and Field Maintenance Manual
+Including Repair Parts 							and Special
+Tools List (RPSTL) for Ultralightweight Camouflage
+Net 							Systems (ULCANS)  						</title>
+</pubident>
+<pubident><name> 							<extref
+docno="TM 750-244-3"/> 						</name>
+<title> Procedures for Destruction of Equipment
+to Prevent Enemy Use </title>
+</pubident>
+<pubident><name> 							<extref
+docno="TB 9-6115-645-24"/> 						</name>
+<title> Warranty Program For Generator Set,
+Tactical Quiet 60 Kw, 							50/60 And 400
+Hz MEP-806a And MEP-816a  						</title>
+</pubident>
+<pubident><name> 							<extref
+docno="TM 9-6115-672-14"/> 						</name>
+<title> Unit, Direct Support And General Support
+Maintenance Repair 							Parts And Special
+Tools List Generator Set, Skid Mounted, Tactical
+							Quiet 60 Kw, 50/60 And 400 Hz MEP-806b
+(50/60 Hz) (NSN 6115-01-462-0291) 							(Eic:
+GGW) MEP-816b (400 Hz) (NSN 6115-01-462-0292)
+(EIC: GGX)  						</title>
+</pubident>
+<pubident><name> 							<extref
+docno="TM 10-4120-453-13&amp;P"/> 						</name>
+<title> Operator and Field Maintenance Manual
+Including Repair Parts 							and Special
+Tools List (RPSTL) for Environmental Control
+System 60K 							BTU/HR  						</title>
+</pubident>
+<pubident><name> 							<extref
+docno="TM 10-4520-266-13&amp;P"/> 						</name>
+<title> Operator and Field Maintenance Manual
+Including Repair Parts and Special Tools List (RPSTL) for Heater, Water, 400,000 BTU</title>
+</pubident>
+<pubident><name> 							<extref
+docno="TM 10-5430-225-13&amp;P"/> 						</name>
+<title> Operator And Field Level Maintenance
+Manual Including Repair 							Parts And Special
+Tools List (RPSTL) For Drum, Fabric, Collapsible,
+							Fuel, 500 Gallon Capacity Model GTA500F
+ 						</title>
+</pubident>
+<pubident><name> 							<extref
+docno="TM 10-5430-237-12&amp;P"/> 						</name>
+<title> Operator and Field Maintenance Manual
+(Including Repair Parts 							and Special
+Tools List (RPSTL) for Tank, Fabric, Collapsible;
+Air 							Column Supported, Open Top, Water
+Storage, 3,000 Gallons Model 90074 							(EIC=ZFV)/
+Model 91038/ Model WT2008 (EIC=ZIZ) (NSN 5430-01-359-4774)/(NSN
+							5430-01-318-9434)/ (NSN 5430-01-170-6984)
+Tank, Fabric, COLLAPSIBLE, 							SELF-SUPPORTING,
+SEALED TOP, WATER STORAGE, 3,000 GALLONS MODEL
+GTA-Z60TPW/MODEL 							3-K-W-O-A/Z (NSN 5430-01-469-8744)/(NSN
+5430-01-470-7380)  						</title>
+</pubident>
+<pubident><name> 							<extref
+docno="TM 10-8145-224-13&amp;P"/> 						</name>
+<title> Operator and Field Maintenance Manual
+Including Repair PartsAnd 							Special Tools
+List (RPSTL) for TRICON Refrigerated Container
+System 							(TRCS) Type I and Type III 
+						</title>
+</pubident>
+<pubident><name> 							<extref
+docno="TM 10-8340-244-13&amp;P"/> 						</name>
+<title> OPERATOR AND FIELD MAINTENANCE MANUAL
+INCLUDING REPAIR PARTS 							AND SPECIAL
+TOOLS LIST FOR TENT, EXTENDABLE, MODULAR,
+PERSONNEL (TEMPER), 							AIR-SUPPORTED Type
+I NSN 8340-01-558-4701 (Tan) Type XL NSN 8340-01-558-8705
+							(Tan) NSN 8340-01-559-3852 (Green)
+NSN 8340-01-558-8704 (Green) Type 							II
+NSN 8340-01-559-3853 (Tan) Type XLI NSN 8340-01-558-8707
+(Tan) 							NSN 8340-01-559-3851 (Green)
+NSN 8340-01-558-8706 (Green) Type III 							NSN
+8340-01-559-3854 (Tan) Type XLII NSN 8340-01-558-8709
+(Tan) NSN 							8340-01-559-3856 (Green)
+NSN 8340-01-558-8708 (Green) Type IV NSN 							8340-01-558-4699
+(Tan) Type XLIII NSN 8340-01-558-8711 (Tan)
+NSN 8340-01-558-8698 							(Green) NSN 8340-01-558-8710
+(Green) Type V NSN 8340-01-559-3859 (Tan)
+							Type XLIV NSN 8340-01-558-8712 (Tan)
+NSN 8340-01-559-3855 (Green) 							NSN 8340-01-558-9813
+(Green) Type VI NSN 8340-01-558-8699 (Tan)
+Type 							XLV NSN 8340-01-558-8694 (Tan)
+NSN 8340-01-559-3858 (Green) NSN 8340-01-558-8695
+							(Green) Type VII NSN 8340-01-558-4702
+(Tan) Type XLVI NSN 8340-01-558-8693 							(Tan)
+NSN 8340-01-558-8701 (Green) NSN 8340-01-558-9818
+(Green) Type 							VIII NSN 8340-01-558-4703
+(Tan) Type XLVII NSN 8340-01-558-8696 (Tan)
+							NSN 8340-01-558-8703 (Green) NSN 8340-01-558-8697
+(Green) Type IX 							NSN 8340-01-558-4704
+(Tan) NSN 8340-01-558-8702 (Green)  						</title>
+</pubident>
+<pubident><name> 							<extref
+docno="TM 55-8145-203-13&amp;P"/> 						</name>
+<title> OPERATOR'S, UNIT, AND DIRECT SUPPORT
+MAINTENANCE MANUAL INCLUDING 							REPAIR
+PARTS AND SPECIAL TOOLS LIST (RPSTL) FOR TRICON
+CONTAINER MODEL 							ESETC-01 NSN 8145-01-389-9184
+MODEL 101 NSN 8145-01-475-9570  						</title>
+</pubident></publist></refwp>

@@ -1,0 +1,62 @@
+<opusualwp chngno="0" wpno="O00028-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="crew"/>
+			<title>Operation Under Usual Conditions - Preparing Equipment for Towing</title>
+	</wpidinfo>
+		<initial_setup>
+			<persnreq>
+				<persnreq-setup-item>
+					<name>Wheeled Vehicle Mechanic</name>
+					<mos>91B</mos>
+					<qty>1</qty>
+				</persnreq-setup-item>
+			</persnreq>
+		</initial_setup>
+	<opertsk>
+		<oper>
+			<proc>
+				<step1>
+					<specpara>
+						<warning>
+							<icon-set boardno="Heavy_Parts-above"/> 
+							<icon-set boardno="Heavy_Parts-foot"/> 
+							<icon-set boardno="Heavy_Parts-hand"/> 
+							<icon-set boardno="Heavy_Parts-wall"/>
+							<trim.para>Secure any materials or equipment loaded in the beds of towed equipment. Failure to comply may result in loose items shifting or falling, striking personnel, and could result in injury or death to personnel.</trim.para>
+							<trim.para>When loaded, shut down towed equipment, turn off all switches, close doors and hatches, and swing in mirrors. Failure to comply may result in injury or death to personnel.</trim.para>
+							<trim.para>Failure to set the parking brake when instructed may result in unintended movement of the prime mover creating a crush hazard that may result in serious injury or death to personnel.</trim.para>
+						</warning>
+						<note>
+							<trim.para>Reduce towed equipment to lowest height configuration consistent with operational requirements.</trim.para>
+							<trim.para>Reference towed vehicle TM for drivetrain disconnect requirements.</trim.para>
+						</note>
+						<para>Put transmissions in neutral on towed equipment.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Make sure gun turrets or other rotating parts are properly secured.</para>
+				</step1>
+				<step1>
+					<para>Make sure that all BII that is not used to secure the load is properly stowed as supplied on the MCRS.</para>
+				</step1>
+				<step1>
+					<para>Check that Prime Mover and TDRT brakes and lights are properly set and working before working on or around the TDRT deck.</para>
+				</step1>
+				<step1>
+					<para>Set parking brakes on prime mover and towed vehicle.</para>
+				</step1>
+				<step1>
+					<para>Follow instructions for loading equipment prior to securing towed vehicle.</para>
+				</step1>
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>Prior to transporting towed vehicle, ensure that parking brakes and wheel chocks are released.</trim.para>
+						</note>
+						<para></para>
+					</specpara>
+				</step1>
+			</proc>
+		</oper>
+	</opertsk>
+</opusualwp>

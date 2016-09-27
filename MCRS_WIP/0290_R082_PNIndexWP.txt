@@ -1,0 +1,8 @@
+<pnindxwp chngno="0" wpno="R00082-9-2320-451">
+<wpidinfo>
+<maintlvl level="maintainer"/>
+<title>Part Number Index</title>
+</wpidinfo><pnindx>
+<pnindxrow><partno></partno><cageno></cageno>
+<callout assocfig="R00082-FIG1"/></pnindxrow>
+</pnindx></pnindxwp>

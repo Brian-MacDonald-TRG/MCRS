@@ -1,0 +1,85 @@
+<maintwp chngno="0" wpno="M00113-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="maintainer"/>
+			<title>MAINTAINER MAINTENANCE - LOCK PIN CONTROL<?Pub _newline?>REPLACE</title>
+	</wpidinfo>
+	<initial_setup>
+		<tools>
+			<tools-setup-item>
+				<name>Tool Kit, Mechanics General</name>
+				<itemref>
+					<xref itemid="S00007-9-2320-451-TOOL-4" wpid="S00007-9-2320-451"/>
+				</itemref>
+			</tools-setup-item>
+		</tools>
+		<persnreq>
+			<persnreq-setup-item>
+				<name>Motor Transport Operator</name>
+				<mos>88M</mos>
+				<qty>X</qty>
+			</persnreq-setup-item>
+		</persnreq>
+	</initial_setup>
+	<maintsk>
+		<replace>
+			<proc>
+				<step1>
+					<para>Remove all remaining air from reservoirs by pulling on lanyards.</para>
+				</step1>
+				<step1>
+					<para>Remove two bolts <callout assocfig="M00113-9-2320-451-F0001" label ="1"/>, lock washers, washers, nuts <callout assocfig="M00113-9-2320-451-F0001" label ="2"/>. Discard lock washers.</para>
+				</step1>
+
+					<figure id="M00113-9-2320-451-F0001">
+					<title>Lock Pin Bolt Removal</title>
+					<graphic boardno="G06232000506"/>
+					</figure>
+
+				<step1>
+					<para>Gain access to rubber pad and remove.</para>
+				</step1>
+				<step1>
+					<para>Tag and remove three air lines <callout assocfig="M00113-9-2320-451-F0002" label ="1"/> from QD fittings.</para>
+				</step1>
+
+					<figure id="M00113-9-2320-451-F0002">
+					<title>Lock Pin Control Air Line Removal</title>
+					<graphic boardno="G06232000507"/>
+					</figure>
+
+				<step1>
+					<para>Remove lock pin control. Obtain serviceable item.</para>
+				</step1>
+				<step1>
+					<para>Install three air lines <callout assocfig="M00113-9-2320-451-F0003" label ="1"/> on QD fittings as tagged.</para>
+				</step1>
+
+					<figure id="M00113-9-2320-451-F0003">
+					<title>Lock Pin Control Air Line Installation</title>
+					<graphic boardno="G06232000508"/>
+					</figure>
+
+				<step1>
+					<para>Align rubber pad <callout assocfig="M00113-9-2320-451-F0004" label ="1"/> over lock pin control mounting holes.</para>
+				</step1>
+
+					<figure id="M00113-9-2320-451-F0004">
+					<title>Rubber Pad Alignment</title>
+					<graphic boardno="G06232000509"/>
+					</figure>
+
+				<step1>
+					<para>Position serviceable lock pin control onto rubber pad.</para>
+				</step1>
+				<step1>
+					<para>Secure with two bolts <callout assocfig="M00113-9-2320-451-F0005" label ="1"/>, serviceable lock washers, washers, and nuts <callout assocfig="M00113-9-2320-451-F0005" label ="2"/>.</para>
+				</step1>
+
+					<figure id="M00113-9-2320-451-F0005">
+					<title>Lock Pin Control Installation</title>
+					<graphic boardno="G06232000510"/>
+					</figure>
+			</proc>
+		</replace>
+	</maintsk>
+</maintwp>

@@ -1,0 +1,168 @@
+<maintwp chngno="0" wpno="M00027-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="maintainer"/>
+		<title>MAINTAINER MAINTENANCE <?Pub _newline?>STROBE LIGHT <?Pub _newline?>REPAIR/REPLACE</title>
+	</wpidinfo>
+	<initial_setup>
+		<tools>
+			<tools-setup-item>
+				<name>Tool Kit, General Mechanics</name>
+				<itemref>
+					<xref itemid="S00007-9-2320-451-TOOL-4" wpid="S00007-9-2320-451"/>
+				</itemref>
+			</tools-setup-item>
+		</tools>
+		<mtrlpart>
+			<mtrlpart-setup-item>
+				<name>Bulb, halogen</name>
+			</mtrlpart-setup-item>
+			<mtrlpart-setup-item>
+				<name>Washers, lock</name>
+			</mtrlpart-setup-item>
+		</mtrlpart>
+		<persnreq>
+			<persnreq-setup-item>
+				<name>Motor Transport Operator</name>
+				<mos>88M</mos>
+				<qty>1</qty>
+			</persnreq-setup-item>
+		</persnreq>
+		<eqpconds>
+			<eqpconds-setup-item>
+				<condition>
+					Fifth Wheel Towing Device in Coupled configuration.
+				</condition>
+			</eqpconds-setup-item>
+			<eqpconds-setup-item>
+				<condition>Batteries disconnected <xref wpid="M00035-9-2320-451"/>.</condition>
+			</eqpconds-setup-item>
+		</eqpconds>
+	</initial_setup>
+	<maintsk>
+		<repair>
+			<proc>
+				<step1>
+					<specpara>
+						<warning>
+							<icon-set boardno="Electrical_Symbols"/>
+							<icon-set boardno="Hot_Area"/>
+							<trim.para>Remove all power to fifth wheel towing device prior to making any repairs on the electrical system. Failure to do so may result in serious injury or death to personnel.</trim.para>
+						</warning>
+						<note>
+							<trim.para>Both strobe light assemblies are removed the same way. Curb side shown.</trim.para>
+						</note>
+						<para>Remove four screws <callout assocfig="M00027-9-2320-451-F0001" label="1"/> from cover <callout assocfig="M00027-9-2320-451-F0001" label="2"/>. Remove cover from base plate <callout assocfig="M00027-9-2320-451-F0001" label="3"/>.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Remove bulb securing clip <callout assocfig="M00027-9-2320-451-F0001" label="4"/> and bulb <callout assocfig="M00027-9-2320-451-F0001" label="5"/>.</para>
+				</step1>
+				<figure id="M00027-9-2320-451-F0001">
+					<title>Strobe Light Cover Removal</title>
+					<graphic boardno="G06232000282"></graphic>
+				</figure>
+				<step1>
+					<para>Install bulb <callout assocfig="M00027-9-2320-451-F0001" label="2"/> and secure with bulb securing clip <callout assocfig="M00027-9-2320-451-F0002" label="2"/>.</para>
+				</step1>
+				<step1>
+					<para>Position cover <callout assocfig="M00027-9-2320-451-F0002" label="3"/> on base plate <callout assocfig="M00027-9-2320-451-F0002" label="4"/> and secure with four screws <callout assocfig="M00027-9-2320-451-F0002" label="5"/>.</para>
+				</step1>
+				<figure id="M00027-9-2320-451-F0002">
+					<title>Strobe Light Repair</title>
+					<graphic boardno="G06232000283"></graphic>
+				</figure>
+			</proc>
+		</repair>
+	</maintsk>
+	<maintsk>
+		<replace>
+			<proc>
+				<step1>
+					<specpara>
+						<warning>
+							<icon-set boardno="Electrical_Symbols"/>
+							<icon-set boardno="Hot_Area"/>
+							<trim.para>Remove all power to fifth wheel towing device prior to making any repairs on the electrical system. Failure to do so may result in serious injury or death to personnel.</trim.para>
+						</warning>
+						<note>
+							<trim.para>Both strobe light assemblies are removed the same way. Curb side shown.</trim.para>
+						</note>
+						<para>Remove four screws <callout assocfig="M00027-9-2320-451-F0003" label="1"/> from cover <callout assocfig="M00027-9-2320-451-F0003" label="2"/>.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Remove cover from baseplate <callout assocfig="M00027-9-2320-451-F0003" label="3"/>.</para>
+				</step1>
+				<step1>
+					<para>Tag and disconnect strobe light wire.</para>
+				</step1>
+				<figure id="M00027-9-2320-451-F0003">
+					<title>Strobe Light Assembly</title>
+					<graphic boardno="G06232000343"></graphic>
+				</figure>
+				<step1>
+					<para>Tag and disconnect grounding wire.</para>
+				</step1>
+				<step1>
+					<para>Remove three screws <callout assocfig="M00027-9-2320-451-F0004" label="1"/> from base plate mounting brackets <callout assocfig="M00027-9-2320-451-F0004" label="2"/>.</para>
+				</step1>
+				<step1>
+					<para>Remove strobe light assembly from mounting brackets <callout assocfig="M00027-9-2320-451-F0004" label="2"/>.</para>
+				</step1>
+				<figure id="M00027-9-2320-451-F0004">
+					<title>Strobe Light Assembly Removal</title>
+					<graphic boardno="G06232000344"></graphic>
+				</figure>
+				<step1>
+					<para>Obtain serviceable item.</para>
+				</step1>
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>Steps 8-14 are preparation procedures for serviceable Strobe Light Assembly prior to installation on FWTRD.</trim.para>
+						</note>
+						<para>Remove four screws from Strobe Light cover.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Remove Strobe Light cover.</para>
+				</step1>
+				<step1>
+					<para>Disconnect power wire from terminal.</para>
+				</step1>
+				<step1>
+					<para>Remove power wire from Strobe Light assembly.</para>
+				</step1>
+				<step1>
+					<para>Attach terminal lug onto ground wire.</para>
+				</step1>
+				<step1>
+					<para>Place anti-vibration pads at mounting locations on the bottom surface of the serviceable Strobe Light assembly.</para>
+				</step1>
+				<step1>
+					<para>Route tagged power wire through Strobe Light assembly base.</para>
+				</step1>
+				<step1>
+					<specpara>
+						<note>
+							<trim.para> Positioning of Strobe Light Assembly onto mounting bracket, is determined by the ground wire stud location.</trim.para>
+						</note>
+						<para>Position Strobe Light Assembly onto mounting bracket.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Attach and secure grounding wire to mounting stud with washer and nut</para>
+				</step1>
+				<step1>
+					<para>Secure Strobe Light Assembly onto mounting bracket with 3 each mounting bolts and serviceable lock nuts.</para>
+				</step1>
+				<step1>
+					<para>Connect power wire onto terminal as tagged.</para>
+				</step1>
+				<step1>
+					<para>Secure lens cover with four screws.</para>
+				</step1>
+			</proc>
+		</replace>
+	</maintsk>
+</maintwp>

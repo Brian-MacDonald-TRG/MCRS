@@ -1,0 +1,114 @@
+<maintwp chngno="0" wpno="M00112-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="maintainer"/>
+		<title>AXLE LOCKING PIN <?Pub _newline?>REPLACE</title>
+	</wpidinfo>
+	<initial_setup>
+		<tools>
+			<tools-setup-item>
+				<name>Tool Kit, Mechanics General</name>
+				<itemref>
+					<xref itemid="S00007-9-2320-451-TOOL-4" wpid="S00007-9-2320-451"/>
+				</itemref>
+			</tools-setup-item>
+		</tools>
+		<persnreq>
+			<persnreq-setup-item>
+				<name>Motor Transport Operator</name>
+				<mos>88M</mos>
+				<qty>X</qty>
+			</persnreq-setup-item>
+		</persnreq>
+	</initial_setup>
+	<maintsk>
+		<replace>
+			<proc>
+				<step1>
+					<specpara>
+						<warning>
+							<trim.para>Wheels on the Tilt Deck Recovery Trailer should be chocked prior to performing maintenance. Failure to comply could result in the TDRT moving unexpectedly creating a crush hazard causing serious injury or death to personnel.</trim.para>
+						</warning>
+						<note>
+							<trim.para>Lift Air Reservoir Pull Cable and Brake Air Reservoir Pull Cable is shown.</trim.para>
+						</note>
+						<para>Ensure prime mover is shutdown IAW TM 9-2320-340-10.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Pull two drain valve cords <callout assocfig="M00112-9-2320-451-F0001" label ="1"/> and allow air to drain from front and rear TDRT air reservoirs to drain.</para>
+				</step1>
+				<figure id="M00112-9-2320-451-F0001">
+					<title>Air Drain Pull Cables</title>
+					<graphic boardno="G06232000445"/>
+				</figure>
+				<step1>
+					<para>
+						Tag and remove the two air lines 
+						<callout assocfig="M00112-9-2320-451-F0002" label ="1"/>
+						from elbow fittings.
+					</para>
+				</step1>
+				<figure id="M00112-9-2320-451-F0002">
+					<title>From Air Lines from Elbow Fittings</title>
+					<graphic boardno="G06232000504"/>
+				</figure>
+				<step1>
+					<para>Remove the four each nuts, lock washers, and bolts that hold the assembly in its bracket. Discard lock washers.</para>
+				</step1>
+				<step1>
+					<specpara>
+						<warning>
+							<trim.para>Once the bolts are removed the assembly is free and could fall out on its own. Failure to comply may result in damage to equipment or serious injury or death to personnel.</trim.para>
+						</warning>
+						<para>Remove unserviceable item. Obtain serviceable item.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>If the Pin is serviceable, set aside for reinstallation.</trim.para>
+						</note>
+					<para>
+						Loosen and remove the jam nut 
+						<callout assocfig="M00112-9-2320-451-F0003" label ="1"/>
+						and the Lock Pin 
+						<callout assocfig="M00112-9-2320-451-F0003" label ="2"/>
+						from the shaft on the unserviceable item.
+					</para>
+					</specpara>
+				</step1>
+				<figure id="M00112-9-2320-451-F0003">
+					<title>Remove Jam Nut</title>
+					<graphic boardno="G06232000505"/>
+				</figure>
+				<step1>
+					<para>Thread the jam nut completely onto the new lock pin assembly shaft.</para>
+				</step1>
+				<step1>
+					<para>Thread serviceable Lock Pin onto the shaft. Secure with jam nut.</para>
+				</step1>
+				<step1>
+					<para>Remove two elbow fittings from unserviceable item. </para>
+				</step1>
+				<step1>
+					<para>Install two elbow fittings on serviceable item.</para>
+				</step1>
+				<step1>
+					<para>Position Lock Pin Assembly onto the TDRT.</para>
+				</step1>
+				<step1>
+					<para>Loosely secure the four each bolts, nuts, and serviceable lock washers.</para>
+				</step1>
+				<step1>
+					<para>Center the Lock Pin to the receptacle on the TDRT. </para>
+				</step1>
+				<step1>
+					<para>Tighten four each bolts, nuts, and serviceable lock washers.</para>
+				</step1>
+				<step1>
+					<para>Reinstall the airlines as tagged.  Be sure to push the plastic tubing back into the fitting completely.</para>
+				</step1>
+			</proc>
+		</replace>
+	</maintsk>
+</maintwp>

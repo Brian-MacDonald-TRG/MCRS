@@ -1,0 +1,22 @@
+<tsindxwp chngno="0" wpno="T00002-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="crew"/>
+			<title>Troubleshooting Index</title>
+	</wpidinfo>
+	<geninfo>
+		<title>Troubleshooting Index</title>
+			<para>The troubleshooting index lists common malfunctions that may occur during MCRS inspection and operation. Find the malfunction to be eliminated and go to the indicated troubleshooting paragraph that follows. The index cannot list all malfunctions that may occur, all tests or inspections needed to find the fault, nor all actions required to correct the fault. If the existing malfunction is not listed, or cannot be corrected through this troubleshooting index, notify your supervisor.</para>
+	</geninfo>
+	<tsindx.symptom>
+		<title>TROUBLESHOOTING INDEX</title>
+			<tsindx.symptom-category>
+				<title>Placeholder Symptom Title</title>
+					<tsindx.symptom-entry>
+						<malfunc label="symptom">Placeholder Symptom</malfunc>
+							<action>
+								<para>CREW <xref wpid="T00001-9-2320-451"/>MAINTAINER <xref wpid="T00005-9-2320-451"/></para>
+							</action>
+					</tsindx.symptom-entry>
+			</tsindx.symptom-category>
+	</tsindx.symptom>
+</tsindxwp>

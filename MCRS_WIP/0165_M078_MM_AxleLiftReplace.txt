@@ -1,0 +1,76 @@
+<!-- <maintwp chngno="0" wpno="M00078-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="maintainer"/>
+			<title>MAINTAINER MAINTENANCE - LIFT AXLE REPLACE</title>
+	</wpidinfo>
+	<initial_setup>
+		<tools>
+			<tools-setup-item>
+				<name>Tool Kit, General Mechanics</name>
+					<itemref>
+						<xref itemid="S00007-9-2320-451-TOOL-4" wpid="S00007-9-2320-451"/>
+					</itemref>
+			</tools-setup-item>
+		</tools>
+		<persnreq>
+			<persnreq-setup-item>
+				<name>Motor Transport Operator</name>
+				<mos>88M</mos>
+				<qty>1</qty>
+			</persnreq-setup-item>
+		</persnreq>
+	</initial_setup>
+	<maintsk>
+		<replace>
+			<proc>
+				<step1>
+					<para>Gain access to auxiliary suspension.</para>
+				</step1>
+				<step1>
+					<para>Locate front lower cross member <callout assocfig="M00078-9-2320-451-F0001" label="1"/> and remove eights bolts <callout assocfig="M00078-9-2320-451-F0001" label="2"/> from front hangers <callout assocfig="M00078-9-2320-451-F0001" label="3"/> of lift axle.</para>
+				</step1>
+
+					<figure id="M00078-9-2320-451-F0001">
+					<title>Front Lower Cross Member Removal</title>
+					<graphic boardno="G06232000559"></graphic>
+					</figure>
+
+				<step1>
+					<para>Remove securing hardware on the upper bag plate&rsquo;s mounting bracket. Discard lock washers.</para>
+				</step1>
+				<step1>
+					<para>Remove securing hardware from each suspension side rail</para>
+				</step1>
+				<step1>
+					<para>Remove unserviceable lift axle.</para>
+				</step1>
+				<step1>
+					<para>Obtain serviceable item.</para>
+				</step1>
+				<step1>
+					<para>Position the suspension on frame using the previously drilled axle center.</para>
+				</step1>
+				<step1>
+					<para>Once the suspension is properly located at the desired position, vertically and horizontally, clamp the suspension rail to the truck frame.</para>
+				</step1>
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>The Auxiliary Suspension mounting surfaces must set flush with both the side and bottom of the truck frame rails or spacers.</trim.para>
+						</note>
+						<para>Secure each suspension side rail to truck frame with serviceable bolts, flat washers, and lock nuts.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Properly locate the upper bag plate.</para>
+				</step1>
+				<step1>
+					<para>Fasten each bag plate assembly with serviceable cap screws, flat washers, and lock washers.</para>
+				</step1>
+				<step1>
+					<para>Secure front lower cross member onto front hangers of lift axle with eight bolts.</para>
+				</step1>
+			</proc>
+		</replace>
+	</maintsk>
+</maintwp> -->

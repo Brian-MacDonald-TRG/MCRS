@@ -1,0 +1,73 @@
+<opusualwp chngno="0" wpno="O00009-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="crew"/>
+		<title>OPERATING PROCEDURES <?Pub _newline?>RECOVERY WINCH ASSISTED PRE-PICKING</title>
+	</wpidinfo>
+	<initial_setup>
+		<persnreq>
+			<persnreq-setup-item>
+				<name>Wheeled Vehicle Mechanic</name>
+				<mos>91B</mos>
+				<qty>1</qty>
+			</persnreq-setup-item>
+		</persnreq>
+		<eqpconds>
+			<eqpconds-setup-item>
+				<condition>FWTRD in Transport Configuration <xref wpid="O00004-9-2320-451"/></condition>
+			</eqpconds-setup-item>
+		</eqpconds>
+	</initial_setup>
+	<opertsk>
+		<prepforuse>
+			<proc>
+				<step1>
+					<specpara>
+						<warning>
+							<icon-set boardno="Heavy_Parts-above"/>
+							<icon-set boardno="Heavy_Parts-foot"/>
+							<icon-set boardno="Heavy_Parts-hand"/>
+							<icon-set boardno="Heavy_Parts-wall"/>
+							<trim.para>The following methods are for lifting a stationary object in preparation for towing or recovery only. Never attempt to tow any vehicle in these configurations. A crush hazard exists. Loads could shift suddenly if towing in this configuration were attempted. Failure to comply can result in and serious injury or death to personnel.</trim.para>
+							<trim.para>These instructions assume that the operator(s) are trained for Recovery Operations and use of the FWTRD/TDRT. Then operator has an understanding of the different rigging configurations for performing recovery and lift tow operations as described in FM 4-30.31 Battle Damage Assessment and Recovery and FM 5-125 Rigging Techniques. Failure to comply may result in injury or death to personnel.</trim.para>
+							<trim.para>These configurations are approved for the XM20 Fifth Wheel Towing and Recovery Device with the M983 LET. Using any other prime mover to perform these lifts has not been tested. Failure to comply could result in injury or death to personnel.</trim.para>
+							<trim.para>Wheels on the towed vehicle should be chocked and parking brakes engaged prior to performing pre-picking. Failure to comply could result in the vehicle moving unexpectedly creating a crush hazard causing serious injury or death to personnel.</trim.para>
+						</warning>
+						<note>
+							<trim.para>The steps in this work package describe using the FWTRD 35K winch for the task. The steps would be the same should it be determined that the prime mover 45K winch were needed for the load being pre-picked.</trim.para>
+							<trim.para>This method would be utilized to pre-pick a disabled vehicle for insertion of the cross bar for sledding. Removal of the cross bar for sledding from its storage bracket is described in WP <xref wpid="O00008-9-2320-451"/>, and should be performed prior to beginning this task.</trim.para>
+						</note>
+						<para>Prepare the winch cable as described in <xref wpid="O00017-9-2320-451"/> steps 1-17.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Perform steps 1-10 of <xref wpid="O00008-9-2320-451"/> - Basic Lifting with The FWTRD.</para>
+				</step1>
+				<step1>
+					<para>Using the remote control, "RETRACT" the booms completely <callout assocfig="O00009-9-2320-451-F0001" label = "1"/>.</para>
+				</step1>
+					<figure id="O00009-9-2320-451-F0001">
+					<title>Winch Assisted Pre-Pick</title>
+					<graphic boardno="G06232000102"></graphic>
+					</figure>
+				<step1>
+					<para>Back the prime mover as close to the disabled vehicle as possible for a vertical lift with the winch cable.</para>
+				</step1>
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>Refer to FM 4-30.31 Recovery and Battle Damage, Assessment for proper rigging.</trim.para>
+						</note>
+						<para>Attach the winch cable to the disabled vehicle using chains and shackles from the FWTRD BII.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Using the remote control, "RETRACT" the winch to lift the load.</para>
+				</step1>
+				<step1>
+					<para>Place the cross bar for sledding in position as described in WP <xref wpid="O00010-9-2320-451"/></para>
+				</step1>
+
+			</proc>
+		</prepforuse>
+	</opertsk>
+</opusualwp>

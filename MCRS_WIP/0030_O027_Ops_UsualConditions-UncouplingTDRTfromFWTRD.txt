@@ -1,0 +1,141 @@
+<opusualwp chngno="0" wpno="O00027-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="crew"/>
+		<title>Operation Under Usual Conditions - OPERATING PROCEDURES - UNCOUPLING THE TDRT FROM THE FWTRD</title>
+	</wpidinfo>
+	<initial_setup>
+		<persnreq>
+			<persnreq-setup-item>
+				<name>Wheeled Vehicle Mechanic</name>
+				<mos>91B</mos>
+				<qty>1</qty>
+			</persnreq-setup-item>
+		</persnreq>
+		<eqpconds>
+			<eqpconds-setup-item>
+				<condition>TDRT coupled to the FWTRD in the transport configuration.<xref wpid="O00004-9-2320-451"/></condition>
+			</eqpconds-setup-item>
+		</eqpconds>
+	</initial_setup>
+	<opertsk>
+		<oper>
+			<proc>
+				<step1>
+					<specpara>
+						<warning>
+							<icon-set boardno="Heavy_Parts-above"/>
+							<icon-set boardno="Heavy_Parts-foot"/>
+							<icon-set boardno="Heavy_Parts-hand"/>
+							<icon-set boardno="Heavy_Parts-wall"/>
+							<trim.para>Operators must be familiar with the FWTRD in order to work with the TDRT. Failure to comply may result in injury or death.</trim.para>
+							<trim.para>During uncoupling from the Tilt Deck Recovery Trailer, it may be necessary to adjust the angle of the FWTRD booms to match the angle of the TDRT mating cove. Only personnel involved in performing the operation should be near the prime mover and should exercise caution. Failure to comply may result in serious injury or death to personnel.</trim.para>
+							<trim.para>All other persons not involved in the actual coupling/uncoupling should stand clear of the prime mover to prevent serious injury or death. Never stand between the prime mover and the TDRT when the prime mover is being pulled away from the TDRT. A crush hazard exists. Serious injury or death may result.</trim.para>
+							<trim.para>Uncoupling should be done by two people, the first person in the prime mover cab and the second acting as a ground guide. The person in the prime mover cab must keep the ground guide in sight at all times. All other personnel should stand completely clear of the area. A crush hazard exists. Failure to comply may result in serious injury or death to personnel.</trim.para>
+						</warning>
+						<note>
+							<trim.para>Uncoupling from the Tilt Deck Recovery Trailer (TDRT) will be done with the trailer set on the ground in a level position. The prime mover with a fifth wheel towing and recovery device (FWTRD) will be disengaged from the TDRT.</trim.para>
+						</note>
+						<para>Position the prime mover in line with the tilt deck recovery trailer so that, when the FWTRD is to be disconnected from the TDRT, the transport legs of the FWTRD can be engaged onto the after frame of the prime mover.</para>
+					</specpara>
+				</step1>
+				<figure id="O00027-9-2320-451-F0001">
+					<title>FWTRD Transport Legs in Line for Engagement on After-Frame of Prime Mover</title>
+					<graphic boardno="G06232000193"></graphic>
+				</figure>
+				<step1>
+					<specpara>
+						<warning>
+							<icon-set boardno="Heavy_Parts-above"/>
+							<icon-set boardno="Heavy_Parts-foot"/>
+							<icon-set boardno="Heavy_Parts-hand"/>
+							<icon-set boardno="Heavy_Parts-wall"/>
+							<trim.para>Parking brakes must be set when instructed. Failure to comply can result in the prime mover moving unexpectedly creating a crush hazard. Serious injury or death to personnel may result.</trim.para>
+						</warning>
+						<para>Set the parking brakes for the prime mover and TDRT combination.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Remove the glad hand air lines and lighting cord between the TDRT and FWTRD.</para>
+				</step1>
+				<step1>
+					<specpara>
+						<warning>
+							<icon-set boardno="Heavy_Object"/>
+							<icon-set boardno="Heavy_Parts-above"/>
+							<icon-set boardno="Heavy_Parts-foot"/>
+							<icon-set boardno="Heavy_Parts-hand"/>
+							<icon-set boardno="Heavy_Parts-wall"/>
+							<trim.para>The Landing Legs for the TDRT are each retracted manually. They weigh 121lbs (54.88Kg) each. They are spring assisted, but caution should be used when lifting and/or setting these components into position. Some personnel may have difficulty because of the heavy components. An assistant should be used if necessary. Failure to comply may result in injury or death to personnel.</trim.para>
+						</warning>
+						<para>While holding the handle on the leg, remove the left and right support pins from the TDRT Landing Legs <callout assocfig="O00027-9-2320-451-F0002" label="1"/>.</para>
+					</specpara>
+				</step1>
+				<figure id="O00027-9-2320-451-F0002">
+					<title>Removing Support Pin from Leg</title>
+					<graphic boardno="G06232000194"></graphic>
+				</figure>
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>If the landing leg will not extend downward far enough to reinstall the support pin, "EXTEND" the mast on the FWTRD to help position the landing leg. Do not push pin in all the way.</trim.para>
+						</note>
+						<para>Carefully bring the landing legs down and reinstall the pin <callout assocfig="O00027-9-2320-451-F0003" label="1"/>at the bottom of the holder.</para>
+					</specpara>
+				</step1>
+				<figure id="O00027-9-2320-451-F0003">
+					<title>Support Pin Inserted at Bottom of Landing Leg and Locking Pin</title>
+					<graphic boardno="G06232000195"></graphic>
+				</figure>
+				<step1>
+					<para>On the FWTRD, rotate the transport leg handle clockwise and lock into place.</para>
+				</step1>
+				<step1>
+					<para>"EXTEND" the FWTRD boom.</para>
+				</step1>
+				<step1>
+					<para>Remove the lock pin from the boom lock shaft<callout assocfig="O00027-9-2320-451-F0004" label="1"/>.</para>
+				</step1>
+				
+					<figure id="O00027-9-2320-451-F0004">
+					<title>Boom Lock Shaft Pin Removal</title>
+					<graphic boardno="G06232000196"></graphic>
+					</figure>
+
+				<step1>
+					<para>"RETRACT" the booms until they rest at the bottom of the TDRT mating cove. The TDRT should now be supported on the landing legs.</para>
+				</step1>
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>It may be required to reposition booms to release pins.</trim.para>
+						</note>
+						<para>Remove the locking pins <callout assocfig="O00027-9-2320-451-F0003" label="2"/> from the FWTRD receivers.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Carefully pull the prime mover forward until the cross member at the end of the FWTD booms is visible and stop<callout assocfig="O00027-9-2320-451-F0005" label="1"/>.</para>
+				</step1>
+				
+					<figure id="O00027-9-2320-451-F0005">
+					<title>FWTRD Cross Member Visible</title>
+					<graphic boardno="G06232000197"></graphic>
+					</figure>
+
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>When weight is transferred from the TDRT to prime mover be aware of air bag compensation.</trim.para>
+						</note>
+						<para>"RETRACT" the booms until the booms are fully supported on the FWTRD transport legs and free of the TDRT mating cove.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Pull forward with the prime mover until the FWTRD is completely clear of the TDRT.</para>
+				</step1>
+				<step1>
+					<para>Place the FWTRD in Transport Configuration as described in <xref wpid="O00004-9-2320-451"/>.</para>
+				</step1>
+			</proc>
+		</oper>
+	</opertsk>
+</opusualwp>

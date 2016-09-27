@@ -1,0 +1,137 @@
+<maintwp chngno="0" wpno="M00048-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="maintainer"/>
+		<title>MAINTAINER MAINTENANCE <?Pub _newline?>CENTER RAM <?Pub _newline?>REPLACE</title>
+	</wpidinfo>
+	<initial_setup>
+		<tools>
+			<tools-setup-item>
+				<name>Tool Kit, General Mechanics</name>
+				<itemref>
+					<xref itemid="S00007-9-2320-451-TOOL-4" wpid="S00007-9-2320-451"/>
+				</itemref>
+			</tools-setup-item>
+			<tools-setup-item>
+				<name>Jack Stands</name>
+			</tools-setup-item>
+		</tools>
+		<persnreq>
+			<persnreq-setup-item>
+				<name>Motor Transport Operator</name>
+				<mos>88M</mos>
+				<qty>2</qty>
+			</persnreq-setup-item>
+		</persnreq>
+		<eqpconds>
+			<eqpconds-setup-item>
+				<condition>
+					Fifth Wheel Towing and Recovery Device in uncoupled configuration (
+					<xref wpid="O00035-9-2320-451"/>).
+				</condition>
+			</eqpconds-setup-item>
+		</eqpconds>
+	</initial_setup>
+	<maintsk>
+		<replace>
+			<proc>
+				<step1>
+					<specpara>
+						<warning>
+						<icon-set boardno="Heavy_Object"/>
+						<icon-set boardno="Heavy_Parts-foot"/>
+							<trim.para>To avoid personal injury, use a hoist or get assistance when lifting components that weigh more than 50 lbs (23 kg).</trim.para>
+						</warning>
+							<note>
+							<trim.para>Hydraulic safety valve lines do not need to be disconnected. Removal of upper and lower Hydraulic Safety Valve mounting bolts is sufficient. Step 2 is applicable for upper and lower Hydraulic Safety Valves.</trim.para>
+							<trim.para>To avoid personal injury, use a hoist or get assistance when lifting components that weigh more than 50 lbs (23 kg).</trim.para>
+						</note>
+						<para>Remove 2 mounting bolts on upper <callout assocfig="M00048-9-2320-451-F0001" label ="1"/> and lower <callout assocfig="M00048-9-2320-451-F0001" label ="2"/> hydraulic safety valves.</para>
+					</specpara>
+				</step1>
+
+				<figure id="M00048-9-2320-451-F0001">
+					<title>Upper and Lower Hydraulic Safety Valve Removal</title>
+					<graphic boardno="G06232001041"/>
+				</figure>
+				<step1>
+					<para>
+						Loosen two screws 
+						<callout assocfig="M00048-9-2320-451-F0002" label ="1"/>
+						.
+					</para>
+				</step1>
+				<step1>
+					<para>
+						Remove upper retaining pin 
+						<callout assocfig="M00048-9-2320-451-F0002" label ="2"/>
+						.
+					</para>
+				</step1>
+				<step1>
+					<para>
+						Lower center mast 
+						<callout assocfig="M00048-9-2320-451-F0002" label ="3"/>
+						to boom.
+					</para>
+				</step1>
+				<step1>
+					<para>
+						Loosen two set screws 
+						<callout assocfig="M00048-9-2320-451-F0002" label ="4"/>
+						and remove lower retaining pin 
+						<callout assocfig="M00048-9-2320-451-F0002" label ="5"/>
+						.
+					</para>
+				</step1>
+				<step1>
+					<para>Remove unserviceable Center Ram from frame.</para>
+				</step1>
+				<figure id="M00048-9-2320-451-F0002">
+					<title>Center Ram Removal</title>
+					<graphic boardno="G06232000351"/>
+				</figure>
+				<step1>
+					<para>Obtain serviceable item.</para>
+				</step1>
+				<step1>
+					<para>
+						Position lower portion of center mast 
+						<callout assocfig="M00048-9-2320-451-F0003" label ="3"/>
+						on frame and insert retaining pin 
+						<callout assocfig="M00048-9-2320-451-F0003" label ="5"/>
+						.
+					</para>
+				</step1>
+				<step1>
+					<para>
+						Tighten two screws 
+						<callout assocfig="M00048-9-2320-451-F0003" label ="4"/>
+						.
+					</para>
+				</step1>
+				<step1>
+					<para>Raise center mast to align top portion with frame.</para>
+				</step1>
+				<step1>
+					<para>
+						Insert retaining pin 
+						<callout assocfig="M00048-9-2320-451-F0003" label ="2"/>
+						and tighten two screws 
+						<callout assocfig="M00048-9-2320-451-F0003" label ="1"/>
+						.
+					</para>
+				</step1>
+				<step1>
+					<para>Reinstall and secure upper and lower Hydraulic Safety Valves with 2 mounting bolts each.</para>
+				</step1>
+				<step1>
+					<para>Reinstall Center Ram lock pin.</para>
+				</step1>
+				<figure id="M00048-9-2320-451-F0003">
+					<title>Center Ram Installation</title>
+					<graphic boardno="G06232000351"/>
+				</figure>
+			</proc>
+		</replace>
+	</maintsk>
+</maintwp>

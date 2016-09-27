@@ -1,0 +1,151 @@
+<opusualwp chngno="0" wpno="O00004-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="crew"/>
+		<title>OPERATION UNDER USUAL CONDITIONS <?Pub _newline?>OPERATING PROCEDURES <?Pub _newline?>TRANSPORT CONFIGURATION FWTRD</title>
+	</wpidinfo>
+	<initial_setup>
+		<persnreq>
+			<persnreq-setup-item>
+				<name>Motor Transport Operator</name>
+				<mos>88M</mos>
+				<qty>1</qty>
+			</persnreq-setup-item>
+		</persnreq>
+		<eqpconds>
+			<eqpconds-setup-item>
+				<condition>FWTRD in coupled configuration IAW <xref wpid="O00003-9-2320-451"/></condition>
+			</eqpconds-setup-item>
+		</eqpconds>
+	</initial_setup>
+	<opertsk>
+		<oper>
+			<proc>
+				<title></title>
+				<step1>
+					<specpara>
+						<warning>
+							<icon-set boardno="Slick_Floor"/>
+							<icon-set boardno="Eye_Protection"/>
+							<icon-set boardno="Heavy_Parts-above"/>
+							<icon-set boardno="Electrical_Symbols"/>
+							<icon-set boardno="Heavy_Parts-foot"/>
+							<icon-set boardno="Heavy_Parts-hand"/>
+							<icon-set boardno="Heavy_Parts-wall"/>
+							<trim.para>Ensure hydraulic breather valve is open (Figure 1) prior to operating hydraulics. This is for safety should the electric controls be utilized inadvertently instead of prime mover wet line system. Failure to leave breather open during operation could cause over- pressurizing of the system resulting in hydraulic line or fitting failure creating an oil spill and slip hazard. Failure to comply may result in serious injury or death to personnel.</trim.para>
+							<trim.para>Be sure to wear the proper eye protection (safety glasses) when working on or near hydraulic systems to avoid personal injury or death.</trim.para>
+							<trim.para>Never walk under booms during any operations. A crush hazard exists. Failure to comply may cause injury or death to personnel.</trim.para>
+							<trim.para>Ensure the boom has sufficient clearance overhead prior to folding boom into a vertical position.  Interference with obstructions such as tree limbs or building structures could cause falling debris. Interference with electrical lines could create an electrocution hazard. Failure to comply may result in injury or death to personnel.</trim.para>
+							<trim.para>Folding booms creates a pinch point. Keep hands out of area between booms and mast during operations. Failure to comply may result in injury or death to personnel.</trim.para>
+						</warning>
+						<caution>
+							<trim.para>Use caution when removing items from the tool box. Stored BII items can shift during normal use of the FWTRD and can fall out suddenly when the tool box door is opened. Failure to comply may result in injury to personnel.</trim.para>
+							<trim.para>Placing the FWTRD into the Transport Configuration involves handling chains, clevises, and pins. Work gloves should be worn to protect hands. Failure to comply could result in injury to personnel.</trim.para>
+						</caution>
+						<para>Start Prime Mover and engage PTO IAW Prime Mover <extref docno="TM 9-2320-340-10"/>.</para>
+					</specpara>
+				</step1>
+					<figure id="O00004-9-2320-451-F0001">
+					<title>Breather valve lever in line with breather</title>
+					<graphic boardno="G06232000059"></graphic>
+					</figure>
+				<step1>
+					<para>Using valve control levers, BOOM RETRACT fully to raise boom to a vertical position (Figure 2).</para>
+				</step1>
+
+					<figure id="O00004-9-2320-451-F0002">
+					<title>Booms Retracted To Vertical</title>
+					<graphic boardno="G06232000060"></graphic>
+					</figure>
+
+				<step1>
+					<para>Remove left side and right side safety clevises from mast assembly <callout assocfig="O00004-9-2320-451-F0003" label="1"/>. Set aside for re-installation.</para>
+				</step1>
+
+					<figure id="O00004-9-2320-451-F0003">
+					<title>Safety Clevis with pins</title>
+					<graphic boardno="G06232000061"></graphic>
+					</figure>
+
+				<step1>
+					<para>Using valve control levers, MAST EXTEND to align pivot arrows <callout assocfig="O00004-9-2320-451-F0004" label="1"/>.</para>
+				</step1>
+
+					<figure id="O00004-9-2320-451-F0004">
+					<title>Pivot Hole Alignment And Pivot Pin</title>
+					<graphic boardno="G06232000062"></graphic>
+					</figure>
+
+				<step1>
+					<para>Insert driver and curb pivot pins into aligned holes <callout assocfig="O00004-9-2320-451-F0005" label="1"/>.</para>
+				</step1>
+
+					<figure id="O00004-9-2320-451-F0005">
+					<title>Pivot Pin Placed</title>
+					<graphic boardno="G06232000063"></graphic>
+					</figure>
+
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>Fifth wheel section should be free of any obstructions that would prohibit mast supports from landing properly on the fifth wheel section as mast is retracted.</trim.para>
+						</note>
+						<para>Using valve control levers, MAST RETRACT to fold mast until support legs rest on the fifth wheel section and the pivot pins become loose (Figure 6).</para>
+					</specpara>
+				</step1>
+
+					<figure id="O00004-9-2320-451-F0006">
+					<title>FWTRD in Retracted Position on Prime Mover</title>
+					<graphic boardno="G06232000064"></graphic>
+					</figure>
+
+				<step1>
+					<specpara>
+						<caution>
+							<trim.para>Do not extend mast past second alignment arrow. This could cause damage to mast supports.</trim.para>
+						</caution>
+						<para>Using valve control levers, MAST EXTEND to align arrows <callout assocfig="O00004-9-2320-451-F0007" label="1"/>.</para>
+					</specpara>
+				</step1>
+
+					<figure id="O00004-9-2320-451-F0007">
+					<title>Alignment for pin insertion and Mast Supports</title>
+					<graphic boardno="G06232000065"></graphic>
+					</figure>
+
+				<step1>
+					<para>Reinstall curb and driver side safety clevises <callout assocfig="O00004-9-2320-451-F0008" label="1"/>.</para>
+				</step1>
+
+					<figure id="O00004-9-2320-451-F0008">
+					<title>Safety Clevises</title>
+					<graphic boardno="G06232000066"></graphic>
+					</figure>
+
+				<step1>
+					<para>Install two 1/2 inch safety chains <callout assocfig="O00004-9-2320-451-F0009" label="1"/> at rear of prime mover from the safety clevises <callout assocfig="O00004-9-2320-451-F0009" label="2"/>. to the clevises at the rear of the prime mover frame. Make both chains equal length removing as much slack as possible by hand <callout assocfig="O00004-9-2320-451-F0009" label="3"/>.</para>
+				</step1>
+
+					<figure id="O00004-9-2320-451-F0009">
+					<title>Cross Chain Setup</title>
+					<graphic boardno="G06232000067"></graphic>
+					</figure>
+
+				<step1>
+					<para>Using valve control levers, MAST RETRACT until safety chains <callout assocfig="O00004-9-2320-451-F0010" label="1"/> are tight.</para>
+				</step1>
+
+					<figure id="O00004-9-2320-451-F0010">
+					<title>Safety Chains Tightened</title>
+					<graphic boardno="G06232000068"></graphic>
+					</figure>
+
+				<step1>
+					<para>Position Electric Control Box ON/OFF switch to the OFF position.</para>
+				</step1>
+				<step1>
+					<para>Install Electric Control Box Cover.</para>
+				</step1>
+			</proc>
+		</oper>
+	</opertsk>
+</opusualwp>

@@ -1,0 +1,195 @@
+<opusualwp chngno="0" wpno="O00011-9-2320-451">
+	
+	<wpidinfo>
+		
+		<maintlvl level="crew"/>
+		
+			<title>OPERATING PROCEDURES<?Pub_newline?> PLACING THE CROSS BAR FOR SLEDDING UNDER A DISABLED VEHICLE</title>
+	
+	</wpidinfo>
+	
+	<initial_setup>
+		
+		<persnreq>
+			
+			<persnreq-setup-item>
+				
+				<name>Wheeled Vehicle Mechanic</name>
+				
+				<mos>91B</mos>
+				
+				<qty>1</qty>
+			
+			</persnreq-setup-item>
+		
+		</persnreq>
+		
+		<eqpconds>
+			
+			<eqpconds-setup-item>
+				
+				<condition>Cross Bar for Sledding and Sledding Shoes <xref wpid="O00012-9-2320-451"/></condition>
+			
+			</eqpconds-setup-item>
+		
+		</eqpconds>
+	
+	</initial_setup>
+	
+	<opertsk>
+		
+		<prepforuse>
+			
+			<proc>
+				
+				<step1>
+					
+					<para>Pre-pick the disabled vehicle IAW <xref wpid="O00007-9-2320-451"/> to a height that allows the Cross Bar to be inserted under the disabled vehicle.</para>
+				
+				</step1>
+				
+				<step1>
+					
+					<specpara>
+						
+						<warning>
+							
+							<icon-set boardno="Heavy_Parts-above"/>
+							
+							<icon-set boardno="Heavy_Parts-foot"/>
+							
+							<icon-set boardno="Heavy_Parts-hand"/>
+							
+							<icon-set boardno="Heavy_Parts-wall"/>
+							
+							<trim.para>
+Operations utilizing the Cross Bar for Sledding are performed on disabled vehicles with significant damage. These vehicles can be unstable and shift suddenly creating crush hazards. Use extreme caution when positioning and securing the cross bar for sledding to prevent serious injury and or death to personnel.</trim.para>
+						
+						</warning>
+						
+						<para>
+Position the cross bar under the disabled vehicle at a point where the Cross Bar will act as a temporary axle 
+<callout assocfig="O00011-9-2320-451-F0001" label="1"/>.</para>
+					
+					</specpara>
+				
+				</step1>
+				
+					
+					<figure id="O00011-9-2320-451-F0001">
+					
+					<title>Cross Bar Positioned Underneath Disabled Vehicle</title>
+					
+					<graphic boardno="G06232000104"></graphic>
+				
+					</figure>
+				
+	
+				<step1>
+					
+					<para>Using the remote control, pay out the winch cable to set the disabled vehicle onto the Cross Bar. Do not slack the cable until the Cross Bar is completely secured with chains and binders.</para>
+				
+				</step1>
+				
+				<step1>
+					
+					<specpara>
+						
+						<note>
+							
+							<trim.para>Placement of the chains on the disabled vehicle will depend on the damage to the vehicle but should be in areas that can support the forces applied when winching the vehicle onto the TDRT or lift towing with the FWTRD.</trim.para>
+						
+						</note>
+						
+						<para>Secure the disabled vehicle to the cross bar D-Rings <callout assocfig="O00011-9-2320-451-F0003" label="1"/> utilizing chains and binders.</para>
+					
+					</specpara>
+				
+				</step1>
+					<figure id="O00011-9-2320-451-F0003">
+					
+					<title>Cross Bar Secured With Chains and Binders</title>
+					
+					<graphic boardno="G06232000106"></graphic>
+				
+					</figure>
+				
+
+				<step1>
+					
+					<specpara>
+						
+						<note>
+							
+							<trim.para>With the Cross Bar in place, the FWTRD can now be utilized for performing a lift tow of the disabled vehicle. The Cross Bar serves as the lifting point axle for the FWTRD booms (Figure 3). The FWTRD wheel stops will contact the Cross Bar and serve as the forward stop inset.</trim.para>
+							
+							<trim.para>The disabled vehicle can now be lift-towed, or winch recovered to a staging point for loading onto the TDRT. See <xref wpid="O00009-9-2320-451"/> for Winch Recovery Operations.</trim.para>
+							
+							<trim.para>Skip step 5 if the damage prevents the vehicle from being lift-towed.</trim.para>
+						
+						</note>
+						
+						<para>For lift towing, perform Connecting to Towed Vehicles Without Adapters IAW <xref wpid="O00014-9-2320-451"/>.</para>
+					
+					</specpara>
+				
+				</step1>
+				
+
+					<figure id="O00011-9-2320-451-F0004">
+					
+					<title>Vehicle with in lift-tow</title>
+					
+					<graphic boardno="G06232000107"></graphic>
+				
+					</figure>
+				
+			
+				<step1>
+					
+					<specpara>
+						
+						<warning>
+							
+							<icon-set boardno="Moving_Parts-arm"/>
+							
+							<icon-set boardno="Moving_Parts-fingers"/>
+							
+							<icon-set boardno="Moving_Parts-rollers"/>
+							
+							<icon-set boardno="Sharp_Object-puncture"/>
+							
+							<trim.para>When winching a disabled vehicle using the cross bar for sledding always attach the winch cable to the sledding shoes, not the D-Rings on the cross bar for sledding. Failure to comply can result in an unstable winching situation causing injury or death to personnel.</trim.para>
+						
+						</warning>
+
+						<para>Prepare the Tilt Deck Recovery Trailer for loading IAW <xref wpid="O00025-9-2320-451"/></para>
+					
+					</specpara>
+				
+				</step1>
+				
+				<step1>
+					
+					<para>Install 1 1/4 inch clevises to the Sledding Shoes as an attachment point for rigging.</para>
+				
+				</step1>
+				
+				<step1>
+					
+					<para>Rig for winching IAW <extref docno="FM 4-30.31"/>, Recovery and Battle Damage Assessment and Recovery.</para>
+				
+				</step1>
+				
+				<step1>
+					
+					<para>Load disabled vehicle onto the TDRT IAW <xref wpid="O00026-9-2320-451"/>.</para>
+				
+				</step1>
+			</proc>
+		
+		</prepforuse>
+	
+	</opertsk>
+
+</opusualwp>

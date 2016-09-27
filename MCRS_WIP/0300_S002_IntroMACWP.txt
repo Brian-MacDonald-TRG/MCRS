@@ -1,0 +1,445 @@
+<macintrowp chngno="0" wpno="S00002-9-2320-451">
+<wpidinfo><?Pub Dtl?>
+<maintlvl level="maintainer"/>
+<title> Maintenance Allocation Chart (MAC)
+Introduction </title>
+</wpidinfo>
+<intro><?Pub Dtl?><para0>
+<title> Introduction </title>
+<subpara1>
+<title> The Army Maintenance System MAC </title>
+<para> This introduction provides a general
+explanation of the maintenance 								and
+repair functions.  							</para>
+<para> The MAC (immediately following this
+introduction) designates 								overall authority
+and responsibility for the performance of
+maintenance 								tasks on the identified
+end item or component. The application of
+								the maintenance tasks to the end item
+or component shall be consistent 								with
+the capacities and capabilities of the designated
+maintenance 								levels/classes, which
+are shown in the MAC in column (4). Column
+(4) 								is divided into two secondary
+columns. These columns indicate the 								maintenance
+levels/classes of "Field" and "Sustainment".
+Each maintenance 								level column is further
+divided into two sub-columns. These sub-columns
+								identify the maintenance classes and
+are as follows:  							</para>
+<para> 								The maintenance to be performed
+at field and sustainment 								levels is
+described as follows:  						 								<seqlist>
+<item> 										Field level maintenance classes:
+ 								 										<seqlist>
+<item> Crew (operator) maintenance. This is
+the responsibility of 												a using
+organization to perform maintenance on its
+assigned equipment. 												It normally
+consists of inspecting, servicing, lubricating,
+adjusting, 												and replacing parts,
+minor assemblies, and subassemblies. Items
+with 												a "C" ("O" for joint service
+reporting) in the third position of the 												Source,
+Maintenance, and Recoverability (SMR) code
+may be replaced 												at the crew(operator)
+class. A code of "C" ("O" for joint service)
+												in the fourth position of the
+SMR code indicates complete repair is 												authorized
+at the crew (operator) class.  											</item>
+<item> Maintainer maintenance. This is maintenance
+accomplished on 												a component, accessory,
+assembly, subassembly, plug-in unit, or other
+												portion by field level units.
+This maintenance is performed either 												on
+the system or after it is removed. An "F"
+in the third position 												of the SMR
+code indicates replacement of assemblies,
+subassemblies, 												or other components
+is authorized at this level. An "F" in the
+fourth 												position of the SMR code
+indicates complete repair of the identified
+												item is allowed at the Maintainer
+class. Items repaired at this level 												are
+normally returned to the user after maintenance
+is performed.  											</item></seqlist
+> 									</item>
+<item> 										Sustainment level maintenance
+classes:  								 										<seqlist>
+<item> Below depot sustainment. This is maintenance
+accomplished on 												a component, accessory,
+assembly, subassembly, plug-in unit, or other
+												portion either on the system or
+after it is removed. The item subject 												to
+maintenance has normally been forwarded to
+a maintenance facility 												away from
+the field level supporting units. An "H" in
+the third position 												of the SMR
+code indicates replacement of assemblies,
+subassemblies, 												or other components
+is authorized at this class. An "H" appearing
+												in the fourth position of the
+SMR code indicates complete repair is 												possible
+at this class. Items are normally returned
+to the supply 												system after maintenance
+is performed at this class.  											</item>
+<item> Depot. This is maintenance accomplished
+on a component, accessory, 												assembly,
+subassembly, plug-in unit, or other portion
+either on the 												system or after
+it is removed. Assets to be repaired at this
+class 												are normally returned to
+an Army Depot or authorized contractor facility.
+												The replace function for this
+class of maintenance is indicated by 												the
+letter "D" or "K" appearing in the third position
+of the SMR code. 												A "D" or "K"
+appearing in the fourth position of the SMR
+code indicates 												complete repair
+is possible at the depot sustainment maintenance
+level. 												Items are returned to the
+supply system after maintenance is performed
+												at this class.  											</item>
+</seqlist> 									</item></seqlist> 							</para>
+<para> The tools and test equipment requirements
+table (immediately 								following the MAC)
+lists the tools and test equipment (both special
+								tools and common tool sets) required
+for each maintenance task as 								referenced
+from the MAC.  							</para>
+<para> The remarks table (immediately following
+the tools and test 								equipment requirements)
+contains supplemental instructions and explanatory
+								notes for a particular maintenance
+task.  							</para>
+</subpara1><subpara1>
+<title> Maintenance functions (tasks) </title>
+<para> 								Maintenance functions are limited
+to and defined as follows: 								<seqlist>
+<item> Inspect. A function to determine the
+serviceability of an item 										by comparing
+its physical, mechanical, and/or electrical
+characteristics 										with established
+standards through examination (e.g., by sight,
+sound, 										or feel).  									</item>
+<item>Test. To verify serviceability by measuring
+the mechanical, 										pneumatic, hydraulic,
+or electrical characteristics of an item and
+										comparing those characteristics
+with prescribed standards, e.g., load 										testing
+of lift devices or hydrostatic testing of
+pressure hoses.  									</item>
+<item>Service. Operations required periodically
+to keep an item in 										proper operating
+condition such as replenishing fuel, lubricants,
+										chemical fluids, or gases.  									</item>
+<item>Adjust. To maintain or regulate, within
+prescribed limits, by 										bringing into
+proper position, or by setting the operating
+characteristics 										to specified parameters.
+ 									</item>
+<item>Align. To adjust specified variable
+elements of an item to bring 										about
+optimum or desired performance.  									</item>
+<item>Calibrate. To determine and cause corrections
+to be made or 										to be adjusted on
+instruments of test, measuring, and diagnostic
+equipment 										used in precision measurement.
+It consists of comparisons of two instruments,
+										one of which is a certified standard
+of known accuracy, to detect 										and
+adjust any discrepancy in the accuracy of
+the instrument being 										compared. 
+									</item>
+<item>Remove. The act of taking a component
+off an asset to facilitate 										other
+maintenance on a different component or on
+the same component 										(except for replace
+and repair.)  									</item>
+<item>Install. The act of placing, positioning,
+or otherwise locating 										a component
+to make it part of a higher level end item.
+The install 										task is authorized by
+the LMI/MAC and the assigned maintenance level
+										is shown as the third position code
+of the SMR code.  									</item>
+<item>Replace. The act of taking off an unserviceable
+component and 										putting a serviceable
+component in its place. The replace task is
+										authorized by the LMI/MAC and the
+assigned maintenance level is shown 										as
+the third position code of the SMR code. 
+									</item>
+<item>Repair. The act of restoring an item
+to a completely serviceable 										or fully
+mission capable status. The repair task is
+authorized by 										the LMI/MAC and the
+assigned maintenance level is shown as the
+fourth 										position code of the SMR
+code.  									</item>
+<item> 										Paint. This is a function
+to prepare and apply coats 										of paint.
+When used with munitions, the paint is applied
+so the ammunition 										can be identified
+and protected.  								 										<note>
+<trim.para> The following definitions are
+applicable to the "repair" 												maintenance
+task:  											</trim.para>
+<trim.para> Fault location/troubleshooting.
+The process of investigating 												and
+detecting the cause of equipment malfunctioning;
+the act of isolating 												a fault within
+a system or Unit Under Test (UUT).  											</trim.para>
+<trim.para> Actions. Welding, grinding, riveting,
+straightening, facing, 												machining,
+and/or resurfacing.  											</trim.para>
+</note> 									</item>
+<item> Overhaul. This is the maintenance effort
+(service/action) prescribed 										to restore
+an item to a completely serviceable/operational
+condition 										as required by maintenance
+standards in the appropriate technical 										publications.
+Overhaul is normally the highest degree of
+maintenance 										performed by the Army.
+Overhaul does not normally return an item
+to 										a like new condition.  									</item>
+<item> Rebuild. This consists of those services/actions
+necessary 										for the restoration of
+unserviceable equipment to a like new condition
+										in accordance with original manufacturing
+standards. Rebuild is the 										highest
+degree of materiel maintenance applied to
+Army equipment. 										The rebuild operation
+includes the act of returning to zero those
+										age measurements (e.g., hours/miles)
+considered in classifying Army 										equipment/components.
+ 									</item>
+<item> Lubricate. The act of applying a material
+(e.g., oil or grease) 										to reduce
+friction and allow a component to operate
+in a more efficient 										manner.  									</item>
+<item> Mark. The process of restoring obliterated
+identification on 										an asset.  									</item>
+<item> Pack. To place an item into a container
+for either storage 										or shipment after
+service and other maintenance operations have
+been 										completed.  									</item>
+<item>Unpack. The act or removing an asset
+from a storage or shipping 										container
+in preparation to perform further maintenance
+(e.g., repair 										or install).  									</item>
+<item> Preserve. The action required to treat
+systems and equipment 										whether installed
+or stored, to ensure a serviceable condition.
+ 									</item>
+<item> Prepare for use. Those steps required
+to make an asset ready 										for other
+maintenance (e.g., remove preservatives, lubricate,
+etc.).  									</item>
+<item> Assemble. The step-by-step instructions
+to join the component 										pieces of
+an asset together to make a complete serviceable
+asset.  									</item>
+<item> Disassemble. The step-by-step breakdown
+(taking apart) of a 										spare/functional
+group coded item to the level of its least
+component, 										that is assigned an SMR
+code for the level of maintenance under consideration
+										(i.e., identified as maintenance
+significant).  									</item>
+<item> Clean. Step-by-step instructions on
+how to remove dirt, corrosion 										or
+other contaminants from equipment. Refer to
+appropriate painting, 										lubrication,
+and preservation methods to restore original
+corrosion 										prevention and control
+methods when removed as a result of cleaning
+										and/or when using cleaning to remove
+corrosion from the item.  									</item>
+<item> Non destructive inspection. Step-by-step
+instructions on preparation 										and
+accomplishment inspections which do not destroy
+or damage the 										equipment.  									</item>
+<item> Radio interference suppression. Step-by-step
+instructions to 										ensure installed
+equipment, either communication or other electronics,
+										does not interfere with installed
+communication equipment.  									</item>
+<item> Place in service. Step-by-step instructions
+required to place 										an item into service
+that are not covered in the service upon receipt
+										work package.  									</item>
+<item> Towing. The step-by-step instructions
+to connect one vehicle 										to another
+for the purpose of having one vehicle moved
+through the 										motive power of the
+other vehicle.  									</item>
+<item> Jacking. The step-by-step instructions
+to mechanically raise 										or lift a
+vehicle to facilitate maintenance on the vehicle.
+ 									</item>
+<item> Parking. Step-by-step instructions
+to safely place a vehicle 										in a lot,
+ramp area or other designated location.  									</item>
+<item> Mooring. Step-by-step instructions
+to secure a vehicle by chains, 										ropes
+or other means to protect the vehicle from
+environmental conditions 										or secure
+for transportation.  									</item>
+<item> Covering. Step-by-step instructions
+to place a protective wrapping 										over
+a vehicle to protect it from environmental
+conditions or to hide 										(e.g., camouflage)
+it.  									</item>
+<item> Hoisting. Step-by-step instructions
+to allow a vehicle to be 										raised
+by cables or ropes through attaching points.
+ 									</item>
+<item> Sling loading. Step-by-step instructions
+to place a sling around 										a vehicle
+to allow it to be raised.  									</item>
+<item> External power. Step-by-step instructions
+on how to apply electrical 										power
+from any authorized power source (e.g., external
+generator or 										facility power).  									</item>
+<item> Preparation for storage or shipment.
+Step-by-step instructions 										for preparing
+the equipment for placement into administrative
+storage 										or for special transportation
+requirements.  									</item>
+<item> Arm. Detailed instructions on activating
+munitions prior to 										use.  									</item>
+<item> 										Load. This may be one of
+two tasks:  								 										<seqlist>
+<item> For transportation, the act of placing
+assets onto a transportation 												medium
+(e.g., pallet, truck, container).  											</item>
+<item> For weapons/weapons systems, the act
+of placing munitions into 												the
+weapon/weapons system.  											</item>
+</seqlist> 									</item>
+<item> 										Unload. This may be one of
+two tasks:  								 										<seqlist>
+<item> For transportation, the act of removing
+assets from a transportation 												medium
+(e.g., pallet, truck, container).  											</item>
+<item> For weapons/weapons systems, the act
+of removing munitions 												from the
+weapon/weapons system.  											</item>
+</seqlist> 									</item>
+<item> Software maintenance. Step-by-step
+instructions for software 										maintenance
+(e.g., installing, un-installing, etc.). 
+									</item></seqlist> 							</para>
+</subpara1><subpara1>
+<title> Explanation of Columns in the MAC </title>
+<para> Column (1) Group Number. Column (1)
+lists Functional Group 								Code (FGC)
+numbers, the purpose of which is to identify
+maintenance 								significant components,
+assemblies, subassemblies, and modules with
+								the Next Higher Assembly (NHA).  							</para>
+<para> Column (2) Component/Assembly. Column
+(2) contains the item 								names of components,
+assemblies, subassemblies, and modules for
+which 								maintenance is authorized. 
+							</para>
+<para> Column (3) Maintenance Function. Column
+(3) lists the functions 								to be performed
+on the item listed in column (2). (For a detailed
+								explanation of these functions, refer
+to maintenance functions (tasks) 								outlined
+previously.)  							</para>
+<para> Column (4) Maintenance Level. Column
+(4) specifies each level/class 								of
+maintenance authorized to perform each function
+listed in column 								(3), by indicating
+work time required in the appropriate sub-column.
+								This work time figure represents the
+active time required to perform 								that
+maintenance task at the indicated level/class
+of maintenance. 								If the number or complexity
+of the tasks within the listed maintenance
+								task varies at different maintenance
+classes, appropriate work time 								figures
+are to be shown for each class.  							</para>
+<para> 								The work time figure represents
+the average time required 								to perform
+the prescribed task (assembly, subassembly,
+component, 								module, end item, or system)
+on the item under typical operating conditions
+								for that maintenance level/class.
+This time includes preparation time 								(including
+any necessary disassembly/assembly time),
+troubleshooting/fault 								location time,
+and quality assurance time in addition to
+the time 								required to perform the specific
+tasks identified for the maintenance 								tasks
+authorized in the MAC. The symbol designations
+for the various 								maintenance levels/classes
+and classes are as follows:  						 								<randlist>
+<title> 										<emphasis emph="uline"> Field: </emphasis
+> 									</title>
+<item> C Crew maintenance </item>
+<item> F Field maintenance </item>
+</randlist> 								<randlist>
+<title> 										<emphasis emph="uline"> Sustainment: </emphasis
+> 									</title>
+<item> 										<note>
+<trim.para> The "L" maintenance level is not
+included in column (4) 												of the
+MAC. Functions to this level of maintenance
+are identified 												by work time figure
+in the "H" column of column (4), and an associated
+												reference code is used in the
+REMARKS column (6). This code is keyed 												to
+the remarks, and the SRA complete repair application
+is explained 												there.  											</trim.para>
+</note> 										L Specialized Repair Activity
+(SRA)  							 									</item>
+<item> H Below depot maintenance </item>
+<item> D Depot maintenance </item>
+</randlist> 							</para>
+<para> Column (5) Tools and Equipment Reference
+Code. Column (5) specifies, 								by a number
+code, those common tool sets (not individual
+tools), common 								Test, Measurement and
+Diagnostic Equipment (TMDE), and special tools,
+								special TMDE and special support equipment
+required to perform the 								designated
+function. Codes are keyed to the entries in
+the tools and 								test equipment table.
+ 							</para>
+<para> Column (6) Remarks Code. When applicable,
+this Column (6) contains 								a letter
+code, in alphabetical order, which is keyed
+to the remarks 								table entries.  							</para>
+</subpara1><subpara1>
+<title> Explanation of Columns in the Tools
+and Test Equipment Requirements </title>
+<para> Column (1) Tool or Test Equipment Reference
+Code. The tool 								or test equipment reference
+code correlates with a code used in column
+								(5) of the MAC.  							</para>
+<para> Column (2) Maintenance Level. The lowest
+class of maintenance 								authorized to
+use the tool or test equipment.  							</para>
+<para> Column (3) - Nomenclature. Name or
+identification of the tool 								or test
+equipment.  							</para>
+<para> Column (4) - National Stock Number
+(NSN). The NSN of the tool 								or test
+equipment.  							</para>
+<para> Column (5) - Tool Number. The manufacturer's
+part number. </para>
+</subpara1><subpara1>
+<title> Explanation of Columns in the Remarks </title>
+<para> Column (1) - Remarks Code. The code
+recorded in column (6) 								of the MAC.
+ 							</para>
+<para> Column (2) - Remarks. This column lists
+information pertinent 								to the maintenance
+function being performed as indicated in the
+MAC.  							</para>
+</subpara1></para0></intro></macintrowp>

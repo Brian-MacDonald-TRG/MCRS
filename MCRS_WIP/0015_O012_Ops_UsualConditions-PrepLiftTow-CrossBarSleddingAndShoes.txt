@@ -1,0 +1,105 @@
+<opusualwp chngno="0" wpno="O00012-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="crew"/>
+		<title>OPERATING PROCEDURES - PREPARING TO LIFT TOW <?Pub _newline?>CROSS BAR FOR SLEDDING AND SLEDDING SHOES</title>
+	</wpidinfo>
+	<initial_setup>
+		<persnreq>
+			<persnreq-setup-item>
+				<name>Wheeled Vehicle Mechanic</name>
+				<mos>91B</mos>
+				<qty>1</qty>
+			</persnreq-setup-item>
+		</persnreq>
+		<eqpconds>
+			<eqpconds-setup-item>
+				<condition>FWTRD In Transport Configuration <xref wpid="O00004-9-2320-451"/></condition>
+			</eqpconds-setup-item>
+		</eqpconds>
+	</initial_setup>
+	<opertsk>
+		<prepforuse>
+			<proc>
+				<step1>
+					<para>Depress the diverter for 18K winch operation <callout assocfig="O00012-9-2320-451-F0001" label="1"/>.</para>
+				</step1>
+
+					<figure id="O00012-9-2320-451-F0001">
+					<title>18K/35K Winch Diverter.</title>
+					<graphic boardno="G06232000109"></graphic>
+					</figure>
+
+				<step1>
+					<specpara>
+						<warning>
+							<icon-set boardno="Heavy_Parts-above"/>
+							<icon-set boardno="Heavy_Parts-foot"/>
+							<icon-set boardno="Heavy_Parts-hand"/>
+							<icon-set boardno="Heavy_Parts-wall"/>
+							<trim.para>The FWTD/FWTRD can be utilized along with the cross bar for sledding to recover vehicles with catastrophic  damage to either the front or rear axle/suspension area. Use rear lift tow only if other front towing is not practical. When a disabled vehicle is lift towed from the rear, the front axle of the disabled vehicle is subject to overloading. This is especially true for vehicles with armored cabs. In addition, the steering axle of the disabled vehicle must be locked securely in a straight position. If not properly secured, the disabled vehicle may not track correctly. This could cause the load to shift side to side during lift tow resulting in loss of control of the load and/or the prime mover. Failure to properly comply with securing the steering axle in a rear lift tow configuration can result injury or death to personnel.</trim.para>
+							<trim.para>The cross bar for sledding and sledding shoes are very heavy (sledding shoes 105 lbs/47.62 Kg each and the Cross Bar 270 lbs/122.47 Kg). The FWTRD should be used as much as possible in removing, positioning, and storing these items. Always use an assistant when it is necessary to physically handle the cross bar for sledding and sledding shoes. Failure to comply can result in serious injury or death to personnel.</trim.para>
+						</warning>
+						<note>
+							<trim.para>Steps 2 -7 can be performed while standing on the deck area of the prime mover just forward of the fifth wheel. Have the FWTRD remote control with you for performing the steps.</trim.para>
+						</note>
+						<para>Remove the two clevises at the front of the cross bar <callout assocfig="O00012-9-2320-451-F0002" label="1"/>.</para>
+					</specpara>
+				</step1>
+
+					<figure id="O00012-9-2320-451-F0002">
+					<title>Front clevis location points for Cross Bar</title>
+					<graphic boardno="G06232000110"></graphic>
+					</figure>
+
+				<step1>
+					<para>Relocate the clevises through the D-rings on the boom cross member of the FWTRD and pin to the tabs on the Cross Bar <callout assocfig="O00012-9-2320-451-F0003" label="1"/>.</para>
+				</step1>
+
+					<figure id="O00012-9-2320-451-F0003">
+					<title>Relocating Front Clevises (inset shown installed).</title>
+					<graphic boardno="G06232000111"></graphic>
+					</figure>
+
+				<step1>
+					<para>Using the remote control, slack the 18K winch cable leaving the chain routed through rear D-rings on rear cross member.</para>
+				</step1>
+				<step1>
+					<para>Route 18k winch chain ends under the cross bar.</para>
+				</step1>
+				<step1>
+					<para>Secure 18k winch chains to boom D-rings <callout assocfig="O00012-9-2320-451-F0004" label="1"/>. </para>
+				</step1>
+
+					<figure id="O00012-9-2320-451-F0004">
+					<title>Chain from 18K winch securing Cross Bar.</title>
+					<graphic boardno="G06232000112"></graphic>
+					</figure>
+
+				<step1>
+					<para>Remove the rear set of clevises from the Cross Bar. Once removed from the bar, store the clevises on the bracket.</para>
+				</step1>
+				<step1>
+					<para>Using the remote control, WINCH IN 18K cable until the chain secures the cross bar to the booms and clears off of cross bar bracket. <callout assocfig="O00012-9-2320-451-F0005" label="1"/>.</para>
+				</step1>
+					<figure id="O00012-9-2320-451-F0005">
+					<title>Cross Bar for Sledding Secured</title>
+					<graphic boardno="G06232000113"></graphic>
+					</figure>
+				<step1>
+					<para>Prepare Towing Device IAW <xref wpid="O00005-9-2320-451"/>.</para>
+				</step1>
+
+				<step1>
+					<para>
+						As the FWTRD booms reach the ground, the Cross Bar for Sledding can be positioned under a disabled vehicle <callout assocfig="O00012-9-2320-451-F0006" label="1"/>.</para>
+				</step1>
+
+					<figure id="O00012-9-2320-451-F0006">
+					<title>Cross Bar ready to position at disabled vehicle.</title>
+					<graphic boardno="G06232000114"></graphic>
+					</figure>
+
+			</proc>
+		</prepforuse>
+	</opertsk>
+</opusualwp>

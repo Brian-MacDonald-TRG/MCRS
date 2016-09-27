@@ -1,0 +1,67 @@
+<maintwp chngno="0" wpno="M00116-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="maintainer"/>
+		<title>MAINTAINER MAINTENANCE - HUBODOMETER<?Pub _newline?>REMOVE/INSTALL/REPLACE</title>
+	</wpidinfo>
+	<initial_setup>
+		<tools>
+			<tools-setup-item>
+				<name>Tool Kit, Mechanics General</name>
+				<itemref>
+					<xref itemid="S00007-9-2320-451-TOOL-4" wpid="S00007-9-2320-451"/>
+				</itemref>
+			</tools-setup-item>
+		</tools>
+		<persnreq>
+			<persnreq-setup-item>
+				<name>Motor Transport Operator</name>
+				<mos>88M</mos>
+				<qty>X</qty>
+			</persnreq-setup-item>
+		</persnreq>
+	</initial_setup>
+	<maintsk>
+		<remove>
+			<proc>
+				<step1>
+					<para>
+						Remove two mounting bolts 
+						<callout assocfig="M00116-9-2320-451-F0001" label="1"/>
+						from Hubodometer bracket. Set aside for reinstallation.
+					</para>
+				</step1>
+				<figure id="M00116-9-2320-451-F0001">
+					<title>Hubodometer Mounting Bolt Removal</title>
+					<graphic boardno="G06232000514"/>
+				</figure>
+				<step1>
+					<para>Remove nut and washer securing bracket to Hubodometer.</para>
+				</step1>
+			</proc>
+		</remove>
+	</maintsk>
+	<maintsk>
+		<install>
+			<proc>
+				<step1>
+					<para>
+						Install bracket onto serviceable Hubodometer 
+						<callout assocfig="M00116-9-2320-451-F0002" label="1"/>
+						, secure with nut 
+						<callout assocfig="M00116-9-2320-451-F0002" label="2"/>
+						and washer 
+						<callout assocfig="M00116-9-2320-451-F0002" label="3"/>
+						.
+					</para>
+				</step1>
+				<figure id="M00116-9-2320-451-F0002">
+					<title>Hubodometer Bracket Installation</title>
+					<graphic boardno="G06232000515"/>
+				</figure>
+				<step1>
+					<para>Install bracket assembly on wheel, secure with two bolts.</para>
+				</step1>
+			</proc>
+		</install>
+	</maintsk>
+</maintwp>

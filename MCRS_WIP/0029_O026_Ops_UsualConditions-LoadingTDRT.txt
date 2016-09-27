@@ -1,0 +1,212 @@
+<opusualwp chngno="0" wpno="O00026-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="crew"/>
+			<title>Operation Under Usual Conditions - OPERATING PROCEDURES - LOADING THE TDRT</title>
+	</wpidinfo>
+	<initial_setup>
+		<persnreq>
+			<persnreq-setup-item>
+				<name>Wheeled Vehicle Mechanic</name>
+				<mos>91B</mos>
+				<qty>1</qty>
+			</persnreq-setup-item>
+		</persnreq>
+		<eqpconds>
+			<eqpconds-setup-item>
+				<condition>TDRT Prepared for Loading <xref wpid="O00025-9-2320-451"/></condition>
+			</eqpconds-setup-item>
+		</eqpconds>
+	</initial_setup>
+	<opertsk>
+		<oper>
+			<proc>
+				<step1>
+					<specpara>
+						<warning>
+							<icon-set boardno="Heavy_Object"/> 
+							<icon-set boardno="Heavy_Parts-above"/> 
+							<icon-set boardno="Heavy_Parts-foot"/> 
+							<icon-set boardno="Heavy_Parts-hand"/> 
+							<icon-set boardno="Heavy_Parts-wall"/>
+							<icon-set boardno="Flying_Particles_wShield"/>
+							<icon-set boardno="Slick_Floor"/>
+							<trim.para>All persons not involved in the loading or unloading operation must stand clear the full length of prime mover and Tilt Deck Recovery Trailer (TDRT). A crush hazard exists.  Failure to comply may result in injury or death to personnel.</trim.para>
+							<trim.para>Due to the center of gravity of some loads, Caution must be used when loading or unloading equipment to prevent shifting loads. Always use proper rigging as specified in FM 5-125 "Rigging Techniques, Procedures, and Applications". Shifting loads can create a crush hazard that could cause injury or death to personnel and/or damage to equipment.</trim.para>
+							<trim.para>Visibility from the prime mover is significantly reduced when backing, whether the TDRT is loaded or not. If backing the TDRT is required, it should be done by two people, the first person in the prime mover cab and the second acting as a ground guide. The person in the prime mover cab must keep the ground guide in sight at all times. All other personnel should stand completely clear of the area. A crush hazard exists. Failure to comply may result in serious injury or death to personnel.</trim.para>
+							<trim.para>Use low speeds (5mph or less) when loading or unloading vehicles. Higher speeds will exaggerate motions and create hazardous conditions, which could result in personal injury.</trim.para>
+							<trim.para>The TDRT axles are locked into place with an air operated locating pin. The pin is locked in the travel position and released to slide axles forward for loading. There is also a pin locating hole in the forward axle position. This position would only be utilized in an exceptional situation where a very tight turn needs to be negotiated. The pin could be locked forward for the purpose of negotiating the turn, but must immediately be returned to the rearward transport position. The pin must ALWAYS be locked before transporting a load on the TDRT. Failure to comply could cause the axles to move unexpectedly during transport resulting in unstable loads, damage to the axles, and possible loss of control of the prime mover resulting in serious injury or death to personnel.</trim.para>
+							<trim.para>The landing legs for the TDRT are each retracted manually. They weigh 121lbs (54.88Kg) each. They are spring assisted, but caution should be used when lifting and/or setting these components into position. Failure to comply may result in injury or death to personnel.</trim.para>
+							<trim.para>The tail sections of the Tilt Deck Recovery Trailer weigh 175lbs each (79.38Kg). Two people should be used to unfold the ramp sections.  Caution should be exercised when handling these components. Failure to comply may result in injury or death to personnel.</trim.para>
+							<trim.para>Winching components that are used in loading the TDRT can weigh up to 105lbs (47.63Kg). Use an assistant when removing and handling heavy items to prevent injury or death to personnel.</trim.para>
+							<trim.para>The prime mover winch may be utilized when loading the Tilt Deck Recovery Trailer. All personnel must stand clear at minimum the length of the cable during winching operations. A snapped cable or shifting load could strike personnel and cause injury or death.</trim.para>
+							<trim.para>Ensure cable has a minimum of five wraps of cable on the drum before operating reel. Failure to comply may result in injury or death to personnel.</trim.para>
+							<trim.para>Winch cables can become frayed or contain broken wires. Wear heavy leather-palmed work gloves when handling winch cables. Frayed or broken wire can injure hands. Never let a winch cable slide through hands, even when wearing gloves. A broken wire could cut through glove and cut hand.</trim.para>
+							<trim.para>Refer to <extref docno="FM 5-125"/> for inspection of winch cables. A damaged winch cable, under load, could fail suddenly and strike personnel, and could cause the vehicle being recovered to shift suddenly creating a crush hazard. Failure to comply can result in injury or death to personnel.</trim.para>
+							<trim.para>The center surface of the TDRT deck is prepared for walking up when in the tilted position. Cautions should be exercised when walking up any other area of the TDRT deck when in the tilted position.  Failure to comply may result in slipping and may cause injury or death to personnel.</trim.para>
+						</warning>
+						<para>Route the winch cable from the TDRT deck and bring to the disabled vehicle.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Install rigging to disabled vehicle <extref docno="FM 5-125"/> and attach the winch cable.</para>
+				</step1>
+				<step1>
+					<para>Gain acces to winch and position free spool lever to free spool mode.</para>
+				</step1>
+				<step1>
+					<para>Using remote control, WINCH IN to take slack out of the cable.</para>
+				</step1>
+				<step1>
+					<para>Re-check rigging.</para>
+				</step1>
+				<step1>
+					<specpara>
+						<warning>
+							<icon-set boardno="Sharp_Object-in_hand"/>
+							<icon-set boardno="Heavy_Parts-above"/> 
+							<icon-set boardno="Heavy_Parts-foot"/> 
+							<icon-set boardno="Heavy_Parts-hand"/> 
+							<icon-set boardno="Heavy_Parts-wall"/>
+							<trim.para>All personnel must stand clear at minimum twice the length of the payed out cable during winching operations. A snapped cable or shifting load could strike personnel and cause injury or death.</trim.para>
+							<trim.para>Ensure cable has a minimum of five wraps on the drum before operating reel. Failure to comply may result in injury or death to personnel.</trim.para>
+						</warning>
+						<para>Using the remote control, winch the disabled vehicle to the deck of the TDRT.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Re-check rigging.</para>
+				</step1>
+				<step1>
+					<para>Winch disabled vehicle <callout assocfig="O00026-9-2320-451-F0001" label="1"/>. up onto the TDRT deck. Pull the disabled vehicle as far forward as possible. </para>
+				</step1>
+
+					<figure id="O00026-9-2320-451-F0001">
+					<title>Winching Disabled Vehicle onto TDRT Deck</title>
+					<graphic boardno="G06232000187"></graphic>
+					</figure>
+
+				<step1>
+					<specpara>
+						<warning>
+							<icon-set boardno="Slick_Floor"/>
+							<trim.para>While working with the heavy duty winches on the FWTRD, and loading a disabled vehicle onto the TDRT it may be necessary to climb on and walk on the equipment. Always use steps, ladders, and designated walking areas when on the equipment and maintain three points of contact with the FWTRD when working around the winching sheave of the FWTRD. Failure to comply may result in slips or falls resulting in serious injury or death to personnel.</trim.para>
+						</warning>
+						<para>Place a set of chock blocks at the front and rear of a rearward wheel station.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<specpara>
+						<warning>
+							<icon-set boardno="Heavy_Parts-above"/> 
+							<icon-set boardno="Heavy_Parts-foot"/> 
+							<icon-set boardno="Heavy_Parts-hand"/> 
+							<icon-set boardno="Heavy_Parts-wall"/>
+							<trim.para>Without operator input on the winch, the winch cable will slack when bringing TDRT deck back to level position. Caution should be exercised when bringing the deck back to level to insure that the load does not shift suddenly creating a crush hazard.</trim.para>
+						</warning>
+						<para>Using the remote control, BOOM RETRACT until the TDRT Deck is level <xref figid="O00026-9-2320-451-F0002"/>.</para>
+					</specpara>
+				</step1>
+
+					<figure id="O00026-9-2320-451-F0002">
+					<title>TDRT Deck in Position for Tie-Down</title>
+					<graphic boardno="G06232000188"></graphic>
+					</figure>
+
+				<step1>
+					<specpara>
+						<warning>
+							<icon-set boardno="Heavy_Parts-above"/> 
+							<icon-set boardno="Heavy_Parts-foot"/> 
+							<icon-set boardno="Heavy_Parts-hand"/> 
+							<icon-set boardno="Heavy_Parts-wall"/>
+							<trim.para>The ramp sections of the TDRT weigh 175lbs each (79.38Kg). Two people should be used to fold the ramp sections. Caution should be exercised when handling these components. Failure to comply may result in injury or to personnel.</trim.para>
+						</warning>
+						<para>Gain access to the rear of the TDRT and fold the ramp sections onto the TDRT.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>See <xref wpid="O00029-9-2320-451"/> for specific information regarding tie down locations and securing of equipment on the TDRT.</trim.para>
+						</note>
+						<para>Install 5/8 inch chains with binders to forward primary tie downs <callout assocfig="O00026-9-2320-451-F0003" label="1"/>.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>If 45K winch is utilized, detach winch cable.</trim.para>
+						</note>
+						<para>Install 5/8 chains and binders to rear primary tie downs <callout assocfig="O00026-9-2320-451-F0003" label="2"/>.</para>
+					</specpara>
+				</step1>
+					<figure id="O00026-9-2320-451-F0003">
+					<title>Primary Tie-Down Locations</title>
+					<graphic boardno="G06232000189"></graphic>
+					</figure>
+
+				<step1>
+						<para>Using remote control, WINCH OUT to slack 35k winch cable.</para>
+				</step1>
+
+				<step1>
+					<para>Complete tie down by securing additional binders and chains to secondary tie-downs <xref figid="O00026-9-2320-451-F0004"/>, to prevent shifting of load.</para>
+				</step1>
+
+					<figure id="O00026-9-2320-451-F0004">
+					<title>Secondary Tie-Down Locations</title>
+					<graphic boardno="G06232000190"></graphic>
+					</figure>
+
+				<step1>
+						<para>Gain access inside prime mover.</para>
+				</step1>
+
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>It may be necessary with heavier loads to retract booms past level to ensure axles contact rear stops.</trim.para>
+						</note>
+						<para>Using the trailer park brake control lever to hold the TDRT axle brakes, drive prime mover forward until axle assembly is in travel position <xref figid="O00026-9-2320-451-F0005"/>.</para>
+					</specpara>
+				</step1>
+
+					<figure id="O00026-9-2320-451-F0005">
+					<title>MCRS in Transport Configuration.</title>
+					<graphic boardno="G06232000191"></graphic>
+					</figure>
+
+				<step1>
+						<para>Set prime mover brakes. Release trailer brakes.</para>
+				</step1>
+
+				<step1>
+					<para>Press and rotate the air lock pin knob <callout assocfig="O00026-9-2320-451-F0006" label="1"/> counterclockwise allowing it to return to the IN position.</para>
+				</step1>
+				<step1>
+					<para>Press the lift axle knob <callout assocfig="O00026-9-2320-451-F0006" label="2"/> to load the air axle.</para>
+				</step1>
+				<step1>
+					<para>Rotate air pressure knob <callout assocfig="O00026-9-2320-451-F0006" label="3"/> to 100psi.</para>
+				</step1>
+
+					<figure id="O00026-9-2320-451-F0006">
+					<title>TDRT Control Panel</title>
+					<graphic boardno="G06232000192"></graphic>
+					</figure>
+				<step1>
+					<para>Using remote control, BOOM EXTEND until first hole of center ram is accessible.</para>
+				</step1>
+				<step1>
+					<para>Insert Center Ram lock pin.</para>
+				</step1>
+				<step1>
+					<para>Using remote control, BOOM RETRACT to set lock pin.</para>
+				</step1>
+				<step1>
+					<para>Check all trailer lighting and brake connections.</para>
+				</step1>
+			</proc>
+		</oper>
+	</opertsk>
+</opusualwp>

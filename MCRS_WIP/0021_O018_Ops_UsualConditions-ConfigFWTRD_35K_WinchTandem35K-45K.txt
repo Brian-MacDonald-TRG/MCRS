@@ -1,0 +1,64 @@
+<opusualwp chngno="0" wpno="O00018-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="crew"/>
+		<title>OPERATING PROCEDURES <?Pub _newline?>CONFIGURING THE FWTRD 35K WINCH FOR TANDEM 35K/45K WINCHING OPERATION</title>
+	</wpidinfo>
+	<initial_setup>
+		<persnreq>
+			<persnreq-setup-item>
+				<name>Wheeled Vehicle Mechanic</name>
+				<mos>91B</mos>
+				<qty>1</qty>
+			</persnreq-setup-item>
+		</persnreq>
+		<eqpconds>
+			<eqpconds-setup-item>
+				<condition>FWTRD "prepared" for towing IAW <xref wpid="O00005-9-2320-451"/></condition>
+			</eqpconds-setup-item>
+		</eqpconds>
+	</initial_setup>
+	<opertsk>
+		<prepforuse>
+			<proc>
+				<step1>
+					<specpara>
+						<warning>
+							<icon-set boardno="Slick_Floor"/>
+							<trim.para>Hydraulic pressure from the prime mover can reach 3000psi (20 684 kPa) when using wet lines. Never connect or disconnect hydraulic wetlines without ensuring that the prime mover PTO is disengaged and engine of the prime mover is off. Should lines be disconnected with the PTO engaged, over-pressurizing the system could result, causing lines or fittings to burst and hydraulic oil to spill creating a slip hazard. Failure to comply could result in damage to equipment and serious injury or death to personnel.</trim.para>
+						</warning>
+						<caution>
+							<trim.para>These procedures require the operator to be certified on the operation of the 983A4 LET and its winching controls. Failure to comply may result in injury to personnel and damage to the equipment.</trim.para>
+						</caution>
+						<para>At the 35K winch, disconnect two quick connect hydraulic lines <callout assocfig="O00018-9-2320-451-F0001" label="1"/>.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Connect the two quick connect hydraulic lines <callout assocfig="O00018-9-2320-451-F0001" label="2"/> together to keep the fittings clean and to prevent accidental over pressurizing of the individual lines.</para>
+				</step1>
+
+					<figure id="O00018-9-2320-451-F0001">
+					<title>Quick connects from 35K winch, removed and joined together</title>
+					<graphic boardno="G06232000146"></graphic>
+					</figure>
+
+				<step1>
+					<specpara>
+						<caution>
+							<trim.para>Once configured for tandem operation, you can perform <xref wpid="O00017-9-2320-451"/> steps 2-9 to set up the cables for winching. When the steps call for using the remote control, you will have to reset the LET diverter from winch operation back to wet line operation to control the FWTRD.</trim.para>
+						</caution>
+						<para>Connect both upper auxiliary wet line hoses <callout assocfig="O00018-9-2320-451-F0002" label="1"/> from the bulkhead on the M983LET to the 35K winch <callout assocfig="O00018-9-2320-451-F0002" label="2"/>.</para>
+					</specpara>
+				</step1>
+
+					<figure id="O00018-9-2320-451-F0002">
+					<title>Auxiliary Hoses from Prime Mover, Connected to 35K Winch</title>
+					<graphic boardno="G06232000147"></graphic>
+					</figure>
+
+				<step1>
+					<para>Set the prime mover diverter for winch operation.</para>
+				</step1>
+			</proc>
+		</prepforuse>
+	</opertsk>
+</opusualwp>

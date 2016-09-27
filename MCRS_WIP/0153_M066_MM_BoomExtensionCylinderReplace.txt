@@ -1,0 +1,153 @@
+<maintwp chngno="0" wpno="M00066-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="maintainer"/>
+		<title>MAINTAINER MAINTENANCE - MAINTAINER BOOM EXTENSION CYLINDER REPLACE</title>
+	</wpidinfo>
+	<initial_setup>
+		<tools>
+			<tools-setup-item>
+				<name>Tool Kit, General Mechanics</name>
+				<itemref>
+					<xref itemid="S00007-9-2320-451-TOOL-4" wpid="S00007-9-2320-451"/>
+				</itemref>
+			</tools-setup-item>
+			<tools-setup-item>
+				<name>TOOL, CYLINDER ALIGNMENT</name>
+				<itemref>
+					<xref itemid="S00007-9-2320-451-TOOL-3" wpid="S00007-9-2320-451"/>
+				</itemref>
+			</tools-setup-item>
+		</tools>
+		<mtrlpart>
+			<mtrlpart-setup-item>
+				<name>Pin, Roll (4)</name>
+			</mtrlpart-setup-item>
+			<mtrlpart-setup-item>
+				<name>ADHESIVE</name>
+				<itemref>
+					<xref itemid="S00006-9-2320-451-0001" wpid="S00006-9-2320-451"/>
+				</itemref>
+			</mtrlpart-setup-item>
+		</mtrlpart>
+		<persnreq>
+			<persnreq-setup-item>
+				<name>Motor Transport Operator</name>
+				<mos>88M</mos>
+				<qty>2</qty>
+			</persnreq-setup-item>
+		</persnreq>
+		<eqpconds>
+			<eqpconds-setup-item>
+				<condition>
+					Fifth Wheel Towing and Recovery Device in coupled configuration <xref wpid="O00026-9-2320-451"/>.
+				</condition>
+			</eqpconds-setup-item>
+			<eqpconds-setup-item>
+				<condition>
+					Hydraulic pressure relieved
+				</condition>
+			</eqpconds-setup-item>
+		</eqpconds>
+	</initial_setup>
+	<maintsk>
+		<replace>
+			<proc>
+				<step1>
+					<para>BOOM RETRACT to raise boom to approximately 45&deg; angle to allow for removal of slip pad.</para>
+				</step1>
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>Mark hoses prior to removal.</trim.para>
+							<trim.para>Hydraulic hoses must be capped and/or plugged when disconnected to avoid contamination.</trim.para>
+							<trim.para>Cylinder alignment tool will aid in removal of retaining pin.</trim.para>
+						</note>
+						<para>Remove four screws <callout assocfig="M00066-9-2320-451-F0001" label ="1"/> from bottom of boom and remove slip pad <callout assocfig="M00066-9-2320-451-F0001" label ="2"/>.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>BOOM EXTEND to lower boom to ground.</para>
+				</step1>
+				<figure id="M00066-9-2320-451-F0001">
+					<title>Boom Extension Cylinder Assembly.</title>
+					<graphic boardno="G06232000350"/>
+				</figure>
+				<step1>
+					<specpara>
+						<warning>
+							<icon-set boardno="Slick_Floor"/>
+							<trim.para>With power off, position control levers to the EXTEND and RETRACT positions to relieve hydraulic pressure before removing hoses. Failure to comply may result in severe injury or death to personnel.</trim.para>
+							<trim.para>Spilled hydraulic oil is very slippery. Be careful when entering or working in area. Wipe up any spilled oil immediately. Failure to comply may result in severe injury or death to personnel.</trim.para>
+						</warning>
+						<para>Remove hydraulic hoses from two fittings <callout assocfig="M00066-9-2320-451-F0002" label ="3"/>.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Remove fittings from cylinder.</para>
+				</step1>
+				<step1>
+					<para>Remove one roll pin <callout assocfig="M00066-9-2320-451-F0002" label ="4"/> and flat washer <callout assocfig="M00066-9-2320-451-F0002" label ="5"/> from retaining pin <callout assocfig="M00066-9-2320-451-F0002" label ="6"/>. Discard roll pin.</para>
+				</step1>
+				<step1>
+					<para>Remove retaining pin from boom extension assembly <callout assocfig="M00066-9-2320-451-F0002" label ="7"/>.</para>
+				</step1>
+				<step1>
+					<specpara>
+						<warning>
+							<icon-set boardno="Heavy_Object"/>
+							<trim.para>Boom extension assemblies are heavy and require the aid of an assistant to remove/install.</trim.para>
+						</warning>
+						<para>Remove boom extension <callout assocfig="M00066-9-2320-451-F0002" label ="8"/> from boom.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Remove two screws <callout assocfig="M00066-9-2320-451-F0002" label ="9"/> from boom extension and remove cylinder <callout assocfig="M00066-9-2320-451-F0002" label ="10"/> from boom extension.</para>
+				</step1>
+				<step1>
+					<specpara>
+						<warning>
+							<icon-set boardno="Heavy_Object"/>
+							<trim.para>Boom extension assemblies are heavy and require the aid of an assistant to remove/install.</trim.para>
+						</warning>
+						<para>Obtain serviceable item.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Position serviceable cylinder support pads on serviceable extension cylinder and secure with four each bolts.</para>
+				</step1>
+				<step1>
+					<para>Install cylinder in boom extension.</para>
+				</step1>
+				<step1>
+					<para>Align end of piston to mounting hole on Boom Extension.</para>
+				</step1>
+				<step1>
+					<para>Insert retaining pin and secure with two each bolts and washers.</para>
+				</step1>
+				<step1>
+					<para>Install extension in boom assembly.</para>
+				</step1>
+				<step1>
+					<para>Secure with retaining pin <callout assocfig="M00066-9-2320-451-F0002" label ="6"/>, serviceable roll pin <callout assocfig="M00066-9-2320-451-F0002" label ="4"/>, and flat washer <callout assocfig="M00066-9-2320-451-F0002" label ="5"/>.</para>
+				</step1>
+				<step1>
+					<para>Using the cylinder alignment tool, align cylinder to install fittings <callout assocfig="M00066-9-2320-451-F0002" label ="3"/>.</para>
+				</step1>
+				<step1>
+					<para>Install hydraulic hoses on two fittings <callout assocfig="M00066-9-2320-451-F0002" label ="3"/>.</para>
+				</step1>
+				<step1>
+					<para>BOOM RETRACT to raise boom to approximately 45&deg; angle to allow for installation of slip pad.</para>
+				</step1>
+				<step1>
+					<para>Position slip pad <callout assocfig="M00066-9-2320-451-F0002" label ="2"/> and secure with four screws <callout assocfig="M00066-9-2320-451-F0002" label ="1"/>.</para>
+				</step1>
+				
+					<figure id="M00066-9-2320-451-F0002">
+					<title>Boom Extension Cylinder Assembly.</title>
+					<graphic boardno="G06232000350"/>
+					</figure>
+			</proc>
+		</replace>
+	</maintsk>
+</maintwp>

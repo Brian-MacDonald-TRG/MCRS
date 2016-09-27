@@ -1,0 +1,197 @@
+<maintwp chngno="0" wpno="M00051-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="maintainer"/>
+			<title>18K WINCH ASSEMBLY REPLACE</title>
+	</wpidinfo>
+	<initial_setup>
+		<tools>
+			<tools-setup-item>
+				<name>Tool Kit, General Mechanics</name>
+				<itemref>
+					<xref itemid="S00007-9-2320-451-TOOL-4" wpid="S00007-9-2320-451"/>
+				</itemref>
+			</tools-setup-item>
+		</tools>
+		<mtrlpart>
+			<mtrlpart-setup-item>
+				<name>Gloves,Welders</name>
+				<itemref>
+					<xref itemid="S00006-9-2320-451-0008" wpid="S00006-9-2320-451"/>
+				</itemref>
+			</mtrlpart-setup-item>
+			<mtrlpart-setup-item>
+				<name>Sealing Compound</name>
+			</mtrlpart-setup-item>
+			<mtrlpart-setup-item>
+				<name>Adhesive</name>
+				<itemref>
+					<xref itemid="S00006-9-2320-451-0001" wpid="S00006-9-2320-451"/>
+				</itemref>
+			</mtrlpart-setup-item>
+		</mtrlpart>
+		<persnreq>
+			<persnreq-setup-item>
+				<name>Motor Transport Operator</name>
+				<mos>88M</mos>
+				<qty>2</qty>
+			</persnreq-setup-item>
+		</persnreq>
+		<eqpconds>
+			<eqpconds-setup-item>
+				<condition>Fifth Wheel Towing and Recovery Device in coupling configuration (<xref wpid="O00003-9-2320-451"/>).</condition>
+			</eqpconds-setup-item>
+			<eqpconds-setup-item>
+				<condition>Remove 18K Cable Assembly IAW (<xref wpid="M00054-9-2320-451"/>).</condition>
+			</eqpconds-setup-item>
+		</eqpconds>
+	</initial_setup>
+	<maintsk>
+		<replace>
+			<proc>
+				<step1>
+					<para>Gain access to electric control box step cover and remove. Set aside for reinstallation.</para>
+				</step1>
+				<step1>
+					<para>Position the electric control box OFF/ON switch <callout assocfig="M00051-9-2320-451-F0001" label="1"/> to the ON position.</para>
+				</step1>
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>If prime mover hydraulics is preferred, position ELECTRIC/WET-LINE switch to WET-LINE position.</trim.para>
+						</note>
+						<para>Position the ELECTRIC/ WET-LINE switch <callout assocfig="M00051-9-2320-451-F0001" label="2"/> to the ELECTRIC position.</para>
+					</specpara>
+				</step1>
+
+					<figure id="M00051-9-2320-451-F0001">
+					<title>Electric Control Box</title>
+					<graphic boardno="G06232000317"/>
+					</figure>
+
+				<step1>
+					<para>Using valve control levers, BOOM RETRACT to ensure adequate access underneath 18K winch mounting bracket.</para>
+				</step1>
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>Eight 18K Winch mounting bolts are located underneath the 18K Winch mounting bracket.</trim.para>
+						</note>
+						<para>Remove 12 mounting bolts from 18k winch bracket.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Using valve control levers, BOOM EXTEND until booms contact ground.</para>
+				</step1>
+				<step1>
+					<para>Position electric control box OFF/ON switch to the OFF position.</para>
+				</step1>
+				<step1>
+					<para>Exercise valve control levers to relieve hydraulic pressure.</para>
+				</step1>
+				<step1>
+					<specpara>
+						<warning>
+							<icon-set boardno="Falling_Parts"/>
+							<icon-set boardno="Heavy_Parts-foot"/>
+							<icon-set boardno="Heavy_Parts-hand"/>
+							<trim.para>To avoid personal injury, use a hoist or get assistance when lifting components that weigh more than 50lbs (23 kg). Winch assembly weighs approximately 120lbs (54.4kg). Use caution when removing and handling to prevent injury or death to personnel and damage to equipment.</trim.para>
+						</warning>
+						<note>
+							<trim.para>18K winch hydraulic lines cannot be accessed while positioned in 18K mounting bracket.</trim.para>
+						</note>
+						<para>Lift unserviceable 18K Winch and position composite block <callout assocfig="M00051-9-2320-451-F0002" label="1"/> underneath hydraulic line connections.</para>
+					</specpara>
+				</step1>
+
+					<figure id="M00051-9-2320-451-F0002">
+					<title>Composite Block</title>
+					<graphic boardno="G06232000386"/>
+					</figure>
+
+				<step1>
+					<specpara>
+						<caution>
+							<trim.para>To prevent contamination of hydraulic system, cap and/or plug hydraulic lines and ports after disconnecting lines.</trim.para>
+						</caution>
+						<note>
+							<trim.para>Mark hydraulic hoses prior to disconnecting.</trim.para>
+						</note>
+						<para>Disconnect two hydraulic hoses <callout assocfig="M00051-9-2320-451-F0003" label="1"/>.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Remove two elbows <callout assocfig="M00051-9-2320-451-F0003" label="2"/> from winch motor.</para>
+				</step1>
+
+					<figure id="M00051-9-2320-451-F0003">
+					<title>18K Winch Hydraulic Lines and Elbow Removal</title>
+					<graphic boardno="G06232000318"/>
+					</figure>
+
+				<step1>
+					<para>Remove unserviceable 18K Winch assembly from bracket. Obtain serviceable item.</para>
+				</step1>
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>Ensure to position serviceable 18K winch on top of composite block to assemble winch hydraulic hoses.</trim.para>
+						</note>
+						<para>Position serviceable 18K winch assembly in mounting bracket above composite block.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>To prevent contamination of hydraulic system, do not remove caps and/ or plugs from hydraulic lines and ports until ready to connect.</trim.para>
+						</note>
+						<para>Install two elbows <callout assocfig="M00051-9-2320-451-F0005" label="1"/> on winch motor.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Connect two winch hydraulic hoses <callout assocfig="M00051-9-2320-451-F0005" label="2"/> as tagged.</para>
+				</step1>
+
+					<figure id="M00051-9-2320-451-F0005">
+					<title>Hydraulic Line Installation</title>
+					<graphic boardno="G06232000320"/>
+					</figure>
+
+				<step1>
+					<para>Remove composite block.</para>
+				</step1>
+				<step1>
+					<para>Align 18K winch assembly with mounting holes.</para>
+				</step1>
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>Eight 18K winch mounting bolts are located underneath the 18K Winch mounting bracket.</trim.para>
+						</note>
+						<para>Install 12 mounting bolts on 18k Winch Assembly.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Gain access to electric control box.</para>
+				</step1>
+				<step1>
+					<para>Gain access to electric control box. Position electric control box ON/OFF switch to the ON position.</para>
+				</step1>
+				<step1>
+					<para>Gain access to 18K/35K winch diverter valve. Set 18K/35K winch diverter valve to 18K position.</para>
+				</step1>
+				<step1>
+					<para>Using the valve control levers, cycle 18K winch lever to IN and Out positions several times to ensure uninterrupted hydraulic operation.</para>
+				</step1>
+				<step1>
+					<para>Install 18K Winch Cable IAW <xref wpid="M00054-9-2320-451"/></para>
+				</step1>
+				<step1>
+					<para>Using the valve control levers, BOOM RETRACT until booms are in upright position.</para>
+				</step1>
+				<step1>
+					<para>Gain access to electric control box.</para>
+				</step1>
+			</proc>
+		</replace>
+	</maintsk>
+</maintwp>

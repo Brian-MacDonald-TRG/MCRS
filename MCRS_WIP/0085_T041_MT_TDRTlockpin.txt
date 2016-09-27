@@ -1,0 +1,40 @@
+<tswp chngno="0" wpno="T00041-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="maintainer"/>
+		<title>TROUBLESHOOTING PROCEDURES <?Pub _newline?>TDRT LOCK PIN</title>
+	</wpidinfo>
+	<initial_setup>
+		<eqpconds>
+			<eqpconds-setup-item>
+				<condition>Coupling the TDRT to the FWTRD (<xref wpid="O00023-9-2320-451"/>).</condition>
+			</eqpconds-setup-item>
+		</eqpconds>
+	</initial_setup>
+	<tsproc>
+		<faultproc>
+			<title>Maintainer Troubleshooting</title>
+			<symptom>Tilt Deck Recovery Trailer Lock Pin will not release.</symptom>
+			<malfunc label="malfunction">Gladhands from prime mover to FWTRD and FWTRD to TDRT connected improperly.</malfunc>
+			<action>
+				<step1>
+					<para>Connect gladhands properly and recheck.</para>
+				</step1>
+			</action>
+			<malfunc label="malfunction">TDRT Control Panel shows Air Supply Gauge at less than 100 psi.</malfunc>
+			<action>
+				<step1>
+					<para>Check for and repair any leaks in lines, fittings, or gladhands and recheck for pin operation.</para>
+				</step1>
+			</action>
+			<malfunc label="malfunction">Lock pin still will not release.</malfunc>
+			<action>
+				<step1>
+					<para>Remove plug from top of TDRT deck above pin location and physically assist pin retraction. If pin still will not release proceed to Step 2. <xref wpid="M00113-9-2320-451"/>.</para>
+				</step1>
+				<step1>
+					<para>Replace the Lock Pin Assembly IAW <xref wpid="M00113-9-2320-451"/>.</para>
+				</step1>
+			</action>
+		</faultproc>
+	</tsproc>
+</tswp>

@@ -1,0 +1,71 @@
+<maintwp chngno="0" wpno="M00042-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="maintainer"/>
+		<title>MAINTAINER MAINTENANCE <?Pub _newline?>MUD FLAPS - FWTRD <?Pub _newline?>REPLACE</title>
+	</wpidinfo>
+	<initial_setup>
+		<tools>
+			<tools-setup-item>
+				<name>Tool Kit, General Mechanics</name>
+				<itemref>
+					<xref itemid="S00007-9-2320-451-TOOL-4" wpid="S00007-9-2320-451"/>
+				</itemref>
+			</tools-setup-item>
+		</tools>
+		<mtrlpart>
+			<mtrlpart-setup-item>
+				<name>Washer, Lock (7) (MS35333-40)</name>
+			</mtrlpart-setup-item>
+		</mtrlpart>
+		<persnreq>
+			<persnreq-setup-item>
+				<name>Motor Transport Operator</name>
+				<mos>88M</mos>
+				<qty>1</qty>
+			</persnreq-setup-item>
+		</persnreq>
+		<eqpconds>
+			<eqpconds-setup-item>
+				<condition>Fifth Wheel Towing and Recovery Device in coupling configuration IAW (<xref wpid="O00003-9-2320-451"/>).</condition>
+			</eqpconds-setup-item>
+			<eqpconds-setup-item>
+				<condition>Wheels Chocked.</condition>
+			</eqpconds-setup-item>
+		</eqpconds>
+	</initial_setup>
+	<maintsk>
+		<replace>
+			<proc>
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>Removal and Installation of mud flap is applicable to all mud flaps.</trim.para>
+						</note>
+						<para>Remove nuts <callout assocfig="M00042-9-2320-451-F0001" label="3"/>, five flat washers <callout assocfig="M00042-9-2320-451-F0001" label="1"/>, and lockwashers <callout assocfig="M00042-9-2320-451-F0001" label="2"/> from underneath fender <callout assocfig="M00042-9-2320-451-F0001" label="4"/>.Discard lockwashers</para></specpara>
+				</step1>
+				<step1>
+					<para>Loosen screws <callout assocfig="M00042-9-2320-451-F0001" label="6"/>.</para>
+				</step1>
+				<step1>
+					<para>Remove mud flap <callout assocfig="M00042-9-2320-451-F0001" label="5"/>.</para>
+				</step1>
+				<step1>
+					<para>Obtain serviceable item.</para>
+				</step1>
+				<step1>
+					<para>Position mud flap on fender.</para>
+				</step1>
+				<step1>
+					<para>Line up holes on mud flap with screws in mounting bracket <callout assocfig="M00042-9-2320-451-F0001" label="7"/>.</para>
+				</step1>
+				<step1>
+					<para>Secure with flat washers, serviceable lockwashers, and nuts.</para>
+				</step1>
+				<figure id="M00042-9-2320-451-F0001">
+					<title>Mud Flap</title>
+					<graphic boardno="G06232000299"></graphic>
+				</figure>
+			</proc>
+		</replace>
+	</maintsk>
+</maintwp>

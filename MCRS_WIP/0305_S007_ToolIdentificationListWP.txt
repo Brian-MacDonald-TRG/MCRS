@@ -1,0 +1,104 @@
+<toolidwp chngno="0" wpno="S00007-9-2320-451"><?Pub Dtl?>
+<wpidinfo>
+<maintlvl level="maintainer"/>
+<title></title>
+</wpidinfo>
+<intro><para0>
+<title>TOOL IDENTIFICATION LIST INTRODUCTION</title>
+<subpara1>
+<title>Scope</title>
+<para>This work package lists all special
+tools and equipment needed to maintain the
+Modular Catastrophic Recovery System (MCRS).</para>
+</subpara1><subpara1>
+<title>Explanation of Columns in the Tool
+Identification List</title>
+<para><emphasis emph="bold">Column (1) Item
+No.</emphasis> This number is assigned to
+the entry in the list and is referenced in
+the initial setup to identify the item (e.g.,
+Safety Helmet (WP 0056, Item 4)).</para>
+<para><emphasis emph="bold">Column (2) Item
+Name.</emphasis> This column lists the item
+name or identification of the tool or test
+equipment (e.g., Mallet, Rawhide).</para>
+<para><emphasis emph="bold">Column (3) National
+Stock Number (NSN).</emphasis> This is the
+National Stock Number (NSN) of the tool or
+test equipment.</para>
+<para><emphasis emph="bold">Column (4) Part
+Number/(CAGEC).</emphasis> Part Number/(CAGEC).
+Indicates the primary number used by the manufacturer
+of the item to identify the item. The manufacturers
+Commercial and Government Entity Code (CAGEC)
+is also included.</para>
+<para><emphasis emph="bold">Column (5) Reference.</emphasis
+> This column identifies the authorizing supply
+catalog or RPSTL for items listed in this
+work package.</para>
+</subpara1></para0></intro><toolidlist>
+<title>MCRS Tool Identification List</title>
+<tool-entry id="S00007-9-2320-451-TOOL-1">
+<itemno>1</itemno><name>FORWARD REPAIR SYSTEM</name>
+<nsn><fsc>4940</fsc><niin>-01-463-7940</niin>
+</nsn><partcage><partno>SC4940-95-E41</partno>
+<cageno>19204</cageno></partcage><extref
+docno="TM-10-1670-327-23&amp;P"/></tool-entry>
+<tool-entry id="S00007-9-2320-451-TOOL-2">
+<itemno>2</itemno><name>SHOP EQUIPMENT, WELDING</name>
+<nsn><fsc>3470</fsc><niin>-00-357-7268</niin>
+</nsn><partcage><partno>SC3470-95CLA08</partno>
+<cageno>19204</cageno></partcage><extref
+docno="TM-10-1670-327-23&amp;P"/></tool-entry>
+<tool-entry id="S00007-9-2320-451-TOOL-3">
+<itemno>3</itemno><name>TOOL, CYLINDER ALIGNMENT</name>
+<nsn><fsc></fsc><niin></niin></nsn><partcage>
+<partno>1084-1</partno>
+<cageno>1BZD4</cageno></partcage><extref
+docno="TM-10-1670-327-23&amp;P"/></tool-entry>
+<tool-entry id="S00007-9-2320-451-TOOL-4">
+<itemno>4</itemno><name>TOOL KIT, GENERAL
+MECHANICS</name><nsn><fsc>5180</fsc><niin
+>-00-177-7033</niin></nsn><partcage><partno
+>SC5180-90-CL-N26</partno>
+<cageno>50980</cageno></partcage><extref
+docno="TM-10-1670-327-23&amp;P"/></tool-entry>
+<tool-entry id="S00007-9-2320-451-TOOL-5">
+<itemno>5</itemno><name>TOOL SET, SATS, BASE</name>
+<nsn><fsc>4910</fsc><niin>-01-490-6453</niin>
+</nsn><partcage><partno>KTC-S2000</partno>
+<cageno>00NS2</cageno></partcage><extref
+docno="TM-10-1670-327-23&amp;P"/></tool-entry>
+<tool-entry id="S00007-9-2320-451-TOOL-6">
+<itemno>6</itemno><name>TOOL SET, SATS, MOD
+1</name><nsn><fsc>4910</fsc><niin>-01-501-7342</niin>
+</nsn><partcage><partno>SC4910-95-A82</partno>
+<cageno>19204</cageno></partcage><extref
+docno="TM-10-1670-327-23&amp;P"/></tool-entry>
+<tool-entry id="S00007-9-2320-451-TOOL-7">
+<itemno>7</itemno><name>TOOL SET, SATS, MOD
+2</name><nsn><fsc>4910</fsc><niin>-01-501-7343</niin>
+</nsn><partcage><partno>SC4910-95-A83</partno>
+<cageno>19204</cageno></partcage><extref
+docno="TM-10-1670-327-23&amp;P"/></tool-entry>
+<tool-entry id="S00007-9-2320-451-TOOL-8">
+<itemno>8</itemno><name>WRENCH SET, WHEEL
+BEARING</name><nsn><fsc></fsc><niin></niin>
+</nsn><partcage><partno>9851</partno>
+<cageno>33287</cageno></partcage><extref
+docno="TM-10-1670-327-23&amp;P"/></tool-entry>
+<tool-entry id="S00007-9-2320-451-TOOL-9">
+<itemno>9</itemno><name>WRENCH, TORQUE (0-200
+lb-in (0-22.6 Nm))</name><nsn><fsc>5120</fsc>
+<niin>-00-853-4538</niin></nsn><partcage>
+<partno>B107.300</partno>
+<cageno>05047</cageno></partcage><extref
+docno="TM-10-1670-327-23&amp;P"/></tool-entry>
+<tool-entry id="S00007-9-2320-451-TOOL-10">
+<itemno>10</itemno><name>WRENCH, TORQUE (0-600
+lb-ft (0-813 Nm))</name><nsn><fsc>5120</fsc>
+<niin>-00-221-7983</niin></nsn><partcage>
+<partno>B107.300</partno>
+<cageno>05047</cageno></partcage><extref
+docno="TM-10-1670-327-23&amp;P"/></tool-entry>
+</toolidlist></toolidwp>

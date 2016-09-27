@@ -1,0 +1,130 @@
+<maintwp chngno="0" wpno="M00035-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="maintainer"/>
+		<title>MAINTAINER MAINTENANCE <?Pub _newline?>BATTERY <?Pub _newline?>REPLACE</title>
+	</wpidinfo>
+	<initial_setup>
+		<tools>
+			<tools-setup-item>
+				<name>Tool Kit, General Mechanics</name>
+				<itemref>
+					<xref itemid="S00007-9-2320-451-TOOL-4" wpid="S00007-9-2320-451"/>
+				</itemref>
+			</tools-setup-item>
+		</tools>
+<!-- 
+Nut, lock (2) (MS17828-4C)
+-->
+		<mtrlpart>
+			<mtrlpart-setup-item>
+				<name>Nut, lock (2)</name>
+			</mtrlpart-setup-item>
+			<mtrlpart-setup-item>
+				<name>TAG,MARKER</name>
+				<itemref>
+					<xref itemid= "S00006-9-2320-451-0018" wpid="S00006-9-2320-451"/>
+				</itemref>
+			</mtrlpart-setup-item>
+		</mtrlpart>
+		<persnreq>
+			<persnreq-setup-item>
+				<name>Motor Transport Operator</name>
+				<mos>88M</mos>
+				<qty>1</qty>
+			</persnreq-setup-item>
+		</persnreq>
+		<eqpconds>
+			<eqpconds-setup-item>
+				<condition>Fifth Wheel Towing and Recovery Device in coupled configuration (<xref wpid="O00003-9-2320-451"/>).</condition>
+			</eqpconds-setup-item>
+		</eqpconds>
+	</initial_setup>
+	<maintsk>
+		<replace>
+			<proc>
+				<step1>
+					<specpara>
+						<warning>
+							<icon-set boardno="Eye_Protection"/>
+							<icon-set boardno="Explosion"/>
+							<icon-set boardno="Chemical"/>
+							<icon-set boardno="Electrical-hand"/>
+							<trim.para>Wear safety glasses or goggles when checking batteries. Do not smoke or use exposed flame when checking battery; explosive gases are present and severe injury or death to personnel can result.</trim.para>
+							<trim.para>Battery acid (electrolyte) is extremely harmful. Always wear safety goggles and rubber gloves, and do not smoke when performing maintenance on batteries. Injury will result if acid contacts skin or eyes. Wear rubber apron to prevent clothing being damaged. Failure to comply may result in death or injury to personnel.</trim.para>
+							<trim.para>Remove all jewelry such as rings, ID tags, bracelets, etc. If jewelry contacts battery terminal, a direct short may result in instant heating of tools, damage to equipment, and injury or death to personnel.</trim.para>
+							<trim.para>Battery box is not a step. Stepping on battery box can cause it to swivel, causing injury or death to personnel.</trim.para>
+						</warning>
+						<para>Remove four wing nuts <callout assocfig="M00035-9-2320-451-F0001" label="1"/> from battery box lid.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Remove lid <callout assocfig="M00035-9-2320-451-F0001" label="2"/>.</para>
+				</step1>
+				<figure id="M00035-9-2320-451-F0001">
+					<title>Battery Box Cover</title>
+					<graphic boardno="G06232000285"></graphic>
+				</figure>
+				<step1>
+					<para>Remove battery strap <callout assocfig="M00035-9-2320-451-F0002"/>. Set aside for reinstallation.</para>
+				</step1>
+				<figure id="M00035-9-2320-451-F0002">
+					<title>Battery Strap</title>
+					<graphic boardno="G06232000286"></graphic>
+				</figure>
+				<step1>
+					<specpara>
+						<caution>
+							<trim.para>Battery negative (-) ground cables must be removed prior to positive (+) cables.</trim.para>
+						</caution>
+						<para>Remove negative (-) nylon stud nuts. Tag and remove two cables <callout assocfig="M00035-9-2320-451-F0003" label="8"/> from Battery A, and one cable <callout assocfig="M00035-9-2320-451-F0003" label="8"/> from Battery B.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Remove positive (+) nylon stud nuts. Tag and remove two cables <callout assocfig="M00035-9-2320-451-F0003" label="5"/> from Battery A, and three cables <callout assocfig="M00035-9-2320-451-F0003" label="5"/> from Battery B.</para>
+				</step1>
+				<figure id="M00035-9-2320-451-F0003">
+					<title>Battery Removal</title>
+					<graphic boardno="G06232000287"></graphic>
+				</figure>
+				<step1>
+					<para>Position and align battery strap onto unserviceable battery studs.</para>
+				</step1>
+				<step1>
+					<para>Secure battery strap <callout assocfig="M00035-9-2320-451-F0004" label="1"/> to unserviceable battery with negative and positive stud nuts.</para>
+				</step1>
+				<figure id="M00035-9-2320-451-F0004">
+					<title>Battery Strap Installation</title>
+					<graphic boardno="G06232000288"></graphic>
+				</figure>
+				<step1>
+					<para>Lift unserviceable battery from battery box. Obtain serviceable item.</para>
+				</step1>
+				<step1>
+					<para>Position batteries in Battery Box.</para>
+				</step1>
+				<step1>
+					<para>Position three cables (5) on positive (+) nylon stud of Battery B as tagged, and two cables <callout assocfig="M00035-9-2320-451-F0005" label="5"/> on positive (+) stud of Battery A as tagged</para>
+				</step1>
+				<step1>
+					<para>Secure with positive nylon stud nuts.</para>
+				</step1>
+				<step1>
+					<para>Position one cable <callout assocfig="M00035-9-2320-451-F0005" label="8"/> on negative (-) nylon stud of Battery B as tagged, and two cables (Figure 5, Item 8) on negative (-) stud of Battery A as tagged.</para>
+				</step1>
+				<step1>
+					<para>Secure with negative nylon stud nuts.</para>
+				</step1>
+				<step1>
+					<para>Position battery strap horizontally over negative and positive battery stud nuts.</para>
+				</step1>
+				<step1>
+					<para>Position lid <callout assocfig="M00035-9-2320-451-F0005" label="2"/> on battery box and secure with four wing nuts <callout assocfig="M00035-9-2320-451-F0005" label="1"/>.</para>
+				</step1>
+				<figure id="M00035-9-2320-451-F0005">
+					<title>Battery Installation</title>
+					<graphic boardno="G06232000289"></graphic>
+				</figure>
+			</proc>
+		</replace>
+	</maintsk>
+</maintwp>

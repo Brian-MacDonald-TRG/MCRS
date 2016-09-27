@@ -1,0 +1,37 @@
+<tswp chngno="0" wpno="T00039-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="maintainer"/>
+		<title>TROUBLESHOOTING PROCEDURES <?Pub _newline?>AIR BRAKE SUPPLY SYSTEM</title>
+	</wpidinfo>
+	<initial_setup>
+		<eqpconds>
+			<eqpconds-setup-item>
+				<condition>Connecting to Towed Vehicles Using Tow Bar Adapters(<xref wpid="O00013-9-2320-451"/>).</condition>
+			</eqpconds-setup-item>
+		</eqpconds>
+	</initial_setup>
+	<tsproc>
+		<faultproc>
+			<title>Maintainer Troubleshooting</title>
+			<symptom>Brakes on Towed Vehicle fail to disengage</symptom>
+			<malfunc label="malfunction">Gladhands; prime mover to FWTRD and FWTRD to towed vehicle connected improperly</malfunc>
+			<action>
+				<step1>
+					<para>Make proper gladhand connections.</para>
+				</step1>
+			</action>
+			<malfunc label="malfunction">Air lines and gladhand seals damaged</malfunc>
+			<action>
+				<step1>
+					<para>Repair or replace lines and seals IAW <xref wpid="M00048-9-2320-451"/>.</para>
+				</step1>
+			</action>
+			<malfunc label="malfunction">Prime mover pressure gauge showing at least 90psi, and brakes on towed vehicle still fail to release.</malfunc>
+			<action>
+				<step1>
+					<para>Test the FWTRD protection valve. Use CAUTION and remove the Supply (red) gladhand at the towed vehicle. Air should escape and then stop completely. If not, replace Air Brake Protection Valve IAW <xref wpid="M00050-9-2320-451"/></para>
+				</step1>
+			</action>
+		</faultproc>
+	</tsproc>
+</tswp>

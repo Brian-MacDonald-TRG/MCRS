@@ -1,0 +1,178 @@
+<opusualwp chngno="0" wpno="O00035-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="crew"/>
+		<title>OPERATING PROCEDURES <?Pub _newline?>UNCOUPLING PRIME MOVER FROM FWTRD</title>
+	</wpidinfo>
+	<initial_setup>
+		<persnreq>
+			<persnreq-setup-item>
+				<name>Wheeled Vehicle Mechanic</name>
+				<mos>91B</mos>
+				<qty>1</qty>
+			</persnreq-setup-item>
+		</persnreq>
+		<eqpconds>
+			<eqpconds-setup-item>
+				<condition>FWTRD prepared for towing IAW <xref wpid="O00005-9-2320-451"/>.</condition>
+			</eqpconds-setup-item>
+		</eqpconds>
+	</initial_setup>
+	<opertsk>
+		<oper>
+			<proc>
+				<step1>
+					<specpara>
+						<warning>
+							<trim.para>Uncoupling should be done by two people, the first person in the prime mover cab and the second acting as a ground guide. The person in the prime mover cab must keep the ground guide in sight at all times. All other personnel should stand completely clear of the area. A crush hazard exists. Failure to comply may result in serious injury or death to personnel</trim.para>
+							<trim.para>Hydraulic pressure from the prime mover can reach 3000psi (20 684 kPa) when using wet lines. Never connect or disconnect hydraulic wet lines without ensuring that the prime mover PTO is in the "off" (disengaged) position and engine of the prime mover is off. Should lines be disconnected with the PTO "engaged", over pressurizing the system could result, causing lines or fittings to burst and hydraulic oil to spill creating a slip hazard. Failure to comply could result in serious injury or death to personnel.</trim.para>
+							<trim.para>Be sure to wear the proper eye protection (safety glasses) when working on or near hydraulic systems to avoid personnel injury or death.</trim.para>
+							<trim.para>Failure to set the parking brake when instructed may result in unintended movement of the prime mover creating a crush hazard that may result in serious injury or death to personnel. </trim.para>
+						</warning>
+						<note>
+							<trim.para>This section refers to uncoupling from FWTRD alone after uncoupling from the TDRT. If you are trying to uncouple from the TDRT refer to WP <xref wpid="O00027-9-2320-451"/> for instructions specific to those tasks.</trim.para>
+						</note>
+						<para>Set prime mover parking brake.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Disconnect 24V lighting <callout assocfig="O00035-9-2320-451-F0001" label="1"/> and NATO cord <callout assocfig="O00035-9-2320-451-F0001" label="2"/> electrical connections between prime mover and FWTRD.</para>
+				</step1>
+
+					<figure id="O00035-9-2320-451-F0001">
+					<title>Lighting and Electrical Connections � prime mover to FWTRD</title>
+					<graphic boardno="G06232000579"></graphic>
+					</figure>
+			
+				<step1>
+					<para>Disconnect gland hands <callout assocfig="O00035-9-2320-451-F0002" label="1"/>between prime mover and the FWTRD.</para>
+				</step1>
+
+					
+					<figure id="O00035-9-2320-451-F0002">
+					<title>Glad Hands � Prime Mover to FWTRD</title>
+					<graphic boardno="G06232000580"></graphic>
+					</figure>
+
+				<step1>
+					<para>Using valve control levers, fully EXTEND left and right extensions <callout assocfig="O00035-9-2320-451-F0003" label="1"/>.</para>
+				</step1>
+				<step1>
+					<para>Using valve control levers, BOOM EXTEND to level the fifth wheel section <callout assocfig="O00035-9-2320-451-F0003" label="2"/> and free the transport legs from the after frame of the prime mover.</para>
+				</step1>
+				<step1>
+					<para>Rotate transport legs swing arm handle counterclockwise to stow transport legs <callout assocfig="O00035-9-2320-451-F0003" label="3"/>.</para>
+				</step1>
+				<step1>
+					<para>Secure transport leg swing arm handle with bungee restraint.</para>
+				</step1>
+
+					<figure id="O00035-9-2320-451-F0003">
+					<title>Boom Extensions Extended Fully, Fifth Wheel Level, and Transport Legs Stowed</title>
+					<graphic boardno="G06232000581"></graphic>
+					</figure>
+
+				<step1>
+					<specpara>
+						<warning><icon-set boardno="Explosion"/><icon-set boardno="Slick_Floor"/>
+							<trim.para>Hydraulic pressure from the prime mover can reach 3000psi (20 684 kPa) when using wet lines. Never connect or disconnect hydraulic wet lines without ensuring that the prime mover PTO is in the OFF position and engine of the prime mover is off. Should lines be disconnected with the PTO "engaged", over pressurizing the system could result, causing lines or fittings to burst and hydraulic oil to spill creating a slip hazard. Failure to comply could result in damage to equipment and serious injury or death to personnel.</trim.para>
+							<trim.para>Be sure to wear the proper eye protection (safety glasses) when working on or near hydraulic systems to avoid personal injury or death.</trim.para>
+						</warning>
+						<para>Disengage prime mover PTO.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Shut off engine of prime mover.</para>
+				</step1>
+				<step1>
+					<para>Disconnect wet lines.</para>
+				<step2>
+					<para>Pressure line <callout assocfig="O00035-9-2320-451-F0004" label="1"/> quick disconnect first.</para>
+				</step2>
+				<step2>
+					<para>Return line <callout assocfig="O00035-9-2320-451-F0004" label="2"/> quick disconnect second.</para>
+				</step2>
+				<step2>
+					<para>If 35K Winch is connected to the Auxiliary Control Valve, disconnect those lines at the 35K Winch. If the 35K Winch is plumbed to the 18K/35K Diverter, skip this step.</para>
+				</step2>
+				</step1>
+				<figure id="O00035-9-2320-451-F0004">
+					<title>Wet line Connectors on FWTRD</title>
+					<graphic boardno="G06232000582"></graphic>
+				</figure>
+				<step1>
+					<para>Remove electric control box step cover. Set aside for reinstallation.</para>
+				</step1>
+				<step1>
+					<para>Place the ON/OFF position switch <callout assocfig="O00035-9-2320-451-F0004" label="1"/> to the ON position. Place the ELECTRIC/WET-LINE position switch <callout assocfig="O00035-9-2320-451-F0004" label="2"/>to the ELECTRIC position.</para>
+				</step1>
+
+					<figure id="O00035-9-2320-451-F0005">
+					<title>Electric Control Box</title>
+					<graphic boardno="G06232000583"></graphic>
+					</figure>
+
+				<step1>
+					<para>Unlock the fifth wheel in accordance with prime mover operating procedures.</para>
+				</step1>
+				<step1>
+					<specpara>
+						<warning>
+							<icon-set boardno="Heavy_Parts-above"/>
+							<icon-set boardno="Heavy_Parts-foot"/>
+							<icon-set boardno="Heavy_Parts-hand"/>
+							<icon-set boardno="Heavy_Parts-wall"/>
+							<trim.para>All persons not involved in uncoupling operation must stand clear of prime mover and fifth wheel towing and recovery device. A crush hazard exists. Failure to comply may result in serious injury or death.</trim.para>
+						</warning>
+						<note>
+							<trim.para>It may be necessary to adjust the angle of the fifth wheel to allow the FWTRD to release it.  Only far enough to release kingpin from locking jaw.</trim.para>
+						</note>
+						<para>Start prime mover.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Release the prime mover parking brake and slowly drive the prime mover forward, allowing towing device to release from fifth wheel.</para>
+				</step1>
+				<step1>
+					<para>Stop prime mover when towing device king pin is released from fifth wheel <callout assocfig="O00035-9-2320-451-F0006"/>.</para>
+				</step1>
+
+					<figure id="O00035-9-2320-451-F0006">
+					<title>FWTRD Released From Prime Mover Fifth Wheel</title>
+					<graphic boardno="G06232000584"></graphic>
+					</figure>
+
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>Operating the FWTRD on "Electric" you will have to press the motor control button on the Electric Control Box to activate the FWTRD hydraulic motors.</trim.para>
+						</note>
+						<para>Using valve control levers or remote control, BOOM RETRACT until booms are resting on the ground <callout assocfig="O00035-9-2320-451-F0007"/>.</para>
+					</specpara>
+				</step1>
+					
+					<figure id="O00035-9-2320-451-F0007">
+					<title>FWTRD Booms Resting On Ground and FWTRD Released From Fifth Wheel.</title>
+					<graphic boardno="G06232000585"></graphic>
+					</figure>
+
+				<step1>
+					<specpara>
+						<warning><icon-set boardno="Falling_Parts"/><icon-set boardno="Heavy_Parts-above"/>
+							<trim.para>When uncoupling from a FWTRD, do not pull away without first bringing the mast section to 65&deg; from the booms. The additional weight of the 35K winch and sledding bar (1100 lbs / 498.95 Kg) can cause the FWTRD to tip forward creating a crush hazard once the mast goes beyond 65&deg;. Failure to comply may cause injury or death to personnel and or damage to the equipment.</trim.para>
+						</warning>
+						<para>Using the valve control levers, RETRACT the booms until the mast is 65&deg;. to the boom section <callout assocfig="O00035-9-2320-451-F0008"/>.</para>
+					</specpara>
+				</step1>
+
+					<figure id="O00035-9-2320-451-F0008">
+					<title>Mast at 65&deg; to the Booms.</title>
+					<graphic boardno="G06232000586"></graphic>
+					</figure>
+
+				<step1>
+					<para>Slowly drive prime mover away from towing device.</para>
+				</step1>
+			</proc>
+		</oper>
+	</opertsk>
+</opusualwp>

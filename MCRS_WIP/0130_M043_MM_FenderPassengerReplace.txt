@@ -1,0 +1,128 @@
+<maintwp chngno="0" wpno="M00043-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="maintainer"/>
+		<title>MAINTAINER MAINTENANCE <?Pub _newline?>FENDER PASSENGER <?Pub _newline?>REPLACE</title>
+	</wpidinfo>
+	<initial_setup>
+		<tools>
+			<tools-setup-item>
+				<name>Tool Kit, General Mechanics</name>
+				<itemref>
+					<xref itemid="S00007-9-2320-451-TOOL-4" wpid="S00007-9-2320-451"/>
+				</itemref>
+			</tools-setup-item>
+		</tools>
+		<mtrlpart>
+			<mtrlpart-setup-item>
+				<name>Washer, lock (2) (MS35333-40)</name>
+			</mtrlpart-setup-item>
+			<mtrlpart-setup-item>
+				<name>STRAP,TIEDOWN,ELECTRICAL COMPONENT</name>
+				<itemref><xref itemid="S00006-9-2320-451-0017" wpid="S00006-9-2320-451"/></itemref>
+			</mtrlpart-setup-item>
+		</mtrlpart>
+		<persnreq>
+			<persnreq-setup-item>
+				<name>Motor Transport Operator</name>
+				<mos>88M</mos>
+				<qty>1</qty>
+			</persnreq-setup-item>
+		</persnreq>
+		<eqpconds>
+			<eqpconds-setup-item>
+				<condition>Fifth Wheel Towing Device uncoupled and supported <xref wpid="O00035-9-2320-451"/></condition>
+			</eqpconds-setup-item>
+		</eqpconds>
+	</initial_setup>
+	<maintsk>
+		<remove>
+			<proc>
+			<title></title>
+			<step1>
+				<specpara>
+					<note>
+						<trim.para>Note location of mounting hardware prior to removal.</trim.para>
+						<trim.para>All lock washers should be discarded and replaced with serviceable items.</trim.para>
+					</note>
+					<para>
+						Remove toolbox IAW WP <xref wpid="M00045-9-2320-451"/>
+					</para>
+				</specpara>
+			</step1>
+			<step1>
+				<para>
+					Remove five bolts, nuts, and lock washers from rear fender bracket <callout assocfig="M00043-9-2320-451-F0001" label="1"/>. Discard lock washers.
+				</para>
+			</step1>
+			<step1>
+				<para>Remove mud flap. Set aside for reinstallation.</para>
+			</step1>
+			<step1>
+				<specpara>
+					<caution>
+						<trim.para>Fender could shift suddenly during removal of front bracket bolts, striking personnel. Failure to comply may result in personal injury and or damage to equipment.</trim.para>
+					</caution>
+					<para>Remove two each bolts, nuts, and lock washers <callout assocfig="M00043-9-2320-451-F0001" label="2"/> from each of the three remaining fender brackets. Discard lock washers.</para>
+				</specpara>
+			</step1>
+			<figure id="M00043-9-2320-451-F0001">
+				<title>Front and rear fender bracket bolt locations</title>
+				<graphic boardno="G06232000372"></graphic>
+			</figure>
+			<step1>
+				<para>Remove unserviceable fender.</para>
+			</step1>
+			<step1>
+				<para>Remove any damaged fender brackets by removing bolts that secure them to the fifth wheel section.</para>
+			</step1>
+		</proc>
+	</remove>
+</maintsk>
+<maintsk>
+	<install>
+			<proc>
+				<step1>
+					<para>Install serviceable fender brackets if needed.</para>
+				</step1>
+				<step1>
+					<para>Obtain a serviceable fender</para>
+				</step1>
+				<step1>
+					<para>Using an assistant position serviceable fender under fender brackets.</para>
+				</step1>
+				<step1>
+					<para>Clamp and brace fender flush to fender brackets using clamps and or supports.</para>
+				</step1>
+				<step1>
+					<para>Using a 5/16" drill bit; drill all accessible bolt holes through fender using fender brackets as a guide.</para>
+				</step1>
+				<step1>
+					<para>Using an assistant, reposition drilled fender and clamp at the front and rear fender brackets only.</para>
+				</step1>
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>Loosely install all hardware until all bolts, nuts, washers, and lock washers have been installed. Perform final tightening after installation of components is complete.</trim.para>
+						</note>
+						<para>Clamps and supports may be repositioned on fender as required during installation of hardware.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Loosely install serviceable bolts, washers, lock washers, and nuts through front fender bracket, and serviceable fender.</para>
+				</step1>
+				<step1>
+					<para>Remove clamps at rear fender bracket.</para>
+				</step1>
+				<step1>
+					<para>Reposition mud flap.</para>
+				</step1>
+				<step1>
+					<para>Install serviceable bolts, washers, lock washers and nuts through rear bracket, mud flap, and serviceable fender.</para>
+				</step1>
+				<step1>
+					<para>Reinstall tool box IAW <xref wpid="M00045-9-2320-451"/></para>
+				</step1>
+			</proc>
+		</install>
+	</maintsk>
+</maintwp>

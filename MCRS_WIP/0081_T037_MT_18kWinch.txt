@@ -1,0 +1,31 @@
+<tswp chngno="0" wpno="T00037-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="maintainer"/>
+		<title>TROUBLESHOOTING PROCEDURES <?Pub _newline?>18K WINCH </title>
+	</wpidinfo>
+	<initial_setup>
+		<eqpconds>
+			<eqpconds-setup-item>
+				<condition>Coupling FWTRD to Prime Mover (<xref wpid="O00003-9-2320-451"/>).</condition>
+			</eqpconds-setup-item>
+		</eqpconds>
+	</initial_setup>
+	<tsproc>
+		<faultproc>
+			<title>Maintainer Troubleshooting</title>
+			<symptom>18K Winch not working</symptom>
+			<malfunc label="malfunction">18K/35K Winch Diverter Valve is not moving freely and can not be set to the 18K position.</malfunc>
+			<action>
+				<step1>
+					<para>Remove the diverter from bracket, remove four each socket cap screws that hold rear protective cover. Spray both sides of diverter shaft with penetrating oil and slowly work diverter to get diverter shaft to move.</para>
+				</step1>
+			</action>
+			<malfunc label="malfunction">The 18K winch free spool lever set properly and winch does not work.</malfunc>
+			<action>
+				<step1>
+					<para>Replace 18K Winch IAW <xref wpid="M00062-9-2320-451"/></para>
+				</step1>
+			</action>
+		</faultproc>
+	</tsproc>
+</tswp>

@@ -1,0 +1,25 @@
+<tswp chngno="0" wpno="T00013-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="crew"/>
+		<title>TROUBLESHOOTING PROCEDURES <?Pub _newline?>HYDRAULIC FUNCTIONS</title>
+	</wpidinfo>
+	<initial_setup>
+		<eqpconds>
+			<eqpconds-setup-item>
+				<condition>Coupling FWTRD to Prime Mover(<xref wpid="O00003-9-2320-451"/>).</condition>
+			</eqpconds-setup-item>
+		</eqpconds>
+	</initial_setup>
+	<tsproc>
+		<faultproc>
+			<title>Crew Troubleshooting</title>
+			<symptom>Hydraulic Functions are slow or jerky in motion</symptom>
+			<malfunc label="malfunction">Hydraulic flow valve improperly adjusted</malfunc>
+			<action>
+				<step1>
+					<para>Flow valves for Mast and Boom functions (300 -800 psi no load). To adjust, turn control knob COUNTERCOCKWISE to lower back pressure and CLOCKWISE to increase back pressure.</para>
+				</step1>
+			</action>
+		</faultproc>
+	</tsproc>
+</tswp>

@@ -1,0 +1,70 @@
+<opusualwp chngno="0" wpno="O00024-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="crew"/>
+		<title>Operation Under Usual Conditions - OPERATING PROCEDURES - TRANSPORTING THE TDRT</title>
+	</wpidinfo>
+	<initial_setup>
+		<persnreq>
+			<persnreq-setup-item>
+				<name>Wheeled Vehicle Mechanic</name>
+				<mos>91B</mos>
+				<qty>1</qty>
+			</persnreq-setup-item>
+		</persnreq>
+		<eqpconds>
+			<eqpconds-setup-item>
+				<condition>TDRT Coupled to FWTRD IAW <xref wpid="O00023-9-2320-451"/></condition>
+			</eqpconds-setup-item>
+		</eqpconds>
+	</initial_setup>
+	<opertsk>
+		<oper>
+			<proc>
+				<step1>
+					<specpara>
+						<warning>
+							<trim.para>Ensure that the Tilt Deck Recovery Trailer has been properly configured for travel prior to moving. The trailer must be properly secured to a Fifth Wheel Towing and Recovery Device and the sliding axles in travel position and properly pinned. All air lines and electrical connections must be properly secured. If not properly secured the TDRT could separate from the FWTRD. Failure to comply can result in injury or death to personnel and damage to the equipment.</trim.para>
+							<trim.para>If backing the TDRT is required, it should be done by two people. The first person in the prime mover cab, and the second acting as a ground guide. The person in the prime mover cab must keep the ground guide in sight at all times. All other personnel should stand completely clear of the area. A crush hazard exists. Failure to comply may result in serious injury or death to personnel.</trim.para>
+						</warning>
+						<caution>
+							<trim.para>Never transport the Tilt Deck Recovery Trailer with its landing legs lowered. Always ensure that the legs have been lifted and properly pinned for travel Failure to comply could cause damage to the equipment.</trim.para>
+						</caution>
+						<note>
+							<trim.para>The Transport configuration will be used when moving the Tilt Deck Recovery Trailer when it is not loaded. This task assumes that the TDRT has been coupled to the FWTRD and its prime mover</trim.para>
+						</note>
+						<para>Connect the NATO lighting harness from the prime mover to the FWTRD and then from the FWTRD to the Tilt Deck Recovery Trailer.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Connect glad hand air lines from prime mover to FWTRD and from FWTRD to the Tilt Deck Recovery Trailer IAW <xref wpid="G00002-9-2320-451"/>.</para>
+				</step1>
+				<step1>
+					<para>Start prime mover engine.</para>
+				</step1>
+				<step1>
+					<para>Test the lighting to ensure operation.</para>
+				</step1>
+				<step1>
+					<para>Once connected have driver release trailer brakes and perform leak test prior to moving.</para>
+				</step1>
+				<step1>
+					<specpara>
+						<note>
+						<trim.para>The axle assembly locking pin is mounted at the rear of the axle assembly and engages holes on the bottom of the TDRT deck. (One hole at the rear and one hole when the axle is slid forward.)</trim.para>
+						<trim.para>The control knob for the Axle Assembly Locking Pin is spring loaded and normally held "IN". To release the locking pin (allows axles to slide) the knob is pulled to the out position and rotated clockwise.</trim.para>
+						</note>
+						<para>Gain access to the TDRT Control Panel, and depress axle locking pin knob <callout assocfig="O00024-9-2320-451-F0001" label="1"/>. Pull the lift axle control knob <callout assocfig="O00024-9-2320-451-F0001" label="2"/> out, to the UNLOADED position.</para>
+					</specpara>
+				</step1>
+
+					<figure id="O00024-9-2320-451-F0001">
+					<title>Control Panel with Axle Assembly Locking Pin Control Knob, and Lift Axle Control Knob</title>
+					<graphic boardno="G06232000184"></graphic>
+					</figure>
+				<step1>
+					<para>Ensure all BII is stowed, stowage boxes locked, and loose items are secured.</para>
+				</step1>
+			</proc>
+		</oper>
+	</opertsk>
+</opusualwp>

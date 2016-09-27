@@ -1,0 +1,123 @@
+<opusualwp chngno="0" wpno="O00036-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="crew"/>
+		<title>OPERATING PROCEDURES <?Pub _newline?>PREPARE FWTRD FOR SHIPPING/STORAGE</title>
+	</wpidinfo>
+	<initial_setup>
+		<persnreq>
+			<persnreq-setup-item>
+				<name>Wheeled Vehicle Mechanic</name>
+				<mos>91B</mos>
+				<qty>1</qty>
+			</persnreq-setup-item>
+		</persnreq>
+		<eqpconds>
+			<eqpconds-setup-item>
+				<condition>Fifth Wheel Towing and Recovery Device in uncoupled configuration IAW WP <xref wpid="O00035-9-2320-451"/>.</condition>
+			</eqpconds-setup-item>
+		</eqpconds>
+	</initial_setup>
+	<opertsk>
+		<prepforuse>
+			<proc>
+				<step1>
+					<specpara>
+						<warning>
+							<icon-set boardno="Heavy_Parts-above"/>
+							<icon-set boardno="Helmet_Protection"/>
+							<trim.para>When folding the FWTRD into the shipping configuration, Operators must take caution when bringing the main frame assembly to the vertical position. During this step the transport leg assembly is secured with a tether but may not stay locked in this configuration. The transport leg handle could swing free, striking the operator, and may cause injury or death to personnel.</trim.para>
+						</warning>
+						<para>Ensure that the transport legs are in the up position and the handle is secured with the bungee.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Remove electric control box cover. Set aside for reinstallation.</para>
+				</step1>
+				<step1>
+					<para>Remove and stow the safety clevises from the base of the mast.</para>
+				</step1>
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>You will be operating the FWTRD on "Electric". The first switch of the electric control box is "ON" and the second switch is set to "Electric". You will have to press the motor control button on the side of the control box to activate the FWTRD motors, in order touse the valve control levers.</trim.para>
+							<trim.para>BII stowed and secured with lock.</trim.para>
+						</note>
+						<para>Using the valve control levers, BOOM RETRACT, to fold the mast down and bring the main frame to the vertical position. <callout assocfig="O00036-9-2320-451-F0001" label="1"/>.</para>
+					</specpara>
+				</step1>
+
+					<figure id="O00036-9-2320-451-F0001">
+					<title>Booms retracted, main frame in vertical position.</title>
+					<graphic boardno="G06232000230"></graphic>
+					</figure>
+
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>With the main frame in the vertical position, the bottom breather is on the fifth wheel side of the hydraulic tank and the top breather is located towards the rear of the fifth wheel towing and recovery device near the electric motors.</trim.para>
+						</note>
+						<para>With the main frame in the vertical position, close the top pressure relief by turning the breather switch <callout assocfig="O00036-9-2320-451-F0002" label="2"/> 90&deg; to the breather.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Open the bottom breather by turning the breather switch <callout assocfig="O00036-9-2320-451-F0002" label="1"/> "in line" with the breather. </para>
+				</step1>
+
+					<figure id="O00036-9-2320-451-F0002">
+					<title>Top and Bottom Breather Valve.</title>
+					<graphic boardno="G06232000231"></graphic>
+					</figure>
+
+				<step1>
+					<para>Using the valve control levers, MAST EXTEND, to align the pivot arrows and insert pivot pin. Be sure to insert pins on both sides (Do not insert spring clips).</para>
+				</step1>
+				
+					<figure id="O00036-9-2320-451-F0003">
+					<title>Pivot Pin Alignment.</title>
+					<graphic boardno="G06232000232"></graphic>
+					</figure>
+
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>It may be necessary to adjust hydraulic flow valves to ensure smooth operation of folding.</trim.para>
+						</note>
+						<para>Using the valve control levers, MAST RETRACT, to fold main frame assembly over onto mast.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Using the valve control levers, MAST RETRACT until pivot pins loosen. Remove and stow the pins on both sides.</para>
+				</step1>
+				<step1>
+					<para>Using the valve control levers, MAST EXTEND, until the pivot hole aligns with the last hole at the base of the mast.</para>
+				</step1>
+				<step1>
+					<para>Re-insert pivot pins with the spring clips and re-insert safety clevises <callout assocfig="O00036-9-2320-451-F0004" label="1"/>.</para>
+				</step1>
+				
+					<figure id="O00036-9-2320-451-F0004">
+					<title>Inserting pins in shipping hole location.</title>
+					<graphic boardno="G06232000233"></graphic>
+					</figure>
+				
+				<step1>
+					<para>Using the valve control levers, fully RETRACT LEFT and RETRACT RIGHT boom extensions.</para>
+				</step1>
+				<step1>
+					<para>Switch off the electric control box.</para>
+				</step1>
+				<step1>
+					<para>Reinstall electric control box step cover.</para>
+				</step1>
+				<step1>
+					<para>Ensure that electric control box cover, tool boxes, and 12/24 volt junction box are secured with locks.</para>
+				</step1>
+				
+					<figure id="O00036-9-2320-451-F0005">
+					<title>Storage Configuration.</title>
+					<graphic boardno="G06232000234"></graphic>
+					</figure>
+			</proc>
+		</prepforuse>
+	</opertsk>
+</opusualwp>

@@ -1,0 +1,185 @@
+<opusualwp chngno="0" wpno="O00003-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="crew"/>
+		<title>OPERATION UNDER USUAL CONDITIONS <?Pub _newline?>ASSEMBLY AND PREPARATION FOR USE <?Pub _newline?>COUPLING FWTRD TO PRIME MOVER</title>
+	</wpidinfo>
+	<initial_setup>
+		<persnreq>
+			<persnreq-setup-item>
+				<name>Wheeled Vehicle Mechanic</name>
+				<mos>91B</mos>
+				<qty>2</qty>
+			</persnreq-setup-item>
+		</persnreq>
+		<eqpconds>
+			<eqpconds-setup-item>
+				<condition>Assembled and Prepared for Use <xref wpid="O00002-9-2320-451"/></condition>
+			</eqpconds-setup-item>
+		</eqpconds>
+	</initial_setup>
+	<opertsk>
+		<prepforuse>
+			<proc>
+				<title></title>
+				<step1>
+					<specpara>
+						<warning>
+							<icon-set boardno="Heavy_Parts-above"/>
+							<icon-set boardno="Heavy_Parts-foot"/>
+							<icon-set boardno="Heavy_Parts-hand"/>
+							<icon-set boardno="Heavy_Parts-wall"/>
+							<icon-set boardno="Flying_Particles_wShield"/>
+							<trim.para>During coupling to the prime mover, it may be required to adjust the angle of the main frame to accommodate the height of the fifth wheel plate. Do this to ensure when coupling that the transport legs and bottom breather valve do not make contact with the after frame of the prime mover as it backs into position. Failure to comply could cause the FWTRD to shift and may cause injury or death to personnel.</trim.para>
+							<trim.para>Never stand between the prime mover and FWTRD when the prime mover is backed under the towing device. A crush hazard exists. Failure to comply may result in serious injury or death to personnel.</trim.para>
+							<trim.para>Coupling should be done by two people, the first person in the prime mover cab and the second acting as a ground guide. The person in the prime mover cab must keep the ground guide in sight at all times. All other personnel should stand completely clear of the area. A crush hazard exists. Failure to comply may result in serious injury or death to personnel.</trim.para>
+							<trim.para>Hydraulic pressure from the prime mover can reach 3000 psi (20 684 kPa) when using wet lines. Never connect or disconnect hydraulic wet lines without ensuring that the prime mover Power Take Off is disengaged and engine of the prime mover is off. Should lines be disconnected with the PTO engaged, over pressurizing the system could cause lines or fittings to burst and hydraulic oil to spill creating a slip hazard. Failure to comply could result in damage to equipment and serious injury or death to personnel.</trim.para>
+							<trim.para>Be sure to wear the proper eye protection (safety glasses) when working on or near hydraulic systems to avoid personal injury or death. The ground guide should be kept in sight at all times to prevent injury to personnel.</trim.para>
+						</warning>
+						<caution>
+							<trim.para>To prevent damage to equipment, coupling should be done by two people, the first person in the prime mover cab and the second acting as ground guide.</trim.para>
+						</caution>
+						<note>
+							<trim.para>The prime mover mud flaps interfere with the FWTRD mud flaps when performing turns.</trim.para>
+						</note>
+						<para>Remove prime mover mud flaps IAW <extref docno="Prime Mover TM 9-2320-340-10"/>.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>Once connected to wet lines, the operator can use the FWTRD without having to utilize the electric control box, specifically having to depress the electric motor switch. The second control box switch is moved from "electric" to "wet line" so that if the remote control is utilized during wet line operation the FWTRD electric motors do not engage. This maintains proper hydraulic fluid levels between the FWTRD and the Prime Mover hydraulic systems.</trim.para>
+							<trim.para>Should the Prime Mover PTO system become inoperable requiring the FWTRD to be operated in "Electric" mode, the wet line hoses between the prime mover and the FWTRD should be properly disconnected (see Hydraulic Pressure Warning above). Failure to disconnect the wet lines prior to electric operation may result in the FWTRD�s self-contained hydraulic supply being depleted over time, requiring PMCS to reset the proper FWTRD hydraulic levels.</trim.para>
+						</note>
+						<para>Align prime mover with FWTRD.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Position voltage selector to 12 volts on 12/24 VDC junction box <callout assocfig="O00003-9-2320-451-F0001" label="1"/>.</para>
+				</step1>
+
+					<figure id="O00003-9-2320-451-F0001">
+					<title>12/24 Volt Junction Box</title>
+					<graphic boardno="G06232000049"></graphic>
+					</figure>
+
+				<step1>
+					<para>Unlock the fifth wheel IAW <extref docno="Prime Mover TM 9-2320-340-10"/>.</para>
+				</step1>
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>It is permissible to "Retract" booms as necessary, for clearance.</trim.para>
+						</note>
+						<para>Slowly back the prime mover under the FWTRD until the front of the fifth wheel section is centered above the fifth wheel of the prime mover. <callout assocfig="O00003-9-2320-451-F0002" label="1"/></para>
+					</specpara>
+				</step1>
+				
+					<figure id="O00003-9-2320-451-F0002">
+					<title>Front of FWTRD Main Frame Centered Above Prime Mover Fifth Wheel</title>
+					<graphic boardno="G06232000050"></graphic>
+					</figure>
+
+				<step1>
+					<para>Depress and hold the electric motor switch.</para>
+				</step1>
+				<step1>
+					<para>BOOM EXTEND until main frame is in a level position on the fifth wheel (Figure 3).</para>
+				</step1>
+
+					<figure id="O00003-9-2320-451-F0003">
+					<title>Boom Extended to Level FWTRD Main Frame to Fifth Wheel</title>
+					<graphic boardno="G06232000051"></graphic>
+					</figure>
+
+				<step1>
+					<para>Slowly back the prime mover under the towing device until the kingpin engages and locks in place (Figure 4).</para>
+				</step1>
+
+					<figure id="O00003-9-2320-451-F0004">
+					<title>Kingpin Locked In Place</title>
+					<graphic boardno="G06232000052"></graphic>
+					</figure>
+
+				<step1>
+					<para>Shut off the engine of the prime mover.</para>
+				</step1>
+				<step1>
+					<specpara>
+						<caution>
+							<trim.para>Wet line hydraulics should always be attached to and detached from the FWTRD with the FWTRD in the same configuration. This insures that hydraulic fluid from prime mover wet line system does not overfill or under fill the reservoir of FWTRD. An overfill condition could result in damage to the equipment.</trim.para>
+						</caution>
+						<note>
+							<trim.para>When wet lines are connected, and the prime mover PTO engaged, the electric motor control switch of the FWTRD should not be used. The remote control is still functional when using wet lines by leaving the first switch of the Electric Control Box in the "ON" position.</trim.para>
+						</note>
+						<para>Connect hydraulic wet line hoses (Figure 5) as follows:</para>
+					</specpara>
+						<step2>
+							<para>Connect return line between Prime Mover and FWTRD.</para>
+						</step2>
+						<step2>
+							<para>Connect pressure line.</para>
+						</step2>
+				</step1>
+
+					<figure id="O00003-9-2320-451-F0005">
+					<title>Wet line Connections</title>
+					<graphic boardno="G06232000053"></graphic>
+					</figure>
+
+				<step1>
+					<para>Connect glad-hands from prime mover to FWTRD (Figure 6).</para>
+				</step1>
+
+					<figure id="O00003-9-2320-451-F0006">
+					<title>Prime Mover to FWTRD Glad-hand Connection</title>
+					<graphic boardno="G06232000054"></graphic>
+					</figure>
+
+				<step1>
+					<para>Start the prime mover engine.</para>
+				</step1>
+				<step1>
+					<para>Engage the PTO of the prime mover IAW prime mover TM.</para>
+				</step1>
+				<step1>
+					<para>Position ELECTRIC/WET-LINE switch to the WET-LINE position <callout assocfig="O00003-9-2320-451-F0007" label="1"/>.</para>
+				</step1>
+
+					<figure id="O00003-9-2320-451-F0007">
+					<title>Electric Control Box</title>
+					<graphic boardno="G06232000055"></graphic>
+					</figure>
+
+				<step1>
+					<para>Rotate Transport Leg Swing Arm handle <callout assocfig="O00003-9-2320-451-F0008" label="1"/> clockwise to lower and lock the transport legs in the down position.</para>
+				</step1>
+
+					<figure id="O00003-9-2320-451-F0008">
+					<title>Transport Leg Handle</title>
+					<graphic boardno="G06232000056"></graphic>
+					</figure>
+
+				<step1>
+					<para>Using the valve control levers, BOOM RETRACT to lower the fifth wheel section until the transport legs <callout assocfig="O00003-9-2320-451-F0009" label="1"/> rest on the after frame of the prime mover.</para>
+				</step1>
+
+					<figure id="O00003-9-2320-451-F0009">
+					<title>Transport Legs Resting On After Frame</title>
+					<graphic boardno="G06232000057"></graphic>
+					</figure>
+
+				<step1>
+					<para>Using valve control levers, BOOM RETRACT until the FWTRD booms come off the ground slightly.</para>
+				</step1>
+				<step1>
+					<para>Using the valve control levers, fully retract RIGHT and LEFT boom extensions (Figure 10).</para>
+				</step1>
+
+					<figure id="O00003-9-2320-451-F0010">
+					<title>FWTRD Resting On Transport Legs and Extensions Fully Retracted</title>
+					<graphic boardno="G06232000058"></graphic>
+					</figure>
+			</proc>
+		</prepforuse>
+	</opertsk>
+</opusualwp>

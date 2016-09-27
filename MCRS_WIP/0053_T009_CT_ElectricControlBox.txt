@@ -1,0 +1,37 @@
+<tswp chngno="0" wpno="T00009-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="crew"/>
+		<title>TROUBLESHOOTING PROCEDURES <?Pub _newline?>ELECTRIC CONTROL BOX</title>
+	</wpidinfo>
+	<initial_setup>
+		<eqpconds>
+			<eqpconds-setup-item>
+				<condition>Coupling FWTRD to Prime Mover(<xref wpid="O00003-9-2320-451"/>).</condition>
+			</eqpconds-setup-item>
+		</eqpconds>
+	</initial_setup>
+	<tsproc>
+		<faultproc>
+			<title>Crew Troubleshooting</title>
+			<symptom>Electric Control Box shows no voltage</symptom>
+			<malfunc label="malfunction">The ON/OFF position switch is in the OFF position.</malfunc>
+			<action>
+				<step1>
+					<para>Turn the ON/OFF position switch to the ON position</para>
+				</step1>
+			</action>
+			<malfunc label="malfunction">Incorrect voltage.</malfunc>
+			<action>
+				<step1>
+					<para>Plug in the NATO Slave Cable</para>
+				</step1>
+			</action>
+			<malfunc label="malfunction">No power condition present after NATO Slave Cable connection.</malfunc>
+			<action>
+				<step1>
+					<para>Notify Maintainer to replace batteries IAW <xref wpid="M00045-9-2320-451"/>.</para>
+				</step1>
+			</action>
+		</faultproc>
+	</tsproc>
+</tswp>

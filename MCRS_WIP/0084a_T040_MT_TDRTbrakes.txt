@@ -1,0 +1,50 @@
+<tswp chngno="0" wpno="T00040-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="maintainer"/>
+		<title>TROUBLESHOOTING PROCEDURES <?Pub _newline?>TDRT BRAKES</title>
+	</wpidinfo>
+	<initial_setup>
+		<eqpconds>
+			<eqpconds-setup-item>
+				<condition>Coupling the TDRT to the FWTRD (<xref wpid="O00022-9-2320-451"/>).</condition>
+			</eqpconds-setup-item>
+		</eqpconds>
+	</initial_setup>
+	<tsproc>
+		<faultproc>
+			<title>Maintainer Troubleshooting</title>
+			<symptom>Brakes on the Tilt Deck Recovery Trailer are grinding/squealing, dragging, or will not release.</symptom>
+			<malfunc label="malfunction">Grinding/squealing noise from brakes when in motion.</malfunc>
+			<action>
+				<step1>
+					<para>Check all brake dust shields for interference with drums.</para>
+				</step1>
+                <step1>
+					<para>If shield has been slightly bent from off-road use it can be bent back away from drum using a small pry bar or flat head screwdriver.</para>
+				</step1>
+                <step1>
+					<para>If the entire shield is rubbing and cannot be adjusted, replace the dust cover IAW WP 0154.</para>
+				</step1>
+			</action>
+		</faultproc>
+        <malfunc label="malfunction">TDRT brakes are dragging.</malfunc>
+			<action>
+				<step1>
+					<para>Make sure that air supply to trailer is at least 90 psi. Check all air lines, and glad hands for air leaks. Replace any defective lines, fittings, and glad hands.</para>
+				</step1>
+                <step1>
+					<para>Adjust slack adjusters IAW WP 0156</para>
+				</step1>
+			</action>
+            <malfunc label="malfunction">Brakes will not release.</malfunc>
+			<action>
+				<step1>
+					<para>Make sure that air supply to trailer is at least 90 psi. Check all air lines, and glad hands for air leaks. Replace any defective lines, fittings, and glad hands.</para>
+				</step1>
+                <step1>
+					<para>Test FWTRD protection valve. Use CAUTION and remove the Supply (red) glad hand at the TDRT. Air should escape and then stop completely. If not, replace Air Brake Protection Valve IAW WP 0128.</para>
+				</step1>
+			</action>
+		</faultproc>
+	</tsproc>
+</tswp>

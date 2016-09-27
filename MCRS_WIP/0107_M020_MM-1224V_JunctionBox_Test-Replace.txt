@@ -1,0 +1,221 @@
+<maintwp chngno="0" wpno="M00020-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="maintainer"/>
+		<title>MAINTAINER MAINTENANCE - 12/24 VOLT JUNCTION BOX TEST/REPLACE</title>
+	</wpidinfo>
+	<initial_setup>
+		<tools>
+			<tools-setup-item>
+				<name>Tool Kit, General Mechanics</name>
+				<itemref>
+					<xref itemid="S00007-9-2320-451-TOOL-4" wpid="S00007-9-2320-451"/>
+				</itemref>
+			</tools-setup-item>
+		</tools>
+		<mtrlpart>
+			<mtrlpart-setup-item>
+				<name>WASHER, LOCK (8)</name>
+			</mtrlpart-setup-item>
+			<mtrlpart-setup-item>
+				<name>TAG, MARKER</name>
+				<itemref>
+					<xref itemid= "S00006-9-2320-451-0018" wpid="S00006-9-2320-451"/>
+				</itemref>
+			</mtrlpart-setup-item>
+			<mtrlpart-setup-item>
+				<name>STRAP,TIEDOWN,ELECTRICAL COMPONENT</name>
+				<itemref>
+					<xref itemid= "S00006-9-2320-451-0017" wpid="S00006-9-2320-451"/>
+				</itemref>
+			</mtrlpart-setup-item>
+		</mtrlpart>
+		<persnreq>
+			<persnreq-setup-item>
+				<name>Motor Transport Operator</name>
+				<mos>88M</mos>
+				<qty>1</qty>
+			</persnreq-setup-item>
+		</persnreq>
+		<eqpconds>
+			<eqpconds-setup-item>
+				<condition>Fifth Wheel Towing and Recovery Device in coupling configuration <xref wpid="O00003-9-2320-451"/>.</condition>
+			</eqpconds-setup-item>
+			<eqpconds-setup-item>
+				<condition>Disconnect Batteries <xref wpid="M00035-9-2320-451"/>.</condition>
+			</eqpconds-setup-item>
+			<eqpconds-setup-item>
+				<condition>24-volt receptacle removed <xref wpid="M00017-9-2320-451"/>.</condition>
+			</eqpconds-setup-item>
+			<eqpconds-setup-item>
+				<condition>12-volt receptacle removed <xref wpid="M00018-9-2320-451"/>.</condition>
+			</eqpconds-setup-item>
+		</eqpconds>
+	</initial_setup>
+	<maintsk>
+		<test>
+			<proc>
+				<step1>
+					<specpara>
+						<warning>
+							<icon-set boardno="Electrical_Symbols"/>
+							<trim.para>Remove all power to fifth wheel towing device prior to making any repairs on the electrical system. Failure to do so may result in serious injury or death.</trim.para>
+						</warning>
+						<para>Switch the 12/24-volt selector switch <callout assocfig="M00020-9-2320-451-F0001" label="1"/> to 12-Volts.</para>
+					</specpara>
+				</step1>
+				
+					<figure id="M00020-9-2320-451-F0001" label="1">
+					<title>12/24-Volt Selector Switch</title>
+					<graphic boardno="G06232000239"></graphic>
+					</figure>
+				
+				<step1>
+					<para>With a multimeter, check for 12 VDC reading at center pin <callout assocfig="M00020-9-2320-451-F0002" label ="1"/> of 12-Volt receptacle.</para>
+				</step1>
+				
+				<figure id="M00020-9-2320-451-F0002" label="1">
+				<title>12-Volt Receptacle Center Pin</title>
+				<graphic boardno="G06232000240"></graphic>
+				</figure>
+				
+				<step1>
+					<para>Switch the 12/24-volt selector switch <callout assocfig="M00020-9-2320-451-F0003" label="1"/> to 24-Volts.</para>
+				</step1>
+				
+					<figure id="M00020-9-2320-451-F0003" label="1">
+					<title>12/24-volt Selector Switch</title>
+					<graphic boardno="G06232000235"></graphic>
+					</figure>
+
+				<step1>
+					<para>Using a multimeter, check for 24-Volt reading at center pin <callout assocfig="M00020-9-2320-451-F0004" label="1"/>.</para>
+				</step1>
+				
+					<figure id="M00020-9-2320-451-F0004" label="1">
+					<title>24-Volt Receptacle Center Pin</title>
+					<graphic boardno="G06232000236"></graphic>
+					</figure>
+			</proc>
+		</test>
+	</maintsk>
+	<maintsk>
+		<replace>
+			<proc>
+				<step1>
+					<specpara>
+						<warning>
+							<icon-set boardno="Electrical_Symbols"/>
+							<trim.para>Remove all power to fifth wheel towing device prior to making any repairs on the electrical system. Failure to do so may result in serious injury or death.</trim.para>
+						</warning>
+						<para>Tag and disconnect four main wires and two jumper wires <callout assocfig="M00020-9-2320-451-F0005" label ="1"/> by loosening set screw on terminal connections <callout assocfig="M00020-9-2320-451-F0005" label ="2"/>.</para>
+					</specpara>
+				</step1>
+				
+					<figure id="M00020-9-2320-451-F0005" label="1">
+					<title>Disconnect Terminal Connection</title>
+					<graphic boardno="G06232000254"></graphic>
+					</figure>
+				
+				<step1>
+					<para>Remove nuts from four water tight assemblies <callout assocfig="M00020-9-2320-451-F0006" label ="1"/>, and one bushing assembly <callout assocfig="M00020-9-2320-451-F0006" label ="2"/> from 12/24 Volt Junction Box. Set aside for reinstallation.</para>
+				</step1>
+				
+					<figure id="M00020-9-2320-451-F0006" label="1">
+					<title>Remove Nuts</title>
+					<graphic boardno="G06232000255"></graphic>
+					</figure>
+				
+				<step1>
+					<para>Remove four wires from 12/24 Volt Junction Box.</para>
+				</step1>
+				<step1>
+					<para>Remove 12V Receptacle wiring harness.</para>
+				</step1>
+				<step1>
+					<para>Remove four straight adapters and a bushing from tagged wires. Set aside for reinstallation.</para>
+				</step1>
+				<step1>
+					<para>Gain access underneath fender, remove four nuts <callout assocfig="M00020-9-2320-451-F0007" label="1"/> and lock washers <callout assocfig="M00020-9-2320-451-F0007" label="2"/> from rubber isolators. Discard lock washers.</para>
+				</step1>
+				
+					<figure id="M00020-9-2320-451-F0007" label="1">
+					<title>Isolator Removal</title>
+					<graphic boardno="G06232000256"></graphic>
+					</figure>
+
+				<step1>
+					<para>Remove unserviceable 12/24 Volt Junction Box from fender.</para>
+				</step1>
+				<step1>
+					<para>Gain access inside unserviceable 12/24 Volt Junction Box <callout assocfig="M00020-9-2320-451-F0008" label="1"/>.</para>
+				</step1>
+				<step1>
+					<para>Remove four nuts <callout assocfig="M00020-9-2320-451-F0008" label="2"/> and lock washers <callout assocfig="M00020-9-2320-451-F0008" label="3"/>. Discard lock washers.</para>
+				</step1>
+				<step1>
+					<para>Remove four rubber isolators <callout assocfig="M00020-9-2320-451-F0008" label="4"/>.</para>
+				</step1>
+				
+					<figure id="M00020-9-2320-451-F0008" label="1">
+					<title>Rubber Isolator Removal</title>
+					<graphic boardno="G06232000257"></graphic>
+					</figure>
+
+				<step1>
+					<para>Obtain serviceable item</para>
+				</step1>
+				<step1>
+					<para>Position rubber isolators <callout assocfig="M00020-9-2320-451-F0009" label="4"/> on 12/24 Volt Junction Box <callout assocfig="M00020-9-2320-451-F0009" label="1"/>.</para>
+				</step1>
+				<step1>
+					<para>Secure with four serviceable lockwashers <callout assocfig="M00020-9-2320-451-F0009" label="3"/> and nuts <callout assocfig="M00020-9-2320-451-F0009" label="2"/>.</para>
+				</step1>
+				
+					<figure id="M00020-9-2320-451-F0009" label="1">
+					<title>Rubber Isolator Installation</title>
+					<graphic boardno="G06232000257"></graphic>
+					</figure>
+				
+				<step1>
+					<para>Position junction box on fender and gain access underneath.</para>
+				</step1>
+				<step1>
+					<para>Secure with four serviceable lockwashers <callout assocfig="M00020-9-2320-451-F0010" label="1"/> and nuts <callout assocfig="M00020-9-2320-451-F0010" label="2"/>.</para>
+				</step1>
+				
+					<figure id="M00020-9-2320-451-F0010" label="1">
+					<title>Secure Junction Box</title>
+					<graphic boardno="G06232001036"></graphic>
+					</figure>
+				
+				<step1>
+					<para>Insert four straight adapter assemblies <callout assocfig="M00020-9-2320-451-F0011" label="1"/> and secure with retaining nut.</para>
+				</step1>
+				<step1>
+					<para>Insert 12 Volt Receptacle wiring harness bushing <callout assocfig="M00020-9-2320-451-F0011" label="2"/> and secure with retaining nut.</para>
+				</step1>
+				<step1>
+					<para>Insert four wires through straight adapters <callout assocfig="M00020-9-2320-451-F0011" label="1"/> as tagged.</para>
+				</step1>
+				
+					<figure id="M00020-9-2320-451-F0011" label="1">
+					<title>Four Straight Adapters and 12 Volt Receptacle Wiring Harness Bushing</title>
+					<graphic boardno="G06232000259"></graphic>
+					</figure>
+
+				<step1>
+					<para>Connect and secure four main wires and two jumper wires <callout assocfig="M00020-9-2320-451-F0012" label="1"/> to terminals <callout assocfig="M00020-9-2320-451-F0012" label="2"/> as tagged.</para>
+				</step1>
+				
+					<figure id="M00020-9-2320-451-F0012" label="1">
+					<title>Connect and Secure Four Wires</title>
+					<graphic boardno="G06232000254"></graphic>
+					</figure>
+
+				<step1>
+					<para>Insert 12 Volt wiring harness through bushing.</para>
+				</step1>
+			</proc>
+		</replace>
+	</maintsk>
+</maintwp>

@@ -1,0 +1,180 @@
+<maintwp chngno="0" wpno="M00080-9-2320-452">
+	<wpidinfo>
+		<maintlvl level="maintainer"/>
+		<title>MAINTAINER MAINTENANCE - AUTOMATIC SLACK ADJUSTER <?Pub _newline?>ADJUST, REPLACE</title>
+	</wpidinfo>
+	<initial_setup>
+		<tools>
+			<tools-setup-item>
+				<name>Tool Kit, Mechanics General</name>
+				<itemref>
+					<xref itemid="S00007-9-2320-451-TOOL-4" wpid="S00007-9-2320-451"/>
+				</itemref>
+			</tools-setup-item>
+		</tools>
+		<mtrlpart>
+			<mtrlpart-setup-item>
+				<name>Anti-Seize Compound</name>
+			</mtrlpart-setup-item>
+		</mtrlpart>
+		<persnreq>
+			<persnreq-setup-item>
+				<name>Motor Transport Operator</name>
+				<mos>88M</mos>
+				<qty>X</qty>
+			</persnreq-setup-item>
+		</persnreq>
+		<eqpconds>
+			<eqpconds-setup-item>
+				<condition>Tilt Deck Recovery Trailer in coupled configuration. <xref wpid="O00027-9-2320-451"/></condition>
+			</eqpconds-setup-item>
+			<eqpconds-setup-item>
+				<condition>Tires Chocked.</condition>
+			</eqpconds-setup-item>
+		</eqpconds>
+	</initial_setup>
+	<maintsk>
+		<adjust>
+			<proc>
+				<step1>
+					<specpara>
+						<warning>
+							<trim.para>Wheels on the Tilt Deck Recovery Trailer should be chocked prior to performing Slack Adjuster maintenance. Failure to comply could result in the TDRT moving unexpectedly creating a crush hazard causing serious injury or death to personnel.</trim.para>
+						</warning>
+						<para>Start prime mover IAW <extref docno="TM 9-2320-340-10"/>.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Engage trailer air supply valve IAW <extref docno="TM 9-2320-340-10"/>.</para>
+				</step1>
+				<step1>
+					<para>Gain access to Automatic Slack Adjuster.</para>
+				</step1>
+				<step1>
+					<para>Pull pawl outward and manually rotate adjustment nut until brake shoes contact brake drum.</para>
+				</step1>
+				<step1>
+					<para>Rotate adjustment nut 1/2 turn backward.</para>
+				</step1>
+			</proc>
+		</adjust>
+	</maintsk>
+	<maintsk>
+		<replace>
+			<proc>
+				<step1>
+					<specpara>
+						<warning>
+							<icon-set boardno="Heavy_Object"/>
+							<icon-set boardno="Heavy_Parts-hand"/>
+							<icon-set boardno="Heavy_Parts-foot"/>
+							<trim.para>Wheels on the Tilt Deck Recovery Trailer should be chocked prior to performing Slack Adjuster maintenance. Failure to comply could result in the TDRT moving unexpectedly creating a crush hazard causing serious injury or death to personnel.</trim.para>
+						</warning>
+						<para>Chock wheels.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Manually cage brakes.</para>
+					<step2>
+						<para>Remove caging bolt <callout assocfig="M00080-9-2320-452-F0001" label="2"/> from air brake chamber holder  <callout assocfig="M00080-9-2320-452-F0001" label="1"/> on side of air brake chamber.</para>
+					</step2>
+					<step2>
+						<para>Remove air brake chamber cap  <callout assocfig="M00080-9-2320-452-F0001" label="3"/>.</para>
+					</step2>
+					<step2>
+						<para>Insert bolt into recess and turn to lock in place.</para>
+					</step2>
+					<step2>
+						<para>Tighten nut <callout assocfig="M00080-9-2320-452-F0001" label="4"/> and washer  <callout assocfig="M00080-9-2320-452-F0001" label="5"/> on bolt until flush on air brake chamber (tight).</para>
+					</step2>
+				</step1>
+				<figure id="M00080-9-2320-452-F0001">
+					<title>Manually Caging Brakes</title>
+					<graphic boardno="G06232000426"/>
+				</figure>
+				<step1>
+					<para>Remove two cotter pins <callout assocfig="M00080-9-2320-452-F0002" label="1"/>.</para>
+				</step1>
+				<step1>
+					<para>Remove two pins <callout assocfig="M00080-9-2320-452-F0002" label="2"/>.</para>
+				</step1>
+				<figure id="M00080-9-2320-452-F0002">
+					<title>Remove Pins</title>
+					<graphic boardno="G06232000427"/>
+				</figure>
+				<step1>
+					<para>Remove snap ring <callout assocfig="M00080-9-2320-452-F0003" label="1"/>.</para>
+				</step1>
+				<figure id="M00080-9-2320-452-F0003">
+					<title>Remove Snap Ring</title>
+					<graphic boardno="G06232000428"/>
+				</figure>
+				<step1>
+					<para>Remove washer <callout assocfig="M00080-9-2320-452-F0004" label="1"/>.</para>
+				</step1>
+				<figure id="M00080-9-2320-452-F0004">
+					<title>Remove Washer</title>
+					<graphic boardno="G06232000429"/>
+				</figure>
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>Notate positioning of unserviceable Automatic Slack Adjuster prior to removal. Installation of Automatic Slack Adjuster must correspond with unserviceable item.</trim.para>
+						</note>
+						<para>Slide slack adjuster off shaft.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Obtain serviceable item.</para>
+				</step1>
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>Positioning of Automatic Slack Adjuster must correspond with unserviceable item.</trim.para>
+						</note>
+						<para>Position and align slack adjuster onto shaft </para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Install washer </para>
+				</step1>
+				<step1>
+					<para>Install snap ring flush against washer.</para>
+				</step1>
+				<step1>
+					<para>Disengage Automatic Slack Adjuster pawl <callout assocfig="M00080-9-2320-452-F0005" label="1"/></para>
+				</step1>
+				<step1>
+					<para>Rotate adjustment nut <callout assocfig="M00080-9-2320-452-F0005" label="1"/> and align automatic slack adjuster to clevis. </para>
+				</step1>
+				<figure id="M00080-9-2320-452-F0005">
+					<title>Disengage Automatic Slack Adjuster Pawl</title>
+					<graphic boardno="G06232000430"/>
+				</figure>
+				<step1>
+					<para>Install two pins <callout assocfig="M00080-9-2320-452-F0006" label="1"/>.</para>
+				</step1>
+				<step1>
+					<para>Install and secure pins with two cotter pins <callout assocfig="M00080-9-2320-452-F0006" label="2"/>.</para>
+				</step1>
+				<figure id="M00080-9-2320-452-F0006">
+					<title>Install Pins</title>
+					<graphic boardno="G06232000431"/>
+				</figure>
+				<step1>
+					<para>Loosen cage nut <callout assocfig="M00080-9-2320-452-F0007" label="1"/>.</para>
+				</step1>
+				<step1>
+					<para>Remove and stow caging bolt <callout assocfig="M00080-9-2320-452-F0007" label="2"/>.</para>
+				</step1>
+				<step1>
+					<para>Insert dust cap <callout assocfig="M00080-9-2320-452-F0007" label="3"/>.</para>
+				</step1>
+				<figure id="M00080-9-2320-452-F0007">
+					<title>Loosen Cage Nut</title>
+					<graphic boardno="G06232000432"/>
+				</figure>
+			</proc>
+		</replace>
+	</maintsk>
+</maintwp>

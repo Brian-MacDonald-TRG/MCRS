@@ -1,0 +1,49 @@
+<tswp chngno="0" wpno="T00028-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="maintainer"/>
+		<title>TROUBLESHOOTING PROCEDURES <?Pub _newline?>STROBE LIGHTS</title>
+	</wpidinfo>
+	<initial_setup>
+		<eqpconds>
+			<eqpconds-setup-item>
+				<condition>Coupling FWTRD to Prime Mover(<xref wpid="O00003-9-2320-451"/>).</condition>
+			</eqpconds-setup-item>
+		</eqpconds>
+	</initial_setup>
+	<tsproc>
+		<faultproc>
+			<title>Maintainer Troubleshooting</title>
+			<symptom>Strobe Lights do not work</symptom>
+			<malfunc label="malfunction">Voltmeter on Electric Control Box does not show a reading of 12VDC or 24VDC</malfunc>
+			<action>
+				<step1>
+					<para>Ensure 24 Volt NATO Slave Cable is connected from prime mover to FWTRD 12/24V Box.</para>
+				</step1>
+				<step1>
+					<para>Ensure that blackout lighting switch in prime mover has not been inadvertently engaged.</para>
+				</step1>
+				<step1>
+					<para>Inside the electric control box, test ON/OFF switch for power on both sides when switch is in "ON" position</para>
+				</step1>
+			</action>
+			<malfunc label="malfunction">Voltage only present on one side of the switch</malfunc>
+			<action>
+				<step1>
+					<para>Replace switch.</para>
+				</step1>
+			</action>
+			<malfunc label="malfunction">Only one Strobe Light works</malfunc>
+			<action>
+				<step1>
+					<para>Check that ground wire is securely attached to welded bolt on light bracket.</para>
+				</step1>
+				<step1>
+					<para>Replace bulbs that are burned out IAW <xref wpid="M00035-9-2320-451"/></para>
+				</step1>
+				<step1>
+					<para>Check for 12V at the red wire. If 12V present and lights do not work, replace assembly IAW <xref wpid="M00035-9-2320-451"/>.</para>
+				</step1>
+			</action>
+		</faultproc>
+	</tsproc>
+</tswp>

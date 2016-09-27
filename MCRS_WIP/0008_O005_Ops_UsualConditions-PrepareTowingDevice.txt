@@ -1,0 +1,153 @@
+<opusualwp chngno="0" wpno="O00005-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="crew"/>
+		<title>OPERATION UNDER USUAL CONDITIONS <?Pub _newline?>OPERATING PROCEDURES <?Pub _newline?>PREPARE TOWING DEVICE</title>
+	</wpidinfo>
+	<initial_setup>
+		<persnreq>
+			<persnreq-setup-item>
+				<name>Wheeled Vehicle Mechanic</name>
+				<mos>91B</mos>
+				<qty>1</qty>
+			</persnreq-setup-item>
+		</persnreq>
+		<eqpconds>
+			<eqpconds-setup-item>
+				<condition>FWTRD in coupled configuration IAW <xref wpid="O00003-9-2320-451"/></condition>
+			</eqpconds-setup-item>
+		</eqpconds>
+	</initial_setup>
+	<opertsk>
+		<oper>
+			<proc>
+				<title></title>
+				<step1>
+					<specpara>
+						<warning>
+							<icon-set boardno="Heavy_Parts-above"/>
+							<icon-set boardno="Heavy_Parts-foot"/>
+							<icon-set boardno="Heavy_Parts-hand"/>
+							<icon-set boardno="Heavy_Parts-wall"/>
+							<icon-set boardno="Helmet_Protection"/>
+							<trim.para>Ensure hydraulic protection valve is open (breather switch in line with breather (Figure 1) prior to operating hydraulics. This is for safety should the electric controls be utilized inadvertently instead of prime mover wet line system. Failure to leave breather open during operation could cause over- pressurizing of the system resulting in hydraulic line or fitting failure creating an oil spill and slip hazard. Failure to comply may result in or serious injury or death to personnel.</trim.para>
+							<trim.para>Be sure to wear the proper eye protection (safety glasses) when working on or near hydraulic systems to avoid personal injury or death. </trim.para>
+							<trim.para>Never walk under booms during any operations. A crush hazard exists. Failure to comply may cause injury or death to personnel. </trim.para>
+							<trim.para>Ensure the boom has sufficient clearance overhead prior to bringing boom into a vertical position. Interference with obstructions such as tree limbs or building structures could cause falling debris. Interference with electrical lines could create an electrocution hazard. Failure to comply may result in injury or death to personnel. Unfolding booms creates a pinch point. Keep hands out of area between booms and mast during operations. Failure to comply may result in injury or death to personnel.</trim.para>						
+						</warning>
+						<para>Start Prime Mover and engage Power Take Off IAW <extref docno="TM 9-2320-340-10"/> for the M983A4 LET.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Open Electric Control Box Step Cover.</para>
+				</step1>
+				<step1>
+					<para>Position Electric Control Box OFF/ON switch <callout assocfig="O00005-9-2320-451-F0001" label="1"/> to the ON position.</para>
+				</step1>
+				<step1>
+					<para>Position the ELECTRIC/ WET-LINE switch <callout assocfig="O00005-9-2320-451-F0001" label="2"/> to the WET-LINE position.</para>
+				</step1>
+
+					<figure id="O00005-9-2320-451-F0001">
+					<title>Electric Control Box</title>
+					<graphic boardno="G06232000070"></graphic>
+					</figure>
+
+				<step1>
+					<specpara>
+						<caution>
+							<trim.para>Do not over extend mast. This could cause damage to mast supports. Failure to comply may result in damage to equipment.</trim.para>
+						</caution>
+						<para>Using valve control levers, MAST EXTEND until there is slack in the safety chains.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Remove and stow safety chains.</para>
+				</step1>
+				<step1>
+					<para>Remove two safety clevises <callout assocfig="O00005-9-2320-451-F0002" label="1"/>.</para>
+				</step1>
+
+					<figure id="O00005-9-2320-451-F0002">
+					<title>Safety clevis and pin</title>
+					<graphic boardno="G06232000071"></graphic>
+					</figure>
+
+				<step1>
+					<para>Using valve control levers, MAST RETRACT to align pivot arrows <callout assocfig="O00005-9-2320-451-F0003" label="1"/>.</para>
+				</step1>
+
+					<figure id="O00005-9-2320-451-F0003">
+					<title>Mast Alignment for Pivot Pin Insertion</title>
+					<graphic boardno="G06232000072"></graphic>
+					</figure>
+
+				<step1>
+					<para>Insert pivot pins into aligned holes <callout assocfig="O00005-9-2320-451-F0004" label="1"/>. Do not insert spring clips into pivot pins.</para>
+				</step1>
+
+					<figure id="O00005-9-2320-451-F0004">
+					<title>Pivot Pin Insertion - Curb Side Shown.</title>
+					<graphic boardno="G06232000073"></graphic>
+					</figure>
+
+				<step1>
+					<para>Using valve control levers, MAST EXTEND to raise mast until mast is vertical and flush with fifth wheel section, and the pivot pins  <callout assocfig="O00005-9-2320-451-F0005" label="1"/> loosens.</para>
+				</step1>
+					<figure id="O00005-9-2320-451-F0005">
+					<title>Driver and Curb Side Pivot Pins</title>
+					<graphic boardno="G06232000075"></graphic>
+					</figure>
+				<step1>
+					<para>Remove pivot pins.</para>
+				</step1>
+
+				<step1>
+					<para>Using valve control levers, MAST RETRACT to lower mast until it is aligned with the second hole  <callout assocfig="O00005-9-2320-451-F0006" label="1"/>.</para>
+				</step1>
+
+					<figure id="O00005-9-2320-451-F0006">
+					<title>Mast Retracted and Aligned With Second Hole in Mast Track</title>
+					<graphic boardno="G06232000076"></graphic>
+					</figure>
+
+				<step1>
+					<specpara>
+						<warning><icon-set boardno="Heavy_Parts-above"/><icon-set boardno="Heavy_Parts-hand"/>
+							<trim.para>Do not operate boom until the safety clevises have been re-installed. If the boom is operated prior to having the mast fully in the track, the entire mast/boom assembly could pivot suddenly creating a crush hazard. Failure to comply could cause serious injury or death to personnel or damage to equipment.</trim.para>
+						</warning>
+						<para>Re-Install two safety clevises at bottom of the mast and secure with clevis pins and spring clips (Figure 7).</para>
+					</specpara>
+				</step1>
+
+					<figure id="O00005-9-2320-451-F0007">
+					<title>Safety Clevis and Pin With Spring Clips</title>
+					<graphic boardno="G06232000077"></graphic>
+					</figure>
+
+				<step1>
+					<specpara>
+						<warning>
+							<icon-set boardno="Electrical-hand"/>
+							<icon-set boardno="Electrical_Symbols"/>
+							<icon-set boardno="Heavy_Parts-above"/>
+							<icon-set boardno="Heavy_Parts-foot"/>
+							<icon-set boardno="Heavy_Parts-hand"/>
+							<icon-set boardno="Heavy_Parts-wall"/>
+							<trim.para>Never walk under booms during any operations. A crush hazard exists. Failure to comply may cause injury or death to personnel. Ensure the boom has sufficient clearance overhead prior to bringing boom into a vertical position. Interference with obstructions such as tree limbs or building structures could cause falling debris. Interference with electrical lines could create an electrocution hazard. Failure to comply may result in injury or death to personnel.</trim.para>						
+						</warning>
+						<note>
+							<trim.para>After performing the following step, if terrain is not level or interferes with booms, it is permissible to �Extend� the mast slightly to create boom clearance off the ground.</trim.para>
+						</note>
+						<para>Using valve control levers, BOOM EXTEND to lower boom approximately level to and just above ground (Figure 8).</para>
+					</specpara>
+				</step1>
+
+					<figure id="O00005-9-2320-451-F0008">
+					<title>FWTRD shown on prime mover in Prepared for Towing configuration</title>
+					<graphic boardno="G06232000078"></graphic>
+					</figure>
+
+			</proc>
+		</oper>
+	</opertsk>
+</opusualwp>

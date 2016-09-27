@@ -1,0 +1,89 @@
+<opusualwp chngno="0" wpno="O00032-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="crew"/>
+		<title>OPERATING PROCEDURES <?Pub _newline?>TRANSPORTING LOADS</title>
+	</wpidinfo>
+	<initial_setup>
+		<persnreq>
+			<persnreq-setup-item>
+				<name>Wheeled Vehicle Mechanic</name>
+				<mos>91B</mos>
+				<qty>1</qty>
+			</persnreq-setup-item>
+		</persnreq>
+	</initial_setup>
+	<opertsk>
+		<oper>
+			<proc>
+			<title>Transporting Loads</title>
+				<step1>
+					<specpara>
+						<warning>
+							<trim.para>Number 3, steps a-h must be followed to prevent unsafe conditions that could create unstable or shifting loads. Failure to comply may result in injury or death to personnel and or damage to the equipment.</trim.para>
+						</warning>
+						<para>General</para>
+					</specpara>
+					<step2>
+						<para>The XM20 Fifth Wheel Towing Device and TDRT combination, with its prime mover, will have different operational characteristics based on gross weight, differences between loaded and unloaded weight and suspension characteristics. Safe operating limits are affected by the interaction of the vehicle characteristics, load, road surface, weather, driver skill, and vehicle speed.</para>
+					</step2>
+					<step2>
+						<para>Before operating the TDRT, ensure that all operating procedures contained in this manual have been read and understood.</para>
+					</step2>
+					<step2>
+						<para>The TDRT, when coupled the XM20 Fifth Wheel Towing Device and its prime mover, acts in the same manner as a trailer. All precautions contained in the prime movers operating instructions in reference to towing a trailer apply the TDRT/FWTRD combination.</para>
+					</step2>
+				</step1>
+				<step1>
+					<specpara>
+						<warning>
+							<trim.para>Prior to transporting loads, ensure that both the transport legs of the FWTRD and the landing legs of the TDRT have been placed in the travel position. This means that the FWTRD transport leg handle is rotated fully counterclockwise and secured, and that the landing legs of the TDRT have been pinned in their upper mounting position. Failure to comply may result in injury to personnel and or damage to the equipment.</trim.para>
+						</warning>
+						<para>Pre-Trip Inspection - Certain items should be inspected prior to each trip. Appropriate procedures for services and PMCS will be completed prior to operating the TDRT/FWTRD combination.</para>
+					</specpara>
+				</step1>
+				<step1>
+						<para>Driving</para>
+					<step2>
+						<para>General.<?Pub _newline?>When driving the prime mover and the TDRT/FWTRD combination, the overall length must be kept in mind, both when passing other vehicles and when turning. Because the unit pivots at the fifth wheel, backing is also affected.</para>
+					</step2>
+					<step2>
+						<para>Road Surfaces.<?Pub _newline?>Uneven terrain, steep grades, crowned roads, and unimproved road surfaces can introduce forces that will make handling difficult. Even a vehicle that is properly maintained and loaded can be hazardous when speeds beyond approved limits and certain road conditions are combined.</para>
+					</step2>
+					<step2>
+						<para>Grades.<?Pub _newline?>Operations on grades require caution. Use the same gear in descending a long grade as when ascending. Gear selection should be made before descending a grade to minimize the chance of a missed shift. Avoid excessive use of brakes on long downgrades in order to maintain air pressure and prevent overheating of the brakes.</para>
+					</step2>
+					<step2>
+						<para>Side Slopes.<?Pub _newline?>This device is not recommended to be loaded on an excessive side slopes. (beyond 30&deg;) The FWTRD/TDRT combination can be safely operated, with or without payloads, on side slopes commonly encountered on highways or unimproved roads.</para>
+					</step2>
+					<step2>
+						<specpara>
+							<warning>
+								<trim.para>DO NOT over steer during small radius turns. Know the position of the fifth wheel towing and recovery device in conjunction with the prime mover. Failure to comply may result in vehicle between the fifth wheel towing device and the prime mover and may cause damage to the equipment.</trim.para>
+							</warning>
+							<para>Turning.<?Pub _newline?>When turning corners, allow extra room. The towed trailer wheels will follow a track that is inside the radius of the prime mover wheels. For right turns, drive about halfway into the intersection and then cut sharply to the right. The forces affecting the stability of a tractor combination are increased during a turn. The smaller the radius, the greater the force trying to pull the vehicle over. Therefore, the tighter the curve, the slower the speed must be in order to avoid a rollover.</para>
+						</specpara>
+					</step2>
+					<step2>
+						<specpara>
+							<warning>
+								<trim.para>Stopping distances greatly increase when the towed vehicle has nonfunctioning brakes. Care should be taken to ensure adequate stopping distance is obtained and speed is adjusted to accommodate extra distance needed. Failure to comply could result in loss of control of the prime mover resulting in injury or death to personnel and or damage to the equipment. Transporting a load on the TDRT with the TDRT brakes non-functioning is prohibited. Failure to comply may result in injury or death to personnel.</trim.para>
+							</warning>
+							<para>Stopping.<?Pub _newline?>In normal operation, brake pressure should be applied gradually and smoothly. Selecting a lower gear before beginning a long downgrade is the safest, most effective way to maintain control of the vehicle combination.</para>
+						</specpara>
+					</step2>
+					<step2>
+						<para>Parking.<?Pub _newline?>When the prime mover and the TDRT/FWTRD are to be parked and left unattended, set the parking brake on the prime mover and place chock blocks in front and behind the wheels to prevent rolling.</para>
+					</step2>
+					<step2>
+						<specpara>
+							<warning>
+								<trim.para>Visibility from the prime mover is significantly reduced when backing, whether the TDRT/HMRT is loaded or not. If backing the TDRT is required, it should be done by two people, the first person in the prime mover cab and the second acting as a ground guide. The person in the prime mover cab must keep the ground guide in sight at all times. All other personnel should stand completely clear of the area. A crush hazard exists. Failure to comply may result in serious injury or death to personnel.</trim.para>
+							</warning>
+							<para>Backing.<?Pub _newline?>When backing, use the assistant driver as a ground guide. Adjust rear view mirrors before backing. Use slow speed and extreme caution when backing this combination.</para>
+						</specpara>
+					</step2>
+				</step1>
+			</proc>
+		</oper>
+	</opertsk>
+</opusualwp>

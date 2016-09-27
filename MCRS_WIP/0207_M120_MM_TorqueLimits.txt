@@ -1,0 +1,649 @@
+<torquewp chngno="0" wpno="M00120-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="maintainer"/>
+		<title></title>
+	</wpidinfo>
+	<intro>
+		<para0>
+			<title>SCOPE</title>
+			<para>This Work Package (WP) lists standard torque values and provides
+				general information for applying torque. Special torque values and
+				tightening sequences are indicated in the maintenance procedures for
+				applicable components.
+			</para>
+		</para0>
+	</intro>
+	<torqueval>
+		<proc>
+			<title>General</title>
+			<step1>
+				<para>Always use torque values listed in Tables 2 and 3 when a maintenance
+					procedure does not give a specific torque value.
+				</para>
+				<step2>
+					<para>Table 2 provides torque limits for SAE standard fasteners.</para>
+				</step2>
+				<step2>
+					<para>Table 3 provides torque limits for metric fasteners.</para>
+				</step2>
+			</step1>
+			<step1>
+				<para>Unless otherwise indicated, standard torque tolerance shall
+					be plus or minus 10 percent.
+				</para>
+			</step1>
+			<step1>
+				<specpara>
+					<caution>
+						<trim.para>If replacement capscrews are of higher grade than originally
+							supplied, use torque specifications for the original. Failure to comply
+							may result in damage to equipment due to overtorquing.
+						</trim.para>
+					</caution>
+					<para>Torque values listed are based on clean, dry threads. Reduce
+						torque by 10 percent when engine oil is used as a lubricant. Reduce
+						torque by 20 percent if new plated capscrews are used.
+					</para>
+				</specpara>
+			</step1>
+		</proc>
+		<proc>
+			<title>Tightening Metal Fasteners</title>
+			<para>
+				When torquing a fastener, select a wrench with a range
+				that 				fits the required torque value. A torque wrench is most accurate
+				at 				25 to 75 percent of its stated range. A wrench with a stated
+				range 				of 0 to 100 lb-ft (0 to 136 N&bull;m) will be most accurate
+				at 25 				to 75 lb-ft (34 to 102 Nm). The accuracy of readings will
+				decrease 				as you approach 0 lb-ft or 100 lb-ft (136 N&bull;m).
+				Ranges in Table 				1 are based on this principle. 				
+				<table>
+					<title>Metal Fasteners</title>
+					<tgroup cols="4">
+						<colspec colname="col1" colwidth="1.00*"/>
+						<colspec
+							colname="COLSPEC1" colwidth="1.00*"/>
+						<colspec colname="col2"/>
+						<colspec
+							colname="COLSPEC0"/>
+						<tbody>
+							<row>
+								<entry align="center" nameend="COLSPEC1" namest="col1"
+									>STATED RANGE</entry>
+								<entry align="center" nameend="COLSPEC0"
+									namest="col2">MOST EFFECTIVE RANGE</entry>
+							</row>
+							<row>
+								<entry
+									align="center">0 to 200 lb-in.</entry>
+								<entry align="center">(0 to
+									23 Nm)
+								</entry>
+								<entry align="center">50 to 150 lb-in.</entry>
+								<entry
+									align="center">(6 to 17 Nm)</entry>
+							</row>
+							<row>
+								<entry align="center"
+									>0 to 600 lb-ft</entry>
+								<entry align="center">(0 to 813 Nm)</entry>
+								<entry align="center">150 to 450 lb-ft</entry>
+								<entry align="center"
+									>(203 to 610 Nm)</entry>
+							</row>
+							<row>
+								<entry align="center">0 to 170
+									lb-ft
+								</entry>
+								<entry align="center">(0 to 230 Nm)</entry>
+								<entry
+									align="center">43 to 128 lb-ft</entry>
+								<entry align="center">(58 to
+									174 Nm)
+								</entry>
+							</row>
+							<row>
+								<entry align="center">15 to 75 lb-ft</entry>
+								<entry align="center">(20 to 102 Nm)</entry>
+								<entry align="center"
+									>30 to 60 lb-ft</entry>
+								<entry align="center">(41 to 81 Nm)</entry>
+							</row>
+						</tbody>
+					</tgroup>
+				</table>
+			</para>
+		</proc>
+		<proc>
+			<title>Torque Conversion Formulas</title>
+			<para>
+				When an extension such as a crowfoot or other adapter is added
+				to a torque wrench, the extension changes the distance (radius). A
+				mathematical formula is now used to determine the correct torque readings
+				on the torque wrench to compensate for the added length.<?Pub _newline
+					?> 			
+				<figure id="M00120-9-2320-451-F0002">
+					<title>Torque Wrench Formulas</title>
+					<graphic boardno="G06232000679"></graphic>
+				</figure>
+				Should it be necessary, due to obstructions, to have
+				an angle between the two axes, then the above formula is modified
+				as follows. Due to increasing rounding errors, keep the angle as small
+				as possible.<?Pub _newline?> 			
+				<randlist>
+					<item>A, B, C, D, and P are the same as above.</item>
+					<item>E = Effective moment arm of the extension</item>
+					<item>0 = Angle between extension axis and torque wrench axis</item>
+					<item>E = (B) (COS 0)</item>
+				</randlist>
+				Therefore:<?Pub _newline?> 			
+				<randlist>
+					<item>C = (D*A) / (A+(B*COS 0))</item>
+					<item>When 0 = 0, COS 0 = 1, then equation is reduced to C = (D*A)
+						/ (A+B)
+					</item>
+					<item>When 0 = 90 degrees, COS 0 = 0, then C = D (regardless of the
+						length B)
+					</item>
+				</randlist>
+			</para>
+		</proc>
+		<proc>
+			<title>Installation and Torquing</title>
+			<step1>
+				<para>Matching Nuts. Matching nuts require a minimum height equal
+					to the basic diameter of the bolt. The same is true of tapped holes.
+					In tapped softer materials, the depth of the tapped hole should be
+					1-1/2 times the basic diameter of the bolt.
+				</para>
+			</step1>
+			<step1>
+				<para>Threaded Protrusion. In all installations, bolts, studs, and
+					screws must extend through the nut at least a length equivalent to
+					two complete threads. This applies to both locknuts and plain nuts.
+				</para>
+			</step1>
+			<step1>
+				<para>Torquing Locknuts. To obtain the correct recommended torque
+					value on locknuts, the nut must be tightened until it is one turn
+					from the beginning of seating. At this point, if the torque is less
+					than 1/3 of the recommended torque, it should be disregarded and the
+					nut tightened to the recommended torque value. If the torque is 1/3
+					or more of the recommended torque, it should be added to the recommended
+					torque. Example: the recommended torque is 50 to 70 lb-in (6 to 8
+					N&bull;m). The torque at one turn from seating is 30 lb-in (3 N&bull;m).
+					The correct torque wrench reading would be 80 to 100 lb-in (9 to 11
+					N&bull;m).
+				</para>
+			</step1>
+			<step1>
+				<para>Retorquing Fasteners. Procedures intended for installing metal
+					fasteners can cause incorrect readings when used to check or retorque
+					already installed fasteners during maintenance. Before checking or
+					retorquing an already installed threaded fastener, first mark the
+					fastener and its companion components so the marks are in line. Second,
+					back it off 1/4 turn to loosen it. Torque it to the specification
+					with an even steady pull on the torque wrench. The marks should be
+					in line; if not, the marks will indicate the fastener was undertorqued
+					or overtorqued.
+				</para>
+			</step1>
+			<step1>
+				<para>Standard Torque Charts. Standard torque charts have been established
+					for Dry and Wet torque conditions. Surface variations such as thread
+					roughness, scale paint, lubrication (oil, grease, etc.), hardening,
+					and plating may alter these values considerably. Tables 2 and 3 are
+					standard torque charts.
+				</para>
+			</step1>
+			<step1>
+				<para>Grade. To find the grade of the screw that is to be installed,
+					match the markings on the head to the correct picture of Capscrew
+					Head Markings in Tables 2 and 3. Manufacturers' marks may vary.
+				</para>
+			</step1>
+			<?Pub _newpage?>
+			<table>
+				<title>Torque Limits - SAE Standard Fasteners</title>
+				<tgroup cols="10">
+					<?PubTbl tgroup dispwid="918.00px"?>
+					<colspec colname="col1" colwidth="1.56*"/>
+					<colspec colname="COLSPEC0"
+						colwidth="1.53*"/>
+					<colspec colname="col2" colwidth="1.56*"/>
+					<colspec
+						colname="COLSPEC1" colwidth="1.53*"/>
+					<colspec colname="col3"
+						colwidth="1.52*"/>
+					<colspec colname="COLSPEC2" colwidth="1.58*"/>
+					<colspec colname="col4" colwidth="1.52*"/>
+					<colspec colname="COLSPEC3"
+						colwidth="1.48*"/>
+					<colspec colname="col5" colwidth="1.55*"/>
+					<colspec
+						colname="COLSPEC4" colwidth="1.50*"/>
+					<tbody>
+						<row>
+							<entry align="center" nameend="COLSPEC0" namest="col1"
+								>QUALITY OF MATERIAL</entry>
+							<entry align="center" nameend="COLSPEC1"
+								namest="col2">INDETERMINATE</entry>
+							<entry align="center"
+								nameend="COLSPEC2" namest="col3">MINIMUM COMMERCIAL</entry>
+							<entry
+								align="center" nameend="COLSPEC3" namest="col4">MEDIUM</entry>
+							<entry
+								align="center" nameend="COLSPEC4" namest="col5">BEST COMMERCIAL</entry>
+						</row>
+						<row>
+							<entry align="left" nameend="COLSPEC0" namest="col1">SAE
+								Grade Number
+							</entry>
+							<entry align="center" nameend="COLSPEC1"
+								namest="col2">1 or 2</entry>
+							<entry align="center" nameend="COLSPEC2"
+								namest="col3">5</entry>
+							<entry align="center" nameend="COLSPEC3"
+								namest="col4">6 or 7</entry>
+							<entry align="center" nameend="COLSPEC4"
+								namest="col5">8</entry>
+						</row>
+						<row>
+							<entry align="left" nameend="COLSPEC0"
+								namest="col1">Capscrew Head Markings</entry>
+							<entry align="center"
+								morerows="2" nameend="COLSPEC1" namest="col2">
+									<graphic boardno="G06232001004"></graphic>
+							</entry>
+							<entry align="center" morerows="2" nameend="COLSPEC2"
+								namest="col3">
+									<graphic boardno="G06232001005"></graphic>
+							</entry>
+							<entry align="center" morerows="2" nameend="COLSPEC3"
+								namest="col4">
+									<graphic boardno="G06232001006"></graphic>
+							</entry>
+							<entry align="center" morerows="2" nameend="COLSPEC4"
+								namest="col5">
+									<graphic boardno="G06232001007"></graphic>
+							</entry>
+						</row>
+						<row>
+							<entry align="left" nameend="COLSPEC0"
+								namest="col1">Manufacturers' marks may vary</entry>
+						</row>
+						<row>
+							<entry
+								align="left" nameend="COLSPEC0" namest="col1">These are all SAE Grade
+								5 (3 line)
+							</entry>
+						</row>
+						<row>
+							<entry align="center" nameend="COLSPEC0"
+								namest="col1">CAPSCREW BODY SIZE IN. - THREAD</entry>
+							<entry
+								nameend="COLSPEC1" namest="col2">TORQUE LB-FT (N&bull;m)</entry>
+							<entry
+								align="center" nameend="COLSPEC2" namest="col3">TORQUE LB-FT (N&bull;m)</entry>
+							<entry align="center" nameend="COLSPEC3" namest="col4">TORQUE LB-FT
+								(N&bull;m)
+							</entry>
+							<entry align="center" nameend="COLSPEC4" namest="col5"
+								>TORQUE LB-FT (N&bull;m)</entry>
+						</row>
+						<row>
+							<entry align="center"
+								colsep="0">1/4</entry>
+							<entry align="center">20<?Pub _newline?>28</entry>
+							<entry align="center" colsep="0">5<?Pub _newline?>6</entry>
+							<entry
+								align="center">(7)<?Pub _newline?>(8)</entry>
+							<entry align="center"
+								colsep="0">8<?Pub _newline?>10</entry>
+							<entry align="center">(11)<?Pub
+								_newline?>(14)</entry>
+							<entry align="center" colsep="0">10</entry>
+							<entry
+								align="center">(14)</entry>
+							<entry align="center" colsep="0">12<?Pub _newline
+								?>14</entry>
+							<entry align="center">(16)<?Pub _newline?>(19)</entry>
+						</row>
+						<row>
+							<entry align="center" colsep="0">5/16</entry>
+							<entry align="center"
+								>18<?Pub _newline?>24</entry>
+							<entry align="center" colsep="0">11<?Pub
+								_newline?>13</entry>
+							<entry align="center">(15)<?Pub _newline?>(18)</entry>
+							<entry align="center" colsep="0">17<?Pub _newline?>19</entry>
+							<entry
+								align="center">(23)<?Pub _newline?>(26)</entry>
+							<entry align="center"
+								colsep="0">19</entry>
+							<entry align="center">(26)</entry>
+							<entry
+								align="center" colsep="0">24<?Pub _newline?>27</entry>
+							<entry
+								align="center">(33)<?Pub _newline?>(37)</entry>
+						</row>
+						<row>
+							<entry
+								align="center" colsep="0">3/8</entry>
+							<entry align="center">16<?Pub _newline
+								?>24</entry>
+							<entry align="center" colsep="0">18<?Pub _newline?>20</entry>
+							<entry align="center">(24)<?Pub _newline?>(27)</entry>
+							<entry
+								align="center" colsep="0">31<?Pub _newline?>35</entry>
+							<entry
+								align="center">(42)<?Pub _newline?>(47)</entry>
+							<entry align="center"
+								colsep="0">34</entry>
+							<entry align="center">(46)</entry>
+							<entry
+								align="center" colsep="0">44<?Pub _newline?>49</entry>
+							<entry
+								align="center">(60)<?Pub _newline?>(66)</entry>
+						</row>
+						<row>
+							<entry
+								align="center" colsep="0">7/16</entry>
+							<entry align="center">14<?Pub _newline
+								?>20</entry>
+							<entry align="center" colsep="0">28<?Pub _newline?>30</entry>
+							<entry align="center">(38)<?Pub _newline?>(41)</entry>
+							<entry
+								align="center" colsep="0">49<?Pub _newline?>55</entry>
+							<entry
+								align="center">(66)<?Pub _newline?>(75)</entry>
+							<entry align="center"
+								colsep="0">55</entry>
+							<entry align="center">(75)</entry>
+							<entry
+								align="center" colsep="0">70<?Pub _newline?>78</entry>
+							<entry
+								align="center">(95)<?Pub _newline?>(106)</entry>
+						</row>
+						<row>
+							<entry
+								align="center" colsep="0">1/2</entry>
+							<entry align="center">13<?Pub _newline
+								?>20</entry>
+							<entry align="center" colsep="0">39<?Pub _newline?>41</entry>
+							<entry align="center">(53)<?Pub _newline?>(56)</entry>
+							<entry
+								align="center" colsep="0">75<?Pub _newline?>85</entry>
+							<entry
+								align="center">(102)<?Pub _newline?>(115)</entry>
+							<entry align="center"
+								colsep="0">85</entry>
+							<entry align="center">(115)</entry>
+							<entry
+								align="center" colsep="0">105<?Pub _newline?>120</entry>
+							<entry
+								align="center">(142)<?Pub _newline?>(163)</entry>
+						</row>
+						<row>
+							<entry
+								align="center" colsep="0">9/16</entry>
+							<entry align="center">12<?Pub _newline
+								?>18</entry>
+							<entry align="center" colsep="0">51<?Pub _newline?>55</entry>
+							<entry align="center">(69)<?Pub _newline?>(75)</entry>
+							<entry
+								align="center" colsep="0">110<?Pub _newline?>120</entry>
+							<entry
+								align="center">(149)<?Pub _newline?>(163)</entry>
+							<entry align="center"
+								colsep="0">120</entry>
+							<entry align="center">(163)</entry>
+							<entry
+								align="center" colsep="0">155<?Pub _newline?>170</entry>
+							<entry
+								align="center">(210)<?Pub _newline?>(231)</entry>
+						</row>
+						<row>
+							<entry
+								align="center" colsep="0">5/8</entry>
+							<entry align="center">11<?Pub _newline
+								?>18</entry>
+							<entry align="center" colsep="0">83<?Pub _newline?>95</entry>
+							<entry align="center">(113)<?Pub _newline?>(129)</entry>
+							<entry
+								align="center" colsep="0">150<?Pub _newline?>170</entry>
+							<entry
+								align="center">(203)<?Pub _newline?>(231)</entry>
+							<entry align="center"
+								colsep="0">167</entry>
+							<entry align="center">(226)</entry>
+							<entry
+								align="center" colsep="0">210<?Pub _newline?>240</entry>
+							<entry
+								align="center">(285)<?Pub _newline?>(325)</entry>
+						</row>
+						<row>
+							<entry
+								align="center" colsep="0">3/4</entry>
+							<entry align="center">10<?Pub _newline
+								?>16</entry>
+							<entry align="center" colsep="0">105<?Pub _newline?>115</entry>
+							<entry align="center">(142)<?Pub _newline?>(156)</entry>
+							<entry
+								align="center" colsep="0">270<?Pub _newline?>295</entry>
+							<entry
+								align="center">(366)<?Pub _newline?>(400)</entry>
+							<entry align="center"
+								colsep="0">280</entry>
+							<entry align="center">(380)</entry>
+							<entry
+								align="center" colsep="0">375<?Pub _newline?>420</entry>
+							<entry
+								align="center">(508)<?Pub _newline?>(569)</entry>
+						</row>
+						<row>
+							<entry
+								align="center" colsep="0">7/8</entry>
+							<entry align="center">9<?Pub _newline
+								?>14</entry>
+							<entry align="center" colsep="0">160<?Pub _newline?>175</entry>
+							<entry align="center">(217)<?Pub _newline?>(237)</entry>
+							<entry
+								align="center" colsep="0">395<?Pub _newline?>435</entry>
+							<entry
+								align="center">(536)<?Pub _newline?>(590)</entry>
+							<entry align="center"
+								colsep="0">440</entry>
+							<entry align="center">(597)</entry>
+							<entry
+								align="center" colsep="0">605<?Pub _newline?>675</entry>
+							<entry
+								align="center">(820)<?Pub _newline?>(915)</entry>
+						</row>
+						<row>
+							<entry
+								align="center" colsep="0">1</entry>
+							<entry align="center">8<?Pub _newline
+								?>14</entry>
+							<entry align="center" colsep="0">235<?Pub _newline?>250</entry>
+							<entry align="center">(319)<?Pub _newline?>(339)</entry>
+							<entry
+								align="center" colsep="0">590<?Pub _newline?>660</entry>
+							<entry
+								align="center">(800)<?Pub _newline?>(895)</entry>
+							<entry align="center"
+								colsep="0">660</entry>
+							<entry align="center">(895)</entry>
+							<entry
+								align="center" colsep="0">910<?Pub _newline?>990</entry>
+							<entry
+								align="center">(1,234)<?Pub _newline?>(1,342)</entry>
+						</row>
+					</tbody>
+				</tgroup>
+			</table>
+			<?Pub _newpage?>
+			<table>
+				<title>Torque Limits - Metric Fasteners</title>
+				<tgroup cols="5">
+					<colspec colname="col1"/>
+					<colspec colname="col2"/>
+					<colspec colname="COLSPEC5"/>
+					<colspec colname="col3"/>
+					<colspec
+						colname="COLSPEC6"/>
+					<tbody>
+						<row>
+							<entry align="center" morerows="1">THREAD DIAMETER-PITCH</entry>
+							<entry align="center">
+									<graphic boardno="G06232001000"></graphic>
+							</entry>
+							<entry align="center">
+									<graphic boardno="G06232001001"></graphic>
+							</entry>
+							<entry align="center">
+									<graphic boardno="G06232001002"></graphic>
+							</entry>
+							<entry align="center">
+									<graphic boardno="G06232001003"></graphic>
+							</entry>
+						</row>
+						<row>
+							<entry align="right" colsep="0">TORQUE</entry>
+							<entry align="left">LB-FT (N&bull;m)</entry>
+							<entry align="right"
+								colsep="0">TORQUE</entry>
+							<entry align="left">LB-FT (N&bull;m)</entry>
+						</row>
+					</tbody>
+				</tgroup>
+				<tgroup cols="5">
+					<colspec colname="col1"/>
+					<colspec colname="col2"/>
+					<colspec colname="col3"/>
+					<colspec colname="col4"/>
+					<colspec
+						align="center" colname="col5"/>
+					<tbody>
+						<row>
+							<entry align="center">M6<?Pub _newline?>  M8<?Pub _newline
+								?>  M8 x 1</entry>
+							<entry align="center" colsep="0">5<?Pub _newline
+								?> 12<?Pub _newline?> 13<?Pub _newline?></entry>
+							<entry align="center"
+								>(7)<?Pub _newline?>(16)<?Pub _newline?>(18)</entry>
+							<entry
+								align="center" colsep="0">7<?Pub _newline?> 17<?Pub _newline?> 18</entry>
+							<entry>(9)<?Pub _newline?>(23)<?Pub _newline?>(24)</entry>
+						</row>
+						<row>
+							<entry align="center">M10<?Pub _newline?> M10 x 1.25</entry>
+							<entry
+								align="center" colsep="0">24<?Pub _newline?>27</entry>
+							<entry
+								align="center">(33)<?Pub _newline?>(37)</entry>
+							<entry align="center"
+								colsep="0">35<?Pub _newline?>38</entry>
+							<entry>(46)<?Pub _newline?>(52)</entry>
+						</row>
+						<row>
+							<entry align="center">M12<?Pub _newline?> M12 x 1.5</entry>
+							<entry align="center" colsep="0">42<?Pub _newline?>43</entry>
+							<entry
+								align="center">(57)<?Pub _newline?>(58)</entry>
+							<entry align="center"
+								colsep="0">60<?Pub _newline?>62</entry>
+							<entry>(81)<?Pub _newline?>(84)</entry>
+						</row>
+						<row>
+							<entry align="center">M14 <?Pub _newline?>M14 x 1.5</entry>
+							<entry align="center" colsep="0">66<?Pub _newline?>72</entry>
+							<entry
+								align="center">(89)<?Pub _newline?>(98)</entry>
+							<entry align="center"
+								colsep="0">95<?Pub _newline?>103</entry>
+							<entry>(129)<?Pub _newline
+								?>(140)</entry>
+						</row>
+						<row>
+							<entry align="center">M16<?Pub _newline
+								?> M16 x 1.5</entry>
+							<entry align="center" colsep="0">103<?Pub _newline
+								?>110</entry>
+							<entry align="center">(140)<?Pub _newline?>(149)</entry>
+							<entry align="center" colsep="0">148<?Pub _newline?>157</entry>
+							<entry
+								>(201)<?Pub _newline?>(213)</entry>
+						</row>
+						<row>
+							<entry align="center"
+								>M18<?Pub _newline?> M18 x 1.5</entry>
+							<entry align="center" colsep="0"
+								>147<?Pub _newline?>165</entry>
+							<entry align="center">(199)<?Pub _newline
+								?>(224)</entry>
+							<entry align="center" colsep="0">203<?Pub _newline
+								?>229</entry>
+							<entry>(275)<?Pub _newline?>(310)</entry>
+						</row>
+						<row>
+							<entry
+								align="center">M20 <?Pub _newline?>M20 x 1.5</entry>
+							<entry
+								align="center" colsep="0">208<?Pub _newline?>213</entry>
+							<entry
+								align="center">(282)<?Pub _newline?>(313)</entry>
+							<entry align="center"
+								colsep="0">288<?Pub _newline?>320</entry>
+							<entry>(390)<?Pub _newline
+								?>(434)</entry>
+						</row>
+						<row>
+							<entry align="center">M22<?Pub _newline
+								?> M22 x 1.5</entry>
+							<entry align="center" colsep="0">283<?Pub _newline
+								?>315</entry>
+							<entry align="center">(384)<?Pub _newline?>(427)</entry>
+							<entry align="center" colsep="0">392<?Pub _newline?>431</entry>
+							<entry
+								>(531)<?Pub _newline?>(584)</entry>
+						</row>
+						<row>
+							<entry align="center"
+								>M24<?Pub _newline?> M24 x 2</entry>
+							<entry align="center" colsep="0"
+								>360<?Pub _newline?>392</entry>
+							<entry align="center">(488)<?Pub _newline
+								?>(531)</entry>
+							<entry align="center" colsep="0">498<?Pub _newline
+								?>542</entry>
+							<entry>(675)<?Pub _newline?>(735)</entry>
+						</row>
+						<row>
+							<entry
+								align="center">M27<?Pub _newline?> M27 x 2</entry>
+							<entry align="center"
+								colsep="0">527<?Pub _newline?>569</entry>
+							<entry align="center">(715)<?Pub
+								_newline?>(771)</entry>
+							<entry align="center" colsep="0">729<?Pub _newline
+								?>788</entry>
+							<entry>(988)<?Pub _newline?>(1,068)</entry>
+						</row>
+						<row>
+							<entry align="center">M30 <?Pub _newline?>M30 x 2</entry>
+							<entry
+								align="center" colsep="0">715<?Pub _newline?>792</entry>
+							<entry
+								align="center">(969)<?Pub _newline?>(1,074)</entry>
+							<entry align="center"
+								colsep="0">990<?Pub _newline?>1,096</entry>
+							<entry>(1,342)<?Pub _newline
+								?>(1,486)</entry>
+						</row>
+					</tbody>
+				</tgroup>
+			</table>
+		</proc>
+	</torqueval>
+</torquewp>

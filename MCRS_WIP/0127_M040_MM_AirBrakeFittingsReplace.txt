@@ -1,0 +1,178 @@
+<maintwp chngno="0" wpno="M00040-9-2320-451"><?Pub Dtl?>
+	<wpidinfo>
+		<maintlvl level="maintainer"/>
+			<title>MAINTAINER MAINTENANCE - AIR BRAKE FITTINGS REPLACE</title>
+	</wpidinfo>
+	<initial_setup>
+		<tools>
+			<tools-setup-item>
+				<name>Tool Kit, General Mechanics</name>
+				<itemref>
+					<xref itemid="S00007-9-2320-451-TOOL-4" wpid="S00007-9-2320-451"/>
+				</itemref>
+			</tools-setup-item>
+		</tools>
+		<mtrlpart>
+			<mtrlpart-setup-item>
+				<name>TAPE,ANTISEIZING</name>
+				<itemref>
+					<xref itemid="S00006-9-2320-451-0019" wpid="S00006-9-2320-451"/>
+				</itemref>
+			</mtrlpart-setup-item>
+			<mtrlpart-setup-item>
+				<name>STRAP,TIEDOWN,ELECTRICAL COMPONENT</name>
+				<itemref>
+					<xref itemid= "S00006-9-2320-451-0017" wpid="S00006-9-2320-451"/>
+				</itemref>
+			</mtrlpart-setup-item>
+			<mtrlpart-setup-item>
+				<name>Tubing, non-metallic</name>
+			</mtrlpart-setup-item>
+			<mtrlpart-setup-item>
+				<name>Insert (8) (414506C1)</name>
+			</mtrlpart-setup-item>
+		</mtrlpart>
+		<persnreq>
+			<persnreq-setup-item>
+				<name>Motor Transport Operator</name>
+				<mos>88M</mos>
+				<qty>1</qty>
+			</persnreq-setup-item>
+		</persnreq>
+		<eqpconds>
+			<eqpconds-setup-item>
+				<condition>Fifth Wheel Towing and Recovery Device in Uncoupled Configuration <xref wpid="O00029-9-2320-451"/>.</condition>
+			</eqpconds-setup-item>
+			<eqpconds-setup-item>
+				<condition>Gladhands removed.</condition>
+			</eqpconds-setup-item>
+		</eqpconds>
+	</initial_setup>
+	<maintsk>
+		<replace>
+			<proc>
+				<step1>
+					<specpara>
+						<caution>
+							<trim.para>Failure to cap or plug hose connections to prevent contamination may result in damage to equipment.</trim.para>
+						</caution>
+						<para>Remove gladhand retaining nut <callout assocfig="M00040-9-2320-451-F0001" label="1"/> from straight adapter <callout assocfig="M00040-9-2320-451-F0001" label="2"/> or 45&deg; fitting <callout assocfig="M00040-9-2320-451-F0002" label="3"/>.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>This work package describes replacement of all fittings. Fittings can be replaced individually as required.</trim.para>
+							<trim.para>Gladhand connections on prime mover side have straight adapters. Gladhand connections on towed vehicle side have 45&deg; fittings. Perform step 2 for prime mover side and step 3 for towed vehicle side.</trim.para>
+						</note>
+						<para>Remove straight adapter <callout assocfig="M00040-9-2320-451-F0001" label="2"/> from air hose <callout assocfig="M00040-9-2320-451-F0001" label="4"/> and remove insert <callout assocfig="M00040-9-2320-451-F0001" label="5"/>. Discard insert.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Remove 45&deg; compression fitting <callout assocfig="M00040-9-2320-451-F0001" label="3"/> from air hose and remove insert. Discard insert.</para>
+				</step1>
+
+					<figure id="M00040-9-2320-451-F0001">
+					<title>Air Brake Fittings Assembly</title>
+					<graphic boardno="G06232000291"></graphic>
+					</figure>
+
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>Tag brake hoses and connection points prior to disconnecting. Note location of plastic cable ties prior to removal. Remove plastic cable ties as required. Air hoses are not ordinarily removed except if they need to be replaced.</trim.para>
+						</note>
+						<para>Remove screw <callout assocfig="M00040-9-2320-451-F0002" label="6"/>, flat washer <callout assocfig="M00040-9-2320-451-F0002" label="7"/>, loop clamp <callout assocfig="M00040-9-2320-451-F0002" label="8"/>, spacer <callout assocfig="M00040-9-2320-451-F0002" label="9"/>, loop clamp <callout assocfig="M00040-9-2320-451-F0002" label="8"/>, lockwasher <callout assocfig="M00040-9-2320-451-F0002" label="10"/>, flat washer <callout assocfig="M00040-9-2320-451-F0002" label="11"/>, and nut <callout assocfig="M00040-9-2320-451-F0002" label="12"/> from frame. Discard lockwasher.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Remove all loop clamps from hoses <callout assocfig="M00040-9-2320-451-F0002" label="4"/>.</para>
+				</step1>
+				<step1>
+					<para>Remove two hoses from 45&deg; fittings <callout assocfig="M00040-9-2320-451-F0002" label="13"/>. Remove insert <callout assocfig="M00040-9-2320-451-F0002" label="5"/>. Discard insert.</para>
+				</step1>
+				<step1>
+					<para>Remove two 45&deg; fittings from two reducers <callout assocfig="M00040-9-2320-451-F0002" label="14"/>.</para>
+				</step1>
+				<step1>
+					<para>Remove two reducers from air brake protection valve <callout assocfig="M00040-9-2320-451-F0002" label="15"/>.</para>
+				</step1>
+				<step1>
+					<para>Remove hose from straight adapter <callout assocfig="M00040-9-2320-451-F0002" label="16"/>. Remove insert. Discard insert.</para>
+				</step1>
+				<step1>
+					<para>Remove straight adapter from air brake protection valve.</para>
+				</step1>
+				<step1>
+					<para>Remove brass elbow <callout assocfig="M00040-9-2320-451-F0002" label="17"/> and hose from air brake protection valve. Remove insert. Discard insert.</para>
+				</step1>
+					
+					<figure id="M00040-9-2320-451-F0002">
+					<title>Air Brake Fittings Removal</title>
+					<graphic boardno="G06232001038"></graphic>
+					</figure>
+
+				<step1>
+					<specpara>
+						<caution>
+							<trim.para>DO NOT remove caps or plugs from hoses until installation. Removing caps or plugs may result in contamination of brake system and damage to equipment.</trim.para>
+						</caution>
+						<note>
+							<trim.para>Apply thread sealing compound to threads before connecting. Install plastic cable ties as required. Air hoses must be tightly attached and connected.</trim.para>
+						</note>
+						<note>
+							<trim.para>Inspect brake air hoses and fittings for cracks, kinks, nicks, stripped threads, and cuts. Damaged air hoses that may fail must be replaced.</trim.para>
+						</note>
+						<para>Install brass elbow <callout assocfig="M00040-9-2320-451-F0003" label="17"/> on air brake protection valve <callout assocfig="M00040-9-2320-451-F0003" label="15"/>.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Install serviceable insert <callout assocfig="M00040-9-2320-451-F0003" label="5"/> into hose <callout assocfig="M00040-9-2320-451-F0003" label="4"/> and install hose onto brass bushing.</para>
+				</step1>
+				<step1>
+					<para>Install straight adapter <callout assocfig="M00040-9-2320-451-F0003" label="16"/> on air brake protection valve.</para>
+				</step1>
+				<step1>
+					<para>Install serviceable insert into hose and install hose onto straight adapter.</para>
+				</step1>
+				<step1>
+					<para>Install reducer <callout assocfig="M00040-9-2320-451-F0003" label="14"/> on air brake protection valve.</para>
+				</step1>
+				<step1>
+					<para>Install two 45&deg; fittings <callout assocfig="M00040-9-2320-451-F0003" label="13"/> on reducer <callout assocfig="M00040-9-2320-451-F0003" label="14"/>.</para>
+				</step1>
+				<step1>
+					<para>Install serviceable insert into hose and install hoses onto 45&deg; fittings.</para>
+				</step1>
+				<step1>
+					<para>Position loop clamps <callout assocfig="M00040-9-2320-451-F0003" label="8"/> on hoses and secure with screw <callout assocfig="M00040-9-2320-451-F0003" label="6"/>, flat washer <callout assocfig="M00040-9-2320-451-F0003" label="7"/>, spacer <callout assocfig="M00040-9-2320-451-F0003" label="9"/>, flat washer <callout assocfig="M00040-9-2320-451-F0003" label="11"/>, serviceable lockwasher <callout assocfig="M00040-9-2320-451-F0003" label="10"/>, and nut <callout assocfig="M00040-9-2320-451-F0003" label="12"/>.</para>
+				</step1>
+
+					<figure id="M00040-9-2320-451-F0003">
+					<title>Air Brake Fittings Installation</title>
+					<graphic boardno="G06232001039"></graphic>
+					</figure>
+
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>Gladhand connections on prime mover side have straight adapters. Gladhand connections on towed vehicle side have 45&deg; fittings.</trim.para>
+						</note>
+						<para>Install new insert <callout assocfig="M00040-9-2320-451-F0004" label="5"/> into air hose <callout assocfig="M00040-9-2320-451-F0004" label="4"/> and install onto straight adapter <callout assocfig="M00040-9-2320-451-F0004" label="2"/>.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Install new insert into air hose and install onto 45&deg; compression fitting <callout assocfig="M00040-9-2320-451-F0004" label="3"/>.</para>
+				</step1>
+				<step1>
+					<para>Install nut <callout assocfig="M00040-9-2320-451-F0004" label="1"/> onto straight adapter <callout assocfig="M00040-9-2320-451-F0004" label="2"/> and 45&deg; compression fitting.</para>
+				</step1>
+
+					<figure id="M00040-9-2320-451-F0004">
+					<title>Air Brake Fittings Installation</title>
+					<graphic boardno="G06232001040"></graphic>
+					</figure>
+			</proc>
+		</replace>
+	</maintsk>
+</maintwp>

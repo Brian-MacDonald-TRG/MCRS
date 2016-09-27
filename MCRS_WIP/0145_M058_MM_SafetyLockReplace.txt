@@ -1,0 +1,188 @@
+<maintwp chngno="0" wpno="M00058-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="maintainer"/>
+			<title>MAINTAINER MAINTENANCE - SAFETY LOCK ASSEMBLY REPLACE</title>
+	</wpidinfo>
+	<initial_setup>
+		<tools>
+			<tools-setup-item>
+				<name>Tool Kit, General Mechanics</name>
+				<itemref>
+					<xref itemid="S00007-9-2320-451-TOOL-4" wpid="S00007-9-2320-451"/>
+				</itemref>
+			</tools-setup-item>
+		</tools>
+		<mtrlpart>
+			<mtrlpart-setup-item>
+				<name>ADHESIVE</name>
+				<itemref>
+					<xref itemid="S00006-9-2320-451-0001" wpid="S00006-9-2320-451"/>
+				</itemref>
+			</mtrlpart-setup-item>
+			<mtrlpart-setup-item>
+				<name>Jack Stands</name>
+			</mtrlpart-setup-item>
+		</mtrlpart>
+		<persnreq>
+			<persnreq-setup-item>
+				<name>Motor Transport Operator</name>
+				<mos>88M</mos>
+				<qty>2</qty>
+			</persnreq-setup-item>
+		</persnreq>
+		<eqpconds>
+			<eqpconds-setup-item>
+				<condition>Towing device in uncoupled configuration (<xref wpid="O00035-9-2320-451"/>).</condition>
+			</eqpconds-setup-item>
+			<eqpconds-setup-item>
+				<condition>Hydraulic pressure relieved.</condition>
+			</eqpconds-setup-item>
+		</eqpconds>
+	</initial_setup>
+	<maintsk>
+		<replace>
+			<proc>
+				<step1>
+					<specpara>
+						<warning>
+							<trim.para>High pressure is present in the 250M Fifth Wheel Towing Device hydraulic system. Do not disconnect any hydraulic system component unless hydraulic system pressure has been relieved. Ensure each hydraulic control lever is moved several times through all positions and hydraulic tank relief valve is slowly loosened to relieve pressure. Failure to comply may result in severe injury or death to personnel.</trim.para>
+							<trim.para>Spilled hydraulic oil is very slippery. Be careful when entering or working in area. Wipe up any spilled oil immediately. Failure to comply may result in severe injury or death to personnel.</trim.para>
+						</warning>
+						<note>
+							<trim.para>There are two safety valves. Both valves are removed the same way.</trim.para>
+							<trim.para>Maintenance personnel must note the position of all parts prior to removal to ease the installation process.</trim.para>
+							<trim.para>The upper safety valve controls the mast functions and the lower safety valve controls the boom functions.</trim.para>
+						</note>
+						<para>Insert two each pivot pins through mast.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Remove hydraulic hoses from tee fitting <callout assocfig="M00058-9-2320-451-F0001" label="1"/>.</para>
+				</step1>
+				<step1>
+					<para>Remove hydraulic hose from elbow <callout assocfig="M00058-9-2320-451-F0001" label="2"/>.</para>
+				</step1>
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>Perform step 4-5 for the removal of Upper Safety Valve.</trim.para>
+						</note>
+						<para>Disconnect hydraulic hose from Main Valve.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Disconnect hydraulic hose from Cam Valve.</para>
+				</step1>
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>Perform steps 6 for the removal of Lower Safety Valve.</trim.para>
+						</note>
+						<para>Tag and disconnect two each hydraulic hoses from Main Valve.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Remove hydraulic hoses from bottom of safety valve <callout assocfig="M00058-9-2320-451-F0001" label="3"/>.</para>
+				</step1>
+				<step1>
+					<para>Remove 1 1/2 inch (38.1 mm) screw <callout assocfig="M00058-9-2320-451-F0001" label="4"/> from safety valve and bracket <callout assocfig="M00058-9-2320-451-F0001" label="5"/>.</para>
+				</step1>
+				<step1>
+					<para>Remove 2 1/2 inch (63.5) screw <callout assocfig="M00058-9-2320-451-F0001" label="6"/> from safety valve and bracket.</para>
+				</step1>
+				<step1>
+					<para>Remove safety valve from bracket.</para>
+				</step1>
+				<step1>
+					<para>Remove tee fitting from globe valve <callout assocfig="M00058-9-2320-451-F0001" label="7"/>.</para>
+				</step1>
+				<step1>
+					<para>Remove globe valve from straight adapter <callout assocfig="M00058-9-2320-451-F0001" label="8"/>.</para>
+				</step1>
+				<step1>
+					<para>Remove straight adapter from safety valve.</para>
+				</step1>
+				<step1>
+					<para>Remove elbow from check valve <callout assocfig="M00058-9-2320-451-F0001" label="9"/>.</para>
+				</step1>
+				<step1>
+					<para>Remove check valve from safety valve.</para>
+				</step1>
+
+					<figure id="M00058-9-2320-451-F0001">
+					<title>Hydraulic Safety Valve Assembly Removal</title>
+					<graphic boardno="G06232000346"/>
+					</figure>
+
+				<step1>
+					<para>Obtain serviceable item.</para>
+				</step1>
+				<step1>
+					<specpara>
+						<caution>
+							<trim.para>Always clean around fittings before disconnecting or connecting hoses or fittings. Ensure area is clean before installing hydraulic components. Failure to comply may result in damage to equipment.</trim.para>
+							<trim.para>Cover, cap, or plug all openings, ports, and tube or hose ends when they are disconnected. Failure to comply may result in damage to equipment.</trim.para>
+							<trim.para>Fittings must be installed and hand-tightened. If a fitting cannot be tightened by hand, it may be cross-threaded or have damaged threads. Use wrench only for final tightening. Failure to comply may result in damage to equipment.</trim.para>
+						</caution>
+						<para>Install check valve <callout assocfig="M00058-9-2320-451-F0002" label="9"/> to safety valve <callout assocfig="M00058-9-2320-451-F0002" label="3"/>.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Install elbow <callout assocfig="M00058-9-2320-451-F0002" label="2"/> to check valve.</para>
+				</step1>
+				<step1>
+					<para>Install straight adapter <callout assocfig="M00058-9-2320-451-F0002" label="8"/> to safety valve <callout assocfig="M00058-9-2320-451-F0002" label="3"/>.</para>
+				</step1>
+				<step1>
+					<para>Install globe valve <callout assocfig="M00058-9-2320-451-F0002" label="7"/> to straight adapter <callout assocfig="M00058-9-2320-451-F0002" label="8"/>.</para>
+				</step1>
+				<step1>
+					<para>Install tee fitting <callout assocfig="M00058-9-2320-451-F0002" label="1"/> to globe valve.</para>
+				</step1>
+				<step1>
+					<para>Position safety valve on bracket <callout assocfig="M00058-9-2320-451-F0002" label="5"/> and install 2 1/2 inch (63.5 mm) screw <callout assocfig="M00058-9-2320-451-F0002" label="6"/> through lower position on safety valve and mast.</para>
+				</step1>
+				<step1>
+					<para>Install 1 1/2 inch (38.1 mm) screw <callout assocfig="M00058-9-2320-451-F0002" label="4"/> through upper position on safety valve and mast.</para>
+				</step1>
+				<step1>
+					<para>Install two each hydraulic hoses in bottom of safety valve.</para>
+				</step1>
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>Perform steps 25-26 for the installation of Upper Safety Valve.</trim.para>
+						</note>
+						<para>Install hydraulic hose onto Main Valve.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Install hydraulic hose onto Cam Valve.</para>
+				</step1>
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>Perform step 27 for the installation of Lower Safety Valve.</trim.para>
+						</note>
+						<para>Install two each hydraulic hoses to main valve as tagged.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Install hydraulic hoses on elbow <callout assocfig="M00058-9-2320-451-F0002" label="2"/>.</para>
+				</step1>
+				<step1>
+					<para>Install hydraulic hoses on tee fitting <callout assocfig="M00058-9-2320-451-F0002" label="1"/>.</para>
+				</step1>
+				<step1>
+					<para>Check oil level IAW Lube Order WP <xref wpid="M00118-9-2320-451"/>. </para>
+				</step1>
+				
+					<figure id="M00058-9-2320-451-F0002">
+					<title>Hydraulic Safety Valve Assembly Installation</title>
+					<graphic boardno="G06232000346"/>
+					</figure>
+
+			</proc>
+		</replace>
+	</maintsk>
+</maintwp>

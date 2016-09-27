@@ -1,0 +1,79 @@
+<maintwp chngno="0" wpno="M00011-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="crew"/>
+		<title>CREW MAINTENANCE <?Pub _newline?>BOOM CAPS <?Pub _newline?>REPLACE</title>
+	</wpidinfo>
+	<initial_setup>
+		<tools>
+			<tools-setup-item>
+				<name>Tool Kit, General Mechanics</name>
+				<itemref>
+					<xref itemid="S00007-9-2320-451-TOOL-4" wpid="S00007-9-2320-451"/>
+				</itemref>
+			</tools-setup-item>
+		</tools>
+		<mtrlpart>
+			<mtrlpart-setup-item>
+				<name>Washer, lock (2) (MS35333-40)</name>
+			</mtrlpart-setup-item>
+			<mtrlpart-setup-item>
+				<name>TAG, MARKER</name>
+				<itemref>
+					<xref itemid="S00006-9-2320-451-0018" wpid="S00006-9-2320-451"/>
+				</itemref>
+			</mtrlpart-setup-item>
+		</mtrlpart>
+		<persnreq>
+			<persnreq-setup-item>
+				<name>Motor Transport Operator</name>
+				<mos>88M</mos>
+				<qty>1</qty>
+			</persnreq-setup-item>
+		</persnreq>
+		<eqpconds>
+			<eqpconds-setup-item>
+				<condition>Fifth Wheel Towing and Recovery Device in Uncoupled Configuration (<xref wpid="O00001-9-2320-451"/>).</condition>
+			</eqpconds-setup-item>
+		</eqpconds>
+	</initial_setup>
+	<maintsk>
+		<replace>
+			<proc>
+				<step1>
+					<specpara>
+						<warning>
+							<icon-set boardno="Heavy_Parts-foot"/>
+							<icon-set boardno="Falling_Parts"/>
+							<trim.para>The Boom Caps weigh 40 lbs. each. Caution should be used when removing and handling the Boom Caps. If not properly secured could fall off, striking personnel, causing injury or death.</trim.para>
+						</warning>
+						<para>Open fifth wheel section cover.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Remove clips <callout assocfig="M00011-9-2320-451-F0001" label="1"/> and wing nuts <callout assocfig="M00011-9-2320-451-F0001" label="2"/> securing boom cap in 5th wheel section.</para>
+				</step1>
+
+					<figure id="M00011-9-2320-451-F0001">
+					<title>Boom Cap Removal</title>
+					<graphic boardno="G06232000297"></graphic>
+					</figure>
+
+				<step1>
+					<para>Remove unserviceable boom cap. Obtain Serviceable.</para>
+				</step1>
+				<step1>
+					<para>Align serviceable boom cap on mounting studs <callout assocfig="M00011-9-2320-451-F0002" label="1"/>.</para>
+				</step1>
+
+					<figure id="M00011-9-2320-451-F0002">
+					<title>Boom Cap Installation</title>
+					<graphic boardno="G06232000298"></graphic>
+					</figure>
+
+				<step1>
+					<para>Secure serviceable boom cap with wing nuts and clips.</para>
+				</step1>
+			</proc>
+		</replace>
+	</maintsk>
+</maintwp>

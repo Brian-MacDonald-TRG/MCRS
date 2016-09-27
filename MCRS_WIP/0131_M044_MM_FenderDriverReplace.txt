@@ -1,0 +1,299 @@
+<maintwp chngno="0" wpno="M00044-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="maintainer"/>
+		<title>MAINTAINER MAINTENANCE <?Pub _newline?>FENDER DRIVER REPLACE</title>
+	</wpidinfo>
+	<initial_setup>
+		<tools>
+			<tools-setup-item>
+				<name>Tool Kit, General Mechanics</name>
+				<itemref><xref itemid= "S00007-9-2320-451-TOOL-4" wpid="S00007-9-2320-451"/>
+				</itemref>
+			</tools-setup-item>
+		</tools>
+		<mtrlpart>
+			<mtrlpart-setup-item>
+				<name>Washer, lock (2) (MS35333-40)</name>
+			</mtrlpart-setup-item>
+		</mtrlpart>
+		<persnreq>
+			<persnreq-setup-item>
+				<name>Motor Transport Operator</name>
+				<mos>88M</mos>
+				<qty>1</qty>
+			</persnreq-setup-item>
+		</persnreq>
+		<eqpconds>
+			<eqpconds-setup-item>
+				<condition>Fifth Wheel Towing Device uncoupled and supported(<xref wpid="O00035-9-2320-451"/>).</condition>
+			</eqpconds-setup-item>
+			<eqpconds-setup-item>
+				<condition>Batteries Disconnected (<xref wpid="M00035-9-2320-451"/>)</condition>
+			</eqpconds-setup-item>
+		</eqpconds>
+	</initial_setup>
+	<maintsk>
+		<replace>
+			<proc>
+				<title>REPLACE</title>
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>Note location of mounting hardware prior to removal.</trim.para>
+							<trim.para>All lock washers should be discarded and replaced with serviceable items. </trim.para>
+							<trim.para>Note the location of component brackets for reinstallation on serviceable fender.</trim.para>
+							<trim.para>Note the location and routing of 12V/24V junction box and electric control box wiring prior to removing the unserviceable fender.</trim.para>
+						</note>
+						<para>Remove bolt and lock washer securing 12v/24v junction box ground <callout assocfig="M00044-9-2320-451-F0001" label="1"/> and electric control box ground cable <callout assocfig="M00044-9-2320-451-F0001" label="2"/> to fender brackets.</para>
+					</specpara>
+				</step1>
+
+					<figure id="M00044-9-2320-451-F0001">
+					<title>Junction Box and Electric Control Box Ground locations </title>
+					<graphic boardno="G06232000409"></graphic>
+					</figure>
+
+				<step1>
+					<para>Remove three bolts that secure the winch diverter bracket <callout assocfig="M00044-9-2320-451-F0002" label="1"/>.</para>
+				</step1>
+
+					<figure id="M00044-9-2320-451-F0002">
+					<title>Winch Diverter Bolt Locations (One Hidden From View)</title>
+					<graphic boardno="G06232000410"></graphic>
+					</figure>
+
+				<step1>
+					<para>Disconnect lines from diverter to 35k winch at quick connects <callout assocfig="M00044-9-2320-451-F0003" label="1"/>.</para>
+				</step1>
+					<figure id="M00044-9-2320-451-F0003">
+					<title>Winch Diverter Hoses Removed at Quick Connect</title>
+					<graphic boardno="G06232000411"></graphic>
+					</figure>
+
+				<step1>
+					<para>Carefully move diverter assembly and hoses aside as a complete assembly.</para>
+				</step1>
+
+				<step1>
+					<para>Remove bolt, washer, lock washer, and nut securing loop for 24 v lighting harness at 2nd fender bracket <callout assocfig="M00044-9-2320-451-F0004" label="1"/>.</para>
+				</step1>
+
+					<figure id="M00044-9-2320-451-F0004">
+					<title>24V Lighting Harness Clamp Bolt</title>
+					<graphic boardno="G06232000412"></graphic>
+					</figure>
+
+				<step1>
+					<para>Remove air brake components as an assembly and set aside for reinstallation.</para>
+				<step2>
+					<para>Remove two bolts, washers, lock washers, and nuts from forward and rear glad hand brackets <callout assocfig="M00044-9-2320-451-F0005" label="1"/>.</para>
+				</step2>
+				<step2>
+					<para>Remove bolt, washer, lock washer, nut, and standoff tube <callout assocfig="M00044-9-2320-451-F0005" label="2"/> from air line loops mounted on control box step cover bracket.</para>
+				</step2>
+				<step2>
+					<para>Remove two each nuts, lock washers, and washers from air protection valve bracket <callout assocfig="M00044-9-2320-451-F0005" label="3"/>.</para>
+				</step2>
+				</step1>
+
+					<figure id="M00044-9-2320-451-F0005">
+					<title>Glad Hand, Clamps, and Air Brake Protection Valve Removal</title>
+					<graphic boardno="G06232000413"></graphic>
+					</figure>
+				<step1>
+					<para>Remove one bolt and lock washer from forward <callout assocfig="M00044-9-2320-451-F0007" label="1"/> and rear <callout assocfig="M00044-9-2320-451-F0007" label="1 and 2"/> 24V lighting harness brackets.</para>
+				</step1>
+
+					<figure id="M00044-9-2320-451-F0007">
+					<title>Bolt and Lock Washer Removal at 24V Forward and Rear Lighting Harness Bracket</title>
+					<graphic boardno="G06232000415"></graphic>
+					</figure>
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>24V lighting harness is still connected to electric control box by pigtail wire after removing bracket bolts and cannot be completely removed at this time. It will be moved with the electric control box.</trim.para>
+						</note>
+						<para>Remove remaining bolt, nut, lock washer and washer from the 24V lighting harness brackets. Leave the assembly loose on fender at this time.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Remove remaining bolt, nut and lock washer to the rear electric control box step cover bracket <callout assocfig="M00044-9-2320-451-F0008" label="1"/> and remove bracket. Set aside for reinstallation.</para>
+				</step1>
+				<step1>
+					<para>Remove two each bolts, nuts, washers, lock washers for the front electrical control box step cover bracket <callout assocfig="M00044-9-2320-451-F0008" label="2"/>. Remove bracket and set aside for reinstallation.</para>
+				</step1>
+
+					<figure id="M00044-9-2320-451-F0008">
+					<title>Step Cover Bracket Locations and Removal</title>
+					<graphic boardno="G06232000416"></graphic>
+					</figure>
+				<step1>
+					<para>Gain access underneath driver side fender. Remove 4 nuts and lock washers for both the 12v/24v junction box and the electric control box.</para>
+				</step1>
+				<step1>
+					<para>Remove bolt, nut, washer, and lock washer from transport leg assembly hold down. Set aside for reinstallation.</para>
+				</step1>
+				<step1>
+					<para>Remove instruction placard from fender and set aside for reinstallation.</para>
+				</step1>
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>Work light is wired to the electric control box and will not be removed independently</trim.para>
+						</note>
+						<para>Remove the bolt, nut, washer, and lock washer for work light.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Remove remaining two bolts, nuts, washers, and lock washers <callout assocfig="M00044-9-2320-451-F0010" label="1"/> from rear fender bracket and remove mud flap. Set aside for reinstallation.</para>
+				</step1>
+
+					<figure id="M00044-9-2320-451-F0010">
+					<title>Remaining Fender Bolts</title>
+					<graphic boardno="G06232000418"></graphic>
+					</figure>
+
+				<step1>
+					<para>Remove the three remaining bolts, nuts, washer, and lock washers on the front two fender brackets.</para>
+				</step1>
+				<step1>
+					<para>Route wiring harness <callout assocfig="M00044-9-2320-451-F0011" label="1"/>, from underneath fender bracket <callout assocfig="M00044-9-2320-451-F0011" label="2"/>.</para>
+				</step1>
+
+					<figure id="M00044-9-2320-451-F0011">
+					<title>7-Wiring Harness Removal</title>
+					<graphic boardno="G06232000419"></graphic>
+					</figure>
+
+				<step1>
+					<para>Temporally secure 12v/24v junction box and electrical control box to hydraulic line hard lines with wire ties <callout assocfig="M00044-9-2320-451-F0012" label="1"/>.</para>
+				</step1>
+
+					<figure id="M00044-9-2320-451-F0012">
+					<title>Electrical Components Temporarily Secured</title>
+					<graphic boardno="G06232000420"></graphic>
+					</figure>
+
+				<step1>
+					<specpara>
+						<caution>
+							<trim.para>Use caution when removing fender from FWTRD. Fender could shift suddenly during removal, striking personnel. Failure to comply may result in personal injury and or damage to equipment.</trim.para>
+						</caution>
+						<para>Using two assistants to hold the fender, remove remaining two bolts, nuts, washer, and lock washers from 3rd fender bracket</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Remove unserviceable fender <xref figid="M00044-9-2320-451-F0013"/>.</para>
+				</step1>
+
+					<figure id="M00044-9-2320-451-F0013">
+					<title>Fender Removed</title>
+					<graphic boardno="G06232000421"></graphic>
+					</figure>
+
+				<step1>
+					<para>Remove any damaged fender brackets by removing bolts that secure them to the fifth wheel section.</para>
+				</step1>
+			</proc>
+		</replace>
+	</maintsk>
+	<maintsk>
+		<install>
+			<proc>
+				<title>INSTALL</title>
+				<step1>
+					<para>Install serviceable fender brackets if needed.</para>
+				</step1>
+				<step1>
+					<para>Obtain a serviceable fender</para>
+				</step1>
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>Be sure to route electric control box wiring as noted when positioning serviceable fender.</trim.para>
+						</note>
+						<para>Using an assistant position serviceable fender under fender brackets.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Clamp and brace fender flush to fender brackets using clamps and or supports <callout assocfig="M00044-9-2320-451-F0014"/>.</para>
+				</step1>
+				<figure id="M00044-9-2320-451-F0014">
+					<title>Fender clamped for drilling, and close up view of electric control box wire routing at 3rd fender bracket</title>
+					<graphic boardno="G06232000422"></graphic>
+				</figure>
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>It may be necessary to mark the rear bolt hole locations for each of the fender brackets due to interference with the wet line supply lines. Remove the fender and drill these holes after drilling all accessible bolt hole locations first.</trim.para>
+						</note>
+						<para>Using a 5/16 inch drill bit; drill all accessible bolt holes through fender using fender brackets as a guide.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Remove fender and drill any hole locations that were inaccessible and marked.</para>
+				</step1>
+				<step1>
+					<para>Using an assistant, reposition drilled fender and clamp at the front and rear fender brackets only.</para>
+				</step1>
+				<step1>
+					<para>Remove wire ties from 12v/24v junction box and electric control box. Reposition on fender. Be sure to re-route wiring as removed.</para>
+				</step1>
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>Loosely install all hardware until all bolts, nuts, washers, and lock washers have been installed. Perform final tightening after installation of components is complete.</trim.para>
+						</note>
+						<para>Reposition the front and rear control box step cover brackets on the fender brackets</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Reposition air brake assembly on fender brackets</para>
+				</step1>
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>Clamps and supports may be repositioned on fender as required during installation of hardware.</trim.para>
+						</note>
+						<para>Starting at the front, and through the third fender bracket, loosely install serviceable bolts, washers, lock washers, and nuts through all component brackets, fender brackets, and serviceable fender</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Remove clamps at rear fender bracket</para>
+				</step1>
+				<step1>
+					<para>Reposition mud flap, rear gladhand bracket, and work light</para>
+				</step1>
+				<step1>
+					<para>Install serviceable bolts, washers, lock washers and nuts through rear component brackets, fender bracket and serviceable fender</para>
+				</step1>
+				<step1>
+					<para>Install 4 each nuts and lock washers on the bottom of the 12V/24V junction box and the electric control box</para>
+				</step1>
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>Watch that air lines and electric cables are not pinched when tightening hardware</trim.para>
+						</note>
+						<para>Tighten all hardware for the fender, 12V/24V junction box, and electric control box</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Reinstall placard using serviceable screws</para>
+				</step1>
+				<step1>
+					<para>Reposition winch diverter assembly</para>
+				</step1>
+				<step1>
+					<para>Install 3 serviceable bolts to secure winch diverter bracket to fender bracket.</para>
+				</step1>
+				<step1>
+					<para>Reconnect ground wires for the 12V/24V junction box and the electric control box at the bottom bolt holes of the second and third fender bracket using one each serviceable bolt and lock washer.</para>
+				</step1>
+				<step1>
+					<para>Reconnect batteries</para>
+				</step1>
+			</proc>
+		</install>
+	</maintsk>
+</maintwp>

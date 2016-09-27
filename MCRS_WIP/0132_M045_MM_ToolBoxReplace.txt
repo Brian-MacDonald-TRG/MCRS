@@ -1,0 +1,123 @@
+<maintwp chngno="0" wpno="M00045-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="maintainer"/>
+			<title>TOOL BOX REPLACE</title>
+	</wpidinfo>
+	<initial_setup>
+		<tools>
+			<tools-setup-item>
+				<name>Tool Kit, General Mechanics</name>
+				<itemref>
+					<xref itemid="S00007-9-2320-451-TOOL-4" wpid="S00007-9-2320-451"/>
+				</itemref>
+			</tools-setup-item>
+		</tools>
+		<mtrlpart>
+			<mtrlpart-setup-item>
+				<name>Washer, lock (2) </name>
+			</mtrlpart-setup-item>
+			<mtrlpart-setup-item>
+				<name>Weather strip (13 inches)</name>
+			</mtrlpart-setup-item>
+		</mtrlpart>
+		<persnreq>
+			<persnreq-setup-item>
+				<name>Motor Transport Operator</name>
+				<mos>88M</mos>
+				<qty>2</qty>
+			</persnreq-setup-item>
+		</persnreq>
+		<eqpconds>
+			<eqpconds-setup-item>
+				<condition>Fifth Wheel Towing and Recovery Device in storage configuration (<xref wpid="O00036-9-2320-451"/>).</condition>
+			</eqpconds-setup-item>
+		</eqpconds>
+	</initial_setup>
+	<maintsk>
+		<replace>
+			<proc>
+				<step1>
+					<specpara>
+						<warning>
+							<trim.para>CARC paint contains isocyanate (HDI) which is highly irritating to skin and respiratory system. High concentrations of HDI can produce symptoms of itching and reddening of skin, a burning sensation in throat and nose and watering of the eyes. In extreme concentrations, HDI can cause cough, shortness of breath, pain during respiration, increased sputum production, and chest tightness. The following precautions must be taken whenever using CARC paint:</trim.para>
+							<trim.para>DO NOT let skin or eyes come in contact with CARC paint. Always wear protective equipment (gloves, ventilation mask, safety goggles, etc.).</trim.para>
+							<trim.para>DO NOT use CARC paint without adequate ventilation. Failure to comply may result in death or injury to personnel.</trim.para>
+							<trim.para>NEVER weld or cut CARC-coated materials. Failure to comply may result in death or injury to personnel.</trim.para>
+							<trim.para>DO NOT grind or sand painted equipment without high-efficiency air purifying respirators in use. Failure to comply may result in death or injury to personnel.</trim.para>
+							<trim.para>BE AWARE of CARC paint exposure symptoms; symptoms can occur a few days after initial exposure. Seek medical help immediately if symptoms are detected. Failure to comply may result in death or injury to personnel.</trim.para>
+						</warning>
+						<para>Remove BII from tool box.</para>
+					</specpara>	
+				</step1>
+				<step1>
+					<para>Remove remote control IAW <xref wpid="M00022-9-2320-451"/>. Set aside for reinstallation.</para>
+				</step1>
+				<step1>
+					<para>Remove rubber matting from inside tool box. Set aside for reinstallation <callout assocfig="M00045-9-2320-451-F0001" label="1"/>.</para>
+				</step1>
+
+					<figure id="M00045-9-2320-451-F0001">
+					<title>Remove rubber matting</title>
+					<graphic boardno="G06232000382"/>
+					</figure>
+
+				<step1>
+					<para>Gain access to field lighting kit stowage box and remove four bolts and locknuts. Discard lock nuts <callout assocfig="M00045-9-2320-451-F0002" label="1"/>.</para>
+				</step1>
+
+					<figure id="M00045-9-2320-451-F0002">
+					<title>Field Lighting Kit Stowage Box Mounting Bolt Locations and Removal</title>
+					<graphic boardno="G06232000383"/>
+					</figure>
+
+				<step1>
+					<para>Set field lighting kit stowage box aside for reinstallation.</para>
+				</step1>
+				<step1>
+					<para>Gain access inside tool box and remove nine bolts, locknuts, and washers. Set aside three reinforcement plates <callout assocfig="M00045-9-2320-451-F0003" label="1"/> for reinstallation.</para>
+				</step1>
+
+					<figure id="M00045-9-2320-451-F0003">
+					<title>Reinforcement Plates</title>
+					<graphic boardno="G06232000384"/>
+					</figure>
+
+				<step1>
+					<para>Using two personnel, remove unserviceable tool box.</para>
+				</step1>
+				<step1>
+					<para>Prepare fender mounting brackets with serviceable underlayment.</para>
+				</step1>
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>Right side of tool box should extend 1.5" beyond first fender bracket. Rear of tool box is positioned 3.5" from main frame assembly.</trim.para>
+						</note>
+						<para>Position serviceable tool box onto fender mounting brackets.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Drill nine mounting holes into serviceable tool box from underneath, using fender bracket holes as a guide.</para>
+				</step1>
+				<step1>
+					<para>Reposition three reinforcement plates inside tool box.</para>
+				</step1>
+				<step1>
+					<para>Secure tool box to fender with nine bolts, washers, and serviceable locknuts.</para>
+				</step1>
+				<step1>
+					<para>Position field lighting kit storage box into serviceable toolbox and drill four mounting hole locations.</para>
+				</step1>
+				<step1>
+					<para>Secure field lighting kit storage box using four bolts and serviceable locknuts.</para>
+				</step1>
+				<step1>
+					<para>Reinstall rubber matting inside tool box.</para>
+				</step1>
+				<step1>
+					<para>Reinstall remote control IAW <xref wpid="M00022-9-2320-451"/>.</para>
+				</step1>
+			</proc>
+		</replace>
+	</maintsk>
+</maintwp>

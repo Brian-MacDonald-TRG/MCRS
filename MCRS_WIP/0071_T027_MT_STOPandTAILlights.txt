@@ -1,0 +1,31 @@
+<tswp chngno="0" wpno="T00027-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="maintainer"/>
+		<title>TROUBLESHOOTING PROCEDURES <?Pub _newline?>STOP AND TAIL LIGHTS</title>
+	</wpidinfo>
+	<initial_setup>
+		<eqpconds>
+			<eqpconds-setup-item>
+				<condition>Coupling the TDRT to the FWTRD(<xref wpid="O00022-9-2320-451"/>).</condition>
+			</eqpconds-setup-item>
+		</eqpconds>
+	</initial_setup>
+	<tsproc>
+		<faultproc>
+			<title>Maintainer Troubleshooting</title>
+			<symptom>Stop and Tail Lights on TDRT do not work</symptom>
+			<malfunc label="malfunction">Individual Lights on TDRT are not working</malfunc>
+			<action>
+				<step1>
+					<para>Repair individual light IAW <xref wpid="M00068-9-2320-451"/> and recheck</para>
+				</step1>
+			</action>
+				<malfunc label="malfunction">All Lights inoperable</malfunc>
+			<action>
+				<step1>
+					<para>Using an assistant, test for continuity from headboard connector to tail light input at rear. Repair wiring as needed IAW <xref wpid="M00068-9-2320-451"/>.</para>
+				</step1>
+			</action>			
+		</faultproc>
+	</tsproc>
+</tswp>

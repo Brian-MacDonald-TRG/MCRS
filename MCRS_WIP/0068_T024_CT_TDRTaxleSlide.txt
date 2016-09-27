@@ -1,0 +1,34 @@
+<tswp chngno="0" wpno="T00024-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="crew"/>
+		<title>TROUBLESHOOTING PROCEDURES <?Pub _newline?> TILT DECK RECOVERY TRAILER SLIDE </title>
+	</wpidinfo>
+	<initial_setup>
+		<eqpconds>
+			<eqpconds-setup-item>
+				<condition>Coupling the TDRT to the FWTRD <xref wpid="O00022-9-2320-451"/>.</condition>
+			</eqpconds-setup-item>
+		</eqpconds>
+	</initial_setup>
+	<tsproc>
+		<faultproc>
+			<title>Crew Troubleshooting</title>
+			<symptom>TDRT Deck will not slide</symptom>
+			<malfunc label="malfunction">Lift Axle in the LOAD position</malfunc>
+			<action>
+				<step1>
+					<para>Place the lift axle in LIFT Position.</para>
+				</step1>
+			</action>
+			<malfunc label="malfunction">TDRT brakes do not hold when Trailer Hand Control Valve Lever is engaged.</malfunc>
+			<action>
+				<step1>
+					<para>Make sure that Lift Axle Control Panel gauge shows at least 100 psi prior to sliding the deck.</para>
+				</step1>
+				<step1>
+					<para>If brakes will not lock when Trailer Hand Control Lever is engaged, notify Maintainer to inspect and adjust the TDRT brakes IAW <xref wpid="M00089-9-2320-451"/></para>
+				</step1>
+			</action>
+		</faultproc>
+	</tsproc>
+</tswp>

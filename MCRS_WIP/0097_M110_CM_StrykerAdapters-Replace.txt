@@ -1,0 +1,64 @@
+<maintwp chngno="0" wpno="M00010-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="crew"/>
+		<title>CREW MAINTENANCE <?Pub _newline?>STRYKER ADAPTERS <?Pub _newline?>REPLACE</title>
+	</wpidinfo>
+	<initial_setup>
+		<tools>
+			<tools-setup-item>
+				<name>Tool Kit, General Mechanics</name>
+				<itemref>
+					<xref itemid="S00007-9-2320-451-TOOL-4" wpid="S00007-9-2320-451"/>
+				</itemref>
+			</tools-setup-item>
+		</tools>
+		<mtrlpart>
+			<mtrlpart-setup-item>
+				<name>Washer, lock (2) (MS35333-40)</name>
+			</mtrlpart-setup-item>
+			<mtrlpart-setup-item>
+				<name>TAG, MARKER</name>
+				<itemref>
+					<xref itemid="S00006-9-2320-451-0018" wpid="S00006-9-2320-451"/>
+				</itemref>
+			</mtrlpart-setup-item>
+		</mtrlpart>
+		<persnreq>
+			<persnreq-setup-item>
+				<name>Motor Transport Operator</name>
+				<mos>88M</mos>
+				<qty>1</qty>
+			</persnreq-setup-item>
+		</persnreq>
+		<eqpconds>
+			<eqpconds-setup-item>
+				<condition>Fifth Wheel Towing and Recovery Device in Uncoupled Configuration <xref wpid="O00001-9-2320-451"/>.</condition>
+			</eqpconds-setup-item>
+		</eqpconds>
+	</initial_setup>
+	<maintsk>
+		<replace>
+			<proc>
+				<step1>
+					<para>Open fifth wheel section.</para>
+				</step1>
+				<step1>
+					<para>Unpin lock pins <callout assocfig="M00010-9-2320-451-F0001" label="1"/> securing STRYKER adapters. Set lock pins aside for reinstallation.</para>
+				</step1>
+				<figure id="M00010-9-2320-451-F0001">
+					<title>Stryker Adapter Pin Removal</title>
+					<graphic boardno="G06232000296"></graphic>
+				</figure>
+				<step1>
+					<para>Remove unserviceable STRYKER towing adaptors. Obtain serviceable item.</para>
+				</step1>
+				<step1>
+					<para>Position serviceable STRYKER towing adapters into brackets.</para>
+				</step1>
+				<step1>
+					<para>Secure with two lock pins.</para>
+				</step1>
+			</proc>
+		</replace>
+	</maintsk>
+</maintwp>

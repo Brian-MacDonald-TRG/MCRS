@@ -1,0 +1,126 @@
+<maintwp chngno="0" wpno="M00090-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="maintainer"/>
+			<title>MAINTAINER MAINTENANCE - LEVELING VALVE<?Pub _newline?> ADJUST, REPLACE</title>
+	</wpidinfo>
+	<initial_setup>
+		<tools>
+			<tools-setup-item>
+				<name>Tool Kit, Mechanics General</name>
+				<itemref>
+					<xref itemid="S00007-9-2320-451-TOOL-4" wpid="S00007-9-2320-451"/>
+				</itemref>
+			</tools-setup-item>
+		</tools>
+		<persnreq>
+			<persnreq-setup-item>
+				<name>Motor Transport Operator</name>
+				<mos>88M</mos>
+				<qty>X</qty>
+			</persnreq-setup-item>
+		</persnreq>
+		<eqpconds>
+			<eqpconds-setup-item>
+				<condition>Tilt Deck Recovery Trailer in coupled configuration. <xref wpid="O00027-9-2320-451"/></condition>
+			</eqpconds-setup-item>
+			<eqpconds-setup-item>
+				<condition>Wheels chocked.</condition>
+			</eqpconds-setup-item>
+		</eqpconds>
+	</initial_setup>
+	<maintsk>
+		<adjust>
+			<proc>
+				<step1>
+					<para>Position the MCRS in Transport Configuration with the exception of leaving the center ram pin out.</para>
+				</step1>
+				<step1>
+					<para>Adjust the TDRT deck to a completely level position.</para>
+				</step1>
+				<step1>
+					<para>Open the lift axle control panel door and press the lift axle knob "IN" to "LOAD" the lift axle.</para>
+				</step1>
+				<step1>
+					<specpara>
+						<warning>
+							<trim.para>The following steps involve having personnel underneath the TDRT. A crush hazard exists. Ensure that the MCRS is not moved until personnel have completed the adjustment of the leveling valve and are free from underneath the TDRT. Failure to comply may result in injury or death to personnel</trim.para>
+						</warning>
+						<para>Loosen the bolt for the leveling valve to linkage arm <callout assocfig="M00090-9-2320-451-F0002" label ="1"/>.</para>
+					</specpara>
+				</step1>
+
+					<figure id="M00090-9-2320-451-F0001">
+					<title>Linkage Arm Bolt</title>
+					<graphic boardno="G06232000458"/>
+					</figure>
+
+				<step1>
+					<para>Manually position the leveling valve body so that an 1/8th inch pin can be inserted through the adjustment guides <callout assocfig="M00090-9-2320-451-F0002"/>.</para>
+				</step1>
+
+					<figure id="M00090-9-2320-451-F0002">
+					<title>Leveling Valve Adjustment Pin Inserted </title>
+					<graphic boardno="G06232000459"/>
+					</figure>
+
+				<step1>
+					<para>Tighten the bolt for the leveling valve linkage arm.</para>
+				</step1>
+				<step1>
+					<para>Remove the 1/8th inch pin.</para>
+				</step1>
+			</proc>
+		</adjust>
+	</maintsk>
+	<maintsk>
+		<replace>
+			<proc>
+				<step1>
+					<specpara>
+						<warning>
+							<trim.para>The following steps involve having personnel underneath the TDRT. A crush hazard exists. Ensure that the MCRS is not moved until personnel have completed the replacement of the leveling valve and are free from underneath the TDRT. Failure to comply may result in injury or death to personnel.</trim.para>
+						</warning>
+						<para>Remove two mounting bolts <callout assocfig="M00090-9-2320-451-F0003" label ="1"/> and washers <callout assocfig="M00090-9-2320-451-F0003" label ="2"/>.</para>
+					</specpara>
+				</step1>
+
+					<figure id="M00090-9-2320-451-F0003">
+					<title>Leveling Valve Bolt Removal</title>
+					<graphic boardno="G06232000456"/>
+					</figure>
+
+				<step1>
+					<para>Remove bolt for the leveling valve to linkage arm <callout assocfig="M00090-9-2320-451-F0004" label ="1"/>.</para>
+				</step1>
+
+					<figure id="M00090-9-2320-451-F0004">
+					<title>Leveling Valve Linkage Arm Removal</title>
+					<graphic boardno="G06232000457"/>
+					</figure>
+
+				<step1>
+					<para>Disconnect two air lines from QD fittings.</para>
+				</step1>
+				<step1>
+					<para>Remove unserviceable leveling valve.</para>
+				</step1>
+				<step1>
+					<para>Obtain serviceable item</para>
+				</step1>
+				<step1>
+					<para>Install leveling valve and secure with two bolts and washers.</para>
+				</step1>
+				<step1>
+					<para>Connect air lines to QD fittings.</para>
+				</step1>
+				<step1>
+					<para>Connect leveling valve to linkage arm using serviceable bolt.</para>
+				</step1>
+			</proc>
+		</replace>
+	</maintsk>
+</maintwp>
+
+
+
+

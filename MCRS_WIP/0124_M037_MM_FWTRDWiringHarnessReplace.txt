@@ -1,0 +1,62 @@
+<maintwp chngno="0" wpno="M00037-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="maintainer"/>
+			<title>MAINTAINER MAINTENANCE - FWTRD WIRING HARNESS REPLACE</title>
+	</wpidinfo>
+	<initial_setup>
+		<tools>
+			<tools-setup-item>
+				<name>Tool Kit, General Mechanics</name>
+				<itemref>
+					<xref itemid="S00007-9-2320-451-TOOL-4" wpid="S00007-9-2320-451"/>
+				</itemref>
+			</tools-setup-item>
+			<tools-setup-item>
+				<name>Shop Equipment, Common Set No. 1</name>
+			</tools-setup-item>
+		</tools>
+		<persnreq>
+			<persnreq-setup-item>
+				<name>Motor Transport Operator</name>
+				<mos>88M</mos>
+				<qty>1</qty>
+			</persnreq-setup-item>
+		</persnreq>
+		<eqpconds>
+			<eqpconds-setup-item>
+				<condition>Fifth Wheel Towing and Recovery Device in coupled configuration IAW <xref wpid="O00022-9-2320-451"/>.</condition>
+			</eqpconds-setup-item>
+		</eqpconds>
+	</initial_setup>
+	<maintsk>
+		<replace>
+			<proc>
+				<step1>
+					<specpara>
+						<warning>
+							<trim.para>Remove all power to fifth wheel towing device prior to making any repairs on the electrical system. Failure to do so may result in serious injury or death.</trim.para>
+						</warning>
+						<note>
+							<trim.para>Wiring harnesses can be replaced or repaired depending on the type of damage. Broken wires can be spliced and sealed with heat shrink tubing or electrical tape.</trim.para>
+							<trim.para>See <xref wpid="M00117-9-2320-451"/> (tagging wires and hoses), <xref wpid="M00117-9-2320-451"/> (soldering), <xref wpid="M00117-9-2320-451"/> (heat shrinkable tubing), and <xref wpid="M00117-9-2320-451"/> (electrical ground points) for general wiring harness maintenance instructions.</trim.para>
+							<trim.para>There are three loop clamps securing the various wiring harnesses.</trim.para>
+							<trim.para>Wires are wire tied in groups for routing on FWTRD. Remove wire ties as needed to separate individual wires from harness groups.</trim.para>
+							<trim.para>There are three main groups of wiring for the FWTRD. One is from the 12v/24v junction box to the FWTRD batteries. The second is wiring from the electric control box to motors and solenoids, and the third is FWTD lighting harnesses. Refer to wiring schematic <xref wpid="M00121-9-2320-451"/> to identify the connection points for individual wires needing removal. </trim.para>
+							<trim.para>Wiring harnesses are not ordinarily removed except if they need to be replaced. Badly damaged wiring must be replaced. </trim.para>
+						</note>
+						<para>Obtain Serviceable Item </para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Route wiring to connection points and secure with serviceable hardware.</para>
+				</step1>
+				<step1>
+					<para>Remount any loop clamps removed.</para>
+				</step1>
+				<step1>
+					<para>Regroup wires with serviceable wire ties.</para>
+				</step1>
+			</proc>
+		</replace>
+	</maintsk>
+</maintwp>

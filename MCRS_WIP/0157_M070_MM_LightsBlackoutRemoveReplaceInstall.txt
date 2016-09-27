@@ -1,0 +1,128 @@
+<maintwp chngno="0" wpno="M00070-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="maintainer"/>
+			<title>MAINTAINER MAINTENANCE - BLACKOUT LIGHTS REMOVE/REPLACE/INSTALL</title>
+	</wpidinfo>
+	<initial_setup>
+		<tools>
+			<tools-setup-item>
+				<name>Tool Kit, General Mechanics</name>
+				<itemref>
+					<xref itemid="S00007-9-2320-451-TOOL-4" wpid="S00007-9-2320-451"/>
+				</itemref>
+			</tools-setup-item>
+		</tools>
+		<mtrlpart>
+			<mtrlpart-setup-item>
+				<name>Dielectric Grease</name>
+			</mtrlpart-setup-item>
+			<mtrlpart-setup-item>
+				<name>Compound, Antiseize</name>
+			</mtrlpart-setup-item>
+		</mtrlpart>
+		<persnreq>
+			<persnreq-setup-item>
+				<name>Motor Transport Operator</name>
+				<mos>88M</mos>
+				<qty>1</qty>
+			</persnreq-setup-item>
+		</persnreq>
+		<eqpconds>
+			<eqpconds-setup-item>
+				<condition>Tilt Deck Recovery Trailer in uncoupled configuration <xref wpid="O00027-9-2320-451"/></condition>
+			</eqpconds-setup-item>
+			<eqpconds-setup-item>
+				<condition>Wheel Chocked</condition>
+			</eqpconds-setup-item>
+		</eqpconds>
+	</initial_setup>
+	<maintsk>
+		<remove>
+			<proc>
+				<step1>
+					<para>Remove applicable Stop and Tail Light IAW <xref wpid="M00068-9-2320-451"/> (Figure 1).</para>
+				</step1>
+
+					<figure id="M00070-9-2320-451-F0001" label="1">
+					<title>Stop and Tail Light Removed</title>
+					<graphic boardno="G06232000392"></graphic>
+					</figure>
+
+				<step1>
+					<para>Gain access behind unserviceable blackout light.</para>
+				</step1>
+				<step1>
+					<para>Remove the two nuts and lock washers. Discard Lock washers</para>
+				</step1>
+				<step1>
+					<para>Tag and disconnect both wires to blackout light.</para>
+				</step1>
+				<step1>
+					<para>Remove light by popping out.</para>
+				</step1>
+			</proc>
+		</remove>
+	</maintsk>
+	<maintsk>
+		<replace>
+			<proc>
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>This procedure is applicable to both blackout lights.</trim.para>
+						</note>
+						<para>Remove applicable Stop and Tail Light IAW <xref wpid="M00068-9-2320-451"/> (Figure 2).</para>
+					</specpara>
+				</step1>
+		
+					<figure id="M00070-9-2320-451-F0002">
+					<title>Stop and Tail Light Removed</title>
+					<graphic boardno="G06232000392"></graphic>
+					</figure>
+
+				<step1>
+					<para>Gain access behind unserviceable blackout light.</para>
+				</step1>
+				<step1>
+					<para>Remove the two nuts and lock washers. Discard Lock washers</para>
+				</step1>
+				<step1>
+					<para>Tag and disconnect both wires to blackout light.</para>
+				</step1>
+				<step1>
+					<para>Remove light by pushing out. Obtain serviceable item.</para>
+				</step1>
+				<step1>
+					<para>Insert serviceable blackout light.</para>
+				</step1>
+				<step1>
+					<para>Secure with two bolts and serviceable lock washers.</para>
+				</step1>
+				<step1>
+					<para>Connect wires to blackout light as tagged.</para>
+				</step1>
+				<step1>
+					<para>Install Stop and Tail Light IAW <xref wpid="M00068-9-2320-451"/>.</para>
+				</step1>
+			</proc>
+		</replace>
+	</maintsk>
+	<maintsk>
+		<install>
+			<proc>
+				<step1>
+					<para>Insert serviceable blackout light.</para>
+				</step1>
+				<step1>
+					<para>Secure with two bolts and serviceable lock washers.</para>
+				</step1>
+				<step1>
+					<para>Connect wires to blackout light as tagged.</para>
+				</step1>
+				<step1>
+					<para>Install Stop and Tail Light IAW <xref wpid="M00068-9-2320-451"/>.</para>
+				</step1>
+			</proc>
+		</install>
+	</maintsk>
+</maintwp>

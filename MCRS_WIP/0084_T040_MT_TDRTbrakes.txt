@@ -1,0 +1,28 @@
+<tswp chngno="0" wpno="T00040-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="maintainer"/>
+		<title>TROUBLESHOOTING PROCEDURES <?Pub _newline?>TDRT BRAKES</title>
+	</wpidinfo>
+	<initial_setup>
+		<eqpconds>
+			<eqpconds-setup-item>
+				<condition>Coupling the TDRT to the FWTRD (<xref wpid="O00022-9-2320-451"/>).</condition>
+			</eqpconds-setup-item>
+		</eqpconds>
+	</initial_setup>
+	<tsproc>
+		<faultproc>
+			<title>Maintainer Troubleshooting</title>
+			<symptom>Brakes on the Tilt Deck Recovery Trailer will not release.</symptom>
+			<malfunc label="malfunction">TDRT pressure gauge showing less than 90psi.</malfunc>
+			<action>
+				<step1>
+					<para>Allow enough time for the air supply to built to at least 90psi. Then check all lines, fittings and glad hands for air leaks and replace any defective parts. </para>
+				</step1>
+				<step1>
+					<para>Test the FWTRD protection valve. Use CAUTION and remove the Supply (red) gladhand at the TDRT. Air should escape and then stop completely. If not, replace Air Brake Protection Valve IAW <xref wpid="M00050-9-2320-451"/>. </para>
+				</step1>
+			</action>
+		</faultproc>
+	</tsproc>
+</tswp>

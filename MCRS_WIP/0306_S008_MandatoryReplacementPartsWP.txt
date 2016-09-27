@@ -1,0 +1,24 @@
+<mrplwp chngno="0" wpno="S00008-9-2320-451"><?Pub Dtl?>
+<wpidinfo>
+<maintlvl level="maintainer"/>
+<title>Mandatory Replacement Parts List</title>
+</wpidinfo>
+<intro><para0>
+<title>Mandatory Replacement Parts List</title>
+<para> This work package includes a list of
+all mandatory replacement 							parts referenced
+in the task initial setups and procedures.
+These 							are items that must be replaced
+during maintenance whether they have 							failed
+or not. This includes items based on usage
+intervals such as 							miles, time, rounds,
+fired, etc.  						</para>
+</para0></intro><mrpl>
+<title>Mandatory Replacement Parts List</title>
+<mrpl-entry
+id="S00080-9-2320-451-MANREPLCPART-010"><itemno
+>1</itemno><partno>PN2-20CA</partno><cageno
+>01843</cageno><nsn><fsc>5315</fsc><niin>00-839-5820</niin>
+</nsn><name>PIN,COTTER 1/16 IN DIA X 3/4 INLG</name>
+<qty>2</qty></mrpl-entry>
+</mrpl></mrplwp>

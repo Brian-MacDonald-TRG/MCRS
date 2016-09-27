@@ -1,0 +1,244 @@
+<opusualwp chngno="0" wpno="O00002-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="crew"/>
+		<title>OPERATION UNDER USUAL CONDITIONS <?Pub _newline?>ASSEMBLY AND PREPARATION FOR USE</title>
+	</wpidinfo>
+	<initial_setup>
+		<persnreq>
+			<persnreq-setup-item>
+				<name>Motor Transport Operator</name>
+				<mos>88M</mos>
+				<qty>2</qty>
+			</persnreq-setup-item>
+		</persnreq>
+		<eqpconds>
+			<eqpconds-setup-item>
+				<condition>Fifth Wheel Towing and Recovery Device in shipping configuration <xref wpid="O00035-9-2320-451"/></condition>
+			</eqpconds-setup-item>
+		</eqpconds>
+	</initial_setup>
+	<opertsk>
+		<prepforuse>
+			<proc>
+				<title>UNFOLD FWTRD FROM SHIPPING/STORAGE CONFIGURATION</title>
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>Once the bottom breather elbow is turned 180&deg; it stays configured this way for all operations.</trim.para>
+						</note>
+						<para>Rotate the bottom breather elbow <callout assocfig="O00002-9-2320-451-F0001" label="1"/> 180&deg; from the original shipping position.</para>
+					</specpara>
+				</step1>
+					<figure id="O00002-9-2320-451-F0001">
+					<title>Initial Shipping Configuration Elbow Turned 180&deg; for Normal Operation</title>
+					<graphic boardno="G06232000034"/>
+					</figure>
+				<step1>
+					<specpara>
+						<warning>
+							<icon-set boardno="Heavy_Object"/>
+							<icon-set boardno="Heavy_Parts-above"/>
+							<icon-set boardno="Heavy_Parts-foot"/>
+							<icon-set boardno="Heavy_Parts-hand"/>
+							<icon-set boardno="Heavy_Parts-wall"/>
+							<icon-set boardno="Helmet_Protection"/>
+							<trim.para>Ensure that the bottom breather valve is open prior to operating hydraulics. Failure to open the breather prior to start of unfolding from shipping operation could cause over- pressurizing of the system resulting in hydraulic line or fitting failure creating an oil spill and slip hazard. Failure to comply may result in damage to equipment or serious injury or death to personnel.</trim.para>
+						</warning>
+						<para>Rotate bottom breather valve lever <callout assocfig="O00002-9-2320-451-F0002" label="1"/> to the OPEN position.</para>
+					</specpara>
+				</step1>
+					<figure id="O00002-9-2320-451-F0002">
+					<title>Breather Valve shown "closed" (90&deg; to fitting) Breather "open" (in line with fitting)</title>
+					<graphic boardno="G06232000035"/>
+					</figure>
+				<step1>
+					<specpara>
+						<warning>
+							<icon-set boardno="Heavy_Parts-above"/>
+							<icon-set boardno="Heavy_Parts-foot"/>
+							<icon-set boardno="Heavy_Parts-hand"/>
+							<icon-set boardno="Heavy_Parts-wall"/>
+							<icon-set boardno="Helmet_Protection"/>
+							<trim.para>When unfolding the FWTRD from the shipping configuration, Operators must take caution when bringing the main frame assembly to the vertical position. During this step the transport leg assembly is secured with a tether but may not stay locked in this configuration. The transport leg handle could swing free, striking the operator, and may cause injury or death to personnel.</trim.para>
+							<trim.para>Always unfold from shipping configuration on level ground. A crush hazard exists. Failure to comply may result in injury or death to personnel and or damage to the equipment.</trim.para>
+							<trim.para>When unfolding a FWTRD with the 35K winch and sledding bar installed, do not bring the mast section past 65&deg; (Figure 3) from the booms without first positioning a prime mover, as a safety, in position to accept the FWTRD main frame and king pin. The additional weight of the 35K winch and sledding bar (1100 lbs / 498.95 Kg) can cause the FWTRD to tip forward creating a crush hazard once the mast goes beyond 65&deg;. Failure to comply may cause injury or death to personnel and or damage to the equipment.</trim.para>
+							<trim.para>Be sure to wear the proper eye protection (safety glasses) when working on or near hydraulic systems to avoid personal injury or death.</trim.para>
+							<trim.para>Use caution when removing items from the tool box. Stored BII items can shift during normal use of the FWTRD and can fall out suddenly when the tool box door is opened. Failure to comply may result in injury or death to personnel.</trim.para>
+						</warning>
+						<caution>
+							<trim.para>When unfolding a FWTRD, the 35K winch has a breather located on the right side of the winch that is closed when the FWTRD is in shipping configuration. This breather should be opened (lever in line with fitting) for normal operation once the FWTRD is unfolded from shipping. Failure to comply may result in damage to the equipment.</trim.para>
+						</caution>
+						<para>Rotate 35K Winch breather valve lever <callout assocfig="O00002-9-2320-451-F0004" label="1"/> to the OPEN position.</para>
+					</specpara>
+				</step1>
+					<figure id="O00002-9-2320-451-F0003">
+					<title>Mast at 65&deg; to the boom when 35K winch and Sledding Bar in place</title>
+					<graphic boardno="G06232000036"/>
+					</figure>
+					<figure id="O00002-9-2320-451-F0004">
+					<title>35K Winch Breather Located Right Side. Shown open - In-line With Valve)</title>
+					<graphic boardno="G06232000037"/>
+					</figure>
+				<step1>
+					<specpara>
+						<warning>
+							<icon-set boardno="Heavy_Parts-above"/>
+							<icon-set boardno="Heavy_Parts-foot"/>
+							<icon-set boardno="Heavy_Parts-hand"/>
+							<icon-set boardno="Heavy_Parts-wall"/>
+							<icon-set boardno="Helmet_Protection"/>
+							<trim.para>The FWTRD Control Box Cover weighs 23 lbs (10.43 Kg). Because the cover is upside down when the FWTRD is in shipping/storage configuration, use caution when opening and/or removing it prior to unfolding the FWTRD. Failure to comply may result in injury or death to personnel.</trim.para>
+						</warning>
+						<note>
+							<trim.para>Illustrations are shown upside down as they are in shipping configuration. Controls are mounted on driver side fender.</trim.para>
+						</note>
+						<para>Unlock the electric control box step cover, and remove.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Set the selector switch <callout assocfig="O00002-9-2320-451-F0005" label="1"/> on the 12/24 Volt junction box to 12 volts.</para>
+				</step1>
+				<step1>
+					<para>Position the ELECTRIC/WET LINE switch <callout assocfig="O00002-9-2320-451-F0005"label="2"/> to ELECTRIC position. Position the ON/OFF switch <callout assocfig="O00002-9-2320-451-F0005" label="3"/> to the ON position. </para>
+				</step1>
+					<figure id="O00002-9-2320-451-F0005">
+					<title>12/24 Volt Junction Box and Electric Control Box</title>
+					<graphic boardno="G06232000039"/>
+					</figure>
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>The electric motor switch must be held in to operate valve control levers.</trim.para>
+						</note>
+						<para>On the Electric Control Box, depress and hold the electric motor switch <callout assocfig="O00002-9-2320-451-F0007" label="1"/>.</para>
+					</specpara>
+				</step1>
+					<figure id="O00002-9-2320-451-F0007">
+					<title>Electric Control Box Motor Switch</title>
+					<graphic boardno="G06232000040"/>
+					</figure>
+				<step1>
+					<para>Using Valve Control Levers <callout assocfig="O00002-9-2320-451-F0008" label="1"/>, fully EXTEND left boom extension.</para>
+				</step1>
+					<figure id="O00002-9-2320-451-F0008">
+					<title>Valve Control Levers (Shown upside down)</title>
+					<graphic boardno="G06232000041"/>
+					</figure>
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>It may be necessary to extend or retract the mast slightly to free the pivot pin.</trim.para>
+						</note>
+						<para>Remove the driver and curb side pivot pins from their shipping location <callout assocfig="O00002-9-2320-451-F0009" label="1"/>.</para>
+					</specpara>
+				</step1>
+					<figure id="O00002-9-2320-451-F0009">
+					<title>Driver and Curb Side Pivot Pin Removal</title>
+					<graphic boardno="G06232000042"/>
+					</figure>
+				<step1>
+					<para>Depress and hold the electric motor switch.</para>
+				</step1>
+				<step1>
+					<para>Using Valve Control Levers, MAST RETRACT until pivot arrows <callout assocfig="O00002-9-2320-451-F0010" label="1"/> on frame are aligned.</para>
+				</step1>
+					<figure id="O00002-9-2320-451-F0010">
+					<title>Lining Up Pivot Arrows</title>
+					<graphic boardno="G06232000043"/>
+					</figure>
+				<step1>
+					<specpara>
+						<caution>
+							<trim.para>Spring clips must not be inserted into pivot pins. Failure to comply will result in equipment damage.</trim.para>
+						</caution>
+						<para>Insert driver side and curb side pivot pins <callout assocfig="O00002-9-2320-451-F0011" label="1"/>.</para>
+					</specpara>
+				</step1>
+					<figure id="O00002-9-2320-451-F0011">
+					<title>Pivot Pins Inserted at Aligned Pivot Arrows</title>
+					<graphic boardno="G06232000044"/>
+					</figure>
+				<step1>
+					<specpara>
+						<warning>
+							<icon-set boardno="Heavy_Parts-above"/>
+							<icon-set boardno="Heavy_Parts-foot"/>
+							<icon-set boardno="Heavy_Parts-hand"/>
+							<icon-set boardno="Heavy_Parts-wall"/>
+							<icon-set boardno="Helmet_Protection"/>
+							<trim.para>Operators must take caution when bringing the main frame assembly to the vertical position. During this step the transport leg assembly handle is secured with a tether but may not stay locked in this configuration. The transport leg handle could swing free, striking the operator, and may cause injury or death to personnel.</trim.para>
+						</warning>
+						<para>Depress and hold the electric motor switch.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Using Valve Control Levers, MAST EXTEND until fifth wheel section is vertical (Figure 12) and pivot pins loosen.</para>
+				</step1>
+					<figure id="O00002-9-2320-451-F0012">
+					<title>Vertical Fifth Wheel Section</title>
+					<graphic boardno="G06232000045"/>
+					</figure>
+				<step1>
+					<para>Position prime mover approximately two feet in front of FWTRD.</para>
+				</step1>
+				<step1>
+					<para>Remove both pivot pins and temporarily store pins in holder.</para>
+				</step1>
+				<step1>
+					<specpara>
+						<warning>
+							<icon-set boardno="Slick_Floor"/>
+							<trim.para>Failure to change over the top and bottom breathers can cause hydraulic oil to spill as the main frame is brought from the vertical to the horizontal position for coupling. This may cause a slip hazard and could result in injury or death to personnel.</trim.para>
+							<trim.para>With the main frame in the vertical position, the bottom breather is on the fifth wheel side of the hydraulic tank and the top breather is located towards the rear of the FWTRD near the electric motors.</trim.para>
+						</warning>
+						<para>Close the bottom breather valve by turning the breather lever <callout assocfig="O00002-9-2320-451-F0013" label="1"/> to a 90&deg; angle with the fitting.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Open the top breather valve by turning the lever <callout assocfig="O00002-9-2320-451-F0013" label="2"/> in line with the fitting.</para>
+				</step1>
+					<figure id="O00002-9-2320-451-F0013">
+					<title>Top and Bottom Breather Valves</title>
+					<graphic boardno="G06232000046"/>
+					</figure>
+				<step1>
+					<para>Depress and hold the electric motor switch.</para>
+				</step1>
+				<step1>
+					<para>Using Valve Control Levers, MAST RETRACT until main frame is fully retracted (Figure 14).</para>
+				</step1>
+					<figure id="O00002-9-2320-451-F0014">
+					<title>Main Frame Fully Retracted in Mast Track</title>
+					<graphic boardno="G06232000047"/>
+					</figure>
+				<step1>
+					<specpara>
+						<warning>
+							<icon-set boardno="Heavy_Parts-above"/>
+							<icon-set boardno="Heavy_Parts-foot"/>
+							<icon-set boardno="Heavy_Parts-hand"/>
+							<icon-set boardno="Heavy_Parts-wall"/>
+							<icon-set boardno="Helmet_Protection"/>
+							<trim.para>The transport leg assembly is secured with a tether but may not stay locked in this configuration. The transport leg handle could swing free, striking the operator, and may cause injury or death to personnel.</trim.para>
+							<trim.para>When unfolding a FWTRD with the 35K winch and sledding bar installed, do not bring the mast section past 65 degrees from the booms without first positioning a prime mover, as a safety, in position to accept the FWTRD main frame and king pin. The additional weight of the 35K winch and sledding bar (1100 lbs / 498.95 Kg) can cause the FWTRD to tip forward creating a crush hazard once the mast goes beyond 65 degrees. Failure to comply may cause injury or death to personnel.</trim.para>
+						</warning>
+						<note>
+							<trim.para>The FWTRD is approximately 65 degrees when boom cylinders are vertical and aligned with bumper stops.</trim.para>
+						</note>
+						<para>Depress and hold the electric motor switch.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Using Valve Control Levers, BOOM EXTEND until mast is approximately 65 degrees from the booms (Figure 15).</para>
+				</step1>
+					<figure id="O00002-9-2320-451-F0015">
+					<title>Boom "Extend" to Bring Mast at 65&deg; to the Boom in Preparation for Coupling</title>
+					<graphic boardno="G06232000048"/>
+					</figure>
+				<step1>
+					<para>If FWTRD is not to be immediately attached to Prime Mover, on electric control box, position ON/OFF switch to OFF position. Reinstall electric control box step cover.</para>
+				</step1>					
+			</proc>
+		</prepforuse>
+	</opertsk>
+</opusualwp>

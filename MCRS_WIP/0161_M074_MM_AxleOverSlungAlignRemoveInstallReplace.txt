@@ -1,0 +1,385 @@
+<maintwp chngno="0" wpno="M00074-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="maintainer"/>
+		<title>MAINTAINER MAINTENANCE <?Pub _newline?>OVER SLUNG AXLE ALIGN/REMOVE/INSTALL/REPLACE</title>
+	</wpidinfo>
+	<initial_setup>
+		<tools>
+			<tools-setup-item>
+				<name>Tool Kit, General Mechanics</name>
+				<itemref>
+					<xref itemid="S00007-9-2320-451-TOOL-4" wpid="S00007-9-2320-451"/>
+				</itemref>
+			</tools-setup-item>
+			<tools-setup-item>
+				<name>Jack</name>
+			</tools-setup-item>
+			<tools-setup-item>
+				<name>Jack Stands</name>
+			</tools-setup-item>
+			<tools-setup-item>
+				<name>Shop Equipment, Welding</name>
+				<itemref>
+					<xref itemid="S00007-9-2320-451-TOOL-2" wpid="S00007-9-2320-451"/>
+				</itemref>
+			</tools-setup-item>
+			<tools-setup-item>
+				<name>Torque Wrench, 0 to 200 lb-ft (0 to 271 N�m)</name>
+				<itemref>
+					<xref itemid="S00007-9-2320-451-TOOL-9" wpid="S00007-9-2320-451"/>
+				</itemref>
+			</tools-setup-item>
+			<tools-setup-item>
+				<name>Torque Wrench 120 to 600 lb-ft (163 to 813 N�m)</name>
+				<itemref>
+					<xref itemid="S00007-9-2320-451-TOOL-10" wpid="S00007-9-2320-451"/>
+				</itemref>
+			</tools-setup-item>
+		</tools>
+		<mtrlpart>
+			<mtrlpart-setup-item>
+				<name>Locknut (8)</name>
+			</mtrlpart-setup-item>
+			<mtrlpart-setup-item>
+				<name>Locknut (8)</name>
+			</mtrlpart-setup-item>
+		</mtrlpart>
+		<persnreq>
+			<persnreq-setup-item>
+				<name>Motor Transport Operator</name>
+				<mos>88M</mos>
+				<qty>4</qty>
+			</persnreq-setup-item>
+		</persnreq>
+		<eqpconds>
+			<eqpconds-setup-item>
+				<condition>Tilt Deck Recovery Trailer in Uncoupled Configuration (<xref wpid="O00027-9-2320-451"/>)</condition>
+			</eqpconds-setup-item>
+			<eqpconds-setup-item>
+				<condition>Wheels Chocked</condition>
+			</eqpconds-setup-item>
+			<eqpconds-setup-item>
+				<condition>
+					Tires Removed IAW 
+					<xref wpid="M00096-9-2320-451">
+				</condition>
+			</eqpconds-setup-item>
+			<eqpconds-setup-item>
+				<condition>
+					Air Brake Chamber Removed IAW 
+					<xref wpid="M00084-9-2320-451">
+				</condition>
+			</eqpconds-setup-item>
+			<eqpconds-setup-item>
+				<condition>
+					Automatic Slack Adjuster Removed IAW 
+					<xref wpid="M00080-9-2320-452">
+				</condition>
+			</eqpconds-setup-item>
+			<eqpconds-setup-item>
+				<condition>
+					Brake Drum Removed IAW 
+					<xref wpid="M00092-9-2320-451">
+				</condition>
+			</eqpconds-setup-item>
+			<eqpconds-setup-item>
+				<condition>
+					Hubs Remove IAW 
+					<xref wpid="M00093-9-2320-451">
+				</condition>
+			</eqpconds-setup-item>
+			<eqpconds-setup-item>
+				<condition>
+					Brake Shoes Removed IAW 
+					<xref wpid="M00031-9-2320-451">
+				</condition>
+			</eqpconds-setup-item>
+		</eqpconds>
+	</initial_setup>
+	<maintsk>
+		<align>
+			<proc>
+				<title>ALIGN</title>
+				<step1>
+					<specpara>
+						<warning>
+							<icon-set boardno="Heavy_Object">
+							<icon-set boardno="Heavy_Parts-foot">
+							<icon-set boardno="Heavy_Parts-hand">
+							<icon-set boardno="Heavy_Parts-wall">
+							<trim.para>Axle weighs 200 lbs. (91 kg). Assistance is required to lift axle. Failure to comply may result in personnel death or injury, or equipment damage. Seek medical attention in event of injury.</trim.para>
+							<trim.para>The frame and axle must be firmly supported on a hard, level surface. Direct all personnel to stay clear of semitrailer when supported in air. Failure to comply may result in personnel death or injury, or equipment damage. Seek medical attention in event of injury.</trim.para>
+							<trim.para>The axle must be firmly supported with suitable support device before performing steps 2, 3, and 4. Failure to comply may result in personnel injury or equipment damage. Seek medical attention in event of injury.</trim.para>
+						</warning>
+						<para>Align over slung axle assembly with TDRT coupling screws by measuring distance from coupling screw to centerline of spindles on front axle. Dimensions A and B (Figure 1) must be equal within 0.13 in. (3.30 mm</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Tighten U-bolts and end clamp bolts to specification on that axle only.</para>
+				</step1>
+				<step1>
+					<para>Align rear axle with front axle. Dimensions C and D <callout assocfig="M00074-9-2320-451-F0001"> must be equal within 0.06 in. (1.52 mm).</para>
+				</step1>
+				<step1>
+					<para>Tighten U-bolts and end clamp bolts on rear axle.</para>
+				</step1>
+				<step1>
+					<para>Check dimension E <callout assocfig="M00074-9-2320-451-F0001">, the lateral centerline relationship of TDRT body and axles. Dimension E <callout assocfig="M00074-9-2320-451-F0001"> must not exceed 0.25 in. (6.35 mm).</para>
+				</step1>
+				<step1>
+					<para>Recheck alignment of front axle with coupling screws and rear axle with front axle until all are aligned.</para>
+				</step1>
+				<figure id="M00074-9-2320-451-F0001">
+					<title>Axle Alignment</title>
+					<graphic boardno="G06232000402"></graphic>
+				</figure>
+				<step1>
+					<specpara>
+						<caution>
+							<trim.para>Check all fasteners (U-bolts, end cap, trunnion hub, etc.) to ensure they are tightened to specification. Torque for all fasteners should be checked after an initial break-in period and periodically thereafter. Failure to comply may result in equipment damage.</trim.para>
+						</caution>
+						<para>Tighten U-bolts and nuts to specification.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<specpara>
+						<warning>
+							<icon-set boardno="Eye_Protection">
+							<icon-set boardno="Vapor">
+							<icon-set boardno="Heavy_Parts-above">
+							<trim.para>Wear welding mask, gloves, and protective apron when welding or using cutting torch. Ensure eye protection is the proper tint for the welding task being performed. Failure to comply may result in personnel injury. Seek medical attention in event of injury.</trim.para>
+							<trim.para>Adjustment plates MUST BE WELDED BEFORE operating the semitrailer. Failure to comply may result in personnel injury or equipment damage. Seek medical attention in event of injury.</trim.para>
+						</warning>
+						<para>Weld the unwelded adjustment plates <callout assocfig="M00074-9-2320-451-F0002"> to spring seats.</para>
+					</specpara>
+				</step1>
+				<figure id="M00074-9-2320-451-F0002">
+					<title>Adjustment Plate Welding</title>
+					<graphic boardno="G06232000403"></graphic>
+				</figure>
+			</proc>
+		</align>
+	</maintsk>
+	<maintsk>
+		<remove>
+			<proc>
+				<title>REMOVE</title>
+				<step1>
+					<specpara>
+						<warning>
+							<icon-set boardno="Heavy_Object">
+							<icon-set boardno="Heavy_Parts-foot">
+							<icon-set boardno="Heavy_Parts-hand">
+							<icon-set boardno="Heavy_Parts-wall">
+							<trim.para>Axle weighs 200 lbs. (91 kg). Assistance is required to lift axle. Failure to comply may result in personnel death or injury, or equipment damage. Seek medical attention in event of injury.</trim.para>
+							<trim.para>The frame and axle must be firmly supported on a hard, level surface. Direct all personnel to stay clear of semitrailer when supported in air. Failure to comply may result in personnel death or injury, or equipment damage. Seek medical attention in event of injury.</trim.para>
+							<trim.para>The axle must be firmly supported with suitable support device before performing steps 2, 3, and 4. Failure to comply may result in personnel injury or equipment damage. Seek medical attention in event of injury.</trim.para>
+						</warning>
+						<para>Place floor jacks into position to support axle <callout assocfig="M00074-9-2320-451-F0003" label="9"> and jack stands to support trailer frame.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>
+						Remove four locknuts <callout assocfig="M00074-9-2320-451-F0003" label="7">, washers <callout assocfig="M00074-9-2320-451-F0003" label="8">, and cap screws <callout assocfig="M00074-9-2320-451-F0003" label="1"> evenly from end cap <callout assocfig="M00074-9-2320-451-F0003" label="4">. Discard locknuts <callout assocfig="M00074-9-2320-451-F0003" label="7">.
+					</para>
+				</step1>
+				<step1>
+					<para>
+						Remove four locknuts <callout assocfig="M00074-9-2320-451-F0003" label="2"> evenly. Remove eight washers <callout assocfig="M00074-9-2320-451-F0003" label="3"> and two U-bolts <callout assocfig="M00074-9-2320-451-F0003" label="6">. Discard locknuts <callout assocfig="M00074-9-2320-451-F0003" label="2">.
+					</para>
+				</step1>
+				<step1>
+					<para>
+						Remove end cap <callout assocfig="M00074-9-2320-451-F0003" label="4"> and two pads <callout assocfig="M00074-9-2320-451-F0003" label="5"> from spring <callout assocfig="M00074-9-2320-451-F0003" label="10">.
+					</para>
+				</step1>
+				<step1>
+					<para>
+						Repeat Steps 2 through 4 for other side of axle <callout assocfig="M00074-9-2320-451-F0003" label="9">.
+					</para>
+				</step1>
+				<step1>
+					<para>
+						Slowly lower and remove axle <callout assocfig="M00074-9-2320-451-F0003" label="9">.
+					</para>
+				</step1>
+				<figure id="M00074-9-2320-451-F0003">
+					<title>Axle Removal</title>
+					<graphic boardno="G06232000400"></graphic>
+				</figure>
+			</proc>
+		</remove>
+	</maintsk>
+	<maintsk>
+		<install>
+			<proc>
+				<title>INSTALL</title>
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>If installing new axle, refer to SPRING SEAT INSTALLATION.</trim.para>
+						</note>
+						<para>If necessary, install brake camshafts IAW <xref wpid="M00079-9-2320-452"></para>
+					</specpara>
+				</step1>
+				<step1>
+					<specpara>
+						<warning>
+							<icon-set boardno="Flying_Particles_wShield">
+							<icon-set boardno="Sharp_Object-in_hand">
+							<trim.para>For proper operation of air brakes, both axles must be positioned with air brake chambers to the rear of semitrailer and slack adjusters to the front. Failure to comply may result in personnel injury or equipment damage. Seek medical attention in event of injury.</trim.para>
+						</warning>
+						<para>Position axle <callout assocfig="M00074-9-2320-451-F0004" label="12"> under spring <callout assocfig="M00074-9-2320-451-F0004" label="13"> with brake chambers toward rear of semitrailer. Using floor jacks, raise axle <callout assocfig="M00074-9-2320-451-F0004" label="12"> into position.
+						</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>On both sides of axle <callout assocfig="M00074-9-2320-451-F0004" label="12">, align raised surface of alignment plate <callout assocfig="M00074-9-2320-451-F0004" label="7">, which is welded to spring seat <callout assocfig="M00074-9-2320-451-F0004" label="11"> unless axle <callout assocfig="M00074-9-2320-451-F0004" label="12"> is new with recess <callout assocfig="M00074-9-2320-451-F0004" label="6"> on underside of spring <callout assocfig="M00074-9-2320-451-F0004" label="13"> assembly.</para>
+				</step1>
+				<step1>
+					<para>Install two pads <callout assocfig="M00074-9-2320-451-F0004" label="5"> with rounded edges on spring <callout assocfig="M00074-9-2320-451-F0004" label="13">. Install end cap <callout assocfig="M00074-9-2320-451-F0004" label="4">.</para>
+				</step1>
+				<step1>
+					<para>Install two U-bolts <callout assocfig="M00074-9-2320-451-F0004" label="8">, eight washers <callout assocfig="M00074-9-2320-451-F0004" label="3">, and four new locknuts <callout assocfig="M00074-9-2320-451-F0004" label="2">. DO NOT tighten locknuts <callout assocfig="M00074-9-2320-451-F0004" label="2">.</para>
+				</step1>
+				<step1>
+					<para>Install four cap screws <callout assocfig="M00074-9-2320-451-F0004" label="1">, washers <callout assocfig="M00074-9-2320-451-F0004" label="10">, and new locknuts <callout assocfig="M00074-9-2320-451-F0004" label="9">. Do not tighten locknuts <callout assocfig="M00074-9-2320-451-F0004" label="9">.</para>
+				</step1>
+				<step1>
+					<para>Repeat Steps 3 through 7 above for other side of axle <callout assocfig="M00074-9-2320-451-F0004" label="12">.</para>
+				</step1>
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>If installing new axle, refer to Axle Alignment IAW <xref wpid="M00078-9-2320-451"></trim.para>
+						</note>
+						<para>Torque U-bolt locknuts <callout assocfig="M00074-9-2320-451-F0004" label="2"> to 300 Ib-ft (407 N�m) Dry, if Wet, 220 Ib-ft (298 N�m).</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Torque end cap locknuts <callout assocfig="M00074-9-2320-451-F0004" label="9"> to 180 Ib-ft (244 N�m) Dry, if Wet, 130 Ib-ft (176 N�m).</para>
+				</step1>
+				<step1>
+					<para>Repeat Steps 9 and 10 above for other side of axle <callout assocfig="M00074-9-2320-451-F0004" label="12">.</para>
+				</step1>
+				<step1>
+					<para>Close drain valves IAW WP <xref wpid="M00086-9-2320-451">
+					</para>
+				</step1>
+				<step1>
+					<para>Remove axle <callout assocfig="M00074-9-2320-451-F0004" label="12"> and frame supports.</para>
+				</step1>
+				<step1>
+					<para>Perform final AXLE ALIGNMENT check.</para>
+				</step1>
+				<figure id="M00074-9-2320-451-F0004">
+					<title>Axle Installation</title>
+					<graphic boardno="G06232000401"></graphic>
+				</figure>
+			</proc>
+		</install>
+	</maintsk>
+	<maintsk>
+		<replace>
+			<proc>
+				<title>REPLACE</title>
+				<step1>
+					<specpara>
+						<warning>
+							<icon-set boardno="Heavy_Object">
+							<icon-set boardno="Heavy_Parts-foot">
+							<icon-set boardno="Heavy_Parts-hand">
+							<icon-set boardno="Heavy_Parts-wall">
+							<trim.para>Axle weighs 200 lbs. (91 kg). Assistance is required to lift axle. Failure to comply may result in personnel death or injury, or equipment damage. Seek medical attention in event of injury.</trim.para>
+							<trim.para>The frame and axle must be firmly supported on a hard, level surface. Direct all personnel to stay clear of semitrailer when supported in air. Failure to comply may result in personnel death or injury, or equipment damage. Seek medical attention in event of injury.</trim.para>
+							<trim.para>The axle must be firmly supported with suitable support device before performing steps 2, 3, and 4. Failure to comply may result in personnel injury or equipment damage. Seek medical attention in event of injury.</trim.para>
+						</warning>
+						<para>Place floor jacks into position to support axle <callout assocfig="M00074-9-2320-451-F0005" label="9"> and jack stands to support trailer frame.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Remove four locknuts <callout assocfig="M00074-9-2320-451-F0005" label="7">, washers <callout assocfig="M00074-9-2320-451-F0005" label="8">, and cap screws <callout assocfig="M00074-9-2320-451-F0005" label="1"> evenly from end cap <callout assocfig="M00074-9-2320-451-F0005" label="4">. Discard locknuts <callout assocfig="M00074-9-2320-451-F0005" label="7">.</para>
+				</step1>
+				<step1>
+					<para>Remove four locknuts <callout assocfig="M00074-9-2320-451-F0005" label="2"> evenly. Remove eight washers <callout assocfig="M00074-9-2320-451-F0005" label="3"> and two U-bolts <callout assocfig="M00074-9-2320-451-F0005" label="6">. Discard locknuts <callout assocfig="M00074-9-2320-451-F0005" label="2">.</para>
+				</step1>
+				<step1>
+					<para>Remove end cap <callout assocfig="M00074-9-2320-451-F0005" label="4"> and two pads <callout assocfig="M00074-9-2320-451-F0005" label="5"> from spring <callout assocfig="M00074-9-2320-451-F0005" label="10">.</para>
+				</step1>
+				<step1>
+					<para>Repeat Steps 2 through 4 for other side of axle <callout assocfig="M00074-9-2320-451-F0005" label="9">.</para>
+				</step1>
+				<step1>
+					<para>Slowly lower and remove axle <callout assocfig="M00074-9-2320-451-F0005" label="9">.</para>
+				</step1>
+				
+					<figure id="M00074-9-2320-451-F0005">
+					<title>Axle Removal</title>
+					<graphic boardno="G06232000400"></graphic>
+					</figure>
+
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>If installing new axle, refer to SPRING SEAT INSTALLATION.</trim.para>
+						</note>
+						<para>If necessary, install brake camshafts IAW <xref wpid="M00079-9-2320-452"></para>
+					</specpara>
+				</step1>
+				<step1>
+					<specpara>
+						<warning>
+							<icon-set boardno="Flying_Particles_wShield">
+							<icon-set boardno="Sharp_Object-in_hand">
+							<trim.para>For proper operation of air brakes, both axles must be positioned with air brake chambers to the rear of semitrailer and slack adjusters to the front. Failure to comply may result in personnel injury or equipment damage. Seek medical attention in event of injury.</trim.para>
+						</warning>
+						<para>Position axle <callout assocfig="M00074-9-2320-451-F0006" label="12"> under spring <callout assocfig="M00074-9-2320-451-F0006" label="13"> with brake chambers toward rear of semitrailer. Using floor jacks, raise axle <callout assocfig="M00074-9-2320-451-F0006" label="12"> into position.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>On both sides of axle <callout assocfig="M00074-9-2320-451-F0006" label="12">, align raised surface of alignment plate <callout assocfig="M00074-9-2320-451-F0006" label="7">, which is welded to spring seat <callout assocfig="M00074-9-2320-451-F0006" label="11"> unless axle <callout assocfig="M00074-9-2320-451-F0006" label="12"> is new with recess <callout assocfig="M00074-9-2320-451-F0006" label="6"> on underside of spring <callout assocfig="M00074-9-2320-451-F0006" label="13"> assembly.</para>
+				</step1>
+				<step1>
+					<para>Install two pads <callout assocfig="M00074-9-2320-451-F0006" label="5"> with rounded edges on spring <callout assocfig="M00074-9-2320-451-F0006" label="13">. Install end cap <callout assocfig="M00074-9-2320-451-F0006" label="4">.</para>
+				</step1>
+				<step1>
+					<para>Install two U-bolts <callout assocfig="M00074-9-2320-451-F0006" label="8">, eight washers <callout assocfig="M00074-9-2320-451-F0006" label="3">, and four new locknuts <callout assocfig="M00074-9-2320-451-F0006" label="2">. DO NOT tighten locknuts <callout assocfig="M00074-9-2320-451-F0006" label="2">.</para>
+				</step1>
+				<step1>
+					<para>Install four cap screws <callout assocfig="M00074-9-2320-451-F0006" label="1">, washers <callout assocfig="M00074-9-2320-451-F0006" label="10">, and new locknuts <callout assocfig="M00074-9-2320-451-F0006" label="9">. Do not tighten locknuts <callout assocfig="M00074-9-2320-451-F0006" label="9">.</para>
+				</step1>
+				<step1>
+					<para>Repeat Steps 3 through 7 above for other side of axle <callout assocfig="M00074-9-2320-451-F0006" label="12">.</para>
+				</step1>
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>If installing new axle, refer to Axle Alignment IAW <xref wpid="M00078-9-2320-451"></trim.para>
+						</note>
+						<para>Torque U-bolt locknuts (Figure 4, Item 2) to 300 Ib-ft (407 N�m) Dry, if Wet, 220 Ib-ft (298 N�m).</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Torque end cap locknuts <callout assocfig="M00074-9-2320-451-F0006" label="9"> to 180 Ib-ft (244 N�m) Dry, if Wet, 130 Ib-ft (176 N�m)</para>
+				</step1>
+				<step1>
+					<para>Repeat Steps 9 and 10 above for other side of axle <callout assocfig="M00074-9-2320-451-F0006" label="12">.</para>
+				</step1>
+				<step1>
+					<para>Close drain valves IAW <xref wpid="M00086-9-2320-451">.</para> 
+				</step1>
+				<step1>
+					<para>Remove axle <callout assocfig="M00074-9-2320-451-F0006" label="12"> and frame supports.</para>
+				</step1>
+				<step1>
+					<para>Perform final AXLE ALIGNMENT check.</para>
+				</step1>
+					
+					<figure id="M00074-9-2320-451-F0006">
+					<title>Axle Installation</title>
+					<graphic boardno="G06232000401"></graphic>
+					</figure>
+			</proc>
+		</replace>
+	</maintsk>
+</maintwp>

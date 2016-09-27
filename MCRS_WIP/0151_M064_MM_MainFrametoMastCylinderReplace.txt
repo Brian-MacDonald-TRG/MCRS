@@ -1,0 +1,172 @@
+<maintwp chngno="0" wpno="M00064-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="maintainer"/>
+			<title>MAINTAINER MAINTENANCE - MAIN FRAME TO MAST CYLINDER REPLACE</title>
+	</wpidinfo>
+	<initial_setup>
+		<tools>
+			<tools-setup-item>
+				<name>Tool Kit, General Mechanics</name>
+				<itemref>
+					<xref itemid="S00007-9-2320-451-TOOL-4" wpid="S00007-9-2320-451"/>
+				</itemref>
+			</tools-setup-item>
+			<tools-setup-item>
+				<name>A suitable lifting device for 48 lbs (21.8kg)</name>
+			</tools-setup-item>
+		</tools>
+		<mtrlpart>
+			<mtrlpart-setup-item>
+				<name>Pin, retaining, upper (2) (1036-1)</name>
+			</mtrlpart-setup-item>
+			<mtrlpart-setup-item>
+				<name>Pin, retaining, lower (2) (1035-1)</name>
+			</mtrlpart-setup-item>
+			<mtrlpart-setup-item>
+				<name>STRAP,TIEDOWN,ELECTRICAL COMPONENT</name>
+				<itemref>
+					<xref itemid="S00006-9-2320-451-0017" wpid="S00006-9-2320-451"/>
+				</itemref>
+			</mtrlpart-setup-item>
+			<mtrlpart-setup-item>
+				<name>TAG,MARKER</name>
+				<itemref>
+					<xref itemid="S00006-9-2320-451-0018" wpid="S00006-9-2320-451"/>
+				</itemref>
+			</mtrlpart-setup-item>
+			<mtrlpart-setup-item>
+				<name>ADHESIVE</name>
+				<itemref>
+					<xref itemid="S00006-9-2320-451-0001" wpid="S00006-9-2320-451"/>
+				</itemref>
+			</mtrlpart-setup-item>
+		</mtrlpart>
+		<persnreq>
+			<persnreq-setup-item>
+				<name>Motor Transport Operator</name>
+				<mos>88M</mos>
+				<qty>2</qty>
+			</persnreq-setup-item>
+		</persnreq>
+		<eqpconds>
+			<eqpconds-setup-item>
+				<condition>Fifth Wheel Towing and Recovery Device Uncoupled from Prime Mover IAW <xref wpid="O00035-9-2320-451"/>. </condition>
+			</eqpconds-setup-item>
+			<eqpconds-setup-item>
+				<condition>Hydraulic pressure relieved.</condition>
+			</eqpconds-setup-item>
+		</eqpconds>
+	</initial_setup>
+	<maintsk>
+		<replace>
+			<proc>
+				<title>REPLACE</title>
+				<step1>
+					<specpara>
+						<warning>
+							<icon-set boardno="Heavy_Parts-above"/>
+							<icon-set boardno="Slick_Floor"/>
+							<icon-set boardno="Eye_Protection"/>
+							<trim.para>Ensure hydraulic protection valve is open (breather switch in line with breather) prior to operating hydraulics. Failure to comply could cause injury or death to personnel or damage to equipment.</trim.para>
+							<trim.para>High pressure is present in the 250M Fifth Wheel Towing Device hydraulic system. Do not disconnect any hydraulic system component unless hydraulic system pressure has been relieved. Ensure each hydraulic control lever is moved several times through all positions. Failure to comply may result in severe injury or death to personnel.</trim.para>
+							<trim.para>Spilled hydraulic oil is very slippery. Be careful when entering or working in area. Wipe up any spilled oil immediately. Failure to comply may result in severe injury or death to personnel.</trim.para>
+							<trim.para>While operating or performing maintenance on any hydraulic systems, never place personnel or equipment in a potentially hazardous position (i.e., between moving parts or under hydraulic supported equipment). Failure to comply may result in injury or death to personnel.</trim.para>
+						</warning>
+						<note>
+							<trim.para>All hydraulic hoses must be capped and/or plugged when disconnecting to prevent contamination of hydraulic system.</trim.para>
+							<trim.para>Cut plastic ties as needed. Note location of plastic ties and hydraulic hoses prior to removal.</trim.para>
+							<trim.para>The following procedures are for the removal of the main frame to mast cylinders. Adjust maintenance steps performed to accommodate the required maintenance.</trim.para>
+						</note>
+					<!-- <para>Preform <xref stepend="O00036-9-2320-451-S00007" stepstart="O00036-9-2320-451-S00001"/></para> -->
+					<para>Remove hydraulic hose from elbow <callout assocfig="M00064-9-2320-451-F0001" label="3"/>.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Remove hydraulic hose from tee fitting <callout assocfig="M00064-9-2320-451-F0001" label="4"/> and upper safety valve.</para>
+				</step1>
+				<step1>
+					<para>Remove hydraulic hoses from elbows <callout assocfig="M00064-9-2320-451-F0001" label="8"/>.</para>
+				</step1>
+				<step1>
+					<para>Remove hydraulic hose <callout assocfig="M00064-9-2320-451-F0001" label="10"/> from cylinder.</para>
+				</step1>
+				<step1>
+					<para>Remove tee fitting from straight adapter <callout assocfig="M00064-9-2320-451-F0001" label="5"/>.</para>
+				</step1>
+				<step1>
+					<para>Remove straight adapter from cylinder <callout assocfig="M00064-9-2320-451-F0001" label="6"/>.</para>
+				</step1>
+				<step1>
+					<para>Remove elbows <callout assocfig="M00064-9-2320-451-F0001" label="8"/> from cylinders.</para>
+				</step1>
+				<step1 id="M00064-9-2320-451-S00008">
+					<para>Loosen two screws <callout assocfig="M00064-9-2320-451-F0001" label="2"/> and remove retaining pin <callout assocfig="M00064-9-2320-451-F0001" label="1"/>.</para>
+				</step1>
+				<step1>
+					<para>Using a suitable lifting device, lower unserviceable cylinder assembly mast. It may be necessary to release some pressure from the cylinder to allow the cylinder to collapse enough to clear the mounts.</para>
+				</step1>
+				<step1>
+					<para>Loosen two screws <callout assocfig="M00064-9-2320-451-F0001" label="7"/> and remove retaining pin <callout assocfig="M00064-9-2320-451-F0001" label="9"/>.</para>
+				</step1>
+				<step1>
+					<para>Remove cylinder assembly.</para></step1>
+				<step1 id="M00064-9-2320-451-S00011">
+					<para>Repeat <xref stepend="M00064-9-2320-451-S00011" stepstart="M00064-9-2320-451-S00008"/> for remaining main frame to mast cylinder assembly.</para>
+				</step1>
+				<step1>
+					<para>Obtain serviceable item.</para>
+				</step1>
+					<figure id="M00064-9-2320-451-F0001">
+					<title>Hydraulic Cylinder Removal (Mast Frame to Mast)</title>
+					<graphic boardno="G06232000342"></graphic>
+					</figure>
+				<step1>
+					<para>Using a suitable lifting device and two personnel, position bottom of cylinder assembly in bracket and secure with retaining pin <callout assocfig="M00064-9-2320-451-F0002" label="9"/>.</para>
+				</step1>
+				<step1>
+					<para>Tighten two screws <callout assocfig="M00064-9-2320-451-F0002" label="7"/>.</para>
+				</step1>
+				<step1>
+					<para>Align serviceable hydraulic mast cylinder with upper mounting bracket. Insert retaining pin <callout assocfig="M00064-9-2320-451-F0002" label="1"/>.</para>
+				</step1>
+				<step1>
+					<para>Tighten two screws <callout assocfig="M00064-9-2320-451-F0002" label="2"/>.</para>
+				</step1>
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>Use sealing compound on all threads before installing fittings.</trim.para>
+							<trim.para>All hydraulic hoses must not be recapped and/or unplugged until connecting to prevent contamination of hydraulic system.</trim.para>
+							<trim.para>Replace plastic ties as needed.</trim.para>
+						</note>
+						<para>Reinstall elbows <callout assocfig="M00064-9-2320-451-F0002" label="8"/> on serviceable mast cylinders.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Install straight adapter <callout assocfig="M00064-9-2320-451-F0002" label="5"/> on driver side mast cylinder <callout assocfig="M00064-9-2320-451-F0002" label="6"/>.</para>
+				</step1>
+				<step1>
+					<para>Install tee fitting <callout assocfig="M00064-9-2320-451-F0002" label="4"/> on straight adapter <callout assocfig="M00064-9-2320-451-F0002" label="5"/>.</para>
+				</step1>
+				<step1>
+					<para>Install elbow <callout assocfig="M00064-9-2320-451-F0002" label="3"/> on tee fitting <callout assocfig="M00064-9-2320-451-F0002" label="4"/>.</para>
+				</step1>
+				<step1>
+					<para>Install hydraulic hose <callout assocfig="M00064-9-2320-451-F0002" label="10"/> on curb side cylinder.</para></step1>
+				<step1>
+					<para>Install hydraulic hose on elbow <callout assocfig="M00064-9-2320-451-F0002" label="8"/>.</para>
+				</step1>
+				<step1>
+					<para>Install hydraulic hose on tee fitting <callout assocfig="M00064-9-2320-451-F0002" label="4"/> and upper safety valve.</para>
+				</step1>
+				<step1>
+					<para>Install hydraulic hose on elbow.</para>
+				</step1>
+					<figure id="M00064-9-2320-451-F0002">
+					<title>Hydraulic Cylinder (Mast Frame to Mast)</title>
+					<graphic boardno="G06232000342"></graphic>
+					</figure>
+			</proc>
+		</replace>
+	</maintsk>
+</maintwp>

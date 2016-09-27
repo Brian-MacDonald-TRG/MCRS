@@ -1,0 +1,124 @@
+<maintwp chngno="0" wpno="M00115-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="maintainer"/>
+			<title>MAINTAINER MAINTENANCE - AIR RESERVOIR LIFT<?Pub _newline?>REPLACE</title>
+	</wpidinfo>
+	<initial_setup>
+		<tools>
+			<tools-setup-item>
+				<name>Tool Kit, Mechanics General</name>
+				<itemref>
+					<xref itemid="S00007-9-2320-451-TOOL-4" wpid="S00007-9-2320-451"/>
+				</itemref>
+			</tools-setup-item>
+		</tools>
+		<persnreq>
+			<persnreq-setup-item>
+				<name>Motor Transport Operator</name>
+				<mos>88M</mos>
+				<qty>1</qty>
+			</persnreq-setup-item>
+		</persnreq>
+		<eqpconds>
+			<eqpconds-setup-item>
+				<condition>Tilt Deck Recovery Trailer in uncoupled configuration <xref wpid="O00027-9-2320-451"/>.</condition>
+			</eqpconds-setup-item>
+			<eqpconds-setup-item>
+				<condition>Wheels chocked</condition>
+			</eqpconds-setup-item>
+		</eqpconds>
+	</initial_setup>
+	<maintsk>
+		<replace>
+			<proc>
+				<step1>
+					<para>Pull air reservoir lanyards <callout assocfig="M00128-9-2320-451-F0001" label ="1"/> to drain any remaining air from reservoirs.</para>
+				</step1>
+
+					<figure id="M00128-9-2320-451-F0001">
+					<title>Reservoir Drain Lanyards</title>
+					<graphic boardno="G06232000516"/>
+					</figure>
+
+				<step1>
+					<para>Open air control box.</para>
+				</step1>
+				<step1>
+					<para>Remove nut <callout assocfig="M00128-9-2320-451-F0002" label ="1"/> securing lanyard clamp.</para>
+				</step1>
+
+					<figure id="M00128-9-2320-451-F0002">
+					<title>Lanyard bolt and clamp</title>
+					<graphic boardno="G06232000517"/>
+					</figure>
+
+				<step1>
+					<para>Remove lanyard from clamp.</para>
+				</step1>
+				<step1>
+					<para>Pull lanyard out back of air control box.</para>
+				</step1>
+				<step1>
+					<para>Remove drain valve <callout assocfig="M00128-9-2320-451-F0003" label ="1"/>.</para>
+				</step1>
+
+					<figure id="M00128-9-2320-451-F0003">
+					<title>Drain Valve</title>
+					<graphic boardno="G06232000518"/>
+					</figure>
+
+				<step1>
+					<para>Tag and remove air lines <callout assocfig="M00128-9-2320-451-F0004" label ="1"/> from quick disconnect fittings. There is one line at each end of the tank.</para>
+				</step1>
+				<step1>
+					<para>Remove two each quick disconnect fittings <callout assocfig="M00128-9-2320-451-F0004" label ="2"/> from reservoir.</para>
+				</step1>
+
+					<figure id="M00128-9-2320-451-F0004">
+					<title>Driver Side Quick Disconnects and Hose Shown</title>
+					<graphic boardno="G06232000519"/>
+					</figure>
+
+				<step1>
+					<para>Remove four each bolts <callout assocfig="M00128-9-2320-451-F0005" label ="1"/>, washers, and lock washers from two side brackets. Discard lock washers.</para>
+				</step1>
+
+					<figure id="M00128-9-2320-451-F0005">
+					<title>Reservoir Mounting Bolts Driver Side Shown</title>
+					<graphic boardno="G06232000520"/>
+					</figure>
+
+				<step1>
+					<para>Remove unserviceable item</para>
+				</step1>
+				<step1>
+					<para>Install two each quick disconnect fittings <callout assocfig="M00128-9-2320-451-F0006" label ="1"/> and drain valve <callout assocfig="M00128-9-2320-451-F0006" label ="2"/> on air reservoir before installation.</para>
+				</step1>
+
+					<figure id="M00128-9-2320-451-F0006">
+					<title>Serviceable Air Reservoir Preparation</title>
+					<graphic boardno="G06232000521"/>
+					</figure>
+
+				<step1>
+					<para>Place replacement air reservoir on brackets.</para>
+				</step1>
+				<step1>
+					<para>Secure with two bolts, washers, and serviceable lock washers on two side brackets.</para>
+				</step1>
+				<step1>
+					<para>Feed drain valve lanyard <callout assocfig="M00128-9-2320-451-F0007" label ="1"/> through back of air control box and install clamp with bolt <callout assocfig="M00128-9-2320-451-F0007" label ="2"/>, nut, and serviceable lock washer.</para>
+				</step1>
+
+					<figure id="M00128-9-2320-451-F0007">
+					<title>Lanyard Bolt and Clamp</title>
+					<graphic boardno="G06232000522"/>
+					</figure>
+
+				<step1>
+					<para>Insert two tagged air lines into quick disconnect fittings.</para>
+				</step1>
+			</proc>
+		</replace>
+	</maintsk>
+</maintwp>

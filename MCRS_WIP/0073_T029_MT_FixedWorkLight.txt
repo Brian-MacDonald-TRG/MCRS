@@ -1,0 +1,37 @@
+<tswp chngno="0" wpno="T00029-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="maintainer"/>
+		<title>TROUBLESHOOTING PROCEDURES <?Pub _newline?>FIXED WORK LIGHT</title>
+	</wpidinfo>
+	<initial_setup>
+		<eqpconds>
+			<eqpconds-setup-item>
+				<condition>Coupling FWTRD to Prime Mover(<xref wpid="O00003-9-2320-451"/>).</condition>
+			</eqpconds-setup-item>
+		</eqpconds>
+	</initial_setup>
+	<tsproc>
+		<faultproc>
+			<title>Maintainer Troubleshooting</title>
+			<symptom>Fixed Work Light Inoperable</symptom>
+			<malfunc label="malfunction">Remove bulb and check for 12V at power wire coming into light.</malfunc>
+			<action>
+				<step1>
+					<para>If 12V present, replace the bulb IAW <xref wpid="M00034-9-2320-451"/>.</para>
+				</step1>
+			</action>
+			<malfunc label="malfunction">No voltage on both sides of the switch when switch is in ON position</malfunc>
+			<action>
+				<step1>
+					<para>Replace switch<xref wpid="M00034-9-2320-451"/>.</para>
+				</step1>
+			</action>
+			<malfunc label="malfunction">Work Light is grounded through mounting bolt. Mounting bolt is loose or corroded</malfunc>
+			<action>
+				<step1>
+					<para>Repair ground connection.<xref wpid="M00034-9-2320-451"/>.</para>
+				</step1>
+			</action>
+		</faultproc>
+	</tsproc>
+</tswp>

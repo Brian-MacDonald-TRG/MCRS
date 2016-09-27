@@ -1,0 +1,46 @@
+<maintwp chngno="0" wpno="M00006-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="crew"/>
+			<title>CREW MAINTENANCE 12/24 VOLT TOW LIGHT REPLACE</title>
+	</wpidinfo>
+	<initial_setup>
+		<persnreq>
+			<persnreq-setup-item>
+				<name>Motor Transport Operator</name>
+				<mos>88M</mos>
+				<qty>1</qty>
+			</persnreq-setup-item>
+		</persnreq>
+		<eqpconds>
+			<eqpconds-setup-item>
+				<condition>Fifth Wheel Towing and Recovery Device in coupled configuration <xref wpid="O00003-9-2320-451"/></condition>
+			</eqpconds-setup-item>
+		</eqpconds>
+	</initial_setup>
+	<maintsk>
+		<replace>
+			<proc>
+				<title>REPLACE</title>
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>Notate the route of mounting straps.</trim.para>
+						</note>
+						<para>Disconnect four mounting straps <callout assocfig="M00006-9-2320-451-F0001" label="1"/> at 12-24-volt tow light. Set mounting straps aside for reinstallation.</para>
+					</specpara>
+				</step1>
+		
+					<figure id="M00006-9-2320-451-F0001">
+					<title>12/24- Volt Tow Light Removal</title>
+					<graphic boardno="G06232000274"/>
+					</figure>
+				<step1>
+					<para>Obtain serviceable item.</para>
+				</step1>
+				<step1>
+					<para>Mount serviceable 12/24-volt tow light and secure with four mounting straps.</para>
+				</step1>
+			</proc>
+		</replace>
+	</maintsk>
+</maintwp>

@@ -1,0 +1,43 @@
+<tswp chngno="0" wpno="T00033-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="maintainer"/>
+		<title>TROUBLESHOOTING PROCEDURES <?Pub _newline?>HYDRAULIC RESERVOIR</title>
+	</wpidinfo>
+	<initial_setup>
+		<eqpconds>
+			<eqpconds-setup-item>
+				<condition>Coupling FWTRD to Prime Mover(<xref wpid="O00003-9-2320-451"/>).</condition>
+			</eqpconds-setup-item>
+		</eqpconds>
+	</initial_setup>
+	<tsproc>
+		<faultproc>
+			<title>Maintainer Troubleshooting</title>
+			<symptom> Using the remote control results in oil overflowing from the FWTRD reservoir.</symptom>
+			<malfunc label="malfunction">Operating in Wetline with Electric Control Box switch set to "Electric"</malfunc>
+			<action>
+				<step1>
+					<para>Set Electric Control Box Switch to "WETLINE".</para>
+				</step1>
+				<step1>
+					<para>Place FWTRD in oil fill position and check oil level of FWTRD reservoir.</para>
+				</step1>
+			</action>
+			<malfunc label="malfunction">Electric Bypass Valve is stuck in open position.</malfunc>
+			<action>
+				<step1>
+					<para>Ensure that knob on Electric Bypass unit has not been accidently opened manually.</para>
+				</step1>
+				<step1>
+					<para>If valve is open manually, close by pushing knob in and turning clockwise.</para>
+				</step1>
+			</action>
+			<malfunc label="malfunction">Electric Control Bypass Valve is closed while operating in WET-LINE.</malfunc>
+			<action>
+				<step1>
+					<para>If valve is closed and oil still overflows reservoir, change Electric Control Bypass Valve IAW <xref wpid="M00031-9-2320-451"/> and recheck.</para>
+				</step1>
+			</action>
+		</faultproc>
+	</tsproc>
+</tswp>

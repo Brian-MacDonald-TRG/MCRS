@@ -1,0 +1,34 @@
+<tswp chngno="0" wpno="T00014-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="crew"/>
+		<title>TROUBLESHOOTING PROCEDURES <?Pub _newline?> HYDRAULIC PRESSURE</title>
+	</wpidinfo>
+	<initial_setup>
+		<eqpconds>
+			<eqpconds-setup-item>
+				<condition>Coupling FWTRD to Prime Mover(<xref wpid="O00003-9-2320-451"/>).</condition>
+			</eqpconds-setup-item>
+		</eqpconds>
+	</initial_setup>
+	<tsproc>
+		<faultproc>
+			<title>Crew Troubleshooting</title>
+			<symptom>Hydraulic Pressure cannot be relieved from one or more levers during operation in "Electric".</symptom>
+			<malfunc label="malfunction">The FWTRD reservoir breather is in CLOSED position</malfunc>
+			<action>
+				<step1>
+					<para>Position Breather Valve to the OPEN position. </para>
+				</step1>
+			</action>
+			<malfunc label="malfunction">The Electric Control Bypass valve is closed</malfunc>
+			<action>
+				<step1>
+					<para>Manually open the Electric Control Bypass Valve knob by pushing in and turning counter clockwise (Do not operate FWTRD in "Wetline" with Bypass Valve knob manually opened.)</para>
+				</step1>
+				<step1>
+					<para>Notify Maintainer to replace Electric Control Bypass Valve IAW <xref wpid="M00031-9-2320-451"/></para>
+				</step1>
+			</action>
+		</faultproc>
+	</tsproc>
+</tswp>

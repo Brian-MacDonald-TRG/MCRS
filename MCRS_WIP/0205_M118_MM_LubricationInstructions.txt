@@ -1,0 +1,448 @@
+<lubewp chngno="0" wpno="M00118-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="maintainer"/>
+		<title>LUBRICATION INSTRUCTIONS FOR THE MODULAR CATASTROPHIC RECOVERY SYSTEM (MCRS)</title>
+	</wpidinfo>
+	<initial_setup>
+		<persnreq>
+			<persnreq-setup-item>
+				<name>Motor Transport Operator</name>
+				<mos>88M</mos>
+				<qty>X</qty>
+			</persnreq-setup-item>
+		</persnreq>
+	</initial_setup>
+		<proc>
+			<title>GENERAL</title>
+			<step1>
+				<para>These instructions are mandatory.</para>
+			</step1>
+			<step1>
+				<para>The MCRS must receive lubrication with approved lubricants at recommended intervals in order to be mission ready at all times. The XM20 FWTRD and the XM1250 TDRT make up the MCRS and are included in separate charts within this Work Package.</para>
+			</step1>
+			<step1>
+				<para>The Lubrication Chart shows the lubrication points, items to be lubricated, the required lubricants, and recommended intervals for lubrication. A Detailed KEY of the lubrication points containing a written description of the lubrication point and the type of application required is followed by Detailed View Chart.  Any special lubrication instructions required for specific components are contained below in the �SPECIFIC� section.</para>
+			</step1>
+			<step1>
+				<para>The KEY provides information needed to select the proper lubricant for various temperature ranges and uses, and identifies the capacities and intervals.</para>
+			</step1>
+			<step1>
+				<para>This Chart covers both Operator (O) and Maintainer (M) tasks. Recommended intervals are based on normal conditions of operation, temperature, and humidity. When operating under extreme conditions, lubricants should be changed more frequently. When in doubt, notify your supervisor.</para>
+			</step1>
+		</proc>
+		<proc>
+			<title>SPECIFIC LUBRICATION INSTRUCTIONS</title>
+			<step1>
+				<para>Keep all lubricants in a closed container and store in a clean and dry place away from extreme heat. Keep container covers clean and do not allow dust, dirt, or other foreign material to mix with lubricants. Keep lubrication equipment clean and ready for use.</para>
+			</step1>
+			<step1>
+				<para>Maintain a record of lubrication performed and report any problems noted during lubrication. Refer to DA Pam 738-750 for maintenance forms and procedures to record and report any findings.</para>
+			</step1>
+			<step1>
+				<para>Keep all external parts of equipment not requiring lubrication free of lubricant.</para>
+			</step1>
+			<step1>
+				<para>Clean lubrication points, grease fittings, and surrounding areas before applying lubricant.</para>
+			</step1>
+			<step1>
+				<para>After lubrication, wipe off all excess lubricant to prevent accumulation of foreign matter.</para>
+			</step1>
+			<step1>
+				<para>Clean and lubricate bearings as specified in TM 9-214.</para>
+			</step1>
+			<step1>
+				<para>After operation in mud, sandy, or dusty conditions, or when mission allows, clean and inspect all points of lubrication for fouled lubricants. Change lubricants as required.</para>
+			</step1>
+			<step1>
+				<specpara>
+					<warning>
+						<trim.para>On the TDRT, wipe excess lubricant from the area of brake shoe linings to prevent any contamination of linings. Replace linings that have been contaminated with lubricant. Failure to follow this warning may cause brakes to malfunction, resulting in serious injury or death.</trim.para>
+					</warning>
+					<caution>
+						<trim.para>Grease streaks on the outside or inside of the TDRT wheels may indicate over packing of the grease, in improperly installed grease seal, damage to the axle end, loose hardware, or gasket damage.</trim.para>
+					</caution>
+					<note>
+						<trim.para>The following instructions are specific to Tilt Deck Recovery Trailer (TDRT)</trim.para>
+					</note>
+					<para></para> 
+				</specpara>
+			</step1>
+		</proc>
+		<proc>
+			<title>S CAMS (Specific)</title>
+			<step1>
+				<para>When the wheels and hubs are removed, place a light film of lubricant on cam roller follower shafts, journals, and top and bottom surface of the �S� cam. Wipe off any excess lubricant.</para>
+			</step1>
+			<step1>
+				<para>Automatic Slack adjusters:</para>
+			</step1>
+			<step1>
+				<specpara>
+					<warning>
+						<trim.para>Do not use any grease with Teflon, over 3% molysulfide content, or "white" grease in automatic slack adjusters. These additives will adversely affect the friction clutch and cause it not to hold the adjustment, resulting in premature failure, injury to personnel, and damage to the equipment.</trim.para>
+					</warning>
+					<caution>
+						<trim.para>It is important not to overfill wheel-end cavity with lubricant. Do not exceed grease levels indicated below. Also, make sure excess grease is wiped away since it can contaminate brake linings and cause poor brake performance.</trim.para>
+					</caution>
+					<para></para>
+				</specpara>
+			</step1>
+		</proc>
+		<proc>
+			<title>BEARINGS/HUBS:</title>
+			<step1>
+				<para>Pack bearing cones with grease by forcing grease into cavities between rollers and cage from the large end of the cone. The use of a pressure packer is recommended; otherwise pack bearings by hand.</para>
+			</step1>
+			<step1>
+				<para>Apply a light coat of grease to the spindle bearing journals and wipe off excess.</para>
+			</step1>
+			<step1>
+				<para>Fill the cavity with grease to the outer cap�s smallest diameter.</para>
+			</step1>
+			<step1>
+				<para>At the top of the spindle and as far back as possible, pump additional grease until it appears that grease will run out. Install the outer bearing quickly.</para>
+			</step1>
+			<step1>
+				<para>Hub cavity will be filled approximately 1/3 full of grease (from the 4 to 8 o�clock positions). This will involve installation of approximately 1-1/2 lb (0.7 kg) of grease.</para>
+			</step1>
+			<step1>
+				<para>Install wheel retention hardware. Place a dab of grease across the face of the locknut for identification that the hub cavity has been greased if caps are not to be immediately installed.</para>
+			</step1>
+			<step1>
+				<specpara>
+					<caution>
+						<trim.para>Brush a thin layer of GAA inside the hub cap. Don not cover vent with grease. Do not pack the hub cap with grease. Do not coat the cap mounting flange with grease. Coating the cap vent will result in seepage of lubricant and may clog the vent.</trim.para>
+					</caution>
+					<para>When brake shoes are replaced, apply an even coat of lubricant between the contact face of the anchor pin bushing, brake shoe area, and spider faces. Coat anchor pin completely. Wipe off all excess grease.</para>
+				</specpara>
+			</step1>
+		</proc>
+		<proc>
+			<title>SUSPENSION:</title>
+				<para>The Hutchens suspension for the main axles does not require lubrication, but new replacement hardware (nuts/threads) should be oiled before assembly and a wet torque applied. In-service torque vales should have dry torque values applied.</para>
+		</proc>
+		<proc>
+			<title>FORDING OPERATIONS:</title>
+			<step1>
+				<para>Use common sense. If the mission/situation does not allow for after fording inspection, inspect the TDRT when the mission allows.</para>
+			</step1>
+			<step1>
+				<para>Snub the brakes three or four times to dry them out after fording</para>
+			</step1>
+			<step1>
+				<para>If the hubs were hot prior to fording there is a good chance water may have been sucked in through the hub cab. If warm or cold to the touch they should be all right.</para>
+			</step1>
+			<step1>
+				<para>If the hubs and seals showed any signs of leakage prior to fording they may be contaminated by water after fording the TDRT.</para>
+			</step1>
+			<step1>
+				<para>When mission allows, carefully remove the hub caps it inspect for water contamination. If the gasket is damaged it must be replaced.</para>
+			</step1>
+			<step1>
+				<para>Use only low pressure fresh water to flush out salt contamination, including road salt for the TDRT to prevent corrosion.</para>
+			</step1>
+		</proc>
+		<proc>
+			<title>ARCTIC PROCEDURE</title>
+			<step1>
+				<para>Refer to FM 9-207 for lubrication instructions in cold weather.</para>
+			</step1>
+			<step1>
+				<specpara>
+					<note>
+						<trim.para>This procedure is used with the XM20 FWTRD in temperatures from -20&deg;F to -50&deg;F</trim.para>
+					</note>
+					<para>As viscosity varies with temperature, it will be required to change the hydraulic fluid to OHA 5606 Artic hydraulic fluid. Following the oil change procedures (ref: WP 0056 00) it will be necessary to adjust the hydraulic flow valves for the boom and mast functions located on the boom lock shaft. Turn the control knob of the hydraulic flow valve clockwise to restrict flow; counterclockwise to increase volume size to obtain 300-800 lbs. system pressure while the boom function is lowered with no load attached. In the same way, adjust the mast hydraulic flow valve when the mast is being lowered with no load attached. This may need to be readjusted as necessary as temperatures vary from -50&deg;F to 120&deg;F or when OHA 5606 is replaced with standard hydraulic fluid.</para>
+				</specpara>
+			</step1>
+			<step1>
+				<para>When the FWTRD is exposed to a temperature increase from -25&deg;F or below to 10&deg;F, the functions should not be left under pressure and it is recommended that each function be operated at 10&deg;F to release pressure created by expansion caused by an increase in temperature.</para>
+			</step1>
+		</proc>
+		<proc>
+			<title>Lubrication Chart � FIFTH WHEEL TOWING AND RECOVERY DEVICE (FWTRD)</title>
+			<step1>
+			<specpara>
+				<note>
+					<trim.para>Dotted lines indicate that lubrication is required on both sides of the equipment.</trim.para>
+					<trim.para>All lubrication is done with vehicle in coupling configuration unless otherwise noted.</trim.para>
+				</note>
+				<para></para>
+			</specpara>
+			</step1>
+
+				<figure id="M00118-9-2320-451-F0001">
+				<title>FWTRD Lubrication Chart</title>
+				<graphic boardno="G06232000589"/>
+				</figure>
+
+				<figure id="M00118-9-2320-451-F0002">
+				<title>FWTRD Rear View Lubrication Chart</title>
+				<graphic boardno="G06232000590"/>
+				</figure>
+
+				<figure id="M00118-9-2320-451-F0003">
+				<title>TDRT Side and Top View Lubrication Chart</title>
+				<graphic boardno="G06232000591"/>
+				</figure>
+		</proc>
+		<proc>
+			<title>Lubrication Key</title>
+			<para>The following Key list the types of Lubricants required for maintaining the MCRS.
+
+			<table id="M00118-9-2320-451-T0001">
+			<title>LUBRICATION KEY</title>
+			<tgroup cols="4">
+				<colspec colname="col1"/>
+				<colspec colname="col2"/>
+				<colspec colname="col3"/>
+				<colspec colname="col4"/>
+					<tbody>
+						<row>
+							<entry morerows="1">LUBRICANTS</entry>
+							<entry nameend="col4" namest="col2">EXPECTED TEMPERATURE</entry>
+						</row>
+						<row>
+							<entry>Above+32&deg;F (Above 0&deg;C)</entry><entry>+40&deg;F to -10&deg;F  (+4&deg;C to -23&deg;C)</entry><entry>0&deg;F to -65&deg;F  (-18&deg;C to -54&deg;C)</entry>
+						</row>
+						<row>
+							<entry>GAA (MIL-G-10924) Grease, Automotive and Artillery</entry>
+							<entry>GAA</entry>
+							<entry>GAA</entry>
+							<entry>GAA</entry>
+						</row>
+						<row>
+							<entry>OE/HDO  Lubricating Oil, Internal Combustion Engine, Tactical Service</entry>
+							<entry>OE/HDO-10</entry><entry>OE/HDO-10</entry><entry></entry></row>
+						<row>
+							<entry>OHA 5606 Oil, Hydraulic Arctic</entry>
+							<entry></entry>
+							<entry></entry>
+							<entry>5606</entry>
+						</row>
+						<row>
+							<entry>GO (MIL 2105D) Lubricating Oil, Gear, Multipurpose</entry>
+							<entry>GO-85/140</entry><entry>GO-80/90</entry>
+							<entry>Synthetic ISO 32</entry>
+						</row>
+						<row>
+							<entry>(MIL-L-23398) Lubricant, solid film, air drying.</entry>
+							<entry>(For FWTRD mast track and TDRT slide rail)*</entry>
+							<entry>(For FWTRD mast track and TDRT slide rail)*</entry>
+							<entry>(For FWTRD mast track and TDRT slide rail)*</entry>
+						</row>
+					</tbody>
+				</tgroup>
+			</table>
+		</para>
+		</proc>
+		<proc> 
+			<title>DETAILED VIEW KEY</title>
+				<para>Use this Key in combination with Section #7, Detailed View, to perform specific lubrication to the equipment.
+				<table id="M00118-9-2320-451-T0002">
+					<title></title>
+					<tgroup cols="4">
+						<colspec colname="col1" colwidth="1.00*"/>
+						<colspec colname="col2" colwidth="1.00*"/>
+						<colspec colname="col3" colwidth="1.00*"/>
+						<colspec colname="col4" colwidth="1.00*"/>
+						<tbody>
+							<row>
+								<entry align="center">Det. View</entry>
+								<entry align="center">Lubrication Point</entry>
+								<entry align="center">Interval</entry>
+								<entry align="center">Lubrication Type/Special Instructions/Maintenance Level ( )</entry>
+							</row>
+							<row>
+								<entry align="center">1</entry>
+								<entry align="center">FWTRD � Kingpin and Pickup Plate</entry>
+								<entry align="center">Monthly</entry>
+								<entry align="center">GAA,(C)</entry>
+							</row>
+							<row>
+								<entry align="center">2</entry>
+								<entry align="center">FWTRD � Battery Box</entry>
+								<entry align="center">Monthly</entry>
+								<entry align="center">GAA,(C)</entry>
+							</row>
+							<row>
+								<entry align="center">3</entry>
+								<entry align="center">FWTRD � Mast Cylinder/top</entry>
+								<entry align="center">Monthly</entry>
+								<entry align="center">GAA, zerk fittings (2), (C)</entry>
+							</row>
+							<row>
+								<entry align="center">4</entry>
+								<entry align="center">FWTRD � Mast Cylinder/ bottom</entry>
+								<entry align="center">Monthly</entry>
+								<entry align="center">GAA, zerk fittings (2), (C)</entry>
+							</row>
+							<row>
+								<entry align="center">5</entry>
+								<entry align="center">FWTRD � Landing Leg Linkage</entry>
+								<entry align="center">Monthly</entry>
+								<entry align="center">OE/HDO-10, oil can points, (C)</entry>
+							</row>
+							<row>
+								<entry align="center">6</entry>
+								<entry align="center">FWTRD � Boom Cylinder/top</entry>
+								<entry align="center">Monthly</entry>
+								<entry align="center">GAA, zerk fittings (2), (C)</entry>
+							</row>
+							<row>
+								<entry align="center">7</entry>
+								<entry align="center">FWTRD � Boom Lock Shaft/top</entry>
+								<entry align="center">Monthly</entry>
+								<entry align="center">GAA, zerk fitting. (C)</entry>
+							</row>
+							<row>
+								<entry align="center">8</entry>
+								<entry align="center">FWTRD � Pin, Main Pivot</entry>
+								<entry align="center">Monthly</entry>
+								<entry align="center">GAA, zerk fittings (2) recessed in Mast tube, (C)</entry>
+							</row>
+							<row>
+								<entry align="center">9</entry>
+								<entry align="center">FWTRD � Boom Cylinder/bottom</entry>
+								<entry align="center">Monthly</entry>
+								<entry align="center">GAA, zerk fittings (2) access through holes drilled in Bumper Stops, (C)</entry>
+							</row>
+							<row>
+								<entry align="center">10</entry>
+								<entry align="center">FWTRD � Boom Lock Shaft/bottom</entry>
+								<entry align="center">Monthly</entry>
+								<entry align="center">GAA, zerk fitting, (C)</entry>
+							</row>
+							<row>
+								<entry align="center">11</entry>
+								<entry align="center">FWTRD � Receiver Assemblies</entry>
+								<entry align="center">Monthly</entry>
+								<entry align="center">GAA, zerk fittings (6), (C)</entry>
+							</row>
+							<row>
+							 	<entry align="center">12</entry>
+								<entry align="center">FWTRD � Tow Bar Assemblies</entry>
+								<entry align="center">Monthly</entry>
+								<entry align="center">GAA, zerk fittings (8), (C)</entry>
+							</row>
+							<row>
+								<entry align="center">13</entry>
+								<entry align="center">FWTRD � Hydraulic Tank for �Electric� operation*</entry>
+								<entry align="center">Monthly</entry>
+								<entry align="center">OE/HDO-10 *see WP 0056 for specific instructions and level requirements, (C)</entry>
+							</row>
+							<row>
+								<entry align="center">14</entry>
+								<entry align="center">FWTRD � Roller Blocks*</entry>
+								<entry align="center">Monthly</entry>
+								<entry align="center">GAA, zerk fittings (2) *FWTRD must be in �Transport� configuration to access the fittings, (C)</entry>
+							</row>
+							<row>
+								<entry align="center">15</entry>
+								<entry align="center">FWTRD � 35K Winch</entry>
+								<entry align="center">Semiannually*</entry>
+								<entry align="center">GO-80/90, Fill Plug on side of winch,*Also check any time FWTRD has been taken out of long term �Shipping� configuration, (O)</entry>
+							</row>
+							<row>
+								<entry align="center">16</entry>
+								<entry align="center">FWTRD � Double Sheave</entry>
+								<entry align="center">Monthly</entry>
+								<entry align="center">GAA, zerk fittings (2), (C)</entry>
+							</row>
+							<row>
+								<entry align="center">17</entry>
+								<entry align="center">TDRT � Wheel Bearings and Seals</entry>
+								<entry align="center">Triennial or every 36,000 miles (57,935 km)</entry>
+								<entry align="center">GAA, clean, inspect, and repack with clean GAA ( 6),(O). Replace Seals (O). Never reuse seals.</entry>
+							</row>
+							<row>
+								<entry align="center">18</entry>
+								<entry align="center">TDRT - Brake Bushings, Rollers, Anchor Pins, �S� Cams Lobes, Spider Faces, Splines.</entry>
+								<entry align="center">Triennial or every 36,000 miles (57,935 km)</entry>
+								<entry align="center">GAA, light coat, wipe off excess (6 wheel stations). (O)</entry>
+							</row>
+							<row>
+								<entry align="center">19</entry>
+								<entry align="center">TDRT - Automatic Slack Adjusters and Clevis Pins, �S� Camshaft Support Bracket.</entry>
+								<entry align="center">Semiannually or every 6,000 miles (9656 km)</entry>
+								<entry align="center">GAA, zerk fittings (6) (O)<?Pub_newline?>OE/HDO-10, clevis pins (6) (O)</entry>
+							</row>
+							<row>
+								<entry align="center">20</entry>
+								<entry align="center">TDRT - Stowage Boxes</entry>
+								<entry align="center">Monthly</entry>
+								<entry align="center">OE/HDO-10 oil can points (C)</entry>
+							</row>
+							<row>
+								<entry align="center">21</entry>
+								<entry align="center">TDRT � 18K Winch Fairlead</entry>
+								<entry align="center">Monthly</entry>
+								<entry align="center">OE/HDO-10 oil can points (C)</entry>
+							</row>
+							<row>
+								<entry align="center">22</entry>
+								<entry align="center">TDRT � Auxiliary Tie Down Rings</entry>
+								<entry align="center">Monthly</entry>
+								<entry align="center">OE/HDO-10 oil can points (8) (C)</entry>
+							</row>
+							<row>
+								<entry align="center">23</entry>
+								<entry align="center">TDRT � TDRT Tie Down Rings</entry>
+								<entry align="center">Monthly</entry>
+								<entry align="center">GAA needle fittings (8) (C)</entry>
+							</row>
+							<row>
+								<entry align="center">24</entry>
+								<entry align="center">TDRT � Main Tie Down Rings, swivel</entry>
+								<entry align="center">Monthly</entry>
+								<entry align="center">GAA needle fittings (8) (C)</entry>
+							</row>
+							<row>
+								<entry align="center">25</entry>
+								<entry align="center">TDRT � Drawer Bolts</entry>
+								<entry align="center">Monthly</entry>
+								<entry align="center">OE/HDO-10 oil can points (102) (C)</entry>
+							</row>
+						</tbody>
+					</tgroup>
+				</table>
+			</para>
+		</proc>
+		<proc>
+			<title>Detailed Views</title>
+		<step1>
+			<specpara>
+				<note>
+					<trim.para>Numbers 1 � 12 and 14 are all GAA as noted in the Detailed View Key</trim.para>
+				</note>
+				<para>FWTRD � Detailed Views</para>
+			</specpara>
+		</step1>
+			
+				<figure id="M00118-9-2320-451-F0004">
+				<title>GAA Lubrication Chart</title>
+				<graphic boardno="G06232000592"/>
+				</figure>
+
+				<figure id="M00118-9-2320-451-F0005">
+				<title>GAA Lubrication Chart - Continued</title>
+				<graphic boardno="G06232000593"/>
+				</figure>
+
+				<figure id="M00118-9-2320-451-F0006">
+				<title>GAA Lubrication Chart - Continued</title>
+				<graphic boardno="G06232000594"/>
+				</figure>
+
+				<figure id="M00118-9-2320-451-F0007">
+				<title>GAA Lubrication Chart - Continued</title>
+				<graphic boardno="G06232000595"/>
+				</figure>
+
+				<figure id="M00118-9-2320-451-F0008">
+				<title>GAA Lubrication Chart - Continued</title>
+				<graphic boardno="G06232000596"/>
+				</figure>
+					
+	</proc>
+</lubewp>

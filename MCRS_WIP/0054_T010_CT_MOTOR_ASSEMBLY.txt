@@ -1,0 +1,31 @@
+<tswp chngno="0" wpno="T00010-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="crew"/>
+		<title>TROUBLESHOOTING PROCEDURES <?Pub _newline?>MOTOR ASSEMBLY</title>
+	</wpidinfo>
+	<initial_setup>
+		<eqpconds>
+			<eqpconds-setup-item>
+				<condition>Coupling FWTRD to Prime Mover(<xref wpid="O00003-9-2320-451"/>).</condition>
+			</eqpconds-setup-item>
+		</eqpconds>
+	</initial_setup>
+	<tsproc>
+		<faultproc>
+			<title>Crew Troubleshooting</title>
+			<symptom>Motors do not activate when electric motor push button is depressed.</symptom>
+			<malfunc label="malfunction">Minimum of 12VDC is not availible</malfunc>
+			<action>
+				<step1>
+					<para>Connect the NATO Slave Cable between the prime mover and the FWTRD</para>
+				</step1>
+			</action>
+			<malfunc label="malfunction">No power with NATO Slave Cable connected.</malfunc>
+			<action>
+				<step1>
+					<para>Notify maintainer</para>
+				</step1>
+			</action>
+		</faultproc>
+	</tsproc>
+</tswp>

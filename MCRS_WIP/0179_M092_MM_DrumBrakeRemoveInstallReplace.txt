@@ -1,0 +1,112 @@
+<maintwp chngno="0" wpno="M00092-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="maintainer"/>
+		<title>MAINTAINER MAINTENANCE - BRAKE DRUM <?Pub _newline?>REMOVE/INSTALL/REPLACE</title>
+	</wpidinfo>
+	<initial_setup>
+		<tools>
+			<tools-setup-item>
+				<name>Tool Kit, Mechanics General</name>
+				<itemref>
+					<xref itemid="S00007-9-2320-451-TOOL-4" wpid="S00007-9-2320-451"/>
+				</itemref>
+			</tools-setup-item>
+			<tools-setup-item>
+				<name>Shop equipment auto repair, FM basic</name>
+			</tools-setup-item>
+			<tools-setup-item>
+				<name>Torque wrench</name>
+			</tools-setup-item>
+			<tools-setup-item>
+				<name>Floor Jacks</name>
+			</tools-setup-item>
+			<tools-setup-item>
+				<name>Jack stands</name>
+			</tools-setup-item>
+		</tools>
+		<persnreq>
+			<persnreq-setup-item>
+				<name>Motor Transport Operator</name>
+				<mos>88M</mos>
+				<qty>1</qty>
+			</persnreq-setup-item>
+		</persnreq>
+		<eqpconds>
+			<eqpconds-setup-item>
+				<condition>Tilt Deck Recovery Trailer in uncoupled configuration <xref wpid="O00027-9-2320-451"/></condition>
+			</eqpconds-setup-item>
+			<eqpconds-setup-item>
+				<condition>Tires Removed</condition>
+			</eqpconds-setup-item>
+			<eqpconds-setup-item>
+				<condition>Tires chocked</condition>
+			</eqpconds-setup-item>
+		</eqpconds>
+	</initial_setup>
+	<maintsk>
+		<remove>
+			<proc>
+				<step1>
+					<specpara>
+						<warning>
+							<icon-set boardno="Heavy_Parts-foot"><icon-set boardno="Heavy_Parts-hand"><icon-set boardno="Heavy_Parts-above">
+							<trim.para>Jack must be positioned directly under axle to prevent slippage. Direct all personnel to stay clear of vehicle when vehicle is supported in the air. Failure to do so could result in serious injury and damage to equipment. To prevent shifting of trailer, floor jack should be used only on a hard, level surface.</trim.para>
+							<trim.para>A hot brake can cause serious burns. Exercise caution before attempting to touch brake drum after use. Radiated heat will be felt before brake drum is touched.</trim.para>
+						</warning>
+					<para>Back off brake adjustment </para>
+					</specpara>
+				<step2>
+					<para>Gain access to automatic slack adjuster.</para>
+				</step2>
+				<step2>
+					<para>Release pawl on slack adjuster <callout assocfig="M00092-9-2320-451-F0001" label="1"> by pulling out with slack adjuster tool.</para>
+				</step2>
+				<step2>
+					<para>Turn bolt <callout assocfig="M00092-9-2320-451-F0001" label="2"> counterclockwise to allow release of drum.</para>
+				</step2>
+				</step1>
+
+				<figure id="M00092-9-2320-451-F0001">
+					<title>Caging Brakes</title>
+					<graphic boardno="G06232000469"/>
+				</figure>			
+
+				<step1>
+					<para>Remove outer and inner wheels IAW <xref wpid="M00096-9-2320-451"/>.</para>
+				</step1>
+				<step1>
+					<para>Remove unserviceable brake drum <callout assocfig="M00092-9-2320-451-F0002">. Obtain serviceable item.</para>
+				</step1>
+
+				<figure id="M00092-9-2320-451-F0002">
+					<title>Brake Drum Removal</title>
+					<graphic boardno="G06232000470"/>
+				</figure>
+			</proc>
+		</remove>
+	</maintsk>
+	<maintsk>
+		<install>
+			<proc>
+				<step1>
+					<para>Position and align a serviceable brake drum <callout assocfig="M00092-9-2320-451-F0003" label="1"> on studs <callout assocfig="M00092-9-2320-451-F0003" label="2">.</para>
+				</step1>
+				
+					<figure id="M00092-9-2320-451-F0003">
+					<title>Brake Drum Installation</title>
+					<graphic boardno="G06232000471"/>
+				</figure>
+
+				<step1>
+					<para>Install new drum.</para>
+				</step1>
+				<step1>
+					<para>Install outer and inner wheels IAW <xref wpid="M00096-9-2320-451"/>.</para>
+				</step1>
+				<step1>
+					<para>Adjust slack adjuster IAW <xref wpid="M00089-9-2320-451"/></para>
+				</step1>
+			</proc>
+		</install>
+	</maintsk>
+</maintwp>

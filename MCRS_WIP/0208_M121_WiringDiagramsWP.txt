@@ -1,0 +1,38 @@
+<wiringwp chngno="0" wpno="M00121-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="maintainer"/>
+		<title></title>
+	</wpidinfo>
+	<initial_setup>
+		<null/>
+	</initial_setup>
+	<intro>
+		<para0>
+			<title>MCRS Wiring Diagram </title>
+			<para>
+            E.5.3.12 Wiring diagrams work package (Maintainer/AMC and above) <wiringwp>. This work package shall be prepared as directed by the acquiring activity. It shall include wiring and cable provisions contained in the equipment/end item, including all systems or equipment which can be installed or removed later (e.g., mission-related systems/equipment). Applicability of diagrams shall be explained in relation to equipment configuration. At a minimum, the wiring data described in E.5.3.12.1 through E.5.3.12.6 shall be included.E.5.3.12.1 Work package identification information.<?Pub _newline?>
+            <wpidinfo>. Work package identification information is required for this work package. (Refer to 4.8.9.3.)<?Pub _newline?>
+            E.5.3.12.2 Work package initial setup <initial_setup>. Initial setup information is required for this work package. (Refer to 4.8.9.4.)<?Pub _newline?>
+            E.5.3.12.3 Introduction <intro>. Information shall be prepared to include the scope of the work package. A statement shall be included explaining that wiring diagrams and essential wiring information are provided for all electrical and electronic systems and circuits. E.5.3.12.4 Wire identification <wireid>. Identification of wires by number shall be explained. A list of circuit designators and a wire identification diagram shall be prepared.<?Pub _newline?>
+            E.5.3.12.5 Abbreviations <abbrev>. A statement shall be prepared that abbreviations are in accordance with those found at ( <!-- https://www.rmda.army.mil/abbreviation/mainpage.asp --> ), except when the abbreviation stands for a marking actually found in the equipment.<?Pub _newline?>
+            E.5.3.12.6 Wiring diagrams <wiringdiag>. Wiring diagrams shall be prepared for all electrical and electronic systems and circuits.<?Pub _newline?>
+            </para>
+		</para0>
+	</intro>
+	<wireid>
+		<title>WIRE IDENTIFICATION</title>
+		<para>Wire Identification paragraph</para>
+	</wireid>
+	<abbrev>
+		<title>Abbreviations</title>
+		<para>Abbreviations paragraph</para>
+	</abbrev>
+	<wiringdiag>
+		<title>WIRING DIAGRAMS</title>
+		<figure>
+			<title>Diagram 1</title>
+			<graphic boardno="GraphicNeeded"></graphic>
+		</figure>
+	</wiringdiag>
+</wiringwp>
+</maintenancecategory></mim>

@@ -1,0 +1,210 @@
+<opusualwp chngno="0" wpno="O00020-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="crew"/>
+		<title>OPERATING PROCEDURES <?Pub _newline?>90&deg; SIDE PULL WINCHING WITH THE 35K WINCH - TWO PART LINE</title>
+	</wpidinfo>
+	<initial_setup>
+		<persnreq>
+			<persnreq-setup-item>
+				<name>Wheeled Vehicle Mechanic</name>
+				<mos>91B</mos>
+				<qty>1</qty>
+			</persnreq-setup-item>
+		</persnreq>
+		<eqpconds>
+			<eqpconds-setup-item>
+				<condition></condition>
+			</eqpconds-setup-item>
+		</eqpconds>
+	</initial_setup>
+	<opertsk>
+		<oper>
+			<proc>
+				<title>90&deg; SIDE PULL WINCHING WITH THE 35K WINCH - TWO PART LINE</title>
+				<step1>
+					<specpara>
+						<warning>
+							<icon-set boardno="Heavy_Parts-above"/>
+							<icon-set boardno="Helmet_Protection"/>
+							<icon-set boardno="Sharp_Object-in_hand"/>
+							<icon-set boardno="Sharp_Object-puncture"/>
+							<trim.para>All personnel must stand clear at a distance twice the length of cable during winching operations. A snapped cable or shifting load could strike personnel causing injury or death to personnel.</trim.para>
+							<trim.para>Wire cables can become frayed or contain broken wires. Wear heavy leather-palmed work gloves when handling winch cables. Frayed or broken wire can injure hands. Never let a winch cable slide through hands, even when wearing gloves. A broken wire could cut through glove and cut hand.</trim.para>
+							<trim.para>Refer to <extref docno="FM 5-125"/> for inspection of winch cables. A damaged wire rope, under load, could fail suddenly and strike personnel, and could cause the vehicle being recovered to shift suddenly creating a crush hazard. Failure to comply can result in injury or death to personnel.</trim.para>
+						</warning>
+						<note>
+							<trim.para>Refer to the proper TM for the prime mover as well as <extref docno="FM 4-30.31"/>, "Recovery and Battle Damage Assessment and Repair" in conjunction with these instructions for additional information relating to rigging, winching and recovery. Boom Extensions must be fully retracted when installing Boom Caps. The wing bolts used to stow the boom caps should be replaced in fifth wheel section for safe keeping.</trim.para>
+						</note>
+						<para>Follow steps 2-16 of <xref wpid="O00017-9-2320-451"/>, FWTRD 35K Winch Operation, to install and bring the 35K winch cable down to the operator.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Open fifth wheel cover to gain access to boom caps.</para>
+				</step1>
+				<step1>
+					<para>Install Boom Caps by sliding over end of booms and securing with attached safety chains to D-Ring on end of Boom.</para>
+				</step1>
+				<step1>
+					<para>Position the prime mover 90&deg; from the disabled vehicle. Align booms IAW <xref figid="O00020-9-2320-451-F0001"/>. </para>
+				</step1>
+					
+					<figure id="O00020-9-2320-451-F0001">
+					<title>Booms Aligned Perpendicular to Disabled Vehicle</title>
+					<graphic boardno="G06232000151"></graphic>
+					</figure>
+
+				<step1>
+					<para>Gain access to FWTRD tool box, and retrieve 35k snatch block.</para>
+				</step1>
+				<step1>
+					<para>Place the winch cable in the 35K snatch block.</para>
+				</step1>
+				<step1>
+					<para>Route a chain from boom D-Rings, under the booms, and secure to the snatch block <callout assocfig="O00020-9-2320-451-F0002" label="1"/>.</para>
+				</step1>
+					
+					<figure id="O00020-9-2320-451-F0002">
+					<title>Snatch Block With Cable, Attached to FWTRD D-Rings</title>
+					<graphic boardno="G06232000152"></graphic>
+					</figure>
+
+				<step1>
+					<para>Route the cable out to the disabled vehicle and rig for winching <xref figid="O00020-9-2320-451-F0003"/>.</para>
+				</step1>
+
+					<figure id="O00020-9-2320-451-F0003">
+					<title>Winch cable setup</title>
+					<graphic boardno="G06232000153"></graphic>
+					</figure>
+
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>The fifth wheel must be kept level so that as the FWTRD is pulled to the side, the mast section will clear the rear of the prime mover and the fifth wheel section of the FWTRD pivots evenly.</trim.para>
+						</note>
+						<para>Using the remote control, MAST RETRACT fully <callout assocfig="O00020-9-2320-451-F0004" label="1"/>.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Using the remote control, BOOM EXTEND until fifth wheel section is level <callout assocfig="O00020-9-2320-451-F0004" label="1"/> and stow the transport legs.</para>
+				</step1>
+
+					<figure id="O00020-9-2320-451-F0004">
+					<title>Mast fully retracted - Fifth wheel level for pivoting</title>
+					<graphic boardno="G06232000154"></graphic>
+					</figure>
+
+				<step1>
+					<specpara>
+						<warning>
+							<icon-set boardno="Heavy_Parts-above"/>
+							<icon-set boardno="Helmet_Protection"/>
+							<icon-set boardno="Sharp_Object-in_hand"/>
+							<icon-set boardno="Sharp_Object-puncture"/>
+							<trim.para>All personnel must stand clear at a distance twice the length of cable during winching operations. A snapped cable or shifting load could strike personnel causing injury or death to personnel.</trim.para>
+						</warning>
+						<para>Using the Remote Control, WINCH IN until the booms are approximately 45 degrees in relation to the prime mover <xref figid="O00020-9-2320-451-F0005"/>. This will begin to pivot the FWTRD around on the fifth wheel. Adjust the booms as needed to keep the fifth wheel level.</para>
+					</specpara>
+				</step1>
+
+					<figure id="O00020-9-2320-451-F0005">
+					<title>FWTRD 45&deg; From Rear of Prime Mover</title>
+					<graphic boardno="G06232000155"></graphic>
+					</figure>
+
+				<step1>
+					<specpara>
+						<warning>
+							<icon-set boardno="Heavy_Parts-above"/>
+							<icon-set boardno="Heavy_Parts-wall"/>
+							<icon-set boardno="Helmet_Protection"/>
+							<trim.para>personnel inside of prime mover cab must keep the ground guide in sight at all times. All other personnel should stand completely clear of the area. A crush hazard exists. Failure to comply may result in serious injury or death to personnel.</trim.para>
+						</warning>
+						<para>Using remote control, WINCH OUT to slacken winch cable.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Gain access to FWTRD booms; remove and stow snatch block.</para>
+				</step1>
+				<step1>
+					<para>Using a ground guide, bring the FWTRD to 90&deg; <xref figid="O00020-9-2320-451-F0006"/> by carefully backing the prime mover. </para>
+				</step1>
+
+					<figure id="O00020-9-2320-451-F0006">
+					<title>FWTRD at 90&deg; to the prime mover. Straight pull on disabled vehicle.</title>
+					<graphic boardno="G06232000156"></graphic>
+					</figure>
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>As you are winching, the booms will take a set <xref figid="O00020-9-2320-451-F0007"/>, possibly digging in a foot or two. This will change the attitude of the FWTRD on the prime mover fifth wheel. Remember to readjust the booms to keep the fifth wheel level and stabilize the prime mover.</trim.para>
+							<trim.para>5/8 inch chains secure the winch cable back to the D-rings at the base of the FWTRD booms.</trim.para>
+						</note>
+						<para>Two part the winch cable using the 35K snatch block on the rigging at the disabled vehicle. <callout assocfig="O00020-9-2320-451-F0008"/></para>
+					</specpara>
+				</step1>
+					<figure id="O00020-9-2320-451-F0007">
+					<title>Booms Taking a Set</title>
+					<graphic boardno="G06232000157"></graphic>
+					</figure>
+				<figure id="O00020-9-2320-451-F0008">
+					<title>Winch Cable Two-Parted Out to Disabled Vehicle and Back to FWTRD</title>
+					<graphic boardno="G06232000158"></graphic>
+				</figure>
+				<step1>
+					<para>Using the remote control, winch "IN" to take the slack out of the cable. Recheck your rigging.</para>
+				</step1>
+				<step1>
+					<specpara>
+						<warning>
+							<icon-set boardno="Heavy_Parts-above"/>
+							<icon-set boardno="Helmet_Protection"/>
+							<icon-set boardno="Sharp_Object-in_hand"/>
+							<icon-set boardno="Sharp_Object-puncture"/>
+							<trim.para>All personnel must stand clear at a distance twice the length of cable during winching operations. A snapped cable or shifting load could strike personnel causing injury or death to personnel.</trim.para>
+						</warning>
+						<para>Commence winching.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<specpara>
+						<warning>
+							<icon-set boardno="Heavy_Parts-above"/>
+							<icon-set boardno="Heavy_Parts-wall"/>
+							<icon-set boardno="Helmet_Protection"/>
+							<trim.para>Prior to slacking the winch cable, the disabled vehicle must be secured from moving. Failure to comply could result in the vehicle moving unexpectedly creating a crush hazard causing serious injury or death to personnel.</trim.para>
+						</warning>
+						<note>
+							<trim.para>Rigging may or may not be removed from casualty depending on whether it is to be lift/towed using FWTRD (remove rigging) or whether casualty is to be winched onto TDRT in which case rigging would stay on casualty.</trim.para>
+						</note>
+						<para>Remove winch cable.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Using the remote control, BOOM EXTEND to level the fifth wheel.</para>
+				</step1>
+				<step1>
+					<para>Gain access to the prime mover. Pull forward until the FWTRD is aligned to the after frame of the prime mover.</para>
+				</step1>
+				<step1>
+					<para>Rotate the transport leg handle clockwise and lock the transport legs in the down position.</para>
+				</step1>
+				<step1>
+					<para>Using remote control, BOOM RETRACT to set the FWTRD on the transport legs, and to free boom caps</para>
+				</step1>
+				<step1>
+					<para>Remove Boom Caps.</para>
+				</step1>
+				<step1>
+					<para>Gain access to fifth wheel section. Open fifth wheel section cover.</para>
+				</step1>
+				<step1>
+					<para>Stow boom caps in fifth wheel section.</para>
+				</step1>
+				<step1>
+					<para>Close fifth wheel section cover.</para>
+				</step1>
+			</proc>
+		</oper>
+	</opertsk>
+</opusualwp>

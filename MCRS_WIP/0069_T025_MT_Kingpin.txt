@@ -1,0 +1,31 @@
+<tswp chngno="0" wpno="T00025-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="maintainer"/>
+		<title>TROUBLESHOOTING PROCEDURES <?Pub _newline?>KINGPIN</title>
+	</wpidinfo>
+	<initial_setup>
+		<eqpconds>
+			<eqpconds-setup-item>
+				<condition>Assembly and Preparation for Use (<xref wpid="O00002-9-2320-451"/>).</condition>
+			</eqpconds-setup-item>
+		</eqpconds>
+	</initial_setup>
+	<tsproc>
+		<faultproc>
+			<title>Maintainer Troubleshooting</title>
+			<symptom>FWTRD Kingpin fails to lock into prime mover fifth wheel.</symptom>
+			<malfunc label="malfunction">Fifth wheel locks are not released on the prime mover</malfunc>
+			<action>
+				<step1>
+					<para>Refer to prime mover TM for servicing primary and secondary lock release mechanisms.</para>
+				</step1>
+			</action>
+			<malfunc label="malfunction">The Kingpin is damaged.</malfunc>
+			<action>
+				<step1>
+					<para>Obtain serviceable item and Replace IAW <xref wpid="M00008-9-2320-451"/></para>
+				</step1>
+			</action>
+		</faultproc>
+	</tsproc>
+</tswp>

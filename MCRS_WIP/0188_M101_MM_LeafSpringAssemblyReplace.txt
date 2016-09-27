@@ -1,0 +1,211 @@
+<maintwp chngno="0" wpno="M00101-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="maintainer"/>
+		<title>MAINTAINER MAINTENANCE - LEAF SPRING ASSEMBLY<?Pub _newline?>REPLACE</title>
+	</wpidinfo>
+	<initial_setup>
+		<tools>
+			<tools-setup-item>
+				<name>Tool Kit, Mechanics General</name>
+				<itemref>
+					<xref itemid="S00007-9-2320-451-TOOL-4" wpid="S00007-9-2320-451"/>
+				</itemref>
+			</tools-setup-item>
+			<tools-setup-item>
+				<name>Jack</name>
+			</tools-setup-item>
+			<tools-setup-item>
+				<name>Jack stands</name>
+			</tools-setup-item>
+			<tools-setup-item>
+				<name>Torque Multiplier</name>
+			</tools-setup-item>
+			<tools-setup-item>
+				<name>Torque Wrench 120 to 600 lb-ft (163 to 813 N�m)</name>
+			</tools-setup-item>
+		</tools>
+		<mtrlpart>
+			<mtrlpart-setup-item>
+				<name>Cloth, Abrasive</name>
+			</mtrlpart-setup-item>
+			<mtrlpart-setup-item>
+				<name>Grease, Anti-seize</name>
+			</mtrlpart-setup-item>
+			<mtrlpart-setup-item>
+				<name>Locknut (8)</name>
+			</mtrlpart-setup-item>
+			<mtrlpart-setup-item>
+				<name>Locknut (8)</name>
+			</mtrlpart-setup-item>
+		</mtrlpart>
+		<persnreq>
+			<persnreq-setup-item>
+				<name>Motor Transport Operator</name>
+				<mos>88M</mos>
+				<qty>X</qty>
+			</persnreq-setup-item>
+		</persnreq>
+		<eqpconds>
+			<eqpconds-setup-item>
+				<condition>Tilt Deck Recovery Trailer in uncoupled configuration.<xref wpid="O00027-9-2320-451"/></condition>
+			</eqpconds-setup-item>
+			<eqpconds-setup-item>
+				<condition>Tires Chocked.</condition>
+			</eqpconds-setup-item>
+			<eqpconds-setup-item>
+				<condition>Tires Removed IAW WP <xref wpid="M00096-9-2320-451"/></condition>
+			</eqpconds-setup-item>
+			<eqpconds-setup-item>
+				<condition>Brake Drums Removed IAW WP <xref wpid="M00092-9-2320-451"/></condition>
+			</eqpconds-setup-item>
+			<eqpconds-setup-item>
+				<condition>Air Reservoirs Drained <xref wpid="M00085-9-2320-451"/></condition>
+			</eqpconds-setup-item>
+			<eqpconds-setup-item>
+				<condition>All air brake chamber lines and connectors disconnected and removed from axle <xref wpid="M00084-9-2320-451"/></condition>
+			</eqpconds-setup-item>
+		</eqpconds>
+	</initial_setup>
+	<maintsk>
+		<replace>
+			<proc>
+				<step1>
+					<specpara>
+							<warning>
+							<icon-set boardno="Heavy_Object"/>
+							<icon-set boardno="Heavy_Parts-hand"/>
+							<icon-set boardno="Heavy_Parts-foot"/>
+							<trim.para>Axle weighs 200 lbs. (91 kg). Assistance is required to lift axle. Failure to comply may result in personnel death or injury, or equipment damage. Seek medical attention in event of injury.</trim.para>
+							<trim.para>The frame and axle must be firmly supported on a hard, level surface. Use ground boards if necessary. Direct all personnel to stay clear of semitrailer when supported in air. Failure to comply may result in personnel death or injury, or equipment damage. Seek medical attention in event of injury.</trim.para>
+							<trim.para>The axle must be firmly supported with suitable support devices before performing Steps 2, 3, and 4. Failure to comply may result in personnel injury or equipment damage. Seek medical attention in event of injury.</trim.para>
+						</warning>
+						<note>
+							<trim.para>This replace procedure is for one side of the semitrailer at a time.</trim.para>
+						</note>
+						<para>Raise and support semitrailer frame with jack stands.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Place floor jacks and jack stands into position to support both axles.</para>
+				</step1>
+				<step1>
+					<para>Evenly remove eight bolts <callout assocfig="M00101-9-2320-451-F0001" label="4"/>, washers <callout assocfig="M00101-9-2320-451-F0001" label="9"/>, and locknuts <callout assocfig="M00101-9-2320-451-F0001" label="10"/> from two spring cap ends <callout assocfig="M00101-9-2320-451-F0001" label="1"/>. Discard locknuts <callout assocfig="M00101-9-2320-451-F0001" label="10"/>.</para>
+				</step1>
+				<step1>
+					<para>Evenly remove eight locknuts <callout assocfig="M00101-9-2320-451-F0001" label="3"/> and 16 washers <callout assocfig="M00101-9-2320-451-F0001" label="2"/> from four U-bolts <callout assocfig="M00101-9-2320-451-F0001" label="11"/>. Remove U-bolts. Remove two spring cap ends <callout assocfig="M00101-9-2320-451-F0001" label="1"/> and four rubber pads <callout assocfig="M00101-9-2320-451-F0001" label="7"/> from spring <callout assocfig="M00101-9-2320-451-F0001" label="8"/>. Discard locknuts <callout assocfig="M00101-9-2320-451-F0001" label="3"/>.</para>
+				</step1>
+				<step1>
+					<specpara>
+						<warning>
+							<icon-set boardno="Heavy_Object"/>
+							<icon-set boardno="Heavy_Parts-hand"/>
+							<icon-set boardno="Heavy_Parts-foot"/>
+							<trim.para>Spring weighs 240 lbs. (109 kg). Assistance is required to lift spring. Failure to comply may result in personnel death or injury, or equipment damage. Seek medical attention in event of injury.</trim.para>
+						</warning>
+						<note>
+							<trim.para>Spring seats and adjustment plates are welded to the axle for alignment. Axles must be reinstalled in the same position (front or rear) to maintain proper axle alignment.</trim.para>
+						</note>
+						<para>Remove jack stands, then using previously positioned floor jacks, slowly lower axles enough to clear spring <callout assocfig="M00101-9-2320-451-F0001" label="8"/>.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Remove four hex nuts <callout assocfig="M00101-9-2320-451-F0001" label="16"/>, washers <callout assocfig="M00101-9-2320-451-F0001" label="15"/>, lower trunnion hub <callout assocfig="M00101-9-2320-451-F0001" label="14"/>, two U-bolts <callout assocfig="M00101-9-2320-451-F0001" label="5"/>, and spring wear plate <callout assocfig="M00101-9-2320-451-F0001" label="6"/>.</para>
+				</step1>
+				<step1>
+					<para>Remove spring <callout assocfig="M00101-9-2320-451-F0001" label="8"/> and upper trunnion hub <callout assocfig="M00101-9-2320-451-F0001" label="13"/> from trunnion tube <callout assocfig="M00101-9-2320-451-F0001" label="12"/>.</para>
+				</step1>
+				<step1>
+					<para>Remove bushing <callout assocfig="M00101-9-2320-451-F0001" label="17"/> and washer <callout assocfig="M00101-9-2320-451-F0001" label="18"/> from trunnion tube <callout assocfig="M00101-9-2320-451-F0001" label="12"/>.</para>
+				</step1>
+				<step1>
+					<para>Repeat all Steps for opposite side of trailer if required.</para>
+				</step1>
+				<figure id="M00101-9-2320-451-F0001">
+					<title>Suspension Removal</title>
+					<graphic boardno="G06232000491"/>
+				</figure>
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>If new axles are being installed, refer to WP 0036 for spring seat installation and axle alignment.</trim.para>
+							<trim.para>Spring seats and adjustment plates are welded to axles for alignment. Axles must be reinstalled in the same position (front or rear) as original installation to maintain proper axle alignment</trim.para>
+							<trim.para>Remove, clean with abrasive cloth, and inspect trunnion bushing before installation; it is recommended to replace bushing</trim.para>
+						</note>
+						<para>Install washer <callout assocfig="M00101-9-2320-451-F0002" label="20"/> and bushing <callout assocfig="M00101-9-2320-451-F0002" label="19"/> on trunnion tube <callout assocfig="M00101-9-2320-451-F0002" label="14"/>.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Install upper trunnion hub <callout assocfig="M00101-9-2320-451-F0002" label="15"/>, lower trunnion hub <callout assocfig="M00101-9-2320-451-F0002" label="16"/>, spring <callout assocfig="M00101-9-2320-451-F0002" label="8"/>, and spring wear plate <callout assocfig="M00101-9-2320-451-F0002" label="6"/> using two U-bolts <callout assocfig="M00101-9-2320-451-F0002" label="5"/> and four washers <callout assocfig="M00101-9-2320-451-F0002" label="17"/> and nuts <callout assocfig="M00101-9-2320-451-F0002" label="18"/>. Snug but do not fully tighten at this time.</para>
+				</step1>
+				<step1>
+					<specpara>
+						<warning>
+							<icon-set boardno="Heavy_Object"/>
+							<icon-set boardno="Heavy_Parts-hand"/>
+							<icon-set boardno="Heavy_Parts-foot"/>
+							<trim.para>Spring weighs 240 lbs. (109 kg). Assistance is required to lift spring. Failure to comply may result in personnel death or injury, or equipment damage. Seek medical attention in event of injury.</trim.para>
+						</warning>
+						<para>If Installing the same axle that was removed, position with two welded spring seats <callout assocfig="M00101-9-2320-451-F0002" label="10"/> and adjustment plates <callout assocfig="M00101-9-2320-451-F0002" label="9"/> under the spring <callout assocfig="M00101-9-2320-451-F0002" label="8"/>, and support using jack stands. If installing new axle, go to WP 0036.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Install four rubber pads <callout assocfig="M00101-9-2320-451-F0002" label="7"/> on top of spring <callout assocfig="M00101-9-2320-451-F0002" label="8"/>. Secure spring <callout assocfig="M00101-9-2320-451-F0002" label="8"/> to axle by installing four U-bolts <callout assocfig="M00101-9-2320-451-F0002" label="13"/> around axles and through two spring seats <callout assocfig="M00101-9-2320-451-F0002" label="10"/>, adjustment plates <callout assocfig="M00101-9-2320-451-F0002" label="9"/>, and end caps <callout assocfig="M00101-9-2320-451-F0002" label="1"/>.</para>
+				</step1>
+				<step1>
+					<para>Loosely install 16 washers <callout assocfig="M00101-9-2320-451-F0002" label="2"/> and eight new locknuts <callout assocfig="M00101-9-2320-451-F0002" label="3"/>. Do not tighten at this time.</para>
+				</step1>
+				<step1>
+					<para>Finish securing two end caps <callout assocfig="M00101-9-2320-451-F0002" label="1"/> to spring seats <callout assocfig="M00101-9-2320-451-F0002" label="10"/> and adjustment plates <callout assocfig="M00101-9-2320-451-F0002" label="9"/> using eight bolts <callout assocfig="M00101-9-2320-451-F0002" label="4"/>, washers <callout assocfig="M00101-9-2320-451-F0002" label="11"/>, and new locknuts <callout assocfig="M00101-9-2320-451-F0002" label="12"/>.</para>
+				</step1>
+				<step1>
+					<para>Tighten suspension nuts to the following in-service Dry torque values:</para>
+					<step2>
+						<para>5/8 in. 18 UNF Hex Nut: 180 lb-ft (244 N�m)</para>
+					</step2>
+					<step2>
+						<para>3/4 in. 16 UNF Hex Nut: 300 lb-ft (407 N�m)</para>
+					</step2>
+					<step2>
+						<para>1-1/8 in. 12 UNF Hex Nut: 880 lb-ft (1,193 N�m)</para>
+					</step2>
+				</step1>
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>Install new return springs, retainer springs, return spring holding pins, brake shoe rollers, anchor pins and bushings, and roller retainers at each brake shoe and lining replacement.</trim.para>
+						</note>
+						<para>If using new Wet (oiled) installation hardware, use the following Wet torque values:</para>
+					</specpara>
+					<step2>
+						<para>5/8 in. 18 UNF Hex Nut: 130 lb-ft (176 N�m)</para>
+					</step2>
+					<step2>
+						<para>3/4 in. 16 UNF Hex Nut: 220 lb-ft (298 N�m)</para>
+					</step2>
+					<step2>
+						<para>1-1/8 in. 12 UNF Hex Nut: 670 lb-ft (908 N�m)</para>
+					</step2>
+				</step1>
+				<figure id="M00101-9-2320-451-F0002">
+					<title>Suspension Installation</title>
+					<graphic boardno="G06232000492"/>
+				</figure>
+				<step1>
+					<para>Close air reservoirs <xref wpid="M00085-9-2320-451"/>.</para>
+				</step1>
+				<step1>
+					<para>Align axle <xref wpid="M00074-9-2320-451"/>.</para>
+				</step1>
+				<step1>
+					<para>Reconnect air brake chamber lines and connectors to axle <xref wpid="M00084-9-2320-451"/>.</para>
+				</step1>
+				<step1>
+					<para>Install hubs and brake drums <xref wpid="M00093-9-2320-451"/><xref wpid="M00092-9-2320-451"/>.</para>
+				</step1>
+				<step1>
+					<para>Install tires and wheels <xref wpid="M00096-9-2320-451"/></para>
+				</step1>
+			</proc>
+		</replace>
+	</maintsk>
+</maintwp>

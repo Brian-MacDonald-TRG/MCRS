@@ -1,0 +1,32 @@
+<tswp chngno="0" wpno="T00036-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="maintainer"/>
+		<title>TROUBLESHOOTING PROCEDURES <?Pub _newline?>HYDRAULIC MAST LEAKING</title>
+	</wpidinfo>
+	<initial_setup>
+		<eqpconds>
+			<eqpconds-setup-item>
+				<condition> Coupling FWTRD to Prime Mover(<xref wpid="O00003-9-2320-451"/>).</condition>
+			</eqpconds-setup-item>
+		</eqpconds>
+	</initial_setup>
+	<tsproc>
+		<faultproc>
+			<title>Maintainer Troubleshooting</title>
+			<symptom>Class 3 leak evident in Mast area.</symptom>
+			<malfunc label="malfunction">Mast cylinder is leaking.</malfunc>
+			<action>
+				<step1>
+					<para>With the Mast in the track, insert the Pivot Pins into the Mast (Do not use the half hole for this test.) and the
+using the Valve Control Levers MAST EXTEND and hold pressure for 5 seconds. Observe where cylinder is leaking.</para>
+				</step1>
+				<step1>
+					<para>Cylinder leaking at a fitting, tighten the fitting and reset.</para>
+				</step1>
+				<step1>
+					<para>Cylinder leaking at the shaft seal, replace the cylinder IAW <xref wpid="M00074-9-2320-451"/>. </para>
+				</step1>
+			</action>
+		</faultproc>
+	</tsproc>
+</tswp>

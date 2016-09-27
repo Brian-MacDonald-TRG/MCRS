@@ -1,0 +1,128 @@
+<maintwp chngno="0" wpno="M00083-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="maintainer"/>
+		<title>MAINTAINER MAINTENANCE - WHEEL SENSOR WITH CABLE <?Pub _newline?>REPLACE</title>
+	</wpidinfo>
+	<initial_setup>
+		<tools>
+			<tools-setup-item>
+				<name>Tool Kit, Mechanics General</name>
+				<itemref>
+					<xref itemid="S00007-9-2320-451-TOOL-4" wpid="S00007-9-2320-451"/>
+				</itemref>
+			</tools-setup-item>
+		</tools>
+		<mtrlpart>
+			<mtrlpart-setup-item>
+				<name>Locknut (4)</name>
+			</mtrlpart-setup-item>
+			<mtrlpart-setup-item>
+				<name>STRAP,TIEDOWN,ELECTRICAL COMPONENT</name>
+				<itemref>
+					<xref itemid="S00006-9-2320-451-0017" wpid="S00006-9-2320-451"/>
+				</itemref>
+			</mtrlpart-setup-item>
+			<mtrlpart-setup-item>
+				<name>Tapping Screw</name>
+			</mtrlpart-setup-item>
+		</mtrlpart>
+		<persnreq>
+			<persnreq-setup-item>
+				<name>Motor Transport Operator</name>
+				<mos>88M</mos>
+				<qty>1</qty>
+			</persnreq-setup-item>
+		</persnreq>
+		<eqpconds>
+			<eqpconds-setup-item>
+				<condition>Tilt Deck Recovery Trailer in uncoupled configuration<xref wpid="O00027-9-2320-451"/></condition>
+			</eqpconds-setup-item>
+			<eqpconds-setup-item>
+				<condition>Wheels chocked.</condition>
+			</eqpconds-setup-item>
+			<eqpconds-setup-item>
+				<condition>Air reservoirs drained</condition>
+			</eqpconds-setup-item>
+		</eqpconds>
+	</initial_setup>
+	<maintsk>
+		<replace>
+			<proc>
+				<step1>
+					<specpara>
+						<warning>
+							<icon-set boardno="Electrical_Symbols"/>
+							<icon-set boardno="Flying_Particles_wShield"/>
+							<trim.para>Disconnect electrical power from semitrailer before performing any cleaning or maintenance of electrical system. Failure to comply may result in personnel death or injury, or equipment damage. Seek medical attention in event of injury.</trim.para>
+							<trim.para>Wear eye and head protection when under semitrailer. Failure to comply may result in personnel injury. Seek medical attention in event of injury.</trim.para>
+						</warning>
+						<para>Remove four sensor clips <callout assocfig="M00083-9-2320-451-F0001" label="10"/> from four sensors <callout assocfig="M00083-9-2320-451-F0001" label="9"/> on inside hub of four inner wheels.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Remove four sensors <callout assocfig="M00083-9-2320-451-F0001" label="9"/> from inside hub of four inner wheels.</para>
+				</step1>
+				<step1>
+					<para>Disconnect four sensor cables <callout assocfig="M00083-9-2320-451-F0001" label="8"/> from four sensors <callout assocfig="M00083-9-2320-451-F0001" label="9"/>.</para>
+				</step1>
+				<step1>
+					<para>Disconnect four sensor cables <callout assocfig="M00083-9-2320-451-F0001" label="8"/> from Electronic Control Unit (ECU) valve.</para>
+				</step1>
+				<step1>
+					<para>Disconnect diagnostic tool <callout assocfig="M00083-9-2320-451-F0001" label="1"/> from power/diagnostic cable (<callout assocfig="M00083-9-2320-451-F0001" label="4"/>).</para>
+				</step1>
+				<step1>
+					<para>Disconnect power/diagnostic cable <callout assocfig="M00083-9-2320-451-F0001" label="4"/> from ECU valve, power supply, and mounting bracket <callout assocfig="M00083-9-2320-451-F0001" label="3"/>, removing two tapping screws <callout assocfig="M00083-9-2320-451-F0001" label="2"/>, four cap screws <callout assocfig="M00083-9-2320-451-F0001" label="7"/>, eight washers <callout assocfig="M00083-9-2320-451-F0001" label="6"/>, and four locknuts <callout assocfig="M00083-9-2320-451-F0001" label="5"/>. Discard locknuts <callout assocfig="M00083-9-2320-451-F0001" label="5"/> and tapping screws <callout assocfig="M00083-9-2320-451-F0001" label="2"/>.</para>
+				</step1>
+				<figure id="M00083-9-2320-451-F0001">
+					<title>ABS Brake Connections Removal</title>
+					<graphic boardno="G06232000555"></graphic>
+				</figure>
+			</proc>
+		</replace>
+	</maintsk>
+	<maintsk>
+		<install>
+			<proc>
+				<step1>
+					<para>Connect diagnostic/power cable <callout assocfig="M00083-9-2320-451-F0002" label="1"/> to ECU valve, power supply, and mounting bracket <callout assocfig="M00083-9-2320-451-F0002" label="3"/> with two new tapping screws <callout assocfig="M00083-9-2320-451-F0002" label="2"/>, four cap screws <callout assocfig="M00083-9-2320-451-F0002" label="7"/>, eight washers <callout assocfig="M00083-9-2320-451-F0002" label="6"/>, and four new locknuts <callout assocfig="M00083-9-2320-451-F0002" label="5"/>.</para>
+				</step1>
+				<step1>
+					<para>Connect diagnostic tool <callout assocfig="M00083-9-2320-451-F0002" label="1"/> to diagnostic/power cable <callout assocfig="M00083-9-2320-451-F0002" label="4"/>.</para>
+				</step1>
+				<step1>
+					<para>Connect four sensor cables <callout assocfig="M00083-9-2320-451-F0002" label="8"/> to ECU valve.</para>
+				</step1>
+				<step1>
+					<para>Connect four sensor cables <callout assocfig="M00083-9-2320-451-F0002" label="8"/> to four sensors <callout assocfig="M00083-9-2320-451-F0002" label="9"/>.</para>
+				</step1>
+				<step1>
+					<para>Install four sensors <callout assocfig="M00083-9-2320-451-F0002" label="9"/> on inside hubs of the four inner wheels. Hand-install sensors <callout assocfig="M00083-9-2320-451-F0002" label="9"/> or lightly push into clip using a wooden dowel rod.</para>
+				</step1>
+				<step1>
+					<para>Secure four sensors <callout assocfig="M00083-9-2320-451-F0002" label="9"/> to wheel hubs with sensor clips <callout assocfig="M00083-9-2320-451-F0002" label="10"/>.</para>
+				</step1>
+				<figure id="M00083-9-2320-451-F0002">
+					<title>ABS Brake Connections Removal</title>
+					<graphic boardno="G06232000555"></graphic>
+				</figure>
+				<step1>
+					<specpara>
+						<caution>
+							<icon-set boardno="Electrical-hand"/>
+							<trim.para>Sensor cables must be strapped at the 12 o'clock or 3 o'clock position on the axle (top or rearward side of axle) to protect them during off-road operation. Use as many tiedown straps as required to ensure the cables are tightly secured to the axle ends. Failure to comply may result in equipment damage.</trim.para>
+						</caution>
+						<note>
+							<trim.para>Attach nylon tiedown straps to axle to allow for easy replacement. Locking tab shall be situated within 90&deg; of axle top.</trim.para>
+						</note>
+						<para>Secure sensor cables <callout assocfig="M00083-9-2320-451-F0002" label="1"/> to axle with nylon tiedown straps <callout assocfig="M00083-9-2320-451-F0002" label="2"/>.</para>
+					</specpara>
+				</step1>
+				<figure id="M00083-9-2320-451-F0003">
+					<title>Sensor Cables</title>
+					<graphic boardno="G06232000556"></graphic>
+				</figure>
+			</proc>
+		</install>
+	</maintsk>
+</maintwp>

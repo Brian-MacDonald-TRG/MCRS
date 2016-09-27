@@ -1,0 +1,223 @@
+<opunuwp chngno="0" wpno="O00038-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="crew"/>
+		<title>OPERATION UNDER UNUSUAL CONDITIONS <?Pub _newline?>FWTRD</title>
+	</wpidinfo>
+	<initial_setup>
+		<persnreq>
+			<persnreq-setup-item>
+				<name>Wheeled Vehicle Mechanic</name>
+				<mos>91B</mos>
+				<qty>1</qty>
+			</persnreq-setup-item>
+		</persnreq>
+		<eqpconds>
+			<eqpconds-setup-item>
+				<condition>Fifth Wheel Towing and Recovery Device in coupled configuration <xref wpid="O00003-9-2320-451"/></condition>
+			</eqpconds-setup-item>
+		</eqpconds>
+	</initial_setup>
+	<opunutsk>
+		<unusualenv>
+			<proc>
+				<title>GENERAL</title>
+				<step1>
+					<para>This section contains special instructions for operating and servicing the towing device under unusual conditions.</para>
+				</step1>
+				<step1>
+					<para>In addition to performing all the usual PMCS procedures, special care must be taken in regard to cleaning and lubrication when extremes in temperature, humidity, and terrain conditions are present or anticipated. Proper cleaning, lubrication, storage, and handling ensures proper operation and function and guards against excessive wear.</para>
+				</step1>
+				<step1>
+					<para>When chronic failure of material results from subjection to extreme conditions, report the condition on SF Form 368.</para>
+				</step1>
+			</proc>
+		</unusualenv>
+	</opunutsk>
+	<opunutsk>
+		<unusualenv>
+			<proc>
+				<title>OPERATION IN EXTREME COLD</title>
+				<step1>
+					<specpara>
+						<caution>
+							<trim.para>Oil level must be checked in cold temperatures after fifth wheel towing device has been winterized and removed from maintenance facility. Damage to equipment may occur if oil level is not maintained.</trim.para>
+						</caution>
+						<para>Operation:</para>
+					</specpara>
+					<step2>
+						<para>Insulation may crack and cause electrical short circuits. Construction materials can become hard, brittle, and easily damaged or broken. Handle construction materials with care in extreme cold.</para>
+					</step2>
+					<step2>
+						<para>Refer to FM 9-207 and FM 21-305 for special instruction on driving hazards in extreme cold.</para>
+					</step2>
+					<step2>
+						<para>Refer to WP 0039 for proper lubrication during extreme cold weather conditions.</para>
+					</step2>
+				</step1>
+				<step1>
+					<para>At-Halt Parking</para>
+					<step2>
+						<para>When parking short term, park in a sheltered area out of the wind.</para>
+					</step2>
+					<step2>
+						<para>When parking long term, prepare a footing of planks or brush if high, dry ground is not available.</para>
+					</step2>
+					<step2>
+						<para>Remove all buildup of ice and snow as soon as possible after shutdown.</para>
+					</step2>
+					<step2>
+						<para>Cover and shield the towing device with canvas covers if available. Keep ends of covers off the ground to keep them from freezing to the ground.</para>
+					</step2>
+				</step1>
+			</proc>
+		</unusualenv>
+	</opunutsk>
+	<opunutsk>
+		<unusualenv>
+			<proc>
+				<title>OPERATION IN EXTREME HEAT AND HIGH HUMIDITY</title>
+				<step1>
+					<para>Refer to <xref wpid="M00118-9-2320-451"/> for proper lubrication during extreme heat conditions. Adequate lubrication is essential. Extreme heat will cause oil films to evaporate, resulting in inadequate lubrication.</para>
+				</step1>
+				<step1>
+					<para>Cover inactive towing device with tarpaulins, if they are available and if there is no other available shelter. For several hours each week, shake out and air canvas covers or other items subject to deterioration from mildew or attacks by insects or vermin.</para>
+				</step1>
+				<step1>
+					<para>If inactive for long periods in hot, humid weather, towing device is subject to rapid rusting and accumulation of fungi growth. Frequently inspect, clean, and lubricate to prevent excessive deterioration.</para>
+				</step1>
+			</proc>
+		</unusualenv>
+	</opunutsk>
+	<opunutsk>
+		<unusualenv>
+			<proc>
+				<title>OPERATION IN SANDY OR DUSTY AREAS</title>
+				<step1>
+					<para>Inspect, clean, and lubricate towing device frequently when operating in dusty or sandy areas. Refer to <xref wpid="M00118-9-2320-451"/> for proper lubrication instructions.</para>
+				</step1>
+				<step1>
+					<para>Make sure no dust or sand enters exposed mechanisms or lubrication fittings during inspections and repair operations. Cover exposed parts with tarpaulins or other suitable cover during disassembly and assembly.</para>
+				</step1>
+			</proc>
+		</unusualenv>
+	</opunutsk>
+	<opunutsk>
+		<unusualenv>
+			<proc>
+				<title>OPERATION IN MUD AND SNOW</title>
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>Refer to FM 21-305 for special instructions for operation in snow.</trim.para>
+						</note>
+						<para>Frequently clean, inspect, and lubricate towing device. Refer to <xref wpid="M00118-9-2320-451"/> for proper lubrication instructions.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>After each operation remove ice, snow, and mud from underneath towing device and from hoses, lines, tubes, and electrical connections.</para>
+				</step1>
+			</proc>
+		</unusualenv>
+	</opunutsk>
+	<opunutsk>
+		<unusualenv>
+			<proc>
+				<title>OPERATION IN SALTWATER AREAS</title>
+				<step1>
+					<para>Wash salt deposits from all equipment with fresh water.</para>
+				</step1>
+				<step1>
+					<para>Moist and salty areas can destroy the rust-preventative qualities of oils and greases. When equipment is active, exposed surfaces should be cleaned and lubricated daily. Refer to WP 0039 00 for proper lubrication in high humidity and saltwater areas.</para>
+				</step1>
+				<step1>
+					<para>When equipment is inactive, unpainted parts should be coated with lubricating oil (refer to WP 0039 00). All covers and caps should be in place.</para>
+				</step1>
+			</proc>
+		</unusualenv>
+	</opunutsk>
+	<opunutsk>
+		<unusualenv>
+			<proc>
+				<title>OPERATION ON ROCKY TERRAIN</title>
+					<para>Before driving over stumps or rocks, make sure the towing device can clear them. Such objects can damage components on the underside of the towing device. Beware of low hanging limbs that can damage cargo.</para>
+			</proc>
+		</unusualenv>
+	</opunutsk>
+	<opunutsk>
+		<unusualenv>
+			<proc>
+				<title>FORDING</title>
+				<step1>
+					<para>Before Fording:</para>
+					<step2>
+						<para>Refer to operating instructions in prime mover technical manual for information on fording operations. Towing vehicle fording instructions are also applicable.</para>
+					</step2>
+					<step2>
+						<para>The fording depth of fifth wheel towing and recovery device is limited to the fording depth limit of the prime mover or the towed vehicle, whichever is lower.</para>
+					</step2>
+					<step2>
+						<para>Before entering the water, check bottom surface conditions. If bottom is too soft, do not ford.</para>
+					</step2>
+					<step2>
+						<para>Cables and terminals must be protected by applying silicone compound (item 11, WP 0085 00).</para>
+					</step2>
+				</step1>
+				<step1>
+					<para>After Fording:</para>
+					<step2>
+						<para>Drain or dry all areas where water has collected.</para>
+					</step2>
+					<step2>
+						<para>Lubricate all unpainted surfaces. See lubrication chart (WP 0039 00).</para>
+					</step2>
+					<step2>
+						<para>Dry all lubrication points and lubricate. See lubrication chart (WP 0039 00).</para>
+					</step2>
+				</step1>
+			</proc>
+		</unusualenv>
+	</opunutsk>
+	<opunutsk>
+		<unusualenv>
+			<proc>
+				<title>ROLL-ON/ROLL-OFF (RORO) OPERATIONS</title>
+				<step1>
+					<para>The following procedures are roll-on/roll-off (RORO) procedures for shipment of the fifth wheel towing device.</para>
+				</step1>
+				<step1>
+					<para>Prepare tow bar assemblies for loading equipment <xref wpid="O00001-9-2320-451"/>.</para>
+				</step1>
+				<step1>
+					<para>Connect to towed vehicle <xref wpid="O00001-9-2320-451"/>, steps 1 through 5).</para>
+				</step1>
+				<step1>
+					<para>Position rubber blocks between front spring saddle of towed vehicle and boom.</para>
+				</step1>
+				<step1>
+					<para>Using valve control levers, BOOM EXTEND to a height to allow rubber blocks to be placed on ground UNDER boom, approximately 4 feet (48 inches) forward of rubber blocks placed on top of boom in step 3.</para>
+				</step1>
+				<step1>
+					<para>Using valve control levers, BOOM RETRACT to position boom extensions as high as possible, ensuring not to contact underside of towed vehicle.</para>
+				</step1>
+				<step1>
+					<para>If frame hooks are used to secure boom extensions to towed vehicle, frame hooks can be coupled directly to boom extension clevis.</para>
+				</step1>
+				<step1>
+					<para>Continue with connecting to towed vehicle <xref wpid="O00001-9-2320-451"/>, steps 11 through 26). OMIT STEP 14.</para>
+				</step1>
+				<step1>
+					<para>DO NOT install hitch pin into center mast <xref wpid="O00001-9-2320-451"/>, step 19).</para>
+				</step1>
+				<step1>
+					<para>MAST EXTEND to raise mast to highest position. Lock pin should be inserted in fifth hole on mast section <xref wpid="O00001-9-2320-451"/>, step 22).</para>
+				</step1>
+				<step1>
+					<para>When ascending ramp, it may be necessary to BOOM EXTEND for additional height after prime mover passes the crest. Use remote control to extend and retract booms as necessary.</para>
+				</step1>
+				<step1>
+					<para>After towed vehicle travels over the crest, BOOM RETRACT to level fifth wheel section.</para>
+				</step1>
+			</proc>
+		</unusualenv>
+	</opunutsk>
+</opunuwp>

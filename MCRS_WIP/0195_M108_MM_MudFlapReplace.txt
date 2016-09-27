@@ -1,0 +1,55 @@
+<maintwp chngno="0" wpno="M00108-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="maintainer"/>
+			<title>MAINTAINER MAINTENANCE - MUD FLAP<?Pub _newline?> REPLACE</title>
+	</wpidinfo>
+	<initial_setup>
+		<tools>
+			<tools-setup-item>
+				<name>Tool Kit, Mechanics General</name>
+				<itemref>
+					<xref itemid="S00007-9-2320-451-TOOL-4" wpid="S00007-9-2320-451"/>
+				</itemref>
+			</tools-setup-item>
+		</tools>
+		<persnreq>
+			<persnreq-setup-item>
+				<name>Motor Transport Operator</name>
+				<mos>88M</mos>
+				<qty>X</qty>
+			</persnreq-setup-item>
+		</persnreq>
+		<eqpconds>
+			<eqpconds-setup-item>
+				<condition>Tilt Deck Recovery Trailer in uncoupled configuration.<xref wpid="O00027-9-2320-451"/></condition>
+			</eqpconds-setup-item>
+			<eqpconds-setup-item>
+				<condition>Wheels Chocked.</condition>
+			</eqpconds-setup-item>
+		</eqpconds>
+	</initial_setup>
+	<maintsk>
+		<replace>
+			<proc>
+				<step1>
+					<para>Remove four bolts <callout assocfig="M00108-9-2320-451-F0001" label="1">, nuts <callout assocfig="M00108-9-2320-451-F0001" label="2">, and washers.</para>
+				</step1>
+
+					<figure id="M00108-9-2320-451-F0001">
+					<title>Mud Flap Mounting Bolts</title>
+					<graphic boardno="G06232000502"/>
+					</figure>
+
+				<step1>
+					<para>Remove unserviceable mud flap.</para>
+				</step1>
+				<step1>
+					<para>Position mud flap onto mounting bracket</para>
+				</step1>
+				<step1>
+					<para>Secure with four bolts, nuts, and washers.</para>
+				</step1>
+			</proc>
+		</replace>
+	</maintsk>
+</maintwp>

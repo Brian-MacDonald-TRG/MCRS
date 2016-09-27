@@ -1,0 +1,127 @@
+<maintwp chngno="0" wpno="M00017-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="maintainer"/>
+		<title>MAINTAINER MAINTENANCE - 24 VOLT RECEPTACLE TEST/REPLACE</title>
+	</wpidinfo>
+	<initial_setup>
+		<tools>
+			<tools-setup-item>
+				<name>Tool Kit, General Mechanics</name>
+				<itemref>
+					<xref itemid="S00007-9-2320-451-TOOL-4" wpid="S00007-9-2320-451"/>
+				</itemref>
+			</tools-setup-item>
+		</tools>
+		<mtrlpart>
+			<mtrlpart-setup-item>
+				<name>WASHER, LOCK (2)</name>
+			</mtrlpart-setup-item>
+			<mtrlpart-setup-item>
+				<name>TAG, MARKER</name>
+				<itemref>
+					<xref itemid="S00006-9-2320-451-0018" wpid="S00006-9-2320-451"/>
+				</itemref>
+			</mtrlpart-setup-item>
+		</mtrlpart>
+		<persnreq>
+			<persnreq-setup-item>
+				<name>Motor Transport Operator</name>
+				<mos>88M</mos>
+				<qty>1</qty>
+			</persnreq-setup-item>
+		</persnreq>
+		<eqpconds>
+			<eqpconds-setup-item>
+				<condition>Fifth Wheel Towing and Recovery Device in coupling configuration <xref wpid="O00003-9-2320-451"/>.</condition>
+			</eqpconds-setup-item>
+			<eqpconds-setup-item>
+				<condition>Disconnect Batteries <xref wpid="M00035-9-2320-451"/>.</condition>
+			</eqpconds-setup-item>
+		</eqpconds>
+	</initial_setup>
+	<maintsk>
+		<test>
+			<proc>
+				<title>TEST</title>
+				<step1>
+					<para>Switch the 12/24-volt selector switch <callout assocfig="M00017-9-2320-451-F0001" label ="1"/> to 24-Volts.</para>
+				</step1>
+
+					<figure id="M00017-9-2320-451-F0001" label="1">
+					<title>Figure 1. 12/24-Volt Selector Switch.</title>
+					<graphic boardno="G06232000235"></graphic>
+					</figure>
+
+				<step1>
+					<para>Using a serviceable multimeter, check for 24-Volts DC reading at center pin <callout assocfig="M00017-9-2320-451-F0002" label="1"/>.</para>
+				</step1>
+
+					<figure id="M00017-9-2320-451-F0002" label="1">
+					<title>Figure 2. 24-Volt Receptacle Center Pin.</title>
+					<graphic boardno="G06232000236"></graphic>
+					</figure>
+			</proc>
+		</test>
+	</maintsk>
+	<maintsk>
+		<replace>
+			<proc>
+				<title>REPLACE</title>
+				<step1>
+					<para>Gain access inside 12/24 junction box.</para>
+				</step1>
+				<step1>
+					<para>Loosen set screw at terminal <callout assocfig="M00017-9-2320-451-F0003" label ="1"/>.</para>
+				</step1>
+				<step1>
+					<para>Tag and disconnect the cable <callout assocfig="M00017-9-2320-451-F0003" label ="2"/> at terminal.</para>
+				</step1>
+
+					<figure id="M00017-9-2320-451-F0003" label="1">
+					<title>Figure 3. 24 Volt Receptacle Removal.</title>
+					<graphic boardno="G06232000237"></graphic>
+					</figure>
+
+				<step1>
+					<para>Remove two nuts <callout assocfig="M00017-9-2320-451-F0004" label ="1"/>, two lockwashers <callout assocfig="M00017-9-2320-451-F0004" label ="3"/>, one flat washer <callout assocfig="M00017-9-2320-451-F0004" label ="4"/>, one grounding cable <callout assocfig="M00017-9-2320-451-F0004" label ="2"/>, two screws <callout assocfig="M00017-9-2320-451-F0004" label ="5"/>, and two flat washers <callout assocfig="M00017-9-2320-451-F0004" label ="6"/>. Discard lockwashers.</para>
+				</step1>
+
+					<figure id="M00017-9-2320-451-F0004" label="1">
+					<title>24 Volt Receptacle Removal</title>
+					<graphic boardno="G06232000238"></graphic>
+					</figure>
+				
+				<step1>
+					<para>Remove unserviceable 24 Volt Receptacle.</para>
+				</step1>
+				<step1>
+					<para>Obtain servicable item.</para>
+				</step1>
+				<step1>
+					<para>Position receptacle on junction box.</para>
+				</step1>
+				<step1>
+					<para>Secure receptacle with two screws <callout assocfig="M00017-9-2320-451-F0005" label ="5"/>, flat washers <callout assocfig="M00017-9-2320-451-F0005" label ="6"/>, one flat washer <callout assocfig="M00017-9-2320-451-F0005" label ="4"/>, ground cable <callout assocfig="M00017-9-2320-451-F0005" label ="2"/>, two serviceable lockwashers <callout assocfig="M00017-9-2320-451-F0005" label ="3"/>, and nuts <callout assocfig="M00017-9-2320-451-F0005" label ="1"/>.</para>
+				</step1>
+
+					<figure id="M00017-9-2320-451-F0005" label="1">
+					<title>Secure 24 Volt Receptacle</title>
+					<graphic boardno="G06232000238"></graphic>
+					</figure>
+
+				<step1>
+					<para>Connect the receptacle cable  <callout assocfig="M00017-9-2320-451-F0006" label ="2"/> at terminal <callout assocfig="M00017-9-2320-451-F0006" label ="1"/>.</para>
+				</step1>
+
+					<figure id="M00017-9-2320-451-F0006" label="1">
+					<title>Connect Terminal Cable.</title>
+					<graphic boardno="G06232000237"></graphic>
+					</figure>
+				
+				<step1>
+					<para>Connect FWTRD battery cables <xref wpid="O00001-9-2320-451"/>.</para>
+				</step1>
+			</proc>
+		</replace>
+	</maintsk>
+</maintwp>

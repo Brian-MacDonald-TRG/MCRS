@@ -1,0 +1,46 @@
+<tswp chngno="0" wpno="T00032-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="maintainer"/>
+		<title>TROUBLESHOOTING PROCEDURES <?Pub _newline?>REMOTE CONTROL</title>
+	</wpidinfo>
+	<initial_setup>
+		<eqpconds>
+			<eqpconds-setup-item>
+				<condition>Coupling FWTRD to Prime Mover(<xref wpid="O00003-9-2320-451"/>).</condition>
+			</eqpconds-setup-item>
+		</eqpconds>
+	</initial_setup>
+	<tsproc>
+		<faultproc>
+			<title>Maintainer Troubleshooting</title>
+			<symptom>Remote Control does not activate any hydraulic functions.</symptom>
+			<malfunc label="malfunction">No voltage on the Electric Control Box gauge.</malfunc>
+			<action>
+				<step1>
+					<para>Connect the NATO Slave Cable between the prime mover and the FWTRD. If voltage remains below 12VDC, replace Batteries IAW <xref wpid="M00045-9-2320-451"/>.</para>
+				</step1>
+				<step1>
+					<para>Turn power switch to Remote Control "ON" if power indicator light does not illuminate, replace Remote Control IAW <xref wpid="M00022-9-2320-451"/>.</para>
+				</step1>
+			</action>
+			<malfunc label="malfunction">ELECTRIC/WET LINE position switch not set to the hydraulic method you are operating the FWTRD in.</malfunc>
+			<action>
+				<step1>
+					<para>If you are attempting to run in electric mode, the switch must be set to the ELECTRIC position or the Remote Control will not engage the Electric Motors, nor open the Electric Bypass Valve when a function is chosen. No hydraulic flow will result.</para>
+				</step1>
+				<step1>
+					<para>If you are attempting to run in wet line mode, the switch must be set to the WET LINE position and the wet line hoses from the prime mover to the FWTRD must be connected and the PTO inside the prime mover must be engaged.</para>
+				</step1>
+			</action>
+			<malfunc label="malfunction">An individual Remote Control function is inoperable, while others are fully operable.</malfunc>
+			<action>
+				<step1>
+					<para>At the Control Valve, remove the cover for the remote control solenoids and swap the position of solenoids for the function that works and the one that is inoperable.</para>
+				</step1>
+				<step1>
+					<para>Test function with Remote Control. If the fault is corrected, replace the faulty solenoid. If swapping the solenoids results in no change, replace Remote Control IAW <xref wpid="M00022-9-2320-451"/>.</para>
+				</step1>
+			</action>
+		</faultproc>
+	</tsproc>
+</tswp>

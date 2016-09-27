@@ -1,0 +1,101 @@
+<opusualwp chngno="0" wpno="O00021-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="crew"/>
+		<title>OPERATING PROCEDURES <?Pub _newline?>90&deg; SIDE PULL WINCHING WITH THE 35K WINCH SINGLE PART LINE</title>
+	</wpidinfo>
+	<initial_setup>
+		<tools>
+			<tools-setup-item>
+				<name>Tool Kit, General Mechanics</name>
+				<itemref>
+					<xref itemid="S00007-9-2320-451-TOOL-4" wpid="S00007-9-2320-451"/>
+				</itemref>
+			</tools-setup-item>
+			<tools-setup-item>
+				<name>1 1/4" Shackle</name>
+			</tools-setup-item>
+		</tools>
+		<persnreq>
+			<persnreq-setup-item>
+				<name>Wheeled Vehicle Mechanic</name>
+				<mos>91B</mos>
+				<qty>1</qty>
+			</persnreq-setup-item>
+		</persnreq>
+		<eqpconds>
+			<eqpconds-setup-item>
+				<condition> FWTRD in Transport Configuration IAW <xref wpid="O00004-9-2320-451"/>.</condition>
+			</eqpconds-setup-item>
+		</eqpconds>
+	</initial_setup>
+	<opertsk>
+		<oper>
+			<proc>
+				<step1>
+					<specpara>
+						<warning>
+							<trim.para>All personnel must stand clear at a distance twice the length of cable during winching operations. A snapped cable or shifting load could strike personnel causing injury or death to personnel.</trim.para>
+							<trim.para>Winch cables can become frayed or contain broken wires. Wear heavy leather-palmed work gloves when handling winch cables. Frayed or broken wire can injure hands. Never let winch cables slide through hands, even when wearing gloves. A broken wire could cut through glove and cut hand.</trim.para>
+							<trim.para>Refer to <extref docno="FM 4-30.31"/> for inspection of winch cable. A damaged winch cable, under load, could fail suddenly and strike personnel, and could cause the vehicle being recovered to shift suddenly creating a crush hazard. Failure to comply can result in injury or death to personnel.</trim.para>
+						</warning>
+						<note>
+							<trim.para>Refer to the proper TM for the prime mover as well as FM 4-30.31, �Recovery and Battle Damage Assessment and Repair� in conjunction with these instructions for additional information relating to rigging, winching and recovery.</trim.para>
+							<trim.para>Boom Extensions must be fully retracted when installing Boom Caps. The wing bolts used to stow the boom caps should be replaced in fifth wheel section for safe keeping.</trim.para>
+						</note>
+						<para>Perform steps 1-12 of 90 Degree 2-Part Side Pull IAW <xref wpid="O00020-9-2320-451"/> to align FWTRD up to the disabled vehicle.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Bring the cable out to the disabled vehicle and rig for winching.</para>
+				</step1>
+				<step1>
+					<para>Using 1/2" X 8' chains around the base of the booms, attach the 35K snatch block to the winch cable so, that when winching, the cable is pulling level with the winch drum <callout assocfig="O00021-9-2320-451-F0001" label="1"/>.</para>
+				</step1>
+				
+					<figure id="O00021-9-2320-451-F0001">
+					<title>Snatch Block Attached for Level Pull. Chains Around Base of Booms</title>
+					<graphic boardno="G06232000159"></graphic>
+					</figure>
+
+				<step1>
+					<para>Using the remote control, WINCH IN to take the slack out of the cable. Re-check the rigging.</para>
+				</step1>
+				<step1>
+					<para>Commence winching <xref figid="O00021-9-2320-451-F0002"/>.</para>
+				</step1>
+
+					<figure id="O00021-9-2320-451-F0002">
+					<title>FWTRD 90� Single Part Line Winching</title>
+					<graphic boardno="G06232000160"></graphic>
+					</figure>
+
+				<step1>
+					<specpara>
+						<warning>
+							<trim.para>Prior to slacking the winch cable, the disabled vehicle must be secured from moving. Failure to comply could result in the vehicle moving unexpectedly creating a crush hazard causing serious injury or death to personnel.</trim.para>
+						</warning>
+						<note>
+							<trim.para>Rigging may or may not be removed from casualty depending on whether it is to be lift/towed using FWTRD (remove rigging) or whether casualty is to be winched onto TDRT in which case rigging would stay on casualty.</trim.para>
+						</note>
+						<para>Remove winch cable. See note for rigging.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Using the remote control, BOOM EXTEND to level the fifth wheel.</para>
+				</step1>
+				<step1>
+					<para>Gain access to prime mover, drive forward until the FWTRD is aligned to the after frame of the prime mover.</para>
+				</step1>
+				<step1>
+					<para>Rotate the transport leg handle clockwise and lock the transport legs in the down position.</para>
+				</step1>
+				<step1>
+					<para>Using remote control, BOOM RETRACT to set the FWTRD on the transport legs, and to free the boom caps.</para>
+				</step1>
+				<step1>
+					<para>Remove Boom Caps and stow in fifth wheel section.</para>
+				</step1>
+			</proc>
+		</oper>
+	</opertsk>
+</opusualwp>

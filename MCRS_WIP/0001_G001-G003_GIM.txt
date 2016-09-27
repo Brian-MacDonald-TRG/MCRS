@@ -1,0 +1,1056 @@
+<gim chngno="0" revno="0" tocentry="1">
+<titlepg comment="Chapter 1 Introduction" maintlvl="crew">
+		<name>MODULAR CATASTROPHIC RECOVERY SYSTEM (MCRS)</name>
+	</titlepg>
+	<ginfowp chngno="0" wpno="G00001-9-2320-451">
+		<wpidinfo>
+			<maintlvl level="crew"/>
+			<title>General Information</title>
+		</wpidinfo>
+		<scope>
+			<title>SCOPE</title>
+			<para0>
+				<title>Type of Manual</title>
+				<para>
+					This technical manual provides operator and field maintenance instructions for the MCRS, NSN 2320-01-560-4409. This manual also provides a Repair Parts and Special Tools List (RPSTL), located in <xref wpid="R00001-9-2320-451"/> through	<xref wpid="R00082-9-2320-451"/>.
+				</para>
+			</para0>
+			<para0>
+				<title>Model Number and Equipment Name</title>
+				<para>FWHM983 MODULAR CATASTROPHIC RECOVERY SYSTEM (MCRS)</para>
+			</para0>
+			<para0>
+				<title>Purpose of Equipment</title>
+				<para>The MCRS is intended to provide units, as authorized on TOE's, with the capability to winch recover, lift tow, and trailer disabled vehicles. The Fifth Wheel Towing and Recovery Device (FWTRD) can lift 32,000 lbs. and tow up to 150,000 lbs. The Tilt Deck Recovery Trailer (TDRT) is capable of transporting up to 35 tons.</para>
+			</para0>
+		</scope>
+		<mfrr frame="no">
+			<title>MAINTENANCE FORMS, RECORDS, AND REPORTS</title>
+			<mfrr.para service="army">
+				Department of the Army forms and procedures used for equipment maintenance will be those prescribed by (as applicable) <extref docno="DA PAM 750-8" posttext=", The Army Maintenance Management System (TAMMS) Users Manual;" /> <extref docno="DA PAM 738-751" posttext=", Functional Users Manual for the Army Maintenance Management Systems - Aviation (TAMMS-A);" /> or <extref docno="AR 700-138" posttext=", Army Logistics Readiness and Sustainability"/>.
+			</mfrr.para>
+		</mfrr>
+		<eir>
+			<title>REPORTING EQUIPMENT IMPROVEMENT RECOMMENDATIONS (EIR)</title>
+			<para>
+				If your Modular Catastrophic Recovery System needs improvement, let us know. Send us an EIR.You, the user, are the only one who can tell us what you don't like about your equipment. Let us know why you don't like the design or performance.
+			</para>
+			<para>
+				All non-Aviation/Missile EIRs and PQDRs must be submitted through the Product Data Reporting and Evaluation Program (PDREP) Web site. The PDREP site is: <internet show.address="yes"><homepage protocol="https" uri="www.pdrep.csd.disa.mil/"/></internet>.
+			</para>
+			<para>
+				If you do not have internet access, you may submit your information using an <extref docno="SF-368" posttext=" (Product Quality Deficiency Report)"/>. You can send your	<extref docno="SF-368"/> using email, regular mail, or fax using the addresses/fax numbers specified in <extref docno="DA PAM 750-8" posttext=", The Army Maintenance Management System (TAMMS) Users Manual" />. We will send you a reply.
+			</para>
+		</eir>
+		<cpcdata>
+			<title>CORROSION PREVENTION AND CONTROL (CPC)</title>
+			<para>Corrosion prevention and control of Army materiel is a continuing concern. It is important that any corrosion problems with this item be reported so that the problem can be corrected and improvements can be made to prevent the problem in future items. The term "corrosion" means the deterioration of a material or its properties due to a reaction of that material with its chemical environment. An example is the rusting of iron. Corrosion damage in metals can be seen, depending on the metal, as tarnishing, pitting, fogging, surface residue, and/or cracking. Plastics, composites, and rubbers can also degrade (also considered to be corrosion based on the above definition of corrosion). Degradation is caused by thermal (heat), oxidation (oxygen), solvation (solvents), or photolytic (light, typically ultraviolet) processes. The most common exposures are excessive heat or light. Damage from these processes will appear as cracking, softening, swelling, and/or breaking. The US Army has defined the following nine (9) forms of corrosion used to evaluate the deterioration of metals. These shall be used when evaluating and documenting corrosion.
+				<randlist bullet="no">
+					<item>UNIFORM (or general attack): Affects a large area of exposed metal surface, like rust on steel or tarnish on silver. It gradually reduces the thickness of the metal until it fails.</item>
+					<item>CREVICE: Occurs in crevices created by rubber seals, gaskets, bolt heads, lap joints, dirt or other surface deposits. It will develop anywhere moisture or other corrosive agents are trapped and unable to drain or evaporate.</item>
+					<item>SELECTIVE LEACHING: One element, usually the anodic element of an alloy, corrodes away, leaving the cathodic element. This can create holes in metal.</item>
+					<item>INTERGRANULAR: Metal deterioration caused by corrosion on the bonds between or across the grain boundaries of the metal. The metal will appear to be peeling off in sheets, flaking, or being pushed apart by layers. A particular type of intergranular corrosion is exfoliation.</item>
+					<item>PITTING: This can result from conditions similar to those for crevice corrosion. Pits can develop on various materials due to their composition. Rifle boxes are big victims of pitting.</item>
+					<item>EROSION: Results when a moving fluid (liquid or gas) flows across a metal surface, particularly when solid particles are present in the fluid. Corrosion actually occurs on the surface of the metal, but the moving fluid washes away the corrosion and exposes a new metal surface, which also corrodes.</item>
+					<item>FRETTING: Occurs as a result of small, repetitive movements (e.g., vibration) between two surfaces in contact with each other.It's usually identified by a black powder corrosion product or pits on the surface.</item>
+					<item>GALVANIC: Occurs when two different types of metal come in contact with each other, like steel bolts on aluminum, for example. This is a common problem on aircraft because of their mix of metals.</item>
+					<item>STRESS: Term used to describe corrosion cracking and corrosion fatigue. Where an item is not ready/available due to one of these forms of corrosion, it shall be recorded as a corrosion failure in the inspection record and the appropriate code (170) for corrosion shall be used when requesting/performing maintenance.</item>
+				</randlist>
+			</para>
+			<para>
+				<extref docno="SF-368" posttext=", Product Quality Deficiency Report"/>	should be submitted to the address specified in	<extref docno="DA PAM 750-8" posttext=", The Army Maintenance Management System (TAMMS) Users Manual" />.
+			</para>
+		</cpcdata>
+		<odsdata>
+			<title>OZONE DEPLETING SUBSTANCES (ODS)</title>
+			<para>No Class 1 Ozone Depleting Substances have been identified for use with the MCRS.</para>
+		</odsdata>
+		<destructmat>
+			<title>DESTRUCTION OF ARMY MATERIEL TO PREVENT ENEMY USE</title>
+			<para>
+				Instructions on the destruction of the MCRS to prevent enemy use are found in <extref docno="TM 750-244-2" posttext=", Procedures for Destruction of Equipment to Prevent Enemy Use" />.
+			</para>
+		</destructmat>
+		<pssref>
+			<title>Preparation for Storage or Shipment</title>
+			<para>Refer to <xref wpid="O00037-9-2320-451"/> or  <xref wpid="O00036-9-2320-451"/> for instructions to prepare the MCRS for storage or shipment.</para>
+		</pssref>
+		<wrntyref>
+			<title>WARRANTY INFORMATION</title>
+			<para>Tru-Hitch, Inc. (Tru.Hitch@snet.net), 1-800-450-8659, warrants to the first user purchaser of each new MCRS that it is free from defects in material and workmanship under normal use and service, its obligation under this warranty being limited to repairing or replacing, as Tru-Hitch, Inc. may elect, any part or parts thereof, including equipment or trade accessories, which shall be returned to Seller's place of business with transportation charges prepaid, and as to which examination shall disclose to the satisfaction of Tru-Hitch, Inc. to have been thus defective provided that such part or parts shall be so returned not later than thirteen 13 months after the delivery of such Equipment to the first user purchaser. Such defective part or parts will be repaired or replaced free of charge for installation to the first user purchaser at Seller's place of business.</para>
+			<para>The warranty shall not apply (1) to normal maintenance service or adjustments, including, but not limited to, hydraulic inspection or adjustment, nor to replacement of hydraulic fluids, lubricants or filters when such adjustments or replacements are made as part of normal maintenance service, or (2) to any Equipment which shall have been repaired or altered in any way so as to, in Seller’s judgment, affect adversely its stability or reliability, or (3) to any Equipment which shall have been subject to misuse, negligence or accident, or loaded beyond the factory rated load capacity.</para>
+			<para>Neither seller nor Tru-Hitch, Inc. makes any warranty other than that which is specifically described herein. This warranty is expressly in lieu of all other warranties expressed or implied. There are no implied warranties of merchant ability or fitness for a particular purpose. This warranty states the entire and exclusive liability of seller and Tru-Hitch, Inc. and purchaser’s exclusive remedy for any claim for damages in connection with the sale of furnishings of the equipment, its design, suitability for use, installation or operation, or for any claimed defects therein. Neither seller nor Tru-Hitch, Inc. will be liable for any incidental or consequential damages whatsoever.</para>
+		</wrntyref>
+		<nomenreflist>
+			<title>NOMENCLATURE CROSS-REFERENCE LIST</title>
+			<para>
+				<table>
+					<tgroup cols="2">
+						<colspec colname="col1"/>
+						<colspec colname="col2"/>
+						<thead>
+							<row>
+								<entry>Official Nomenclature</entry>
+								<entry>Common Name</entry>
+							</row>
+						</thead>
+						<tbody>
+							<row>
+								<entry>Rope, Wire</entry>
+								<entry>Cable, Winch</entry>
+							</row>
+						</tbody>
+					</tgroup>
+				</table>
+			</para>
+		</nomenreflist>
+		<loa>
+			<title>LIST OF ABBREVIATIONS/ACRONYMS</title>
+			<note>
+				<trim.para>Refer to MIL-STD-12D for standard abbreviations.</trim.para>
+			</note>
+			<para>
+				<table>
+					<tgroup cols="2">
+						<colspec colname="col1"/>
+						<colspec colname="col2"/>
+						<thead>
+							<row>
+								<entry>Acronym/Abbreviation</entry>
+								<entry>Meaning</entry>
+							</row>
+						</thead>
+						<tbody>
+							<row>
+								<entry>AMDF</entry>
+								<entry>Army Master Data File</entry>
+							</row>
+							<row>
+								<entry>BII</entry>
+								<entry>Basic Issue Items</entry>
+							</row>
+							<row>
+								<entry>CAGEC</entry>
+								<entry>Commercial and Government Entity Code</entry>
+							</row>
+							<row>
+								<entry>COEI</entry>
+								<entry>Components of End Item</entry>
+							</row>
+							<row>
+								<entry>CPC</entry>
+								<entry>Corrosion Prevention and Control</entry>
+							</row>
+							<row>
+								<entry>EIR</entry>
+								<entry>Equipment Improvement Recommendation</entry>
+							</row>
+							<row>
+								<entry>ISO</entry>
+								<entry>International Organization for Standardization</entry>
+							</row>
+							<row>
+								<entry>IVEC</entry>
+								<entry>Intervehicular Electrical Cable</entry>
+							</row>
+							<row>
+								<entry>MAC</entry>
+								<entry>Maintenance Allocation Chart</entry>
+							</row>
+							<row>
+								<entry>MTOE</entry>
+								<entry>Modified Table of Organization and Equipment</entry>
+							</row>
+							<row>
+								<entry>NIIN</entry>
+								<entry>National Item Identification Number</entry>
+							</row>
+							<row>
+								<entry>NSN</entry>
+								<entry>National Stock Number</entry>
+							</row>	
+							<row>
+								<entry>PMCS</entry>
+								<entry>Preventive Maintenance Checks and Services</entry>
+							</row>
+							<row>
+								<entry>PQDR</entry>
+								<entry>Product Quality Deficiency Report</entry>
+							</row>
+							<row>
+								<entry>RPSTL</entry>
+								<entry>Repair Parts and Special Tools List</entry>
+							</row>
+							<row>
+								<entry>TOE</entry>
+								<entry>Table of Organization and Equipment</entry>
+							</row>
+							<row>
+								<entry>U/I</entry>
+								<entry>Unit of Issue</entry>
+							</row>
+						</tbody>
+					</tgroup>
+				</table>
+			</para>
+		</loa>
+		<qual.mat.info>
+			<title>QUALITY OF MATERIAL</title>
+			<para>Material used for replacement, repair, or modification must meet the requirements of this TM 9-2320-451-13&amp;P. If quality of material requirements are not stated in this TM 9-2320-451-13&amp;P, the material must meet the requirements of the drawings, standards, specifications, or approved engineering change proposals applicable to the subject equipment.</para>
+		</qual.mat.info>
+		<sftyinfo>
+			<title>SAFETY, CARE AND HANDLING</title>
+			<para>
+			1. First Aid. For first aid information, refer to <extref docno="TC 4-02.1"/>  "First Aid."
+			</para>
+			<para>
+			2.Personnel Safety Precautions.
+			</para>
+			<para>
+				a.Read and become familiar with all WARNINGs in the warning summary in this TM.
+			</para>
+			<para>
+				b.Pay attention to WARNING decals on the MCRS. These provide safety instructions and identify specific hazards which, if not followed, may result in serious injury or death to personnel.
+			</para>
+			<para>
+				c.Throughout this manual, WARNINGs and CAUTIONs are given immediately preceding the procedural steps to which they apply. Read these WARNINGs and CAUTIONs and follow them exactly.
+			</para>
+			<para>
+				d.When performing operations with the towing device in conjunction with another vehicle, ensure that all WARNINGs, CAUTIONs, and NOTEs in the vehicles&rsquo; Operator&rsquo;s Manual are followed.
+			</para>
+		</sftyinfo>
+	<iuid>
+		<title>ITEM UNIQUE IDENTIFICATION</title>
+			<para>
+				This equipment and/or its components/parts are marked with item unique identification (IUID) markings such as data plates, decals, or etchings. These markings must be scanned during performance of procedures to remove and replace the items marked or when turning in items or receiving them from supply or another unit. For information on location of the IUID marking for the end item, refer to the decal/data plate guide contained in <xref wpid="O00041-9-2320-451"/>
+			</para>
+	</iuid>
+	</ginfowp>
+	<descwp chngno="0" wpno="G00002-9-2320-451">
+		<wpidinfo>
+			<maintlvl level="crew"/>
+			<title>Equipment Description and Data</title>
+		</wpidinfo>
+		<eqpinfo>
+			<title>EQUIPMENT CHARACTERISTICS, CAPABILITIES, AND FEATURES</title>
+			<eqpdesc>
+				<para>
+					The Modular Catastrophic Recovery System (MCRS) is a multi-component recovery system consisting of a Fifth Wheel Towing and Recovery Device (FWTRD) which engages into the Tilt Deck Recovery Trailer (TDRT). The MCRS imposes a downward load on the prime mover at the fifth wheel, thus towed weight is evenly distributed on all axles of the prime mover. The operator maintains safe steering and braking of the prime mover and the vehicle in tow. Because the load pivots at the fifth wheel, turning ability and off-road mobility are significantly increased.
+					<figure id="G00002-9-2320-451-F0001">
+						<title>MCRS</title>
+						<graphic boardno="G06232000001"></graphic>
+					</figure>
+				</para>
+				<para>
+					The FWTRD can be utilized independently of the TDRT to lift tow a full complement of wheeled vehicles and is equipped with a dedicated 35K winch and boom caps to provide a stable platform for recovery winching. The prime mover&rsquo;s heavy duty 45K winch can also be utilized, alone or with the FWTRD, for straight pulls <callout assocfig="G00002-9-2320-451-F0002" label="1"/>. The 35K winch also allows for recovery of vehicles at 90 degrees to the prime mover <callout assocfig="G00002-9-2320-451-F0002" label="2"/>.
+					<figure id="G00002-9-2320-451-F0002">
+						<title>FWTRD Recovery Winching Straight Pull and 90 Degree Pull</title>
+						<graphic boardno="G06232000002"></graphic>
+					</figure>
+				</para>
+				<para>
+					The axles of the TDRT slide forward allowing the bed to tilt to the rear for loading. The TDRT deck is 102 in (259 cm) wide and drawers are included for expansion to 114 in (289.5 cm) to accommodate wider vehicles. Disabled vehicles are winched onto the TDRT deck using the FWTRD 35K winch and/or prime mover 45K winch <callout assocfig="G00002-9-2320-451-F0003" label="1"/>. With the TDRT axles slid to transport position, the load is safely moved <callout assocfig="G00002-9-2320-451-F0003" label="2"/>.
+					<figure id="G00002-9-2320-451-F0003">
+						<title>TDRT Recovery Winching and Transport Configuration</title>
+						<graphic boardno="G06232000004"></graphic>
+					</figure>
+				</para>
+				<para>
+					<figure id="G00002-9-2320-451-F0004">
+						<title>FWTRD (Driver Side)</title>
+						<graphic boardno="G06232000006"></graphic>
+					</figure>
+					<table id="G00002-9-2320-451-T0001">
+						<title>FWTRD Driver Side Major Components.</title>
+						<tgroup cols="3">
+							<?PubTbl tgroup dispwid="898.00px"?>
+							<colspec colname="col1" colwidth="0.34*"/>
+							<colspec colname="col2" colwidth="0.79*"/>
+							<colspec colname="col3" colwidth="1.86*"/>
+							<thead>
+								<row>
+									<entry>Item Number</entry>
+									<entry>Component</entry>
+									<entry>Description</entry>
+								</row>
+							</thead>
+							<tbody>
+								<row>
+									<entry>1</entry>
+									<entry>Sledding Shoes</entry>
+									<entry>Used to recover STRYKER with catastrophic damage to either the front or rear axle/suspension.</entry>
+								</row>
+								<row>
+									<entry>2</entry>
+									<entry>Cross Bar for Sledding</entry>
+									<entry>Used in conjunction with Sledding Shoes to recover vehicles with catastrophic damage to either the front or rear axle/suspension.</entry>
+								</row>
+								<row>
+									<entry>3</entry>
+									<entry>35K Winch</entry>
+									<entry>A hauling device consisting of a cable winding around a horizontal rotating drum, turned by a motor. Rated capacity is 35,000 lb (15,875 kg).</entry>
+								</row>
+								<row>
+									<entry>4</entry>
+									<entry>Electrical Control Box</entry>
+									<entry>Provides power to hydraulic pumps / motors during electric operation.</entry>
+								</row>
+								<row>
+									<entry>5</entry>
+									<entry>Main Valve with Levers</entry>
+									<entry>Manual controls for FWTRD hydraulic functions</entry>
+								</row>
+								<row>
+									<entry>6</entry>
+									<entry>Mast Frame Pivot Pin</entry>
+									<entry>Allows mast to be folded or unfolded during FWTRD operation.</entry>
+								</row>
+								<row>
+									<entry>7</entry>
+									<entry>Gladhands</entry>
+									<entry>Connect to the prime mover and towed vehicle to supply air for the towed vehicle brakes.</entry>
+								</row>
+								<row>
+									<entry>8</entry>
+									<entry>Transport Leg Assembly</entry>
+									<entry>Supports FWTRD during transport. Transport legs are not used during lift tow operation.</entry>
+								</row>
+								<row>
+									<entry>9</entry>
+									<entry>12/24 VDC Junction Box</entry>
+									<entry>Contains selector switch and provides 12 or 24 VDC to electrical control box.</entry>
+								</row>
+							</tbody>
+						</tgroup>
+					</table>
+					<figure id="G00002-9-2320-451-F0005">
+						<title>FWTRD Curb Side Components</title>
+						<graphic boardno="G06232000008"></graphic>
+					</figure>
+				</para>
+				<para>
+					<table id="G00002-9-2320-451-T0002">
+						<title>FWTRD Curb Side Major Components.</title>
+						<tgroup cols="3">
+							<?PubTbl tgroup dispwid="898.00px"?>
+							<colspec colname="col1" colwidth="0.34*"/>
+							<colspec colname="col2" colwidth="0.79*"/>
+							<colspec colname="col3" colwidth="1.86*"/>
+							<thead>
+								<row>
+									<entry>Item Number</entry>
+									<entry>Component</entry>
+									<entry>Description</entry>
+								</row>
+							</thead>
+							<tbody>
+								<row>
+									<entry>1</entry>
+									<entry>Tow Bar Assembly</entry>
+									<entry>Provides stable connection between FWTRD and tow bar attachment point of towed vehicle.</entry>
+								</row>
+								<row>
+									<entry>2</entry>
+									<entry>Tool Box</entry>
+									<entry>Located at the right side rear of the FWTRD. Purpose is to house tools and other necessary equipment.</entry>
+								</row>
+								<row>
+									<entry>3</entry>
+									<entry>Remote Control (Stowed in Tool Box)</entry>
+									<entry>Allows for remote control of all FWTRD hydraulic functions.</entry>
+								</row>
+								<row>
+									<entry>4</entry>
+									<entry>Light Bar</entry>
+									<entry>The 12/24 VDC light bar has combination stop, turn, taillights, red clearance lights on both sides, and blackout lights.</entry>
+								</row>
+							</tbody>
+						</tgroup>
+					</table>
+					<figure id="G00002-9-2320-451-F0006">
+						<title>FWTRD (Front View)</title>
+						<graphic boardno="G06232000009"></graphic>
+					</figure>
+				</para>
+				<para>
+					<table id="G00002-9-2320-451-T0003">
+						<title>FWTRD Front View Major Components</title>
+						<tgroup cols="3">
+							<?PubTbl tgroup dispwid="898.00px"?>
+							<colspec colname="col1" colwidth="0.34*"/>
+							<colspec colname="col2" colwidth="0.78*"/>
+							<colspec colname="col3" colwidth="1.87*"/>
+							<thead>
+								<row>
+									<entry>Item Number</entry>
+									<entry>Component</entry>
+									<entry>Description</entry>
+								</row>
+							</thead>
+							<tbody>
+								<row>
+									<entry>1</entry>
+									<entry>Dual Winching Sheave</entry>
+									<entry>Accepts winch cable during winch recovery operations.</entry>
+								</row>
+								<row>
+									<entry>2</entry>
+									<entry>Field Light Set</entry>
+									<entry>Allows for nighttime recovery operations utilizing white or infrared light.</entry>
+								</row>
+								<row>
+									<entry>3</entry>
+									<entry>Mast Cylinder</entry>
+									<entry>Hydraulically allows positioning of the mast.</entry>
+								</row>
+								<row>
+									<entry>4</entry>
+									<entry>Hydraulic Safety Valve</entry>
+									<entry>Prevents accidental  hydraulic cylinder movement if FWTRD valve control levers are engaged with no hydraulic pressure present.</entry>
+								</row>
+								<row>
+									<entry>5</entry>
+									<entry>Air Brake Protection Valve</entry>
+									<entry>Pressure protection valves are used to isolate auxiliary air systems from the brake system. This is done to preserve air for braking in the event that the auxiliary system develops a major leak.</entry>
+								</row>
+								<row>
+									<entry>6</entry>
+									<entry>Battery Box</entry>
+									<entry>Contains two 12V group 31, deep cycle wet batteries in a cradle so that no matter what position the FWTRD is operated in, the batteries remain upright to eliminate any potential acid spill.</entry>
+								</row>
+								<row>
+									<entry>7</entry>
+									<entry>Hydraulic Motor Assembly</entry>
+									<entry>Consists of fittings and hoses. The hydraulic motor provides hydraulic pressure when electric operation of FWTRD is needed.</entry>
+								</row>
+							</tbody>
+						</tgroup>
+					</table>
+				</para>
+				<para>
+					<figure id="G00002-9-2320-451-F0007">
+						<title>FWTRD Rear View Major Components</title>
+						<graphic boardno="G06232000010"></graphic>
+					</figure>
+					<table id="G00002-9-2320-451-T0004">
+						<title>FWTRD Rear View Major Components.</title>
+						<tgroup cols="3">
+							<?PubTbl tgroup dispwid="898.00px"?>
+							<colspec colname="col1" colwidth="0.34*"/>
+							<colspec colname="col2" colwidth="0.78*"/>
+							<colspec colname="col3" colwidth="1.87*"/>
+							<thead>
+								<row>
+									<entry>Item Number</entry>
+									<entry>Component</entry>
+									<entry>Description</entry>
+								</row>
+							</thead>
+							<tbody>
+								<row>
+									<entry>1</entry>
+									<entry>Boom Cylinder</entry>
+									<entry>Hydraulically allows positioning of the boom.</entry>
+								</row>
+								<row>
+									<entry>2</entry>
+									<entry>Receiver and Wheel Stop Assembly</entry>
+									<entry>Acts as a forward stop and allows vehicle being towed to stay at desired distance from FWTRD.</entry>
+								</row>
+								<row>
+									<entry>3</entry>
+									<entry>18K Winch</entry>
+									<entry>A hauling device consisting of a cable and chains winding around a horizontal rotating drum, turned by a motor. Rated capacity is 18,000 lb (8,164 kg).</entry>
+								</row>
+								<row>
+									<entry>4</entry>
+									<entry>Cam Valve</entry>
+									<entry>Prevents accidental overextension of the mast during lift/tow operations.</entry>
+								</row>
+							</tbody>
+						</tgroup>
+					</table>
+				</para>
+				<para>
+					<figure id="G00002-9-2320-451-F0008">
+						<title>FWTRD (Miscellaneous Components)</title>
+						<graphic boardno="G06232000011"></graphic>
+					</figure>
+					<table id="G00002-9-2320-451-T0005">
+						<title>FWTRD Miscellaneous Major Components.</title>
+						<tgroup cols="3">
+							<?PubTbl tgroup dispwid="898.00px"?>
+							<colspec colname="col1" colwidth="0.34*"/>
+							<colspec colname="col2" colwidth="0.79*"/>
+							<colspec colname="col3" colwidth="1.86*"/>
+							<thead>
+								<row>
+									<entry>Item Number</entry>
+									<entry>Component</entry>
+									<entry>Description</entry>
+								</row>
+							</thead>
+							<tbody>
+								<row>
+									<entry>1</entry>
+									<entry>Kingpin</entry>
+									<entry>3.5 inch and 2 inch provided for use with FWTRD.</entry>
+								</row>
+								<row>
+									<entry>2</entry>
+									<entry>Stryker Adapters</entry>
+									<entry>Used in place of wheel stops during Stryker recovery.</entry>
+								</row>
+								<row>
+									<entry>3</entry>
+									<entry>Boom Caps</entry>
+									<entry>When installed, act as spades for the FWTRD booms during winch recovery operations.</entry>
+								</row>
+							</tbody>
+						</tgroup>
+					</table>
+				</para>
+				<para>
+					<?Pub _newpage?>
+					<figure id="G00002-9-2320-451-F0009">
+						<title>TDRT (Driver Side)</title>
+						<graphic boardno="G06232000012"></graphic>
+					</figure>
+					<table id="G00002-9-2320-451-T0006">
+						<title>TDRT Driver Side and Curb Side Major Components.</title>
+						<tgroup cols="3">
+							<?PubTbl tgroup dispwid="898.00px"?>
+							<colspec colname="col1" colwidth="0.34*"/>
+							<colspec colname="col2" colwidth="0.79*"/>
+							<colspec colname="col3" colwidth="1.86*"/>
+							<thead>
+								<row>
+									<entry>Item Number</entry>
+									<entry>Component</entry>
+									<entry>Description</entry>
+								</row>
+							</thead>
+							<tbody>
+								<row>
+									<entry>1</entry>
+									<entry>Deck Drawers</entry>
+									<entry>The TDRT deck is expandable from 102 in (259 cm) to 114 in (289 cm) by sliding the drawer sections out and securing with set screws.</entry>
+								</row>
+								<row>
+									<entry>2</entry>
+									<entry>Tandem Rear Axle</entry>
+									<entry>Main axles of TDRT with a combined payload capacity of 52,000 lb (23,586 kg)</entry>
+								</row>
+								<row>
+									<entry>3</entry>
+									<entry>Lifting Axle Assembly</entry>
+									<entry>Air-operated axle that when deployed increases payload capacity by 25,000 lb (11,339 kg)</entry>
+								</row>
+								<row>
+									<entry>4</entry>
+									<entry>TDRD Control Panel</entry>
+									<entry>This panel contains the controls for the axle assembly locking pin, and the forward lift axle control.</entry>
+								</row>
+								<row>
+									<entry>5</entry>
+									<entry>Supplemental Tie Down Rings</entry>
+									<entry>Six located below TDRT deck used for securing TDRT for transport. Rated for 10,000 lb (4,535 kg).</entry>
+								</row>
+								<row>
+									<entry>6</entry>
+									<entry>Tool Box</entry>
+									<entry>Houses tools and other necessary equipment.</entry>
+								</row>
+							</tbody>
+						</tgroup>
+					</table>
+					<?Pub _newpage?>
+				</para>
+				<para>
+					<figure id="G00002-9-2320-451-F0010">
+						<title>TDRT (Front View)</title>
+						<graphic boardno="G06232000013"></graphic>
+					</figure>
+					<table id="G00002-9-2320-451-T0007">
+						<title>TDRT Front Major Components.</title>
+						<tgroup cols="3">
+							<?PubTbl tgroup dispwid="898.00px"?>
+							<colspec colname="col1" colwidth="0.34*"/>
+							<colspec colname="col2" colwidth="0.79*"/>
+							<colspec colname="col3" colwidth="1.86*"/>
+							<thead>
+								<row>
+									<entry>Item Number</entry>
+									<entry>Component</entry>
+									<entry>Description</entry>
+								</row>
+							</thead>
+							<tbody>
+								<row>
+									<entry>1</entry>
+									<entry>Spare Tire</entry>
+									<entry>Replaces damaged tire.</entry>
+								</row>
+								<row>
+									<entry>2</entry>
+									<entry>TDRT Junction Box</entry>
+									<entry>Connect to FWTRD to supply air for brakes.</entry>
+								</row>
+								<row>
+									<entry>3</entry>
+									<entry>Landing Legs</entry>
+									<entry>These legs are manually positioned and pinned as needed for operation. Supports TDRT when not in use.</entry>
+								</row>
+								<row>
+									<entry>4</entry>
+									<entry>Mating Cove</entry>
+									<entry>Accepts FWTRD booms during coupling.</entry>
+								</row>
+							</tbody>
+						</tgroup>
+					</table>
+				</para>
+				<para>
+					<figure id="G00002-9-2320-451-F0011">
+						<title>TDRT (Rear View)</title>
+						<graphic boardno="G06232000014"></graphic>
+					</figure>
+					<table id="G00002-9-2320-451-T0008">
+						<title>TDRT Rear Major Components</title>
+						<tgroup cols="3">
+							<?PubTbl tgroup dispwid="898.00px"?>
+							<colspec colname="col1" colwidth="0.34*"/>
+							<colspec colname="col2" colwidth="0.79*"/>
+							<colspec colname="col3" colwidth="1.86*"/>
+							<thead>
+								<row>
+									<entry>Item Number</entry>
+									<entry>Component</entry>
+									<entry>Description</entry>
+								</row>
+							</thead>
+							<tbody>
+								<row>
+									<entry>1</entry>
+									<entry>Tail Light Assembly</entry>
+									<entry>Includes stop, turn, and blackout lighting for TDRT operation.</entry>
+								</row>
+								<row>
+									<entry>2</entry>
+									<entry>Three-piece ramp sections</entry>
+									<entry>The tail of the TDRT is made up of three sections that fold up onto trailer deck for transport. When unfolded, they allow for a wider approach angle.</entry>
+								</row>
+							</tbody>
+						</tgroup>
+					</table>
+				</para>
+				<para>
+					<figure id="G00002-9-2320-451-F0012">
+						<title>TDRT (Miscellaneous)</title>
+						<graphic boardno="G06232000015"></graphic>
+					</figure>
+					<table id="G00002-9-2320-451-T0009">
+						<title>TDRT Miscellaneous Major Components</title>
+						<tgroup cols="3">
+							<?PubTbl tgroup dispwid="898.00px"?>
+							<colspec colname="col1" colwidth="0.34*"/>
+							<colspec colname="col2" colwidth="0.78*"/>
+							<colspec colname="col3" colwidth="1.87*"/>
+							<thead>
+								<row>
+									<entry>Item Number</entry>
+									<entry>Component</entry>
+									<entry>Description</entry>
+								</row>
+							</thead>
+							<tbody>
+								<row>
+									<entry>1</entry>
+									<entry>Pole Light</entry>
+									<entry>Installed on TDRT during convoy transport operations.</entry>
+								</row>
+								<row>
+									<entry>2</entry>
+									<entry>Sliding Axle Locking Pin (Axle removed for clarity)</entry>
+									<entry>This pin locks the axles in the transport configuration.</entry>
+								</row>
+							</tbody>
+						</tgroup>
+					</table>
+				</para>
+			</eqpdesc>
+		</eqpinfo>
+		<eqpdata>
+			<para>
+				<table id="G00002-9-2320-451-T0010">
+						<title>MCRS Equipment Data</title>
+						<tgroup cols="2">
+							<?PubTbl tgroup dispwid="898.00px"?>
+							<colspec colname="col1" colwidth="1.17*"/>
+							<colspec colname="col2" colwidth="1.15*"/>
+							<thead>
+								<row>
+									<entry>Item</entry>
+									<entry>Characteristics</entry>
+								</row>
+							</thead>
+							<tbody>
+								<row>
+									<entry></entry>
+									<entry></entry>
+								</row>
+								<row>
+									<entry>Overall Dimensions:</entry>
+									<entry></entry>
+								</row>
+								<row>
+									<entry></entry>
+									<entry></entry>
+								</row>
+								<row>
+									<entry>MCRS</entry>
+									<entry></entry>
+								</row>
+								<row>
+									<entry>Length (FWTRD coupled to TDRT)</entry>
+									<entry>42 ft. 10 in. (13.0m)</entry>
+								</row>
+								<row>
+									<entry>Length (MCRS coupled to M983A4 LET)</entry>
+									<entry>63 ft. (19.2 m)</entry>
+								</row>
+								<row>
+									<entry>FWTRD</entry>
+									<entry></entry>
+								</row>
+								<row>
+									<entry>Length (Fully Extended)</entry>
+									<entry>30 ft. 7 in. (9.35m)</entry>
+								</row>
+								<row>
+									<entry>Length (Transport Configuration)</entry>
+									<entry>12 ft. 6 in. (3.81 m)</entry>
+								</row>
+								<row>
+									<entry>Width</entry>
+									<entry>7 ft. 7 in. (2.31 m)</entry>
+								</row>
+								<row>
+									<entry>Height (Transport Configuration)</entry>
+									<entry>5 ft. 4 in. (1.53 m)</entry>
+								</row>
+								<row>
+									<entry>Height (Towing Configuration)</entry>
+									<entry>9 ft. 4 in. (2.84 m)</entry>
+								</row>
+								<row>
+									<entry>Height (Maximum Height on Ground)</entry>
+									<entry>13 ft. 6 in. (4.11 m)</entry>
+								</row>
+								<row>
+									<entry>Height (Maximum Height, Coupled, Boom Vertical)</entry>
+									<entry>11 ft. 7 in. (3.53 m) + height of fifth wheel</entry>
+								</row>
+								<row>
+									<entry>TDRT</entry>
+									<entry></entry>
+								</row>
+								<row>
+									<entry>Length (Travel)</entry>
+									<entry>28 ft. 9 in. (8.75m)</entry>
+								</row>
+								<row>
+									<entry>Length (Load)</entry>
+									<entry>30 ft. 7 in. (9.35m)</entry>
+								</row>
+								<row>
+									<entry>Width (Drawers retracted)</entry>
+									<entry>8 ft. 6 in. (2.60m)</entry>
+								</row>
+								<row>
+									<entry>Width (Drawers extended)</entry>
+									<entry>9 ft. 6 in. (2.90m)</entry>
+								</row>
+								<row>
+									<entry>Height (Deck)</entry>
+									<entry>4 ft. 3 in. (1.30m)</entry>
+								</row>
+								<row>
+									<entry>Height (Overall)</entry>
+									<entry>7 ft. (2.1m)</entry>
+								</row>
+								<row>
+									<entry>Vehicle Weights:</entry>
+									<entry></entry>
+								</row>
+								<row>
+									<entry></entry>
+									<entry></entry>
+								</row>
+								<row>
+									<entry>Net Weight (FWTRD w/COEI)</entry>
+									<entry>11,470 lbs. (5,214 kg)</entry>
+								</row>
+								<row>
+									<entry>Net Weight (TDRT less FWTRD)</entry>
+									<entry>27,980 lbs. (12,718 kg)</entry>
+								</row>
+								<row>
+									<entry></entry>
+									<entry></entry>
+								</row>
+								<row>
+									<entry>Maximum Towing Gross Combined Weight (Highway or Improved Roads)</entry>
+									<entry>150,000 lb. (68,038 kg)</entry>
+								</row>
+								<row>
+									<entry>Maximum Towing Gross Combined Weight (Cross Country)</entry>
+									<entry>150,000 lb. (68,038 kg)</entry>
+								</row>
+								<row>
+									<entry></entry>
+									<entry></entry>
+								</row>
+								<row>
+									<entry>Electrical Item:</entry>
+									<entry></entry>
+								</row>
+								<row>
+									<entry></entry>
+									<entry></entry>
+								</row>
+								<row>
+									<entry>Type</entry>
+									<entry>12/24 V DC</entry>
+								</row>
+								<row>
+									<entry>Lights</entry>
+									<entry>12/24 V DC</entry>
+								</row>
+								<row>
+									<entry>Hydraulic Electrical Motor (Primary)</entry>
+									<entry>12 V DC</entry>
+								</row>
+								<row>
+									<entry>Hydraulic Electrical Motor (Isolated)</entry>
+									<entry>12 V DC</entry>
+								</row>
+								<row>
+									<entry>Batteries</entry>
+									<entry>12 V DC</entry>
+								</row>
+								<row>
+									<entry>Solenoids (Primary)</entry>
+									<entry>12 V DC</entry>
+								</row>
+								<row>
+									<entry>Solenoids (Isolated)</entry>
+									<entry>12 V DC</entry>
+								</row>
+								<row>
+									<entry></entry>
+									<entry></entry>
+								</row>
+								<row>
+									<entry>Speed:</entry>
+									<entry></entry>
+								</row>
+								<row>
+									<entry></entry>
+									<entry></entry>
+								</row>
+								<row>
+									<entry>Transport (Highway and Improved Roads)</entry>
+									<entry>50 mph (80.5 km/h)</entry>
+								</row>
+								<row>
+									<entry>Transport (Unimproved Roads and Cross Country)</entry>
+									<entry>50 mph (80.5 km/h)</entry>
+								</row>
+								<row>
+									<entry>Towing (FWTRD - Highway and Improved Roads)</entry>
+									<entry>50 mph (80.5 km/h)</entry>
+								</row>
+								<row>
+									<entry>Towing (FWTRD - Unimproved Roads and Cross Country)</entry>
+									<entry>15 mph (40.2 km/h)</entry>
+								</row>
+								<row>
+									<entry>Towing (MCRS - Highway)</entry>
+									<entry>45 mph (72.5 km/h)</entry>
+								</row>
+								<row>
+									<entry>Towing (MCRS - Improved Roads)</entry>
+									<entry>30 mph (48.5 km/h)</entry>
+								</row>
+								<row>
+									<entry>Towing (Unimproved Roads (Graded Gravel) and Cross Country)</entry>
+									<entry>10 mph (16.0 km/h)</entry>
+								</row>
+								<row>
+									<entry></entry>
+									<entry></entry>
+								</row>
+								<row>
+									<entry>Hydraulic System:</entry>
+									<entry></entry>
+								</row>
+								<row>
+									<entry></entry>
+									<entry></entry>
+								</row>
+								<row>
+									<entry>Total System Capacity</entry>
+									<entry>19.0 gal (71.9 l)</entry>
+								</row>
+								<row>
+									<entry>FWTRD Reservoir Capacity</entry>
+									<entry>8.75 gal</entry>
+								</row>
+								<row>
+									<entry>Operating Pressure during mast and boom operations (No Load)</entry>
+									<entry>300-800 psi (2,068-5,515 kPa)</entry>
+								</row>
+								<row>
+									<entry>Operating Pressure during mast and boom operations (With Load)</entry>
+									<entry>Up to 3,000 psi</entry>
+								</row>
+								<row>
+									<entry></entry>
+									<entry></entry>
+								</row>
+								<row>
+									<entry>Winches:</entry>
+									<entry></entry>
+								</row>
+								<row>
+									<entry></entry>
+									<entry></entry>
+								</row>
+								<row>
+									<entry>18K Winch Capacity</entry>
+									<entry>18,000 lbs. (8,164 kg)</entry>
+								</row>
+								<row>
+									<entry>18K Winch with Pulley Block Capacity</entry>
+									<entry>36,000 lbs. (16,329 kg)</entry>
+								</row>
+								<row>
+									<entry>35K Winch Capacity</entry>
+									<entry>35,000 lbs. (15,875 kg)</entry>
+								</row>
+								<row>
+									<entry>35K Winch with Pulley Block Capacity</entry>
+									<entry>70,000 lbs. (31,751 kg)</entry>
+								</row>
+							</tbody>
+						</tgroup>
+					</table>
+				</para>
+		</eqpdata>
+	</descwp>
+	<thrywp chngno="0" wpno="G00003-9-2320-451">
+		<wpidinfo>
+			<maintlvl level="crew"/>
+			<title>THEORY OF OPERATION</title>
+		</wpidinfo>
+		<systhry>
+			<title>Theory of Operation</title>
+			<para0>
+				<title></title>
+				<para>The Modular Catastrophic Recovery System (MCRS) is a heavy duty under lift towing and recovery device that is utilized for the recovery and transportation of vehicles. The MCRS consists of two major components; the Fifth Wheel Towing and Recovery Device (FWTRD) and the Tilt Deck Recovery Trailer (TDRT). The FWTRD is capable of completing multiple procedures contingent upon the status of the vehicle that needs evacuation. The TDRT is utilized in conjunction with the FWTRD, to transport recovered vehicles that the FWTRD is unable to tow due to excess weight, unserviceable axles, or destroyed due to battle.</para>
+				<para>Procedures performed by the FWTRD consist of winch recovery, pre-picking, lift towing, loading, and transportation of the TDRT. The hydraulic control valve levers are located aft of the fifth wheel connection and forward of the MAST section of the FWTRD. The control valve levers activate hydraulic pistons to extend or retract. If the BOOM lever is pressed down, the pistons extend and the angle between the BOOM and the MAST (the boom angle) is increased. If the BOOM valve lever is pushed up, the pistons retract and the boom angle is decreased.</para>
+				<para>The MAST and the BOOM levers, under normal system operation, lifts the asset to be towed, by attaching the FWTRD&rsquo;s booms to the towed asset and then hydraulically extending the BOOM&rsquo;s and mast cylinders to raise the load. This allows the fifth wheel device to lift the vehicle being towed to the desired height while maintaining a level fifth wheel. These raising and lowering effects occur because of the pivoting motion of the FWTRD. Locking and checking fifth wheel coupling connection after connecting if recommended to ensure fifth wheel pivot is secure.</para>
+				<para>The Tilt Deck Recovery Trailer (TDRT) is self-supporting when detached from the FWTRD due to its landing legs. The legs are manually positioned and pinned as needed for operation. No crane or lifting device is required during attachment or detachment. The TDRT gives the operator the ability to trailer transport vehicles that are inoperable or battle damaged. The TDRT engages the FWTRD which serves as the fifth wheel connection. The TDRT features a three axle (one of which is an air lift axle) sliding carriage that when slid forward, allows the TDRT deck to tilt to the rear for loading. This allows the operator to set up for loading without having to disengage from the FWTRD. After damaged vehicle is loaded onto the TDRT, a sliding axle locking pin is engaged. The axle sliding locking pin is a safety feature which ensures the sliding axles are locked during transport. The TDRT also features drawer style &ldquo;pull-outs&rdquo; that allow the TDRT deck to expand from 102 in to 114 in. This allows the TDRT to accommodate varied wheelbase configurations. Load capacity of the TDRT is 70,000 lb.</para>
+			</para0>
+			<para0>
+				<?Pub _newpage?>
+					<title>Electrical System</title>
+				<para>The FWTRD is primarily a 12 Volt system that places an additional battery in series when using a 24 Volt NATO connection from a prime mover. A 12/24 Volt Junction Box allows for input from the prime mover of 12 or 24 volt to maintain the FWTRD batteries.</para>
+				<para>There are two batteries, the Primary and Isolated, in a self-righting tray. They are charged through the 12/24 Volt Box Receptacles. The Primary Battery supplies the Electric Control Box and the Primary Motor/Solenoid with power. The Isolated Battery supplies the Isolated Motor/Solenoid with power and allows for a 24 Volt (series vs. parallel) connection from the prime mover by placing the lever of the 12/24 Junction Box in the 24V position.</para>
+				 <para>The Electric Control Box distributes power (12V supplied from Primary Battery) to various components on the FWTRD including the following: Main power On/Off, the Motors/Solenoids (By depressing the electric motor button), the Remote Control- Valve Solenoids, the Work Light and the Strobe Lights.</para>
+				 <para>The Motors and Solenoids control hydraulics for the FWTRD when operating in the "Electric" mode. When the FWTRD is switched to "Wet Line" mode the motors and solenoids are not needed and do not operate when a lever is pulled. The FWTRD can operate on only one Motor and Solenoid if one fails due to a jumper wire that joins the two solenoids.
+					<figure id="G00003-9-2320-451-F0001">
+						<title>FWTRD Electrical Schematic</title>
+						<graphic boardno="G06232000587"></graphic>
+						</figure></para>
+				<?Pub _newpage?>
+			</para0>
+						
+			<para0>
+				<?Pub _newpage?>
+				<title>Hydraulic System</title>
+				<para>The FWTRD can be operated by a self-contained electric-hydraulic system or by connecting the FWTRD to the PTO System of the Prime Mover. The system operates at pressures up to 3000 psi. Some functions are pressure limited by design and do not require operator input.
+
+				Adjustable Hydraulic Flow Valves for both the Mast and Boom Functions allow for smooth operation of the FWTRD regardless of whether it is being operated in ELECTRIC or WET LINE mode.
+					<figure id="G00003-9-2320-451-F0002">
+						<title>FWTRD Hydraulic Schematic</title>
+						<graphic boardno="G06232000588"></graphic>
+						</figure></para>
+				<?Pub _newpage?>
+			</para0>
+						
+			<para0>
+				<title>Operational Configurations (FWTRD)</title>
+				<para>SHIPPING/STORAGE CONFIGURATION: The FWTRD is shipped or stored folded and inverted in the smallest configuration <callout assocfig="G00003-9-2320-451-F0003"/>.
+					<figure id="G00003-9-2320-451-F0003">
+						<title>FWTRD Shipping / Storage Configuration</title>
+						<graphic boardno="G06232000016"></graphic>
+						</figure></para>
+				<para>COUPLING CONFIGURATION: FWTRD set on the ground with the boom extended at a 65-degree angle to the mast <callout assocfig="G00003-9-2320-451-F0004"/>. The boom extensions are fully extended. The transport legs are locked in the up position.
+					<figure id="G00003-9-2320-451-F0004">
+						<title>FWTRD Coupling Configuration</title>
+						<graphic boardno="G06232000017"></graphic>
+						</figure></para>
+				<para>TRANSPORT CONFIGURATION: FWTRD connected, folded, and secured onto the fifth wheel of the prime mover <callout assocfig="G00003-9-2320-451-F0005"/>.
+						<figure id="G00003-9-2320-451-F0005">
+						<title>FWTRD Transport Configuration</title>
+						<graphic boardno="G06232000018"></graphic>
+						</figure></para>
+				<para>LOADING CONFIGURATION: FWTRD connected to the fifth wheel of the prime mover with the boom extended at a right angle to the mast and 0.5 in (1.3 cm) above the ground. The boom extensions are fully retracted. The transport legs are locked in the down position with the FWTRD resting on the transport legs <callout assocfig="G00003-9-2320-451-F0006"/>.
+						<figure id="G00003-9-2320-451-F0006">
+						<title>FWTRD Loading Configuration</title>
+						<graphic boardno="G06232000019"></graphic>
+					 	</figure></para>
+				<para>TOWING CONFIGURATION: Towing Configuration Connected: FWTRD connected to the fifth wheel of the prime mover. The boom extended at a right angle to the mast with the boom extensions extended. The tow vehicle connected and the boom at appropriate towing height <callout assocfig="G00003-9-2320-451-F0007"/>.
+						<figure id="G00003-9-2320-451-F0007">
+						<title>FWTRD Towing Configuration (Connected)</title>
+						<graphic boardno="G06232000020"></graphic>
+						</figure></para>
+				<para>Towing Configuration Disconnected: Same position as connected position, except the boom is lowered until the FWTRD is supported by the weight of the towed vehicle and the main frame weight is off of the fifth wheel plate. The prime mover is disconnected and removed from the configuration <callout assocfig="G00003-9-2320-451-F0008"/>.
+						<figure id="G00003-9-2320-451-F0008">
+						<title>FWTRD Towing Configuration (Disconnected)</title>
+						<graphic boardno="G06232000021"></graphic>
+						</figure></para>
+			</para0>
+			<para0>
+				<title>Operational Configurations (TDRT)</title>
+				<para>SHIPPING/STORAGE and COUPLING CONFIGURATION: The TDRT is stored with the landing legs positioned so as to keep the deck level. This position will also allow the FWTRD to engage the trailer <callout assocfig="G00003-9-2320-451-F0009"/>.
+						<figure id="G00003-9-2320-451-F0009">
+						<title>TDRT Shipping/Storage and Coupling Configuration</title>
+						<graphic boardno="G06232000022"></graphic>
+						</figure></para>
+			<para>COUPLED CONFIGURATION: The FWTRD booms engage and lock into the TDRT to complete a kingpin connection to the prime mover. The TDRT landing legs are raised once coupled <callout assocfig="G00003-9-2320-451-F0010"/>.
+						<figure id="G00003-9-2320-451-F0010">
+						<title>MCRS Coupled Configuration</title>
+						<graphic boardno="G06232000023"></graphic>
+						</figure></para>
+			<para>LOADING CONFIGURATION: PRIME MOVER WINCH: The TDRT can be loaded from the rear by sliding the axles forward, extending the booms of the FWTRD, and folding down the ramp sections at the rear of the TDRT. Utilizing the winch mounted on the prime mover, with the cable routed through the sheave at the top of the FWTRD, the vehicle is pulled onto the TDRT deck from the rear <callout assocfig="G00003-9-2320-451-F0011"/>.
+						<figure id="G00003-9-2320-451-F0011">
+						<title>Loading MCRS with Prime Mover Winch</title>
+						<graphic boardno="G06232000024"></graphic>
+						</figure></para>
+			<para>LOADING CONFIGURATION: FWTRD WINCH: The TDRT can be loaded from the rear by sliding the axles forward, extending the booms of the FWTRD, and folding down the ramp sections at the rear of the TDRT. Utilizing the 35K winch mounted on the FWTRD, with the cable routed through the sheave at the top, the vehicle is pulled onto the TDRT deck from the rear <callout assocfig="G00003-9-2320-451-F0012"/>.
+						<figure id="G00003-9-2320-451-F0012">
+						<title>Loading MCRS with FWTRD 35K Winch</title>
+						<graphic boardno="G06232000025"></graphic>
+						</figure></para>
+			<para>TRANSPORT CONFIGURATION: With the load properly secured, the TDRT can be used to transport disabled vehicles <callout assocfig="G00003-9-2320-451-F0013"/>.
+						<figure id="G00003-9-2320-451-F0013">
+						<title>MCRS Transport Configuration</title>
+						<graphic boardno="G06232000026"></graphic>
+						</figure></para>
+			</para0>
+		</systhry>
+	</thrywp>
+</gim>

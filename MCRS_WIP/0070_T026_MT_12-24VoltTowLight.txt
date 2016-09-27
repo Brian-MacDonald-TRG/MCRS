@@ -1,0 +1,52 @@
+<tswp chngno="0" wpno="T00026-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="maintainer"/>
+		<title>TROUBLESHOOTING PROCEDURES <?Pub _newline?>12/24 VOLT TOW LIGHT</title>
+	</wpidinfo>
+	<initial_setup>
+		<eqpconds>
+			<eqpconds-setup-item>
+				<condition>Light bar connected IAW WP (<xref wpid="O00013-9-2320-451"/>), prime mover light switch "ON".</condition>
+			</eqpconds-setup-item>
+		</eqpconds>
+	</initial_setup>
+	<tsproc>
+		<faultproc>
+			<title>Maintainer Troubleshooting</title>
+			<symptom>12/24 Volt Tow Light does not work.</symptom>
+			<malfunc label="malfunction">All electrical connections are complete and lights will not operate.</malfunc>
+			<action>
+				<step1>
+					<para>Disconnect 70 ft. light cord at the light bar. Using a volt meter, test for 24V at the "D" pin location on the 70 ft. light cord.</para>
+				</step1>
+			</action>
+			<malfunc label="malfunction">24V is present at "D" pin of light cord connector and tow light is not working.</malfunc>
+			<action>
+				<step1>
+					<para>Replace Tow Light IAW WP XXXX and recheck.</para>
+				</step1>
+			</action>
+			<malfunc label="malfunction">24V is not present at the "D" pin of light cord connector.</malfunc>
+			<action>
+				<step1>
+					<para>Starting at the prime mover lighting connection, test for 24V at the "E" pin location. If 24V is present, continue to check the prime mover lighting cord and then the connector of the FWTRD lighting harness at the rear of the FWTRD fender, both at the "E" pin locations.</para>
+				</step1>
+				<step1>
+					<para>Replace any harnesses that do not show 24V when connected and then recheck Tow Light.</para>
+				</step1>
+			</action>
+			<malfunc label="malfunction">Damaged pins in the light bar connector</malfunc>
+			<action>
+				<step1>
+					<para>Replace 12/24 Volt Tow LightIAW <xref wpid="M00025-9-2320-451"/></para>
+				</step1>
+			</action>
+			<malfunc label="malfunction">Individual Lights on 12-24 Volt Tow Light not functioning</malfunc>
+			<action>
+				<step1>
+					<para>Repair individual lights IAW <xref wpid="M00025-9-2320-451"/> and recheck</para>
+				</step1>
+			</action>
+		</faultproc>
+	</tsproc>
+</tswp>

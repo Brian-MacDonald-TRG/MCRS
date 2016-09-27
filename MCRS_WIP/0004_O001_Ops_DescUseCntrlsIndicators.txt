@@ -1,0 +1,151 @@
+<opim chap-toc="no" chngno="0" revno="0">
+<titlepg comment="Chapter 2 Operations"
+maintlvl="operator"><?Pub Dtl?>
+<name>MODULAR CATASTROPHIC RECOVERY SYSTEM
+(MCRS)</name></titlepg>
+<ctrlindwp chngno="0" wpno="O00001-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="operator"/>
+		<title>OPERATION UNDER USUAL CONDITIONS <?Pub _newline?>OPERATING PROCEDURES � DESCRIPTION AND USE OF OPERATOR'S CONTROLS AND INDICATORS</title>
+	</wpidinfo>
+<intro>
+	<para0-alt>
+		<para0>
+			<title>Introduction</title>
+			<para>Major controls and indicators for the MCRS consist of those for hydraulic system.</para>
+		</para0>
+	</para0-alt>
+</intro>
+
+	<ctrlindtab>
+		<title>HYDRAULIC SYSTEM CONTROLS AND INDICATORS</title>
+		<figure id="O00001-9-2320-451-F0001">
+			<title>Hydraulic Control Levers</title>
+			<graphic boardno="G06232000027"></graphic>
+		</figure>
+		<ctrlindrow>
+			<key>1</key>
+			<ctrlind>Hydraulic Control Levers</ctrlind>
+			<function>Provides manual operation of equipment.</function>
+		</ctrlindrow>
+		<ctrlindrow>
+			<key></key>
+			<ctrlind></ctrlind>
+			<function></function>
+		</ctrlindrow>
+	</ctrlindtab>
+	<ctrlindtab>
+		<title>VOLTMETER AND ELECTRIC MOTOR SWITCH</title>
+		<figure id="O00001-9-2320-451-F0002">
+			<title>Voltmeter And Electric Motor Switch</title>
+			<graphic boardno="G06232000028"></graphic>
+		</figure>
+		<ctrlindrow>
+			<key>1</key>
+			<ctrlind>Voltmeter</ctrlind>
+			<function>Provides ability to monitor voltage of FWTRD.</function>
+		</ctrlindrow>
+		<ctrlindrow>
+			<key>2</key>
+			<ctrlind>Electric Motor Switch</ctrlind>
+			<function>Enables hydraulic control levers when using FWTRD electric motors.</function>
+		</ctrlindrow>
+	</ctrlindtab>
+	<ctrlindtab>
+		<title>DIVERTER VALVE</title>
+		<figure id="O00001-9-2320-451-F0003">
+			<title>Diverter Valve</title>
+			<graphic boardno="G06232000029"></graphic>
+		</figure>
+		<ctrlindrow>
+			<key>1</key>
+			<ctrlind>Diverter Valve</ctrlind>
+			<function>Diverts hydraulic pressure to allow use of 18K or 35K winch.</function>
+		</ctrlindrow>
+		<ctrlindrow>
+			<key></key>
+			<ctrlind></ctrlind>
+			<function></function>
+		</ctrlindrow>
+	</ctrlindtab>
+	<ctrlindtab>
+		<title>REMOTE CONTROL</title>
+		<figure id="O00001-9-2320-451-F0004">
+			<title>Remote Control</title>
+			<graphic boardno="G06232000030"></graphic>
+		</figure>
+		<ctrlindrow>
+			<key>1</key>
+			<ctrlind>Remote Control</ctrlind>
+			<function>Provides remote hydraulic control in place of levers when using the FWTRD.</function>
+		</ctrlindrow>
+		<ctrlindrow>
+			<key></key>
+			<ctrlind></ctrlind>
+			<function></function>
+		</ctrlindrow>
+	</ctrlindtab>
+	<?Pub _newpage?>
+	<ctrlindtab>
+		<title>PRESSURE GAUGE</title>
+		<figure id="O00001-9-2320-451-F0005">
+			<title>Pressure Gauge</title>
+			<graphic boardno="G06232000032"></graphic>
+		</figure>
+		<ctrlindrow>
+			<key>1</key>
+			<ctrlind>Pressure Gauge</ctrlind>
+			<function>Provides ability to monitor hydraulic system pressure.</function>
+		</ctrlindrow>
+		<ctrlindrow>
+			<key></key>
+			<ctrlind></ctrlind>
+			<function></function>
+		</ctrlindrow>
+	</ctrlindtab>
+	<ctrlindtab>
+		<title>HYDRAULIC FLOW VALVES</title>
+		<figure id="O00001-9-2320-451-F0006">
+			<title>Hydraulic Flow Valve</title>
+			<graphic boardno="G06232000031"></graphic>
+		</figure>
+		<ctrlindrow>
+			<key>1</key>
+			<ctrlind>Hydraulic Flow Valves</ctrlind>
+			<function>Provides ability to adjust hydraulic back pressure.</function>
+		</ctrlindrow>
+		<ctrlindrow>
+			<key></key>
+			<ctrlind></ctrlind>
+			<function></function>
+		</ctrlindrow>
+	</ctrlindtab>
+	<?Pub _newpage?>
+	<ctrlindtab>
+		<title>LIFT AXLE AND AXLE SLIDE LOCK PIN CONTROLS</title>
+		<figure id="O00001-9-2320-451-F0007">
+			<title>Lift Axle and Axle Slide Lock Pin Controls</title>
+			<graphic boardno="G06232000033"></graphic>
+		</figure>
+		<ctrlindrow>
+			<key>1</key>
+			<ctrlind>Lock Pin Knob</ctrlind>
+			<function>Pull out and then rotate clockwise a quarter turn to release lock pin to allow axle assembly to slide.</function>
+		</ctrlindrow>
+		<ctrlindrow>
+			<key>2</key>
+			<ctrlind>Pressure Gauge</ctrlind>
+			<function>Provides ability to monitor air pressure to lift axle.</function>
+		</ctrlindrow>
+		<ctrlindrow>
+			<key>3</key>
+			<ctrlind>Second Knob</ctrlind>
+			<function>Controls the lift and loading of the forward axle of the TDRT.</function>
+		</ctrlindrow>
+		<ctrlindrow>
+			<key>4</key>
+			<ctrlind>Pressure Regulator</ctrlind>
+			<function>Allows for pressure adjustment when the forward axle is "loaded".As a general rule this knob should be set for 100psi.</function>
+		</ctrlindrow>
+	</ctrlindtab>
+</ctrlindwp>

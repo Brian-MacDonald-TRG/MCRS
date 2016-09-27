@@ -1,0 +1,50 @@
+<mim chap-toc="no" chngno="0" revno="0">
+<titlepg maintlvl="maintainer"><?Pub Dtl?>
+<name>MODULAR CATASTROPHIC RECOVERY SYSTEM (MCRS) MAINTAINER MAINTENANCE INSTRUCTIONS</name>
+</titlepg><maintenancecategory><?Pub Dtl?>
+<surwp chngno="0" wpno="M00016-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="maintainer"/>
+		<title>SERVICE UPON RECEIPT (MCRS)</title>
+	</wpidinfo>
+<initial_setup>
+	<persnreq>
+		<persnreq-setup-item>
+			<name></name>
+		</persnreq-setup-item>
+	</persnreq>
+</initial_setup>
+	<surtsk>
+		<other.surtsk>
+			<proc>
+				<title>GENERAL</title>
+				<para>When a new, used, or reconditioned XM20 Fifth Wheel Towing and Recovery Device (FWTRD) is first received, determine whether it has been properly prepared for service and is in condition to perform its mission. Follow the service before operation instructions in Service Before Operation</para>
+			</proc>
+		</other.surtsk>
+	</surtsk>
+	<surtsk>
+		<other.surtsk>
+			<proc>
+				<title>SERVICE BEFORE OPERATION</title>
+				<step1>
+					<para>Upon receipt of a new, used, or reconditioned Modular Catastrophic Recovery System; the receiving organization must see if it has been properly prepared for service and in good condition. Inspect all assemblies, subassemblies, and accessories to insure they are in proper working order. Secure, clean, correctly adjust, and lubricate as needed.</para>
+				</step1>
+				<step1>
+					<para>Remove all packing and shipping material, such as tape, tie downs, protective covers, and shipping seals.</para>
+				</step1>
+				<step1>
+					<para>Remove all Basic Issue Item (BII), Additional Authorization List (AAL), and Component of End Item (COEI) equipment and store properly.</para>
+				</step1>
+				<step1>
+					<para>If batteries have not been serviced, refer to <extref docno="TM 9-6140-200-14"/>.</para>
+				</step1>
+				<step1>
+					<para>Service the vehicle in accordance with TM and Unit PMCS.</para>
+				</step1>
+				<step1>
+					<para>Refer to TM and perform functional checks of all major vehicle systems.</para>
+				</step1>
+			</proc>
+		</other.surtsk>
+	</surtsk>
+</surwp>

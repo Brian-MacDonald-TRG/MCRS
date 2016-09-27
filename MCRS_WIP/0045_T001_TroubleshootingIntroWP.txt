@@ -1,0 +1,37 @@
+<tim chap-toc="no" chngno="0" revno="0">
+<titlepg comment="Chapter 3 Troubleshooting"
+maintlvl="operator"><?Pub Dtl?>
+<name>MODULAR CATASTROPHIC RECOVERY SYSTEM (MCRS)</name></titlepg>
+<troublecategory><?Pub Dtl?>
+<tsintrowp chngno="0"
+wpno="T00001-9-2320-451"><wpidinfo>
+<maintlvl level="crew"/>
+<title> Troubleshooting Introduction</title>
+</wpidinfo><para0>
+<title> General </title>
+<para>The troubleshooting procedures contained
+in the chapter 4 work 							packages to follow
+contain tables listing the malfunctions, tests
+							or inspections, and corrective actions
+required to return the MCRS 							to normal
+operation. Perform the steps in the order
+they appear in 							the tables. 				 						</para>
+<para>DO NOT START THE TASK UNTIL: You understand
+the task. You understand 							what you are
+to do. You understand what is needed to do
+the work. 							You have the things you need.
+				 						</para>
+<para>The troubleshooting index lists common
+malfunctions that may 							occur during
+MCRS inspection and operation. Find the malfunction
+to 							be addressed and go to the indicated
+troubleshooting work package. 							The troubleshooting
+index cannot list all malfunctions that may
+occur, 							all tests or inspections needed
+to find the fault, nor all actions 							required
+to correct the fault. If the existing malfunction
+is not 							listed, or cannot be corrected
+through this troubleshooting index, 							notify
+the next higher level of maintenance. 				
+						</para>
+</para0></tsintrowp>

@@ -1,0 +1,41 @@
+<opusualwp chngno="0" wpno="O00031-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="crew"/>
+			<title>Operation Under Usual Conditions - OPERATING PROCEDURES - AIR BRAKE CONNECTIONS</title>
+	</wpidinfo>
+	<initial_setup>
+		<persnreq>
+			<persnreq-setup-item>
+				<name>Wheeled Vehicle Mechanic</name>
+				<mos>91B</mos>
+				<qty>1</qty>
+			</persnreq-setup-item>
+		</persnreq>
+	</initial_setup>
+	<opertsk>
+		<oper>
+			<proc>
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>There are two sets of glad-hands that must be connected from the prime mover through the FWTRD to the TDRT. All are operated in the same manner as described below.</trim.para>
+						</note>
+						<para>Remove dummy coupling <callout assocfig="O00031-9-2320-451-F0001" label="1"/> from glad-hand <callout assocfig="O00031-9-2320-451-F0001" label="2"/>.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Raise prime mover or glad-hand air hose set coupling <callout assocfig="O00031-9-2320-451-F0001" label="3"/> to a vertical position and align outlet holes.</para>
+				</step1>
+				<step1>
+					<para>Rotate coupling to the horizontal locked position.</para>
+				</step1>
+
+					<figure id="O00031-9-2320-451-F0001">
+					<title>Glad-hand Connection</title>
+					<graphic boardno="G06232000214"></graphic>
+					</figure>
+	
+			</proc>
+		</oper>
+	</opertsk>
+</opusualwp>

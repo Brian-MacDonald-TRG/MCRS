@@ -1,0 +1,825 @@
+<pim chap-toc="no" chngno="0" dmwr-inclus="none" revno="0" tocentry="1">
+<titlepg maintlvl="maintainer">
+<name>MODULAR CATASTROPHIC RECOVERY SYSTEM (MCRS)</name></titlepg>
+<introwp chngno="0" wpno="R00001-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="maintainer"/>
+			<title>Repair Parts and Special Tools List (RPSTL)</title>
+	</wpidinfo>
+	<title>INTRODUCTION</title>
+		<para0>
+			<title>SCOPE</title>
+				<para>This RPSTL lists and authorizes spares and repair parts; special tools; special test, measurement, and diagnostic equipment (TMDE); and other special support equipment required for performance of field and sustainment maintenance of the MODULAR CATASTROPHIC RECOVERY SYSTEM (MCRS). It authorizes the requisitioning, issue, and disposition of spares, repair parts, and special tools as indicated by the source, maintenance, and recoverability (SMR) codes.</para>
+		</para0>
+		<para0>
+			<title>GENERAL</title>
+				<para>In addition to the Introduction work package, this RPSTL is divided into the following work packages.  				 						
+					<seqlist>
+						<item>Repair Parts List Work Packages. Work packages containing lists of spares and repair parts authorized by this RPSTL for use in the performance of maintenance. These work packages also include parts which must be removed for replacement of the authorized parts. Parts lists are composed of functional groups in ascending alphanumeric sequence, with the parts in each group
+listed in ascending figure and item number sequence. Sending units, brackets, filters, and bolts are listed with the component they mount on. Bulk materials are listed by item name in FIG. BULK at the end of the work packages. Repair parts kits are listed at the end of the individual work packages. Repair parts kits for reparable special tools are also listed in a separate Work Package. Items listed are shown on the associated illustrations.</item>
+						<item>Special Tools List Work Packages. Work packages containing lists of special tools, special TMDE, and special support equipment authorized by this RPSTL (as indicated by Basis of Issue (BOI) information in the DESCRIPTION AND USABLE ON CODE (UOC) column). Tools that are components of common tool sets and/or Class VII are not listed.</item>
+						<item>Cross-Reference Indexes Work Packages. There are two cross reference indexes work packages in this RPSTL: the National Stock Number (NSN) Index work package, and the Part Number (P/N) Index work package. The National Stock Number Index work package refers you to the figure and item number. The Part Number Index work package refers you to the figure and item number.</item>
+					</seqlist> 					
+				</para>
+		</para0>
+		<para0>
+			<title>EXPLANATION OF COLUMNS IN THE REPAIR PARTS LIST AND SPECIAL TOOLS LIST WORK PACKAGES</title>
+				<para>ITEM NO. (Column (1). Indicates the number used to identify items called out in the illustration.</para>
+				<para>SMR CODE (Column (2). The SMR code containing supply/requisitioning information, maintenance level authorization criteria, and disposition instruction, as shown in the following breakout. This entry may be subdivided into 4 subentries, one for each service.
+					<table frame="bottom">
+						<title>SMR Code Explanation</title>
+							<tgroup align="left" char=" " charoff="50" cols="6">
+								<colspec colname="col1" colwidth="0.75*"/>
+								<colspec colname="col2" colwidth="1*"/>
+								<colspec colname="col3" colwidth="1*"/>
+								<colspec colname="col4" colwidth="1*"/>
+								<colspec colname="col5" colwidth="1.25*"/>
+								<colspec colname="col6" colwidth="0.75*"/>
+									<tbody valign="top">
+										<row>
+											<entry align="center" colsep="0" morerows="0" rotate="no" rowsep="0" valign="bottom"></entry>
+											<entry align="center" colsep="0" morerows="0" rotate="no" rowsep="0" valign="bottom">Source<brk/><emphasis emph="uline">Code</emphasis><brk/><emphasis emph="uline">XX</emphasis></entry>
+											<entry align="center" colsep="0" morerows="0" nameend="col4" namest="col3" rotate="no" rowsep="0" valign="bottom">Maintenance<brk/><emphasis emph="uline">Code</emphasis><brk/><emphasis emph="uline">XX</emphasis></entry>
+											<entry align="center" colsep="0" morerows="0" rotate="no" rowsep="0" valign="bottom">Recoverability<brk/><emphasis emph="uline">Code</emphasis><brk/><emphasis emph="uline">X</emphasis></entry>
+											<entry colsep="0" rowsep="0" valign="top"></entry>
+										</row>
+										<row>
+											<entry colsep="0" rowsep="0" valign="top"></entry>
+											<entry colsep="0" morerows="0" rotate="no" rowsep="0" valign="top">1st two
+  									 											<brk/> 											positions:
+  									 											<brk/> 											How
+to get an   											<brk/> 											item.
+ 								 										</entry><entry colsep="0"
+morerows="0" rotate="no" rowsep="0" valign="top"
+> 											3rd position: 											<brk
+/> 											Who can install,   									
+											<brk/> 											replace, 											or
+use the   									 											<brk/> 											item.
+ 								 										</entry><entry colsep="0"
+morerows="0" rotate="no" rowsep="0" valign="top"
+> 											4th 											position:   									
+											<brk/> 											Who can do  
+									 											<brk/> 											complete
+											repair   									 											<brk
+/> 											on the item.  								 										</entry>
+<entry colsep="0" morerows="0" rotate="no"
+rowsep="0" valign="top"> 											5th 											position:
+  									 											<brk/> 											Who
+determines   									 											<brk/> 											disposition
+action on   									 											<brk/> 											unserviceable
+											items.  								 										</entry>
+<entry colsep="0" rowsep="0" valign="top"
+></entry></row><row><entry colsep="0"
+nameend="col6" namest="col1"> 											<ftnref
+xrefid="SMR.complete.repair"/> 											<ftnote
+id="SMR.complete.repair" label="*" mark="mark">
+<ftnpara>Complete Repair: 													Maintenance
+capacity, capability, and authority to perform
+all corrective 													maintenance tasks
+of the "Repair" function in a use/user environment
+													in order to restore serviceability
+to a failed item.  												</ftnpara>
+</ftnote> 										</entry></row></tbody>
+</tgroup>
+</table> 					</para>
+<para> 						Source Code. The source code
+tells you how you get an item 						needed
+for maintenance, repair, or overhaul of an
+end item/equipment. 						Explanations of
+source codes follow:   				 						<table>
+<tgroup align="left" char=" " charoff="50"
+cols="4" colsep="0" rowsep="0"><colspec
+colname="col1" colwidth="2*"/><colspec
+colname="col2" colwidth="8*"/><colspec
+colname="col3" colwidth="0.5*"/><colspec
+colname="col4" colwidth="14*"/><thead
+valign="top"><row><entry colsep="0" morerows="0"
+rotate="no" rowsep="0" valign="middle"></entry>
+<entry colsep="0" morerows="0" rotate="no"
+rowsep="1" valign="bottom">Source Code</entry>
+<entry colsep="0" morerows="0" rotate="no"
+rowsep="0" valign="middle"></entry><entry
+colsep="0" morerows="0" rotate="no" rowsep="1"
+valign="bottom">Application/Explanation</entry>
+</row></thead>
+<tbody valign="top"><row><entry colsep="0"
+morerows="0" rotate="no" rowsep="0"
+valign="middle"></entry><entry colsep="0"
+morerows="0" rotate="no" rowsep="0"
+valign="middle">PA</entry><entry colsep="0"
+morerows="0" rotate="no" rowsep="0"
+valign="middle"></entry><entry colsep="0"
+morerows="9" rotate="no" rowsep="0"> 											<note>
+<trim.para>Items coded PC are subject to deterioration.</trim.para>
+</note> 											Stock items, use the applicable
+NSN to requisition/request 											items
+with these source codes. They are authorized
+to the level indicated 											by the code
+entered in the third position of the SMR code.
+ 								 										</entry></row><row><entry
+colsep="0" morerows="0" rotate="no" rowsep="0"
+valign="middle"></entry><entry colsep="0"
+morerows="0" rotate="no" rowsep="0"
+valign="middle">PB</entry><entry></entry></row>
+<row><entry colsep="0" morerows="0" rotate="no"
+rowsep="0" valign="middle"></entry><entry
+colsep="0" morerows="0" rotate="no" rowsep="0"
+valign="middle">PC</entry><entry></entry></row>
+<row><entry colsep="0" morerows="0" rotate="no"
+rowsep="0" valign="middle"></entry><entry
+colsep="0" morerows="0" rotate="no" rowsep="0"
+valign="middle">PD</entry><entry></entry></row>
+<row><entry colsep="0" morerows="0" rotate="no"
+rowsep="0" valign="middle"></entry><entry
+colsep="0" morerows="0" rotate="no" rowsep="0"
+valign="middle">PE</entry><entry></entry></row>
+<row><entry colsep="0" morerows="0" rotate="no"
+rowsep="0" valign="middle"></entry><entry
+colsep="0" morerows="0" rotate="no" rowsep="0"
+valign="middle">PF</entry><entry></entry></row>
+<row><entry colsep="0" morerows="0" rotate="no"
+rowsep="0" valign="middle"></entry><entry
+colsep="0" morerows="0" rotate="no" rowsep="0"
+valign="middle">PG</entry><entry></entry></row>
+<row><entry colsep="0" morerows="0" rotate="no"
+rowsep="0" valign="middle"></entry><entry
+colsep="0" morerows="0" rotate="no" rowsep="0"
+valign="middle">PH</entry><entry></entry></row>
+<row><entry colsep="0" morerows="0" rotate="no"
+rowsep="0" valign="middle"></entry><entry
+colsep="0" morerows="0" rotate="no" rowsep="0"
+valign="middle">PR</entry><entry></entry></row>
+<row><entry colsep="0" morerows="0" rotate="no"
+rowsep="0" valign="middle"></entry><entry
+colsep="0" morerows="0" rotate="no" rowsep="0"
+valign="middle">PZ</entry><entry></entry></row>
+<row><entry colsep="0" morerows="0" rotate="no"
+rowsep="0" valign="middle"></entry><entry
+></entry><entry></entry><entry></entry></row>
+<row><entry colsep="0" morerows="0" rotate="no"
+rowsep="0" valign="middle"></entry><entry
+colsep="0" morerows="0" rotate="no" rowsep="0"
+valign="middle">KD</entry><entry colsep="0"
+morerows="0" rotate="no" rowsep="0"
+valign="middle"></entry><entry colsep="0"
+morerows="2" rotate="no" rowsep="0"
+valign="middle">Items with these codes are
+not to be requested/ 											requisitioned
+individually. They are part of a kit which
+is authorized 											to the maintenance
+level indicated in the third position of the
+SMR 											code. The complete kit must
+be requisitioned and applied.  										</entry>
+</row><row><entry colsep="0" morerows="0"
+rotate="no" rowsep="0" valign="middle"></entry>
+<entry colsep="0" morerows="0" rotate="no"
+rowsep="0" valign="middle">KF</entry><entry
+></entry></row><row><entry colsep="0"
+morerows="0" rotate="no" rowsep="0"
+valign="middle"></entry><entry align="left"
+morerows="0" rotate="no" rowsep="0"
+valign="middle">KB</entry><entry></entry></row>
+<row><entry colsep="0" morerows="0" rotate="no"
+rowsep="0" valign="middle"></entry><entry
+rotate="no" rowsep="0" valign="middle"></entry>
+<entry rotate="no"></entry><entry></entry></row>
+<row><entry colsep="0" morerows="0" rotate="no"
+rowsep="0" valign="middle"></entry><entry
+colsep="0" morerows="0" rotate="no" rowsep="0"
+valign="middle">MF-Made at field</entry><entry
+colsep="0" morerows="0" rotate="no" rowsep="0"
+valign="middle"></entry><entry colsep="0"
+morerows="4" rotate="no" rowsep="0">Items
+with these 											codes are not to be
+requisitioned/requested individually. They
+must 											be made from bulk material
+which is identified by the part number 											in
+the DESCRIPTION AND USABLE ON CODE (UOC) column
+listed in the bulk 											material group
+work package of the RPSTL. If the item is
+authorized 											to you by the third
+position code of the SMR code, but the source
+											code indicates it is made at higher
+level, order the item from the 											higher
+level of maintenance.  										</entry></row>
+<row><entry colsep="0" morerows="0" rotate="no"
+rowsep="0" valign="middle"></entry><entry
+colsep="0" morerows="0" rotate="no" rowsep="0"
+valign="middle">MH-Made 											at below
+depot sustainment level  										</entry>
+<entry></entry></row><row><entry colsep="0"
+morerows="0" rotate="no" rowsep="0"
+valign="middle"></entry><entry colsep="0"
+morerows="0" rotate="no" rowsep="0"
+valign="middle">ML-Made at SRA</entry><entry
+></entry></row><row><entry colsep="0"
+morerows="0" rotate="no" rowsep="0"
+valign="middle"></entry><entry colsep="0"
+morerows="0" rotate="no" rowsep="0"
+valign="middle">MD-Made at depot</entry><entry
+></entry></row><row><entry colsep="0"
+morerows="0" rotate="no" rowsep="0"
+valign="middle"></entry><entry colsep="0"
+morerows="0" rotate="no" rowsep="0"
+valign="middle">MG-Navy 											only  										</entry>
+<entry></entry></row><row><entry colsep="0"
+morerows="0" rotate="no" rowsep="0"
+valign="middle"></entry><entry rotate="no"
+rowsep="0" valign="middle"></entry><entry
+rotate="no"></entry><entry></entry></row><row>
+<entry colsep="0" morerows="0" rotate="no"
+rowsep="0" valign="middle"></entry><entry
+colsep="0" morerows="0" rotate="no" rowsep="0"
+valign="middle">AF-Assembled by field level</entry>
+<entry colsep="0" morerows="0" rotate="no"
+rowsep="0" valign="middle"></entry><entry
+colsep="0" morerows="4" rotate="no" rowsep="0"
+>Items 											with these codes are not
+to be requested/requisitioned individually.
+											The parts that make up the assembled
+item must be requisitioned or 											fabricated
+and assembled at the level of maintenance
+indicated by 											the source code. If
+the third position of the SMR code authorizes
+											you to replace the item, but the
+source code indicates the item is 											assembled
+at a higher level, order the item from the
+higher level 											of maintenance.  										</entry>
+</row><row><entry colsep="0" morerows="0"
+rotate="no" rowsep="0" valign="middle"></entry>
+<entry colsep="0" morerows="0" rotate="no"
+rowsep="0" valign="middle">AH-Assembled by
+											below depot sustainment level 
+										</entry><entry></entry></row><row>
+<entry colsep="0" morerows="0" rotate="no"
+rowsep="0" valign="middle"></entry><entry
+align="left" morerows="0" rotate="no" rowsep="0"
+valign="middle">AL-Assembled by SRA</entry>
+<entry></entry></row><row><entry colsep="0"
+morerows="0" rotate="no" rowsep="0"
+valign="middle"></entry><entry align="left"
+morerows="0" rotate="no" rowsep="0"
+valign="middle">AD-Assembled 											by
+depot  										</entry><entry></entry></row>
+<row><entry colsep="0" morerows="0" rotate="no"
+rowsep="0" valign="middle"></entry><entry
+colsep="0" morerows="0" rotate="no" rowsep="0"
+valign="middle">AG-Navy 											only 										</entry>
+<entry></entry></row><row><entry colsep="0"
+morerows="0" rotate="no" rowsep="0"
+valign="middle"></entry><entry colsep="0"
+morerows="0" rotate="no" rowsep="0"
+valign="middle">XA</entry><entry colsep="0"
+morerows="0" rotate="no" rowsep="0"
+valign="middle"></entry><entry colsep="0"
+morerows="0" rotate="no" rowsep="0"
+valign="middle">Do not requisition an &ldquo;XA&rdquo;
+coded item. Order the next 											higher
+assembly. (Refer to NOTE below.)  										</entry>
+</row><row><entry colsep="0" morerows="0"
+rotate="no" rowsep="0" valign="middle"></entry>
+<entry colsep="0" morerows="0" rotate="no"
+rowsep="0" valign="middle">XB</entry><entry
+colsep="0" morerows="0" rotate="no" rowsep="0"
+valign="middle"></entry><entry colsep="0"
+morerows="0" rotate="no" rowsep="0" valign="top"
+>If an item is not available from salvage,
+											order it using the CAGEC and part
+number.  										</entry></row><row><entry
+colsep="0" morerows="0" rotate="no" rowsep="0"
+valign="middle"></entry><entry colsep="0"
+morerows="0" rotate="no" rowsep="0"
+valign="middle">XC</entry><entry colsep="0"
+morerows="0" rotate="no" rowsep="0"
+valign="middle"></entry><entry colsep="0"
+morerows="0" rotate="no" rowsep="0" valign="top"
+>Installation drawings, diagrams, instruction
+											sheets, field service drawings;
+identified by manufacturer&rsquo;s 											part
+number.  										</entry></row><row><entry
+colsep="0" morerows="0" rotate="no" rowsep="0"
+valign="middle"></entry><entry colsep="0"
+morerows="0" rotate="no" rowsep="0"
+valign="middle">XD</entry><entry colsep="0"
+morerows="0" rotate="no" rowsep="0"
+valign="middle"></entry><entry colsep="0"
+morerows="0" rotate="no" rowsep="0" valign="top"
+>Item is not stocked. Order an XD-coded item
+through local purchase 											or normal
+supply channels using the CAGEC and P/N given,
+if no NSN 											is available.  										</entry>
+</row></tbody>
+</tgroup>
+</table> 					</para>
+<note>
+<trim.para>Cannibalization or controlled exchange,
+when authorized, 							may be used as a source
+of supply for items with the above source
+							codes except for those items source
+coded &ldquo;XA&rdquo; or those 							aircraft
+support items restricted by requirements of
+AR 750-1.  						</trim.para>
+</note>
+<para>Maintenance Code. Maintenance codes
+tell you the level(s) of 						maintenance
+authorized to use and repair support items.
+The maintenance 						codes are entered in
+the third and fourth positions of the SMR
+code 						as follows:   					</para>
+<para> 						Third Position. The maintenance
+code entered in the third 						position tells
+you the lowest maintenance level authorized
+to remove, 						replace, and use an item.
+The maintenance code entered in the third
+						position will indicate authorization
+to the following levels of maintenance: 						<table>
+<tgroup align="left" char=" " charoff="50"
+cols="4"><colspec colname="col0"
+colwidth="0.25*"/><colspec colname="col1"
+colwidth="1*"/><colspec colname="col2"
+colwidth="0.25*"/><colspec colname="col3"
+colwidth="4*"/><thead valign="bottom"><row>
+<entry colsep="0" rotate="no" rowsep="0"></entry>
+<entry colsep="0" morerows="0" rotate="no"
+rowsep="1" valign="bottom"> 											Maintenance
+  									 											<brk/> 											Code
+										</entry><entry colsep="0" rotate="no"
+rowsep="0"></entry><entry colsep="0"
+morerows="0" rotate="no" rowsep="1"
+valign="bottom">Application/Explanation</entry>
+</row></thead>
+<tbody valign="top"><row><entry colsep="0"
+rotate="no" rowsep="0"></entry><entry colsep="0"
+morerows="0" rotate="no" rowsep="0" valign="top"
+>F -</entry><entry colsep="0" rotate="no"
+rowsep="0"></entry><entry colsep="0"
+morerows="0" rotate="no" rowsep="0" valign="top"
+>Field maintenance can remove, replace, and
+use the item.</entry></row><row><entry
+colsep="0" rotate="no" rowsep="0"></entry>
+<entry colsep="0" morerows="0" rotate="no"
+rowsep="0" valign="top">H -</entry><entry
+colsep="0" rotate="no" rowsep="0"></entry>
+<entry colsep="0" morerows="0" rotate="no"
+rowsep="0" valign="top">Below Depot Sustainment
+maintenance 											can remove, replace,
+and use the item.  										</entry></row><row>
+<entry colsep="0" rotate="no" rowsep="0"></entry>
+<entry colsep="0" morerows="0" rotate="no"
+rowsep="0" valign="top">L -</entry><entry
+colsep="0" rotate="no" rowsep="0"></entry>
+<entry colsep="0" morerows="0" rotate="no"
+rowsep="0" valign="top">Specialized repair
+activity can 											remove, replace, and
+use the item.  										</entry></row><row>
+<entry colsep="0" rotate="no" rowsep="0"></entry>
+<entry colsep="0" morerows="0" rotate="no"
+rowsep="0" valign="top">G -</entry><entry
+colsep="0" rotate="no" rowsep="0"></entry>
+<entry colsep="0" morerows="0" rotate="no"
+rowsep="0" valign="top">Afloat and ashore
+intermediate 											maintenance can remove,
+replace, and use the item. (Navy only).  										</entry>
+</row><row><entry colsep="0" rotate="no"
+rowsep="0"></entry><entry colsep="0"
+morerows="0" rotate="no" rowsep="0" valign="top"
+>K -</entry><entry colsep="0" rotate="no"
+rowsep="0"></entry><entry colsep="0"
+morerows="0" rotate="no" rowsep="0" valign="top"
+>Contractor facility 											can remove,
+replace, and use the item.  										</entry>
+</row><row><entry colsep="0" rotate="no"
+rowsep="0"></entry><entry colsep="0"
+morerows="0" rotate="no" rowsep="0" valign="top"
+>Z -</entry><entry colsep="0" rotate="no"
+rowsep="0"></entry><entry colsep="0"
+morerows="0" rotate="no" rowsep="0" valign="top"
+>Item is not authorized to be removed, 											replace,
+or used at any maintenance level.  										</entry>
+</row><row><entry colsep="0" rotate="no"
+rowsep="0"></entry><entry colsep="0"
+morerows="0" rotate="no" rowsep="0" valign="top"
+>D -</entry><entry colsep="0" rotate="no"
+rowsep="0"></entry><entry colsep="0"
+morerows="0" rotate="no" rowsep="0" valign="top"
+>Depot can remove, replace, and 											use
+the item.  										</entry></row><row><entry
+colsep="0" rotate="no" rowsep="0"></entry>
+<entry colsep="0" rotate="no" rowsep="0"></entry>
+<entry colsep="0" rotate="no" rowsep="0"></entry>
+<entry rotate="no" rowsep="0"></entry></row>
+<row><entry colsep="0" rotate="no" rowsep="0"
+></entry><entry colsep="0" nameend="col3"
+namest="col1" rotate="no" rowsep="0">*NOTE-
+Army may use C in the third position. However,
+for 											joint service publications,
+Army will use O.  										</entry></row>
+</tbody>
+</tgroup>
+</table> 					</para>
+<para esd="no" hcp="no">Fourth Position. The
+maintenance code entered 						in the fourth
+position tells you whether or not the item
+is to be 						repaired and identifies the
+lowest maintenance level with the capability
+						to do complete repair (perform all authorized
+repair functions).  					</para>
+<note>
+<trim.para>Some limited repair may be done
+on the item at a lower 							level of maintenance,
+if authorized by the Maintenance Allocation
+							Chart (MAC) and SMR codes.  						</trim.para>
+</note>
+<para> 						<table>
+<tgroup align="left" char=" " charoff="50"
+cols="4"><colspec colname="col0"
+colwidth="0.25*"/><colspec colname="col1"
+colwidth="1*"/><colspec colname="col2"
+colwidth="0.25*"/><colspec colname="col3"
+colwidth="4*"/><thead valign="bottom"><row>
+<entry colsep="0" rotate="no" rowsep="0"></entry>
+<entry colsep="0" morerows="0" rotate="no"
+rowsep="1" valign="bottom"> 											Maintenance
+  									 											<brk/> 											Code
+										</entry><entry colsep="0" rotate="no"
+rowsep="0"></entry><entry colsep="0"
+morerows="0" rotate="no" rowsep="1"
+valign="bottom">Application/Explanation</entry>
+</row></thead>
+<tbody valign="top"><row><entry colsep="0"
+rotate="no" rowsep="0"></entry><entry colsep="0"
+morerows="0" rotate="no" rowsep="0" valign="top"
+>F -</entry><entry colsep="0" rotate="no"
+rowsep="0"></entry><entry colsep="0"
+morerows="0" rotate="no" rowsep="0" valign="top"
+>Field is the lowest level that can do complete
+repair of the item.</entry></row><row><entry
+colsep="0" rotate="no" rowsep="0"></entry>
+<entry colsep="0" morerows="0" rotate="no"
+rowsep="0" valign="top">H -</entry><entry
+colsep="0" rotate="no" rowsep="0"></entry>
+<entry colsep="0" morerows="0" rotate="no"
+rowsep="0" valign="top">Below Depot Sustainment
+											is the lowest level that can do
+complete repair of the item.  										</entry>
+</row><row><entry colsep="0" rotate="no"
+rowsep="0"></entry><entry colsep="0"
+morerows="0" rotate="no" rowsep="0" valign="top"
+>L -</entry><entry colsep="0" rotate="no"
+rowsep="0"></entry><entry colsep="0"
+morerows="0" rotate="no" rowsep="0" valign="top"
+>Specialized repair 											activity is
+the lowest level that can do complete repair
+of the item  										</entry></row><row>
+<entry colsep="0" rotate="no" rowsep="0"></entry>
+<entry colsep="0" rotate="no" rowsep="0">D
+-</entry><entry colsep="0" rotate="no"
+rowsep="0"></entry><entry colsep="0" rotate="no"
+rowsep="0">Depot is the lowest level that
+can do complete repair of the item. </entry>
+</row><row><entry colsep="0" rotate="no"
+rowsep="0"></entry><entry colsep="0"
+morerows="0" rotate="no" rowsep="0" valign="top"
+>G -</entry><entry colsep="0" rotate="no"
+rowsep="0"></entry><entry colsep="0"
+morerows="0" rotate="no" rowsep="0" valign="top"
+>Both afloat and ashore 											intermediate
+levels are capable of complete repair of item.
+(Navy 											only)  										</entry></row>
+<row><entry colsep="0" rotate="no" rowsep="0"
+></entry><entry colsep="0" morerows="0"
+rotate="no" rowsep="0" valign="top">K -</entry>
+<entry colsep="0" rotate="no" rowsep="0"></entry>
+<entry colsep="0" morerows="0" rotate="no"
+rowsep="0" valign="top">Complete repair is
+done at contractor facility. </entry></row><row>
+<entry colsep="0" rotate="no" rowsep="0"></entry>
+<entry colsep="0" morerows="0" rotate="no"
+rowsep="0" valign="top">Z -</entry><entry
+colsep="0" rotate="no" rowsep="0"></entry>
+<entry colsep="0" morerows="0" rotate="no"
+rowsep="0" valign="top">Nonreparable. No repair
+is authorized. </entry></row><row><entry
+colsep="0" rotate="no" rowsep="0"></entry>
+<entry colsep="0" morerows="0" rotate="no"
+rowsep="0" valign="top">B -</entry><entry
+colsep="0" rotate="no" rowsep="0"></entry>
+<entry colsep="0" morerows="0" rotate="no"
+rowsep="0" valign="top">No repair is authorized.
+											No parts or special tools are authorized
+for maintenance of "B" coded 											item.
+However, the item may be reconditioned by
+adjusting, lubricating, 											etc., at
+the user level.  										</entry></row>
+</tbody>
+</tgroup>
+</table> 					</para>
+<para esd="no" hcp="no"> 						Recoverability
+Code. Recoverability codes 						are assigned
+to items to indicate the disposition action
+on unserviceable 						items. The recoverability
+code is shown in the fifth position of the
+						SMR code as follows:   				 						<table>
+<tgroup align="left" char=" " charoff="50"
+cols="4"><colspec colname="col0"
+colwidth="0.25*"/><colspec colname="col1"
+colwidth="1*"/><colspec colname="col2"
+colwidth="0.25*"/><colspec colname="col3"
+colwidth="4*"/><thead valign="bottom"><row>
+<entry colsep="0" rotate="no" rowsep="0"></entry>
+<entry colsep="0" morerows="0" rotate="no"
+rowsep="1" valign="bottom"> 											Recoverability
+  									 											<brk/> 											Code
+										</entry><entry colsep="0" rotate="no"
+rowsep="0"></entry><entry colsep="0"
+morerows="0" rotate="no" rowsep="1"
+valign="bottom">Application/Explanation</entry>
+</row></thead>
+<tbody valign="top"><row><entry colsep="0"
+rotate="no" rowsep="0"></entry><entry colsep="0"
+morerows="0" rotate="no" rowsep="0" valign="top"
+>Z - </entry><entry colsep="0" rotate="no"
+rowsep="0"></entry><entry colsep="0"
+morerows="0" rotate="no" rowsep="0" valign="top"
+>Nonreparable item. When unserviceable, condemn
+and dispose 											of the item at the
+level of maintenance shown in the third position
+											of the SMR code.  										</entry>
+</row><row><entry colsep="0" rotate="no"
+rowsep="0"></entry><entry colsep="0"
+morerows="0" rotate="no" rowsep="0" valign="top"
+>F -</entry><entry colsep="0" rotate="no"
+rowsep="0"></entry><entry colsep="0"
+morerows="0" rotate="no" rowsep="0" valign="top"
+>Reparable item. When uneconomically reparable,
+condemn and dispose 											of the item
+at the field level.  										</entry></row>
+<row><entry colsep="0" rotate="no" rowsep="0"
+></entry><entry colsep="0" morerows="0"
+rotate="no" rowsep="0" valign="top">H -</entry>
+<entry colsep="0" rotate="no" rowsep="0"></entry>
+<entry colsep="0" morerows="0" rotate="no"
+rowsep="0" valign="top">Reparable item. When
+uneconomically 											reparable, condemn
+and dispose of the item at the below depot
+sustainment 											level.  										</entry>
+</row><row><entry colsep="0" rotate="no"
+rowsep="0"></entry><entry colsep="0" rotate="no"
+rowsep="0">D -</entry><entry colsep="0"
+rotate="no" rowsep="0"></entry><entry colsep="0"
+rotate="no" rowsep="0">Reparable item. When
+beyond lower level repair capability, 											return
+to depot. Condemnation and disposal of item
+are not authorized 											below depot
+level.  										</entry></row><row><entry
+colsep="0" rotate="no" rowsep="0"></entry>
+<entry colsep="0" morerows="0" rotate="no"
+rowsep="0" valign="top">L -</entry><entry
+colsep="0" rotate="no" rowsep="0"></entry>
+<entry colsep="0" morerows="0" rotate="no"
+rowsep="0" valign="top">Reparable item. Condemnation
+and disposal not authorized below Specialized
+											Repair Activity (SRA).  										</entry>
+</row><row><entry colsep="0" rotate="no"
+rowsep="0"></entry><entry colsep="0"
+morerows="0" rotate="no" rowsep="0" valign="top"
+>A -</entry><entry colsep="0" rotate="no"
+rowsep="0"></entry><entry colsep="0"
+morerows="0" rotate="no" rowsep="0" valign="top"
+>Item requires special handling or condemnation
+procedures because 											of specific
+reasons (such as precious metal content, high
+dollar value, 											critical material,
+or hazardous material). Refer to appropriate
+manuals/directives 											for specific
+instructions.  										</entry></row><row>
+<entry colsep="0" rotate="no" rowsep="0"></entry>
+<entry colsep="0" morerows="0" rotate="no"
+rowsep="0" valign="top">G -</entry><entry
+colsep="0" rotate="no" rowsep="0"></entry>
+<entry colsep="0" morerows="0" rotate="no"
+rowsep="0" valign="top">Field level reparable
+item. Condemn 											and dispose at either
+afloat or ashore intermediate levels. (Navy
+											only)  										</entry></row><row>
+<entry colsep="0" rotate="no" rowsep="0"></entry>
+<entry colsep="0" morerows="0" rotate="no"
+rowsep="0" valign="top">K -</entry><entry
+colsep="0" rotate="no" rowsep="0"></entry>
+<entry colsep="0" morerows="0" rotate="no"
+rowsep="0" valign="top">Reparable item. Condemnation
+and disposal to be performed at contractor
+											facility.  										</entry></row>
+</tbody>
+</tgroup>
+</table> 					</para>
+<para>NSN (Column (3)). The NSN for the item
+is listed in this column.</para>
+<para>CAGEC (Column (4)). The Commercial and
+Government Entity Code 						(CAGEC) is a
+five-digit code which is used to identify
+the manufacturer, 						distributor, or Government
+agency/activity that supplies the item.  					</para>
+<para>PART NUMBER (Column (5)). Indicates
+the primary number used 						by the manufacturer
+manufacturer (individual, company, firm, corporation,
+						or Government activity), which controls
+the design and characteristics 						of the
+item by means of its engineering drawings,
+specifications, 						standards, and inspection
+requirements to identify an item or range
+						of items.  					</para>
+<note>
+<trim.para>When you use an NSN to requisition
+an item, the item you 							receive may have
+a different P/N form the number listed.  						</trim.para>
+</note>
+<para> 						DESCRIPTION AND USABLE ON CODE
+(UOC) (Column (6)). This 						column includes
+the following information:   				 						<seqlist>
+<item>The federal item name, and when required,
+a minimum description 								to identify
+the item.  							</item>
+<item>P/Ns of bulk materials are referenced
+in this column in the 								line entry to
+be manufactured or fabricated.  							</item>
+<item>Hardness Critical Item (HCI). A support
+item that provides the 								equipment with
+special protection from electromagnetic pulse
+(EMP) 								damage during a nuclear attack.
+ 							</item>
+<item>The statement END OF FIGURE appears
+just below the last item 								description
+in Column (6) for a given figure in both the
+repair parts 								list and special tools
+list work packages.  							</item></seqlist
+> 					</para>
+<para>QTY (Column (7)). The QTY (quantity
+per figure) column indicates 						the quantity
+of the item used in the breakout shown on
+the illustration/figure, 						which is prepared
+for a functional group, subfunctional group,
+or 						an assembly. A "V" appearing in this
+column instead of a quantity 						indicates
+that the quantity is variable and quantity
+may change from 						application to application.
+ 					</para>
+<subpara1>
+<title>EXPLANATION OF CROSS-REFERENCE INDEXES
+WORK PACKAGES FORMAT 							AND COLUMNS  						</title>
+<para> 							<seqlist>
+<item> 									National Stock Number (NSN)
+Index Work Package. NSN's 									in this
+index are listed in National Item Identification
+Number (NIIN) 									sequence.   							
+									<randlist bullet="yes">
+<item>STOCK NUMBER Column. This column lists
+the NSN in National item 											identification
+number (NIIN) sequence. The NIIN consists
+of the last 											nine digits of the
+NSN. When using this column to locate an item,
+											ignore the first four digits of
+the NSN. However, the complete NSN 											should
+be used when ordering items by stock number.
+ 										</item>
+<item>For example, if the NSN is 5385-01-574-1476,
+the NIIN is 01-574-1476.</item>
+<item>FIG. Column. This column lists the number
+of the figure where 											the item is
+identified/located. The figures are in numerical
+order 											in the repair parts list
+and special tools list work packages.  										</item>
+<item>ITEM Column. The item number identifies
+the item associated 											with the figure
+listed in the adjacent FIG. column. This item
+is also 											identified by the NSN listed
+on the same line.  										</item>
+</randlist> 								</item>
+<item> 									Part Number (P/N) Index Work
+Package. P/Ns in this index 									are listed
+in ascending alphanumeric sequence (vertical
+arrangement 									of letter and number
+combinations which places the first letter
+or 									digit of each group in order A
+through Z, followed by the numbers 									0
+through 9 and each following letter or digit
+in like order.)   							 									<randlist
+bullet="yes">
+<item>PART NUMBER Column. Indicates the P/N
+assigned to the item.</item>
+<item>FIG. Column. This column lists the number
+of the figure where 											the item is
+identified/located in the repair parts list
+and special 											tools list work packages.
+ 										</item>
+<item>ITEM Column. The item number is the
+number assigned to the item 											as
+it appears in the figure referenced in the
+adjacent figure number 											column.
+ 										</item>
+</randlist> 								</item></seqlist> 						</para>
+</subpara1><subpara1>
+<title>SPECIAL INFORMATION</title>
+<para> 							UOC. The UOC appears in the
+lower left corner of the Description 							Column
+heading. Usable on codes are shown as "UOC:"
+in the Description 							Column (justified
+left) on the first line under the applicable
+item 							nomenclature. Uncoded items are
+applicable to all models. Identification 							of
+the UOCs used in the RPSTL are:   					 							<table>
+<tgroup align="left" char=" " charoff="50"
+cols="4"><colspec colname="col0"
+colwidth="0.25*"/><colspec colname="col1"
+colwidth="1*"/><colspec colname="col2"
+colwidth="0.25*"/><colspec colname="col3"
+colwidth="4*"/><thead valign="bottom"><row>
+<entry colsep="0" rotate="no" rowsep="0"></entry>
+<entry colsep="0" morerows="0" rotate="no"
+rowsep="1" valign="bottom">Code</entry><entry
+colsep="0" rotate="no" rowsep="0"></entry>
+<entry colsep="0" morerows="0" rotate="no"
+rowsep="1" valign="bottom">Used On</entry></row>
+</thead>
+<tbody valign="top"><row><entry colsep="0"
+rotate="no" rowsep="0"></entry><entry colsep="0"
+morerows="0" rotate="no" rowsep="0" valign="top"
+>GET</entry><entry colsep="0" rotate="no"
+rowsep="0"></entry><entry colsep="0"
+morerows="0" rotate="no" rowsep="0" valign="top"
+>Modular Catastrophic Recovery System (MCRS) (Green)</entry>
+</row><row><entry colsep="0" rotate="no"
+rowsep="0"></entry><entry colsep="0"
+morerows="0" rotate="no" rowsep="0" valign="top"
+>GEU</entry><entry colsep="0" rotate="no"
+rowsep="0"></entry><entry colsep="0"
+morerows="0" rotate="no" rowsep="0" valign="top"
+>Modular Catastrophic Recovery System (MCRS) (Tan)</entry>
+</row></tbody>
+</tgroup>
+</table> 						</para>
+<para>Fabrication Instructions. Bulk materials
+required to manufacture 							items are listed
+in the bulk material functional group of this
+RPSTL. 							Part numbers for bulk material
+are also referenced in the Description 							Column
+of the line item entry for the item to be
+manufactured/fabricated. 							Detailed fabrication
+instructions for items source coded to be
+manufactured 							or fabricated are found
+in the RPSTL of this technical manual.  						</para>
+<para>Index Numbers. Items which have the
+word BULK in the figure 							column will
+have an index number shown in the item number
+column. 							This index number is a cross-reference
+between the NSN/Par Number 							(P/N) index
+work packages and the bulk material list in
+the repair 							parts list work package.
+ 						</para>
+</subpara1><subpara1>
+<title>HOW TO LOCATE REPAIR PARTS</title>
+<para> 							<seqlist>
+<item> 									When NSNs or Part Numbers
+Are Not Known.   							 									<randlist
+bullet="yes">
+<item>First. Using the table of contents,
+determine the assembly group 											to
+which the item belongs. This is necessary
+since figures are prepared 											for
+assembly groups and subassembly groups, and
+lists are divided 											into the same
+groups.  										</item>
+<item>Second. Find the figure covering the
+functional group or the 											subfunctional
+group to which the item belongs.  										</item>
+<item>Third. Identify the item on the figure
+and note the number(s).</item>
+<item>Fourth. Look in the repair parts list
+work packages for the 											figure and
+item numbers. The NSNs and part numbers are
+on the same 											line as the associated
+item numbers.  										</item>
+</randlist> 								</item>
+<item> 									When NSN Is Known.   							
+									<randlist bullet="yes">
+<item>First. If you have the NSN, look in
+the STOCK NUMBER column 											of the
+NSN index work package. The NSN is arranged
+in NIIN sequence. 											Note the figure
+and item number next to the NSN.  										</item>
+<item>Second. Turn to the figure and locate
+the item number. Verify 											that the
+item is the one you are looking for.  										</item>
+</randlist> 								</item>
+<item> 									When Part Number Is Known.
+  							 									<randlist bullet="yes">
+<item>First. If you have the part number and
+not the NSN, look in 											the PART NUMBER
+column of the part number index work package.
+Identify 											the figure and item number.
+ 										</item>
+<item>Second. Look up the item on the figure
+in the applicable repair 											parts
+list work package.  										</item>
+</randlist> 								</item></seqlist> 						</para>
+</subpara1></para0></introwp>

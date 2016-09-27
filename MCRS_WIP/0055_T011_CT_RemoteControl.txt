@@ -1,0 +1,43 @@
+<tswp chngno="0" wpno="T00011-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="crew"/>
+		<title>TROUBLESHOOTING PROCEDURES <?Pub _newline?>REMOTE CONTROL</title>
+	</wpidinfo>
+	<initial_setup>
+		<eqpconds>
+			<eqpconds-setup-item>
+				<condition>Coupling FWTRD to Prime Mover(<xref wpid="O00003-9-2320-451"/>).</condition>
+			</eqpconds-setup-item>
+		</eqpconds>
+	</initial_setup>
+	<tsproc>
+		<faultproc>
+			<title>Crew Troubleshooting</title>
+			<symptom>Remote Control does not activate hydraulic functions.</symptom>
+			<malfunc label="malfunction">Minimum of 12VDC on the Electric Control Box Gauge is not available</malfunc>
+			<action>
+				<step1>
+					<para>Connect the NATO Slave Cable between the prime mover and the FWTRD. If voltage does not read at least 12V or more notify maintainer to replace batteries IAW <xref wpid="M00045-9-2320-451"/>.</para>
+				</step1>
+			</action>
+			<malfunc label="malfunction">Hydraulic functions do not activate while attempting to operate in "Electric" mode.</malfunc>
+			<action>
+				<step1>
+					<para>Set the "Electric/Wetline" switch to "Electric"</para>
+				</step1>
+				<step1>
+					<para>Notify Maintainer if Remote still won't activate hydraulic functions.</para>
+				</step1>
+			</action>
+			<malfunc label="malfunction">Remote Control connector at the Electric Control Box is not properly secured</malfunc>
+			<action>
+				<step1>
+					<para>If connector is loose, retighten and check operation</para>
+				</step1>
+				<step1>
+					<para>If connector is damaged, notify Maintainer to change Remote Control IAW <xref wpid="M00029-9-2320-451"/>.</para>
+				</step1>
+			</action>
+		</faultproc>
+	</tsproc>
+</tswp>

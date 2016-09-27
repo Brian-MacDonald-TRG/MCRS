@@ -1,0 +1,25 @@
+<stowagewp chngno="0" wpno="O00041-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="crew"/>
+		<title>STOWAGE and DECAL/ DATA PLATE GUIDE</title>
+	</wpidinfo>
+	<intro><para0><title></title><para></para></para0></intro>
+	<stowinfo>
+		<intro>
+			<para0>
+			<title></title>
+			<para></para>
+			</para0>
+		</intro>
+				<figure id="O00041-9-2320-451-F0001">
+				<title></title>
+				<graphic boardno="G06232000551"/>
+				</figure>
+			
+				<figure id="O00041-9-2320-451-F0002">
+				<title></title>
+				<graphic boardno="G06232000552"/>
+				</figure>
+	</stowinfo>
+</stowagewp>
+</opim>

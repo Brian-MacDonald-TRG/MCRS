@@ -1,0 +1,103 @@
+<maintwp chngno="0" wpno="M00075-9-2320-452">
+	<wpidinfo>
+		<maintlvl level="maintainer"/>
+		<title>MAINTAINER MAINTENANCE - SPRING SEAT INSTALL</title>
+	</wpidinfo>
+	<initial_setup>
+		<tools>
+			<tools-setup-item>
+				<name>Tool Kit, General Mechanics</name>
+				<itemref><xref itemid="S00007-9-2320-451-TOOL-4" wpid="S00007-9-2320-451"/>
+				</itemref>
+			</tools-setup-item>
+			<tools-setup-item>
+				<name>Shop Equipment, Welding</name>
+				<itemref><xref itemid="S00007-9-2320-451-TOOL-2" wpid="S00007-9-2320-451"/>
+				</itemref>
+			</tools-setup-item>
+
+		</tools>
+		<persnreq>
+			<persnreq-setup-item>
+				<name>Motor Transport Operator</name>
+				<mos>88M</mos>
+				<qty>4</qty>
+			</persnreq-setup-item>
+		</persnreq>
+		<eqpconds>
+			<eqpconds-setup-item>
+				<condition>Tilt Deck Recovery Trailer in Uncoupled Configuration (<xref wpid="O00027-9-2320-451"/>)</condition>
+			</eqpconds-setup-item>
+			<eqpconds-setup-item>
+				<condition>Wheels Chocked</condition>
+			</eqpconds-setup-item>
+			<eqpconds-setup-item>
+				<condition>Over Slung Axle Removed IAW (<xref wpid="M00074-9-2320-451">)</condition>
+			</eqpconds-setup-item>
+		</eqpconds>
+	</initial_setup>
+	<maintsk>
+		<install>
+			<proc>
+				<title>INSTALL</title>
+				<step1>
+					<specpara>
+					<warning>
+					<icon-set boardno="Heavy_Object"><icon-set boardno="Heavy_Parts-foot"><icon-set boardno="Heavy_Parts-hand"><icon-set boardno="Heavy_Parts-wall">
+					<trim.para>Axle weighs 200 lbs. (91 kg). Assistance is required to lift axle. Failure to comply may result in personnel death or injury, or equipment damage. Seek medical attention in event of injury.</trim.para>
+					<trim.para>The frame and axle must be firmly supported on a hard, level surface. Direct all personnel to stay clear of semitrailer when supported in air. Failure to comply may result in personnel death or injury, or equipment damage. Seek medical attention in event of injury.</trim.para></warning>
+					<note>
+					<trim.para>This procedure is to be used only when a new axle is being installed. If old axle is being installed, refer to Over Slung Axle Replace.</trim.para>
+					<trim.para>When ordering new axle, you must also order the lower alignment plates and spring seats. Two sets (alignment plate and lower spring seat) are required per axle.</trim.para>
+					<trim.para>If installing two new axles, pre-weld two alignment plates and spring seats, and install on the springs at opposite corners (for example, left-rear and right-front).</trim.para></note>
+					<para>Install two pads <callout assocfig="M00075-9-2320-452-F0001" label="5"> with rounded edges on spring <callout assocfig="M00075-9-2320-452-F0001" label="11">. Install end cap <callout assocfig="M00075-9-2320-452-F0001" label="4">.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Place axle <callout assocfig="M00075-9-2320-452-F0001" label="7"> in position under suspension. Ensure spring seats <callout assocfig="M00075-9-2320-452-F0001" label="6"> are equal distance from axle <callout assocfig="M00075-9-2320-452-F0001" label="7"> beam center hole. Spring seats <callout assocfig="M00075-9-2320-452-F0001" label="6"> should also be same distance from brake spiders.</para>
+				</step1>
+				<step1>
+					<para>Install four cap screws <callout assocfig="M00075-9-2320-452-F0001" label="1">, washers <callout assocfig="M00075-9-2320-452-F0001" label="10">, and new locknuts <callout assocfig="M00075-9-2320-452-F0001" label="9">. Do not tighten locknuts <callout assocfig="M00075-9-2320-452-F0001" label="9">.</para>
+				</step1>
+				<step1>
+					<para>Arrange spring seats <callout assocfig="M00075-9-2320-452-F0001" label="6"> so that center of seat is at top of axle <callout assocfig="M00075-9-2320-452-F0001" label="7"> beam. Exact top of axle <callout assocfig="M00075-9-2320-452-F0001" label="7"> beam is indicated by 0.31 in. (0.79 cm) die hole at top center of axle <callout assocfig="M00075-9-2320-452-F0001" label="7">.</para>
+				</step1>
+				<step1>
+					<para>Install two U-bolts <callout assocfig="M00075-9-2320-452-F0001" label="8">, eight washers <callout assocfig="M00075-9-2320-452-F0001" label="3">, and four new locknuts <callout assocfig="M00075-9-2320-452-F0001" label="2">. DO NOT tighten locknuts <callout assocfig="M00075-9-2320-452-F0001" label="2">.</para>
+				</step1>
+				
+				<figure id="M00075-9-2320-452-F0001">
+				<title>Spring Seat Installation</title>
+				<graphic boardno="G06232000404"></graphic>
+				</figure>
+
+				<step1>
+					<para>Ensure that both spring seats <callout assocfig="M00075-9-2320-452-F0002" label="1"> are parallel with each other.</para>
+				</step1>
+				<step1>
+					<para>Ensure that both spring seats <callout assocfig="M00075-9-2320-452-F0002" label="1"> fit tight to axle <callout assocfig="M00075-9-2320-452-F0002" label="2"> beam.</para>
+				</step1>
+				<step1>
+					<specpara>
+					<warning>
+					<icon-set boardno="Eye_Protection"><icon-set boardno="Vapor">
+					<trim.para>Wear welding mask, gloves, and protective apron when welding or using cutting torch. Ensure eye protection is the proper tint for the welding task being performed. Failure to comply may result in personnel injury. Seek medical attention in event of injury.</trim.para></warning>
+					<caution><trim.para>DO NOT attach welding ground clamps to U-bolts, springs, or axles except at designated weld points. These parts should be protected from weld spatter. Failure to comply may result in equipment damage.</trim.para></caution>
+					<para>Tack weld spring seats <callout assocfig="M00075-9-2320-452-F0002" label="1"> in place. Recheck to ensure that spring seats <callout assocfig="M00075-9-2320-452-F0002" label="1"> are still level, parallel, properly located, and aligned. Lower axle <callout assocfig="M00075-9-2320-452-F0002" label="2">.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Weld spring seats <callout assocfig="M00075-9-2320-452-F0002" label="1"> to axle <callout assocfig="M00075-9-2320-452-F0002" label="2"> using 0.375 in. (0.952 cm) fillet welds.</para>
+				</step1>
+				<step1>
+					<para>Disassemble and complete axle <callout assocfig="M00075-9-2320-452-F0002" label="2"> installation and alignment tasks.</para>
+				</step1>
+				
+				<figure id="M00075-9-2320-452-F0002">
+				<title>Spring Seat Installation</title>
+				<graphic boardno="G06232000404"></graphic>
+				</figure>
+			</proc>	
+		</install>
+	</maintsk>
+</maintwp>

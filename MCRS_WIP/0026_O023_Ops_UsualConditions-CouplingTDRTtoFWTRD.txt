@@ -1,0 +1,141 @@
+<opusualwp chngno="0" wpno="O00023-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="crew"/>
+			<title>Operation Under Usual Conditions<?Pub_newline?>OPERATING PROCEDURES - COUPLING THE TDRT TO THE FWTRD</title>
+	</wpidinfo>
+	<initial_setup>
+		<persnreq>
+			<persnreq-setup-item>
+				<name>Wheeled Vehicle Mechanic</name>
+				<mos>91B</mos>
+				<qty>1</qty>
+			</persnreq-setup-item>
+		</persnreq>
+		<eqpconds>
+			<eqpconds-setup-item>
+				<condition>Positioning Prime Mover IAW <xref wpid="O00005-9-2320-451"/></condition>
+			</eqpconds-setup-item>
+		</eqpconds>
+	</initial_setup>
+	<opertsk>
+		<oper>
+			<proc>
+				<step1>
+					<specpara>
+						<warning>
+							<trim.para>Operators must be familiar with the fifth wheel towing device in order to work with the Tilt Deck Recovery Trailer (TDRT). Failure to comply may result in injury or death.</trim.para>
+							<trim.para>During coupling to the TDRT, it may be necessary to adjust the angle of the FWTRD booms to match the angle of the TDRT mating cove. Only personnel involved in performing the connection should be near the prime mover and should exercise caution. Failure to comply may result in serious injury or death to personnel.</trim.para>
+							<trim.para>All other persons not involved in the actual coupling/uncoupling should stand clear of the prime mover to prevent serious injury or death. Never stand between the prime mover and the TDRT when the prime mover is being backed up the TDRT. A crush hazard exists. Serious injury or death may result.</trim.para>
+							<trim.para>Coupling should be done by two people, the first person in the prime mover cab and the second acting as a ground guide. The person in the prime mover cab must keep the ground guide in sight at all times. All other personnel should stand completely clear of the area. A crush hazard exists. Failure to comply may result in serious injury or death to personnel.</trim.para></warning>
+						<para>Using the valve control levers, MAST EXTEND and align second hole and half rest. Insert pivot pins <callout assocfig="O00023-9-2320-451-F0001" label="1"/> through the second hole using the half rest. Do not insert the spring clips in the pins.</para>
+					</specpara>
+				</step1>
+
+					<figure id="O00023-9-2320-451-F0001">
+					<title>Curb and Driver Side Pivot Pins Inserted at 2nd Hole in Half Rest</title>
+					<graphic boardno="G06232000172"></graphic>
+					</figure>
+
+				<step1>
+					<para>Using the valve control levers, MAST RETRACT to set pivot pins</para>
+				</step1>
+				<step1>
+					<para>Using the valve control levers, BOOM RETRACT until the end of the booms <callout assocfig="O00023-9-2320-451-F0002" label="1"/> align with the Tilt Deck Recovery Trailer mating cove <callout assocfig="O00023-9-2320-451-F0002" label="2"/></para>
+				</step1>
+					<figure id="O00023-9-2320-451-F0002">
+					<title>FWTRD Booms Aligned with TDRT Mating Cove</title>
+					<graphic boardno="G06232000165"></graphic>
+					</figure>
+
+					<step1>
+					<para>Position receivers so that the spring lock <callout assocfig="O00023-9-2320-451-F0003" label="1"/> engages 4th hole from base of the booms.</para>
+				</step1>
+				<step1>
+					<para>Remove STRYKER towing adapters or wheel stops from FWTRD receivers <callout assocfig="O00023-9-2320-451-F0003" label="2"/></para>
+				</step1>
+
+					<figure id="O00023-9-2320-451-F0003">
+					<title>Receiver with Spring Lock in Fourth Hole Position and Adaptors Removed</title>
+					<graphic boardno="G06232000166"></graphic>
+					</figure>
+				<step1>
+					<para>Gain access to boom extensions, remove and stow clevises.</para>
+				</step1>
+				<step1>
+					<para>Back the prime mover up until the first cross member engages the TDRT mating cove <callout assocfig="O00023-9-2320-451-F0004" label="1"/>.</para>
+				</step1>
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>BOOM EXTEND or BOOM RETRACT as needed for the booms to insert fully into the mating cove allowing the receivers to contact the stop plates.</trim.para>
+						</note>
+						<para>Back the prime mover until driver and curb side receivers <callout assocfig="O00023-9-2320-451-F0004" label="2"/> contact the locking pin stop plate.</para>
+					</specpara>
+				</step1>
+					<figure id="O00023-9-2320-451-F0004">
+					<title>FWTRD Receiver Aligned Against Stop Plate</title>
+					<graphic boardno="G06232000168"></graphic>
+					</figure>
+				<step1>
+					<para>Using the valve control levers, BOOM RETRACT or BOOM EXTEND to align receivers align with the locking pin tubes mount.</para>
+				</step1>
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>The Wheel Stops act as locking pins for the TDRT. They have tapered bottoms.  When used on the TDRT, the tapered end is inserted into the receiver first.</trim.para>
+							<trim.para>Loose installation of locking pins is normal. </trim.para>
+						</note>
+						<para>Loosley install curb and driver side locking pins.<callout assocfig="O00023-9-2320-451-F0005" label="1"/></para>
+					</specpara>
+				</step1>
+					<figure id="O00023-9-2320-451-F0005">
+					<title>Locking Pin Inserted Tapered Side Down into TDRT </title>
+					<graphic boardno="G06232000169"></graphic>
+					</figure>
+				<step1>
+					<para>Using valve control levers, BOOM EXTEND until the landing legs are slightly off the ground.</para>
+				</step1>
+				<step1>
+					<para>Pin the center ram <callout assocfig="O00023-9-2320-451-F0006" label="1"/> at the first hole setting.</para>
+				</step1>
+					<figure id="O00023-9-2320-451-F0006">
+					<title>Center Ram Pinned at First Hole Setting</title>
+					<graphic boardno="G06232000170"></graphic>
+					</figure>
+				<step1>
+					<para>Rotate the transport leg swing arm handle counter-clockwise to raise and stow transport legs</para>
+				</step1>
+				<step1>
+					<para>Remove curb and driver side landing leg locking pins <callout assocfig="O00023-9-2320-451-F0007" label="1"/>.</para>
+				</step1>
+					<figure id="O00023-9-2320-451-F0007">
+					<title>Locking Pin removal from Landing Legs</title>
+					<graphic boardno="G06232000173"></graphic>
+					</figure>
+				<step1>
+					<specpara>
+						<warning>
+							<icon-set boardno="Heavy_Object"/> 
+							<icon-set boardno="Heavy_Parts-above"/> 
+							<icon-set boardno="Heavy_Parts-foot"/>
+							<icon-set boardno="Heavy_Parts-hand"/>
+							<icon-set boardno="Heavy_Parts-wall"/>
+							<trim.para>Each landing leg weighs 121lbs (54.88Kg). Each leg has a lift spring to aid the operator when bring the leg up to travel position. However caution should be used when lifting or lowering the transport legs. Should the spring fail, or the operator accidently drop the leg before it is pinned, a crush hazard exists. Failure to comply may result in injury or death to personnel.</trim.para>
+						</warning>
+						<para>Lift each landing leg to the transport position and insert locking pin <callout assocfig="O00023-9-2320-451-F0008" label="1"/> at the top of the leg and secure with spring clips </para>
+					</specpara>
+				</step1>
+					<figure id="O00023-9-2320-451-F0008">
+					<title>TDRT Landing Leg Secured in Transport Position.</title>
+					<graphic boardno="G06232000174"></graphic>
+					</figure>
+				<step1>
+					<para>Install AIR BRAKE CONNECTIONS IAW <xref wpid="O00031-9-2320-451"/>.</para>
+				</step1>
+				<step1>
+					<para>Refer to <xref wpid="O00030-9-2320-451"/> for setup and operation of lighting.</para>
+				</step1>
+			</proc>
+		</oper>
+	</opertsk>
+</opusualwp>

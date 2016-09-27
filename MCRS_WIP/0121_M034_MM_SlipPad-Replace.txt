@@ -1,0 +1,58 @@
+<maintwp chngno="0" wpno="M00034-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="maintainer"/>
+		<title>MAINTAINER MAINTENANCE <?Pub _newline?>SLIP PAD <?Pub _newline?>REPLACE</title>
+	</wpidinfo>
+	<initial_setup>
+		<tools>
+			<tools-setup-item>
+				<name>Tool Kit, General Mechanics</name>
+				<itemref>
+					<xref itemid="S00007-9-2320-451-TOOL-4" wpid="S00007-9-2320-451"/>
+				</itemref>
+			</tools-setup-item>
+		</tools>
+		<persnreq>
+			<persnreq-setup-item>
+				<name>Motor Transport Operator</name>
+				<mos>88M</mos>
+				<qty>1</qty>
+			</persnreq-setup-item>
+		</persnreq>
+		<eqpconds>
+			<eqpconds-setup-item>
+				<condition>Fifth Wheel Towing and Recovery Device in storage configuration (<xref wpid="O00035-9-2320-451"/>).</condition>
+			</eqpconds-setup-item>
+		</eqpconds>
+	</initial_setup>
+	<maintsk>
+		<replace>
+			<proc>
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>All slip pads are removed/installed the same way.</trim.para>
+						</note>
+						<para>Gain access to unserviceable slip pad.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Remove four screws <callout assocfig="M00034-9-2320-451-F0001" label="1"/>.</para>
+				</step1>
+				<step1>
+					<para>Remove slip pad <callout assocfig="M00034-9-2320-451-F0001" label="2"/> from frame.</para>
+				</step1>
+				<step1>
+					<para>Obtain serviceable item.</para>
+				</step1>
+				<step1>
+					<para>Position slip pad on frame and secure with four screws</para>
+				</step1>
+				<figure id="M00034-9-2320-451-F0001">
+					<title>Slip Pad</title>
+					<graphic boardno="G06232000301"></graphic>
+				</figure>
+			</proc>
+		</replace>
+	</maintsk>
+</maintwp>

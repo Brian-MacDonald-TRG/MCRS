@@ -1,0 +1,172 @@
+<opusualwp chngno="0" wpno="O00017-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="crew"/>
+		<title>OPERATING PROCEDURES <?Pub _newline?>FWTRD 35K WINCHING OPERATIONS</title>
+	</wpidinfo>
+	<initial_setup>
+		<tools>
+			<tools-setup-item>
+				<name>Tool Kit, General Mechanics</name>
+				<itemref>
+					<xref itemid="S00007-9-2320-451-TOOL-4" wpid="S00007-9-2320-451"/>
+				</itemref>
+			</tools-setup-item>
+			<tools-setup-item>
+				<name>1-1/4 inch Shackle</name>
+			</tools-setup-item>
+		</tools>
+		<persnreq>
+			<persnreq-setup-item>
+				<name>Wheeled Vehicle Mechanic</name>
+				<mos>91B</mos>
+				<qty>1</qty>
+			</persnreq-setup-item>
+		</persnreq>
+		<eqpconds>
+			<eqpconds-setup-item>
+				<condition>FWTRD in Transport Configuration IAW <xref wpid="O00004-9-2320-451"/>.</condition>
+			</eqpconds-setup-item>
+		</eqpconds>
+	</initial_setup>
+	<opertsk>
+		<prepforuse>
+			<proc>
+				<step1>
+					<specpara>
+						<note>
+							<trim.para></trim.para>
+							<trim.para>These instructions are for normal operation of the 35K winch when it is plumbed to the 18K/35K diverter. Using the 35K winch in tandem with the prime mover's 45K winch requires reconfiguring the hydraulics for the 35K winch. Refer to <xref wpid="O00018-9-2320-451"/> for specific instructions regarding tandem operation of winches. For specific recovery procedures refer to <xref wpid="O00019-9-2320-451"/>.</trim.para>
+						</note>
+						<para>Pull the diverter knob to the OUT position for 35K winch control <callout assocfig="O00017-9-2320-451-F0001" label="1"/>.</para>
+					</specpara>
+				</step1>
+
+					<figure id="O00017-9-2320-451-F0001">
+					<title> Diverter Knob in the OUT Position for 35K Winch Operation</title>
+					<graphic boardno="G06232000137"></graphic>
+					</figure>
+
+				<step1>
+					<para>Lift free spool lever <callout assocfig="O00017-9-2320-451-F0002" label="1"/> to the UP position.</para>
+				</step1>
+
+					<figure id="O00017-9-2320-451-F0002">
+					<title>35K Winch Free Spool Lever.</title>
+					<graphic boardno="G06232000138"></graphic>
+					</figure>
+
+				<step1>
+					<para>Using the remote control, MAST EXTEND to slacken the safety chains <callout assocfig="O00017-9-2320-451-F0003" label="1"/>.</para>
+				</step1>
+				<step1>
+					<para>Remove and stow the chains.</para>
+				</step1>
+				<step1>
+					<para>Remove two safety clevises from the end of the mast <callout assocfig="O00017-9-2320-451-F0003" label="2"/>. Set aside for reinstallation.</para>
+				</step1>
+
+					<figure id="O00017-9-2320-451-F0003">
+					<title>Safety Chains and Clevises.</title>
+					<graphic boardno="G06232000139"></graphic>
+					</figure>
+
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>Steps 6-9 are performed while standing on the deck of the prime mover, just forward of the fifth wheel.</trim.para>
+						</note>
+						<para>Remove hitch clip pin and keeper pin <callout assocfig="O00017-9-2320-451-F0004" label="1"/> from top of double sheave.</para>
+					</specpara>
+				</step1>
+
+					<figure id="O00017-9-2320-451-F0004">
+					<title>Double Sheave.</title>
+					<graphic boardno="G06232000140"></graphic>
+					</figure>
+
+				<step1>
+					<para>Place the winch cable <callout assocfig="O00017-9-2320-451-F0005" label="1"/> into the sheave.</para>
+				</step1>
+				<step1>
+					<para>Insert keeper pin <callout assocfig="O00017-9-2320-451-F0005" label="2"/> in the sheave block and secure with hitch clip in <callout assocfig="O00017-9-2320-451-F0005" label="3"/>.</para>
+				</step1>
+
+					<figure id="O00017-9-2320-451-F0005">
+					<title>35k Winch Cable Inserted, Keeper Pin Installed</title>
+					<graphic boardno="G06232000141"></graphic>
+					</figure>
+
+				<step1>
+					<specpara>
+						<caution>
+							<trim.para>
+								Do not route the cable under the cross bar for sledding when attaching the winch cable to the boom section. This could cause damage to the winch cable and the Cross Bar when bringing the cable to the operator. Failure to comply may result in damage to the equipment.
+							</trim.para>
+						</caution>
+						<para>Attach 35k winch cable to boom D-ring using a 1-1/4" shackle <callout assocfig="O00017-9-2320-451-F0006" label="1"/>.</para>
+					</specpara>
+				</step1>
+					<figure id="O00017-9-2320-451-F0006">
+					<title>Winch Cable Attached at Boom D-Ring.</title>
+					<graphic boardno="G06232000142"></graphic>
+					</figure>
+
+				<step1>
+					<para>Using the remote control, MAST RETRACT until pivot arrows <callout assocfig="O00017-9-2320-451-F0007" label="1"/> align.</para>
+				</step1>
+				<step1>
+					<para>Insert driver and curb pivot pins <callout assocfig="O00017-9-2320-451-F0007" label="2"/> in aligned holes on mast track.</para>
+				</step1>
+
+					<figure id="O00017-9-2320-451-F0007">
+					<title>Pivot Pin Hole Alignment.</title>
+					<graphic boardno="G06232000143"></graphic>
+					</figure>
+
+				<step1>
+					<para>Using the remote control, MAST EXTEND until the mast is vertical and flush with main frame <callout assocfig="O00017-9-2320-451-F0008" label="1"/>, and the driver and curb side pivot pins loosens.</para>
+				</step1>
+				<step1>
+					<para>Remove driver and curb side pivot pins <callout assocfig="O00017-9-2320-451-F0008" label="2"/>.</para>
+				</step1>
+				<step1>
+					<para>
+						Using the remote control, MAST RETRACT fully in the track <callout assocfig="O00017-9-2320-451-F0008" label="1"/>.
+					</para>
+				</step1>
+				<step1>
+					<para>
+						Re-install driver side and curb side safety clevises <callout assocfig="O00017-9-2320-451-F0008" label="2"/> at the bottom of the mast.
+					</para>
+				</step1>
+				<figure id="O00017-9-2320-451-F0008">
+					<title>Mast fully retracted and safety clevis location.</title>
+					<graphic boardno="G06232000144"></graphic>
+				</figure>
+				<step1>
+					<para>Using the remote control, BOOM EXTEND until Booms are ground <callout assocfig="O00017-9-2320-451-F0009" label="1"/>.</para>
+				</step1>
+				<figure id="O00017-9-2320-451-F0009">
+					<title>35K Winch Cable at Ground Level.</title>
+					<graphic boardno="G06232000145"></graphic>
+					</figure>
+				<step1>
+					<para>Disconnect 35K Winch Cable from 1-1/4" shackle. Remove from Boom D-ring.</para>
+				</step1>
+
+				<step1>
+					<para>Bring the winch cable to the disabled vehicle.</para>
+				</step1>
+				<step1>
+					<para>Rig for winching in accordance with <extref docno="FM 4-30.31"/>, "Recovery and Battle Damage Assessment and Repair" procedures.</para>
+				</step1>
+				<step1>
+					<para>To disengage free spool mode on 35k winch, push free spool lever to the down position.</para>
+				</step1>
+				<step1>
+					<para>Begin winching procedure IAW <xref wpid="O00019-9-2320-451"/>.</para>
+				</step1>
+			</proc>
+		</prepforuse>
+	</opertsk>
+</opusualwp>

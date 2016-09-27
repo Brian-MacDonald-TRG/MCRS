@@ -1,0 +1,25 @@
+<tswp chngno="0" wpno="T00034-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="maintainer"/>
+		<title>TROUBLESHOOTING PROCEDURES <?Pub _newline?>HYDRAULIC MAST FUNCTIONS</title>
+	</wpidinfo>
+	<initial_setup>
+		<eqpconds>
+			<eqpconds-setup-item>
+				<condition>Coupling FWTRD to Prime Mover(<xref wpid="O00003-9-2320-451"/>).</condition>
+			</eqpconds-setup-item>
+		</eqpconds>
+	</initial_setup>
+	<tsproc>
+		<faultproc>
+			<title>Maintainer Troubleshooting</title>
+			<symptom>Mast will not EXTEND or RETRACT</symptom>
+			<malfunc label="malfunction">Mast extended to point that Cam Valve Safety has been engaged</malfunc>
+			<action>
+				<step1>
+					<para>Using the small pinch bar from the BII, pry the Cam Valve back away from the cam slightly while having another Operator “Retract” the Mast.  Use Caution for performing this task as it requires being between the Mast and Boom pivot area to pry the Cam Valve.</para>
+				</step1>
+			</action>
+		</faultproc>
+	</tsproc>
+</tswp>

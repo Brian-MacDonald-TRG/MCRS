@@ -1,0 +1,25 @@
+<tswp chngno="0" wpno="T00017-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="crew"/>
+		<title>TROUBLESHOOTING PROCEDURES <?Pub _newline?>BOOM CYLINDER LEAK</title>
+	</wpidinfo>
+	<initial_setup>
+		<eqpconds>
+			<eqpconds-setup-item>
+				<condition>Coupling FWTRD to Prime Mover<xref wpid="O00003-9-2320-451"/>.</condition>
+			</eqpconds-setup-item>
+		</eqpconds>
+	</initial_setup>
+	<tsproc>
+		<faultproc>
+			<title>Crew Troubleshooting</title>
+			<symptom>Boom Cylinder is leaking</symptom>
+			<malfunc label="malfunction">Class III Leak </malfunc>
+			<action>
+				<step1>
+					<para>Notify Maintainer to replace Mast to Boom Cylinder IAW <xref wpid="M00065-9-2320-451"/>.</para>
+				</step1>
+			</action>
+		</faultproc>
+	</tsproc>
+</tswp>

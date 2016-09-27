@@ -1,0 +1,33 @@
+<tswp chngno="0" wpno="T00035-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="maintainer"/>
+		<title>TROUBLESHOOTING PROCEDURES <?Pub _newline?>HYDRAULIC BOOM FUNCTIONS</title>
+	</wpidinfo>
+	<initial_setup>
+		<eqpconds>
+			<eqpconds-setup-item>
+				<condition>Coupling FWTRD to Prime Mover (<xref wpid="O00003-9-2320-451"/>).</condition>
+			</eqpconds-setup-item>
+		</eqpconds>
+	</initial_setup>
+	<tsproc>
+		<faultproc>
+			<title>Maintainer Troubleshooting</title>
+			<symptom>Class 3 oil spill evident in boom area</symptom>
+			<malfunc label="malfunction">Boom Cylinder is leaking</malfunc>
+			<action>
+				<step1>
+					<para>Insert the Center Lock Pin into the Center Ram and then using the Valve Control Levers RETRACT the Boom fully and hold pressure for 5 seconds. Note: In RETRACT the Booms will only build 2000 psi. Inspect the cylinder to find where it is leaking.</para>
+				</step1>
+				<step1>
+					<para>Cylinder leaking at a fitting. tighten the fitting and retest.</para>
+				</step1>
+				<step1>
+					<para>Cylinder leaking at the shaft seal, replace the Boom Cylinder IAW <xref wpid="M00065-9-2320-451"/></para>
+				</step1>
+			</action>
+		</faultproc>
+	</tsproc>
+</tswp>
+
+ 

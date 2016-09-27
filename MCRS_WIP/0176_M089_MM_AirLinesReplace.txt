@@ -1,0 +1,132 @@
+<maintwp chngno="0" wpno="M00089-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="maintainer"/>
+			<title>MAINTAINER MAINTENANCE - AIR LINES<?Pub _newline?> REPLACE</title>
+	</wpidinfo>
+	<initial_setup>
+		<tools>
+			<tools-setup-item>
+				<name>Tool Kit, Mechanics General</name>
+				<itemref>
+					<xref itemid="S00007-9-2320-451-TOOL-4" wpid="S00007-9-2320-451"/>
+				</itemref>
+			</tools-setup-item>
+		</tools>
+		<persnreq>
+			<persnreq-setup-item>
+				<name>Motor Transport Operator</name>
+				<mos>88M</mos>
+				<qty>X</qty>
+			</persnreq-setup-item>
+		</persnreq>
+		<eqpconds>
+			<eqpconds-setup-item>
+				<condition>Tilt Deck Recovery Trailer in uncoupled configuration. <xref wpid="O00027-9-2320-451"/></condition>
+			</eqpconds-setup-item>
+		</eqpconds>
+	</initial_setup>
+	<maintsk>
+		<replace>
+			<proc>
+				<step1>
+					<para>Remove wire ties <callout assocfig="M00089-9-2320-451-F0001" label="1"/> to metal guide rings <callout assocfig="M00089-9-2320-451-F0001" label="2"/>.</para>
+				</step1>
+
+					<figure id="M00089-9-2320-451-F0001">
+					<title>Wire Tie Removal</title>
+					<graphic boardno="G06232000449"/>
+					</figure>
+
+				<step1>
+					<para>Remove wire ties <callout assocfig="M00089-9-2320-451-F0002" label="1"/> connecting emergency line to brake service line.</para>
+				</step1>
+				<step1>
+					<para>Remove wire ties <callout assocfig="M00089-9-2320-451-F0002" label="2"/> from brake service line to ABS line.</para>
+				</step1>
+
+					<figure id="M00089-9-2320-451-F0002">
+					<title>Wire Tie Removal</title>
+					<graphic boardno="G06232000450"/>
+					</figure>
+		
+				<step1>
+					<para>Remove remaining wire ties <callout assocfig="M00089-9-2320-451-F0003" label="1"/>.</para>
+				</step1>
+
+					<figure id="M00089-9-2320-451-F0003">
+					<title>Wire Tie Removal</title>
+					<graphic boardno="G06232000451"/>
+					</figure>
+
+				<step1>
+					<para>Tag and remove emergency and brake air lines <callout assocfig="M00089-9-2320-451-F0004" label="1"/> from the rear junction box.</para>
+				</step1>
+
+					<figure id="M00089-9-2320-451-F0004">
+					<title>Air Line Removal</title>
+					<graphic boardno="G06232000452"/>
+					</figure>
+
+				<step1>
+					<para>Tag and remove air lines <callout assocfig="M00089-9-2320-451-F0005" label="1"/> from the front panel.</para>
+				</step1>
+
+					<figure id="M00089-9-2320-451-F0005">
+					<title>Air Line Removal at Front Panel</title>
+					<graphic boardno="G06232000453"/>
+					</figure>
+
+				<step1>
+					<para>Remove air lines. Obtain serviceable items.</para>
+				</step1>
+				<step1>
+					<para>Connect emergency line and brake service line <callout assocfig="M00089-9-2320-451-F0006" label="1"/> to the front panel.</para>
+				</step1>
+
+					<figure id="M00089-9-2320-451-F0006">
+					<title>Air Line Front Panel Connection</title>
+					<graphic boardno="G06232000453"/>
+					</figure>
+
+				<step1>
+					<para>Connect emergency line and brake service line to rear junction box.</para>
+				</step1>
+
+					<figure id="M00089-9-2320-451-F0007">
+					<title>Air Line Rear Junction Box</title>
+					<graphic boardno="G06232000452"/>
+					</figure>
+
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>Wire ties must be installed at each adjacent loop.</trim.para>
+						</note>
+						<para>Wire tie brake service line to ABS Line <callout assocfig="M00089-9-2320-451-F0008" label="1"/>.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Wire tie emergency line to brake service line <callout assocfig="M00089-9-2320-451-F0008" label="2"/></para>
+				</step1>
+				<step1>
+					<para>Wire tie emergency line to metal guide rings <callout assocfig="M00089-9-2320-451-F0008" label="3"/></para>
+				</step1>
+
+					<figure id="M00089-9-2320-451-F0008">
+					<title>Wire Tie Installation</title>
+					<graphic boardno="G06232000454"/>
+					</figure>
+
+				<step1>
+					<para>Secure ABS Line to emergency and brake service lines <callout assocfig="M00089-9-2320-451-F0009"/>.</para>
+				</step1>
+
+					<figure id="M00089-9-2320-451-F0009">
+					<title>Wire Tie Installation</title>
+					<graphic boardno="G06232000455"/>
+					</figure>
+			
+			</proc>
+		</replace>
+	</maintsk>
+</maintwp>

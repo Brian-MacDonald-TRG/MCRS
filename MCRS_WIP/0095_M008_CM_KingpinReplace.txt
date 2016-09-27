@@ -1,0 +1,104 @@
+<maintwp chngno="0" wpno="M00008-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="crew"/>
+		<title>KING PIN SERVICE/REPLACE</title>
+	</wpidinfo>
+	<initial_setup>
+		<persnreq>
+			<persnreq-setup-item>
+				<name>Motor Transport Operator</name>
+				<mos>88M(H8)</mos>
+				<qty>1</qty>
+			</persnreq-setup-item>
+			<persnreq-setup-item>
+				<name>Motor Transport Operator</name>
+				<mos>88M</mos>
+				<qty>1</qty>
+			</persnreq-setup-item>
+		</persnreq>
+		<eqpconds>
+			<eqpconds-setup-item>
+				<condition>Fifth Wheel Towing and Recovery Device in uncoupled configuration <xref wpid="O00001-9-2320-451"/>.</condition>
+			</eqpconds-setup-item>
+		</eqpconds>
+	</initial_setup>
+	<maintsk>
+		<replace>
+			<proc>
+				<title>REPLACE</title>
+					<step1>
+						<specpara>
+							<note>
+								<trim.para>The main frame may be lowered using MAST EXTEND to ease kingpin placement. After placement, return mainframe to the highest position using MAST RETRACT.</trim.para>
+							</note>
+							<para>Open fifth wheel cover.</para>
+						</specpara>
+					</step1>
+					<step1>
+						<para>Remove boom caps IAW <xref wpid="M00011-9-2320-451"/>.</para>
+					</step1>
+					<step1>
+						<para>Disengage and remove spring pin <callout assocfig="M00008-9-2320-451-F0001" label="1"/> from top of kingpin <callout assocfig="M00008-9-2320-451-F0001" label="2"/>.</para>
+					</step1>
+					<step1>
+						<para>Gain access to king pin wrench.</para>
+					</step1>
+					<step1>
+						<para>Align tabs on kingpin wrench <callout assocfig="M00008-9-2320-451-F0001" label="3"/>, with slots on kingpin nut <callout assocfig="M00008-9-2320-451-F0001" label="4"/>.</para>
+					</step1>
+					<step1>
+						<para>Remove kingpin nut <callout assocfig="M00008-9-2320-451-F0001" label="4"/> and grommet <callout assocfig="M00008-9-2320-451-F0001" label="5"/>. Set aside for reinstallation.</para>
+					</step1>
+					<step1>
+						<para>Gain access and rotate kingpin <callout assocfig="M00008-9-2320-451-F0001" label="2"/> to disengage safety <callout assocfig="M00008-9-2320-451-F0001" label="6"/>.</para>
+					</step1>
+					<step1>
+						<para>Lower kingpin from main frame.</para>
+					</step1>
+					<step1>
+						<para>Obtain serviceable kingpin.</para>
+					</step1>
+						<figure id="M00008-9-2320-451-F0001">
+						<title>King Pin Removal</title>
+						<graphic boardno="G06232000597"></graphic>
+						</figure>
+					<step1>
+						<para>Gain access to bottom of main frame.</para>
+					</step1>
+					<step1>
+						<specpara>
+							<note>
+								<trim.para>The size and location of kingpin installation is determined by the prime mover used. The M911 Truck, Tractor, and M920 Truck, Tractor, require the 3 1/2 inch (88.9 mm) kingpin to be installed in position A. The M915 series Truck Tractor requires the 2 inch (50.8 mm) kingpin to be installed in position B. The M916, M916A1, M916A2 Truck, Tractor, and M983A4 LET Tractor require the 3 1/2 inch (88.9 mm) kingpin to be installed in position B.</trim.para>
+								<trim.para>A plug takes up space in unused King Pin location. It may be necessary to move the plug in an unused King Pin location.</trim.para>
+							</note>
+							<para> Insert kingpin up through position A or position B <callout assocfig="M00008-9-2320-451-F0002"/></para>
+						</specpara>
+					</step1>
+						<figure id="M00008-9-2320-451-F0002">
+						<title>King Pin Position</title>
+						<graphic boardno="G06232000598"></graphic>
+						</figure>
+					<step1>
+						<para>Rotate kingpin <callout assocfig="M00008-9-2320-451-F0003" label="2"/> to engage safety <callout assocfig="M00008-9-2320-451-F0003" label="6"/>.</para>
+					</step1>
+					<step1>
+						<para>Place grommet <callout assocfig="M00008-9-2320-451-F0003" label="5"/> over applicable position and secure with kingpin nut <callout assocfig="M00008-9-2320-451-F0003" label="4"/>.</para>
+					</step1>
+						<figure id="M00008-9-2320-451-F0003">
+						<title>King Pin Installation.</title>
+						<graphic boardno="G06232000599"></graphic>
+						</figure>
+					<step1>
+						<para>Using kingpin wrench <callout assocfig="M00008-9-2320-451-F0004" label="3"/>, align tabs on wrench with slots on kingpin nut. Tighten kingpin nut until two notches pass spring-pin hole.</para>
+					</step1>
+					<step1>
+						<para>Install spring pin <callout assocfig="M00008-9-2320-451-F0004" label="1"/> through top of kingpin <callout assocfig="M00008-9-2320-451-F0004" label="2"/>.</para>
+					</step1>
+						<figure id="M00008-9-2320-451-F0004">
+						<title>King Pin Nut Alignment.</title>
+						<graphic boardno="G06232000600"></graphic>
+						</figure>
+				</proc>
+			</replace>
+		</maintsk>
+	</maintwp>

@@ -1,0 +1,72 @@
+<opusualwp chngno="0" wpno="O00010-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="crew"/>
+		<title>OPERATING PROCEDURES<?Pub _newline?>CROSS BAR FOR SLEDDING STOWAGE</title>
+	</wpidinfo>
+	<initial_setup>
+		<persnreq>
+			<persnreq-setup-item>
+				<name>Wheeled Vehicle Mechanic</name>
+				<mos>91B</mos>
+				<qty>1</qty>
+			</persnreq-setup-item>
+		</persnreq>
+		<eqpconds>
+			<eqpconds-setup-item>
+				<condition>FWTRD Prepared for Towing IAW <xref wpid="O00005-9-2320-451"/>
+				Sledding Bar REMOVED from Towed Vehicle</condition>
+			</eqpconds-setup-item>
+		</eqpconds>
+	</initial_setup>
+	<opertsk>
+		<prepforuse>
+			<proc>
+				<step1>
+					<specpara>
+						<warning>
+							<icon-set boardno="Heavy_Parts-above"/>
+							<icon-set boardno="Heavy_Parts-foot"/>
+							<icon-set boardno="Heavy_Parts-hand"/>
+							<icon-set boardno="Heavy_Parts-wall"/>
+							<trim.para>Operations utilizing the Cross Bar for Sledding are performed on disabled vehicles with significant damage. These vehicles can be unstable and shift suddenly creating crush hazards. Use extreme caution when positioning and securing the cross bar for sledding to prevent serious injury and or death to personnel.</trim.para>
+						</warning>
+						<para>Position Cross Bar for Sledding with the Sledding Shoes <callout assocfig="O00010-9-2320-451-F0001" label="1"/> on the FWTRD Booms over the the rear cross member, with the tow loop of the Sledding Shoes facing forward.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Slack the 18K winch chains <callout assocfig="O00010-9-2320-451-F0001" label="2"/> and pass them through D-rings at the front of the FWTRD cross member, over the Cross Bar for Sledding and secure to the Lift/Tie Down rings <callout assocfig="O00010-9-2320-451-F0001" label="3"/> on the FWTRD booms.</para>
+				</step1>
+				<step1>
+					<para>Using the valve control lever "Winch IN" to secure the Cross Bar to the FWTRD booms. </para>
+				</step1>
+				<step1>
+					<para> Install 2 each twist clevises with pins, <callout assocfig="O00010-9-2320-451-F0001" label="4"/> from the rear D-rings on the FWTRD cross member to the tabs on the Cross Bar for Sledding.</para>
+				</step1>
+				
+					<figure id="O00010-9-2320-451-F0001">
+					<title>Cross Bar secured to booms for storage.</title>
+					<graphic boardno="G06232000103"></graphic>
+					</figure>
+
+				<step1>
+					<para>Perform steps 1-7 of <xref wpid="O00004-9-2320-451"/> Transport Configuration.</para>
+				</step1>
+				<step1>
+					<para>Using the remote control, MAST EXTEND until the cross bar is aligned over the top of the storage brackets.</para>
+				</step1>
+				<step1>
+					<para>Using the remote control, WINCH OUT to slacken 18k Winch chains. This will drop the cross bar into the stowage brackets.</para>
+				</step1>
+				<step1>
+					<para>Remove safety clevises that are stored on the stowage brackets and reinstall through the D-rings on the rear of the cross bar back to the stowage brackets.</para>
+				</step1>
+				<step1>
+					<para>Remove the two safety clevises that secured the Cross Bar to the FWTRD booms and reinstall them through the D-Rings at the front of the Cross Bar to the stowage bracket.</para>
+				</step1>
+				<step1>
+					<para>Once all four safety clevises are holding the Cross Bar onto the bracket, slack the 18K winch in order to remove the chains and stow the 18K winch cable.</para>
+				</step1>
+			</proc>
+		</prepforuse>
+	</opertsk>
+</opusualwp>

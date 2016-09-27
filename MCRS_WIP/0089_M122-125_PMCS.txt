@@ -1,0 +1,1900 @@
+<mim chap-toc="no" chngno="0" revno="0">
+    <titlepg maintlvl="crew">
+        <name>MODULAR CATASTROPHIC RECOVERY SYSTEM (MCRS) PMCS INSTRUCTIONS</name>
+    </titlepg>
+<pmcscategory>
+	<pmcsintrowp chngno="0" wpno="M00001-9-2320-451">
+		<wpidinfo>
+			<maintlvl level="crew"/>
+			<title>Preventive Maintenance Checks and Services (PMCS)<?Pub _newline ?>Introduction</title>
+		</wpidinfo>
+		<intro>
+			<para0>
+				<title>General</title>
+				<para>The following information describes PMCS procedures on the operator level. The PMCS table has been provided to ensure the Modular Catastrophic Recovery System (MCRS) is in proper operating condition, and ready for use.</para>
+				<subpara1>
+					<title>Frequency of Performing PMCS</title>
+					<para>PMCS will be performed before equipment is packed for use, during modification and repair after use, or at any time deemed necessary by the maintenance officer.</para>
+				</subpara1>
+				<subpara1>
+					<title>PMCS Columnar Entries Table 1</title>
+					<para>
+						<emphasis emph="italic">Item Number.</emphasis>
+						The item number column shall be used as a source of the item number required for the TM Number column on DA Form 2404/ DA 5988E (Equipment Inspection and Maintenance Worksheet), when recording the results of the PMCS.
+					</para>
+					<para>
+						<emphasis emph="italic">Interval.</emphasis>
+						This column identifies the required PMCS interval.
+					</para>
+					<para>
+						<emphasis emph="italic">Item to be inspected.</emphasis >
+						Contains the common name of the item to be inspected.
+					</para>
+					<para>
+						<emphasis emph="italic">Procedures.</emphasis>
+						Provides a brief description of the procedures by which the checks are to be performed.
+					</para>
+					<para>
+						<emphasis emph="italic">Equipment Not Ready/Available If:</emphasis>
+						Indicates faults which will prevent the equipment from performing its primary mission.
+					</para>
+				</subpara1>
+				<subpara1>
+					<title>Recording Defects</title>
+					<para>
+						All defects discovered during the inspection will be recorded using the applicable specifics in
+						<extref docno="DA PAM 738-750" />
+						,
+						<extref docno="DA PAM 738-751"/>
+						, and
+						<extref docno="TB 43-0002-34"/>
+						.
+					</para>
+				</subpara1>
+				<subpara1>
+					<title>Over Age Items</title>
+					<para>
+						During any inspection, or at any time that an item is found to be over age (i.e., shelf/service-life has expired as specified in
+						<extref docno="TB 43-0002-34"/>
+						), the item will be removed from service, condemned, and tagged, in accordance with
+						<extref docno="DA PAM 738-751"/>
+						.
+					</para>
+				</subpara1>
+				<subpara1>
+					<title>Conservation of Resources</title>
+					<para>To conserve time and labor, unit/detachment commanders may designate, in writing, personnel to accomplish classification inspection of over age equipment and the classification of Beyond Economical Repair (BER).</para>
+				</subpara1>
+				<subpara1>
+					<title>Inspection Function Requirement</title>
+					<para>Normally, equipment maintenance personnel at a packing or repair section activity will perform an inspection. The inspection of initial receipt items will be performed.</para>
+					<para>Should defect or damage be discovered at any point during the inspection, the inspection will be terminated and the applicable item will be processed and forwarded to repair activity. The repair activity, in turn, will conduct an inspection.</para>
+					<para>Preventive Maintenance Checks and Services (PMCS) are performed to keep the MCRS in good operating condition and ready for its primary mission. The checks are used to find, correct, and report problems. PMCS is performed every day the MCRS is in operation, and is done according to the PMCS table provided. Pay attention to WARNING, CAUTION, and NOTE statements. A WARNING indicates that someone could be hurt or killed. A CAUTION indicates that equipment could be damaged. A NOTE may make your maintenance or repair task easier.</para>
+					<para>Be sure to perform scheduled PMCS. Always perform PMCS in the same order so it becomes habit. With practice, you will quickly recognize problems with the equipment.</para>
+					<para>Use DA Form 2404/ DA 5988E, Equipment Inspection and Maintenance Worksheet, to record any discovered faults. Do not record faults that you fix.</para>
+				</subpara1>
+				<subpara1>
+					<title>PMCS PROCEDURES</title>
+					<para>Table 1 lists inspections and care required to be performed by the operator to keep your equipment in good operating condition. It is arranged so that you can perform operational checks as you walk around the equipment.</para>
+				</subpara1>
+				<subpara1>
+					<title>Explanation of Table 1 Columns</title>
+					<para></para>
+				</subpara1>
+				<subpara1>
+					<title>Item Number</title>
+					<para>Indicates the reference number. When completing DA Form 2404 / DA 5899E, Equipment Inspection and Maintenance Worksheet, include the item number for the item to check/service indicating a fault. Item numbers appear in the order you must perform the checks/services listed.</para>
+				</subpara1>
+				<subpara1>
+					<title>Interval</title>
+					<para>
+						Indicates when you must perform the procedure in the procedure column.
+						<randlist bullet="yes">
+							<item>Before - perform before equipment operation</item>
+							<item>During - perform during equipment operation.</item>
+							<item>After - perform after equipment has been operated</item>
+							<item>Quarterly - perform every three months</item>
+							<item>Semi-annually - perform every 6 months</item>
+							<item>Annually - perform every 12 months</item>
+							<item>Hours - perform at the noted hourly interval</item>
+						</randlist>
+					</para>
+				</subpara1>
+				<subpara1>
+					<title>Item to Check/Service</title>
+					<para>Indicates the item to be checked or serviced.</para>
+				</subpara1>
+				<subpara1>
+					<title>Procedure</title>
+					<para>Indicates the procedure you must perform on the item listed in Item to Check/Service column. You must perform the procedure at the time specified in the Interval column.</para>
+				</subpara1>
+				<subpara1>
+					<title>Not Fully Mission Capable If:</title>
+					<para>Indicates faults which will prevent your equipment from performing its primary mission. If you perform procedures listed in Procedure column which show faults listed in this column, do not operate the equipment. Follow standard procedures for maintaining the equipment or reporting equipment failure.</para>
+				</subpara1>
+				<subpara1>
+					<title>Other special entries</title>
+					<para>Observe all special information and notes that appear in Table 1.</para>
+					<para>When a check/service procedure is required for both weekly and before intervals, it is not necessary to perform the procedure twice if the equipment is operated during the weekly period.</para>
+				</subpara1>
+				<subpara1>
+					<title>Other special entries</title>
+					<para>Observe all special information and notes that appear in Table 1.</para>
+					<para>When a check/service procedure is required for both weekly and before intervals, it is not necessary to perform the procedure twice if the equipment is operated during the weekly period.</para>
+				</subpara1>
+				<subpara1>
+					<title>Fluid Leakage</title>
+					<para>It is necessary for you to know how fluid leakage affects the status of the MCRS. Following are types/classes of leakage you need to know to be able to determine the status of the MCRS. Learn these leakage definitions and remember - when in doubt, notify your supervisor. Consideration must be given to fluid capacity in the item/system being checked/inspected. When in doubt, notify your supervisor.</para>
+					<para>
+						When operating with Class I or II leaks, continue to check fluid levels as required in the PMCS. Class III leaks should be reported immediately to your supervisor.
+						<randlist bullet="yes">
+							<item>Class I. Seepage of fluid (as indicated by wetness or discoloration) not great enough to form drops.</item>
+							<item>Class II. Leakage of fluid great enough to form drops but not enough to cause drops to drip from the item being checked/inspected.</item>
+							<item>Class III. Leakage of fluid great enough to form drops that fall from item being checked/inspected.</item>
+						</randlist>
+					</para>
+				</subpara1>
+			</para0>
+		</intro>
+		<para0>
+			<title></title>
+			<para></para>
+		</para0>
+	</pmcsintrowp>
+	<pmcswp chngno="0" wpno="M00122-9-2320-451">
+		
+		<wpidinfo>
+			<maintlvl level="crew"/>
+			<title>FIFTH WHEEL TOWING AND RECOVERY DEVICE (FWTRD)<?Pub _newline ?>Preventive Maintenance Checks and Services (PMCS)</title>
+		</wpidinfo>
+		<initial_setup>
+			<persnreq>
+				<persnreq-setup-item>
+					<name>Motor Transport Operator H-8 Certification</name>
+					<mos>88M</mos>
+					<qty>1</qty>
+				</persnreq-setup-item>
+			</persnreq>
+			<eqpconds>
+				<eqpconds-setup-item>
+					<condition>Fifth Wheel Towing and Recovery Device in coupling configuration (WP XXXX)</condition>
+				</eqpconds-setup-item>
+			</eqpconds>
+		</initial_setup>
+		<pmcstable id="M00122-9-2320-451-T0001" tocentry="1">
+			<title>Crew Preventive Maintenance Checks and Services for Fifth Wheel Towing and Recovery Device.</title>
+			<pmcs-intervals>
+				<interval>Before</interval>
+				<interval>During</interval>
+				<interval>After</interval>
+				<interval>Weekly</interval>
+				<interval>Monthly</interval>
+				<interval>Semi-Annual</interval>
+				<interval>Annual</interval>
+			</pmcs-intervals>
+			<pmcs-entry>
+				<itemno>1</itemno>
+				<interval>Before</interval>
+				<checked >Overall View</checked>
+				<pmcsproc>
+					<pmcspara>
+						<para>Check fifth wheel towing and recovery device for evidence of fluid leakage.</para>
+						<eqpnotavail>
+							<trim.para>Class III oil leak evident.</trim.para>
+						</eqpnotavail>
+					</pmcspara>
+				</pmcsproc>
+				<pmcsproc>
+					<pmcspara>
+						<para>Check fifth wheel towing and recovery device for obvious damaged or missing parts that would impair operation.</para>
+						<eqpnotavail>
+							<trim.para>Damaged, missing parts that impair operation.</trim.para>
+						</eqpnotavail>
+					</pmcspara>
+				</pmcsproc>
+				<pmcsproc>
+					<pmcspara>
+						<para>Check fifth wheel towing and recovery device for damage to any gauges.</para>
+						<eqpnotavail>
+							<trim.para>Non-operational gauges.</trim.para>
+						</eqpnotavail>
+					</pmcspara>
+				</pmcsproc>
+			</pmcs-entry>
+			<pmcs-entry>
+				<itemno>2</itemno>
+				<interval>Before</interval>
+				<checked >Remote Control</checked>
+				<pmcsproc>
+					<pmcspara>
+						<para>
+							Verify operation of remote
+							<callout assocfig="M00122-9-2320-451-F0001" label="1"/>
+							.
+						</para>
+						<eqpnotavail>
+							<trim.para>Remote inoperable.</trim.para>
+						</eqpnotavail>
+					</pmcspara>
+				</pmcsproc>
+			</pmcs-entry>
+			<pmcs-entry>
+				<itemno>3</itemno>
+				<interval>Before</interval>
+				<checked >18k/35k Winch Diverter</checked>
+				<pmcsproc>
+					<pmcspara>
+						<para>
+							Check diverter
+							<callout assocfig="M00122-9-2320-451-F0001" label="2"/>
+							for freedom of movement.
+						</para>
+						<eqpnotavail>
+							<trim.para>Unable to switch from 18k/35k winch.</trim.para>
+						</eqpnotavail>
+					</pmcspara>
+				</pmcsproc>
+			</pmcs-entry>
+			<pmcs-entry>
+				<itemno>4</itemno>
+				<interval>Before</interval>
+				<checked >Mud Flaps</checked>
+				<pmcsproc>
+					<pmcspara>
+						<para>
+							Check muds flaps
+							<callout assocfig="M00122-9-2320-451-F0001" label="3"/>
+							for presence and serviceability.
+							<figure id="M00122-9-2320-451-F0001">
+								<title >MCRS Components for PMCS</title>
+								<graphic boardno="G06232001008"></graphic>
+							</figure>
+						</para>
+					</pmcspara>
+				</pmcsproc>
+			</pmcs-entry>
+			<pmcs-entry>
+				<itemno>5</itemno>
+				<interval>Before</interval>
+				<checked >Electrical Control Box</checked>
+				<pmcsproc>
+					<pmcspara>
+						<specpara>
+							<note>
+								<trim.para>Ensure prime mover PTO in "OFF" position to verify electric operation.</trim.para>
+								<trim.para>
+									After verifying electric operation, set box to appropriate positions for either "electric" or "wetline" operation
+									<callout assocfig="M00122-9-2320-451-F0002" label="2"/>
+									based on chosen method of operation for task.
+								</trim.para>
+							</note>
+							<para>
+								Check electrical control box for proper operation of electric motor switch and ON/OFF switch
+								<callout assocfig="M00122-9-2320-451-F0002" label="1"/>
+								.
+							</para>
+						</specpara>
+						<eqpnotavail>
+							<trim.para>Electric motor switch or ON/OFF switch non-operational.</trim.para>
+						</eqpnotavail>
+					</pmcspara>
+				</pmcsproc>
+			</pmcs-entry>
+			<pmcs-entry>
+				<itemno>6</itemno>
+				<interval>Before</interval>
+				<checked >Lights</checked>
+				<pmcsproc>
+					<pmcspara>
+						<specpara>
+							<note>
+								<trim.para>
+									Vehicle operation with non-operational lights may violate
+									<extref docno="AR-385-55"/>
+									.
+								</trim.para>
+							</note>
+							<para>
+								If present, check all brake/tail/stop lights
+								<callout assocfig="M00122-9-2320-451-F0002" label="4"/>
+								and clearance lights for proper operation and cleanliness.
+							</para>
+						</specpara>
+						<eqpnotavail>
+							<trim.para>Lights do not operate. Any damaged components or parts.</trim.para>
+						</eqpnotavail>
+					</pmcspara>
+				</pmcsproc>
+			</pmcs-entry>
+			<pmcs-entry>
+				<itemno>7</itemno>
+				<interval>Before</interval>
+				<checked >Strobe Light/Work Light</checked>
+				<pmcsproc>
+					<pmcspara>
+						<specpara>
+							<note>
+								<trim.para>
+									Strobe light check requires dummy plug installation IAW
+									<xref wpid="M00027-9-2320-451"/>
+									.
+								</trim.para>
+								<trim.para>Must be installed on MCRS to check.</trim.para>
+							</note>
+							<para>
+								Check strobe lights
+								<callout assocfig="M00122-9-2320-451-F0002" label="3"/>
+								and work light
+								<callout assocfig="M00122-9-2320-451-F0002" label="5"/>
+								for proper operation and cleanliness.
+							</para>
+						</specpara>
+						<eqpnotavail>
+							<trim.para>Lights do not operate. Any damaged components or parts.</trim.para>
+						</eqpnotavail>
+					</pmcspara>
+				</pmcsproc>
+			</pmcs-entry>
+			<pmcs-entry>
+				<itemno>8</itemno>
+				<interval>Before</interval>
+				<checked >Kingpin</checked>
+				<pmcsproc>
+					<pmcspara>
+						<para>
+							Visually inspect kingpins
+							<callout assocfig="M00122-9-2320-451-F0002" label="10"/>
+							for cracks, damage, or excessive wear.
+						</para>
+						<eqpnotavail>
+							<trim.para>Excessive wear, cracks, or damage.</trim.para>
+						</eqpnotavail>
+					</pmcspara>
+				</pmcsproc>
+				<pmcsproc>
+					<pmcspara>
+						<para>Inspect for chips, nicks, gouges, and wear.</para>
+						<eqpnotavail>
+							<trim.para>Nick, chip, or gouges deeper than 1/8 inch (.32 cm) is found anywhere on wear surface or wear exceeds 1/16 inch (.16 cm) over 25% of wear surface.</trim.para>
+						</eqpnotavail>
+					</pmcspara>
+				</pmcsproc>
+				<pmcsproc>
+					<pmcspara>
+						<para>
+							Inspect kingpin plate
+							<callout assocfig="M00122-9-2320-451-F0002" label="9"/>
+							for cracks and dents.
+						</para>
+						<eqpnotavail>
+							<trim.para>Kingpin plate is cracked or dented.</trim.para>
+						</eqpnotavail>
+					</pmcspara>
+				</pmcsproc>
+			</pmcs-entry>
+			<pmcs-entry>
+				<itemno>9</itemno>
+				<interval>Before</interval>
+				<checked >Chains and Binders</checked>
+				<pmcsproc>
+					<pmcspara>
+						<para>
+							Check chains
+							<callout assocfig="M00122-9-2320-451-F0002" label="8"/>
+							, load binders
+							<callout assocfig="M00122-9-2320-451-F0002" label="7"/>
+							, and other tiedowns for serviceability and proper quantity.
+							<figure id="M00122-9-2320-451-F0002">
+								<title>MCRS Components for PMCS</title>
+								<graphic boardno="G06232001009"></graphic>
+							</figure>
+						</para>
+						<eqpnotavail>
+							<trim.para>Missing or damaged chains and binders.</trim.para>
+						</eqpnotavail>
+					</pmcspara>
+				</pmcsproc>
+			</pmcs-entry>
+			<pmcs-entry>
+				<itemno>10</itemno>
+				<interval>Before</interval>
+				<checked >Receiver and Wheel Stop Assembly</checked>
+				<pmcsproc>
+					<pmcspara>
+						<para>
+							Check receiver and wheel stop assemblies
+							<callout assocfig="M00122-9-2320-451-F0002" label="6"/>
+							for proper operation and cleanliness.
+						</para>
+					</pmcspara>
+				</pmcsproc>
+			</pmcs-entry>
+			<pmcs-entry>
+				<itemno>11</itemno>
+				<interval>During</interval>
+				<checked >Overall View</checked>
+				<pmcsproc>
+					<pmcspara>
+						<para>Check fifth wheel towing and recovery device for evidence of fluid leakage.</para>
+						<eqpnotavail>
+							<trim.para>Class III oil leak evident.</trim.para>
+						</eqpnotavail>
+					</pmcspara>
+				</pmcsproc>
+			</pmcs-entry>
+			<pmcs-entry>
+				<itemno>12</itemno>
+				<interval>After</interval>
+				<checked >Overall View</checked>
+				<pmcsproc>
+					<pmcspara>
+						<para>Check fifth wheel towing and recovery device for evidence of fluid leakage.</para>
+						<eqpnotavail>
+							<trim.para>Class III oil leak evident.</trim.para>
+						</eqpnotavail>
+					</pmcspara>
+				</pmcsproc>
+				<pmcsproc>
+					<pmcspara>
+						<para>Check fifth wheel towing and recovery device for obvious damaged or missing parts that would impair operation.</para>
+						<eqpnotavail>
+							<trim.para>Damaged or missing parts that impair operation.</trim.para>
+						</eqpnotavail>
+					</pmcspara>
+				</pmcsproc>
+				<pmcsproc>
+					<pmcspara>
+						<para>Check fifth wheel towing and recovery device for damage to any gauges.</para>
+						<eqpnotavail>
+							<trim.para>Non-operational gauges.</trim.para>
+						</eqpnotavail>
+					</pmcspara>
+				</pmcsproc>
+			</pmcs-entry>
+			<pmcs-entry>
+				<itemno>13</itemno>
+				<interval>Weekly</interval>
+				<checked >Toolbox</checked>
+				<pmcsproc>
+					<pmcspara>
+						<para>
+							Check tool box lid
+							<callout assocfig="M00122-9-2320-451-F0003" label="1"/>
+							for proper operation and serviceability.
+						</para>
+					</pmcspara>
+				</pmcsproc>
+			</pmcs-entry>
+			<pmcs-entry>
+				<itemno>14</itemno>
+				<interval>Weekly</interval>
+				<checked >12/24 Junction Box</checked>
+				<pmcsproc>
+					<pmcspara>
+						<para>
+							Check junction box selector switch
+							<callout assocfig="M00122-9-2320-451-F0003" label="5"/>
+							operation and electrical connection plugs for excessive wear, corrosion, and serviceability.
+						</para>
+						<eqpnotavail>
+							<trim.para>Fails to switch between 12 &amp; 24 VDC. Excessive wear present.</trim.para>
+						</eqpnotavail>
+					</pmcspara>
+				</pmcsproc>
+			</pmcs-entry>
+			<pmcs-entry>
+				<itemno>15</itemno>
+				<interval>Weekly</interval>
+				<checked >Batteries</checked>
+				<pmcsproc>
+					<pmcspara>
+						<para>
+							Check for corrosion on battery parts
+							<callout assocfig="M00122-9-2320-451-F0003" label="4"/>
+							. Check for leak. Apply light coat of grease (
+							<xref itemid="S00006-9-2320-451-0009" wpid="S00006-9-2320-451"/>
+							).
+						</para>
+						<eqpnotavail>
+							<trim.para>Excessive corrosion on battery posts or leaks present.</trim.para>
+						</eqpnotavail>
+					</pmcspara>
+				</pmcsproc>
+			</pmcs-entry>
+			<pmcs-entry>
+				<itemno>16</itemno>
+				<interval>Weekly</interval>
+				<checked >Tow Bar Assembly</checked>
+				<pmcsproc>
+					<pmcspara>
+						<para>
+							Check tow bar assemblies
+							<callout assocfig="M00122-9-2320-451-F0003" label="6"/>
+							for proper operation and cleanliness.
+						</para>
+					</pmcspara>
+				</pmcsproc>
+			</pmcs-entry>
+			<pmcs-entry>
+				<itemno>17</itemno>
+				<interval>Weekly</interval>
+				<checked >Tiedown Points</checked>
+				<pmcsproc>
+					<pmcspara>
+						<para>
+							Check D-rings
+							<callout assocfig="M00122-9-2320-451-F0003" label="3"/>
+							, and clevis
+							<callout assocfig="M00122-9-2320-451-F0003" label="2"/>
+							for serviceability.
+						</para>
+						<eqpnotavail>
+							<trim.para>Tiedown points, load binders, or chains not sufficient for proper securing of equipment.</trim.para>
+						</eqpnotavail>
+					</pmcspara>
+				</pmcsproc>
+			</pmcs-entry>
+			<pmcs-entry>
+				<itemno>18</itemno>
+				<interval>Weekly</interval>
+				<checked >Hydraulic Motors &amp; Pumps</checked>
+				<pmcsproc>
+					<pmcspara>
+						<para>
+							Inspect hydraulic motors
+							<callout assocfig="M00122-9-2320-451-F0004" label="1"/>
+							for missing, broken, kinked, or damaged wires. Check for hydraulic fluid leaks.
+						</para>
+						<eqpnotavail>
+							<trim.para>Missing, broken, kinked, or damaged wires. Class III fluid leak evident.</trim.para>
+						</eqpnotavail>
+					</pmcspara>
+				</pmcsproc>
+			</pmcs-entry>
+			<pmcs-entry>
+				<itemno>19</itemno>
+				<interval>Weekly</interval>
+				<checked >Rubber Blocks</checked>
+				<pmcsproc>
+					<pmcspara>
+						<para>
+							Check rubber blocks
+							<callout assocfig="M00122-9-2320-451-F0003" label="7"/>
+							for serviceability.
+						</para>
+						<eqpnotavail>
+							<trim.para>All rubber blocks are missing.</trim.para>
+						</eqpnotavail>
+					</pmcspara>
+				</pmcsproc>
+			</pmcs-entry>
+			<pmcs-entry>
+				<itemno>20</itemno>
+				<interval>Weekly</interval>
+				<checked >Belting</checked>
+				<pmcsproc>
+					<pmcspara>
+						<para>
+							Check belting
+							<callout assocfig="M00122-9-2320-451-F0003" label="8"/>
+							for serviceability.
+						</para>
+						<eqpnotavail>
+							<trim.para>All rubber blocks/belting are missing.</trim.para>
+						</eqpnotavail>
+					</pmcspara>
+				</pmcsproc>
+			</pmcs-entry>
+			<pmcs-entry>
+				<itemno>21</itemno>
+				<interval>Monthly</interval>
+				<checked >Kingpin</checked>
+				<pmcsproc>
+					<pmcspara>
+						<para>
+							Apply grease to kingpins. Refer to
+							<xref wpid="M00118-9-2320-451"/>
+							. Refer to prime mover lube order for fifth wheel.
+						</para>
+					</pmcspara>
+				</pmcsproc>
+			</pmcs-entry>
+			<pmcs-entry>
+				<itemno>22</itemno>
+				<interval>Weekly</interval>
+				<checked >Overall View</checked>
+				<pmcsproc>
+					<pmcspara>
+						<para>Check reservoir, hydraulic controls, lines, and fittings for looseness, leaks, or other damage.</para>
+						<eqpnotavail>
+							<trim.para>Any hydraulic component is loose, leaking, or damage.</trim.para>
+						</eqpnotavail>
+					</pmcspara>
+				</pmcsproc>
+			</pmcs-entry>
+			<pmcs-entry>
+				<itemno>23</itemno>
+				<interval>Monthly</interval>
+				<checked >Hydraulic Cylinders</checked>
+				<pmcsproc>
+					<pmcspara>
+						<para>
+							Check Mast and Boom Cylinders, lines, and fittings for looseness, leaks, or other damage
+							<callout assocfig="M00122-9-2320-451-F0004" label="3"/>
+							,
+							<callout assocfig="M00122-9-2320-451-F0004" label="4"/>
+							.
+						</para>
+						<eqpnotavail>
+							<trim.para>Excessive wear present.</trim.para>
+						</eqpnotavail>
+					</pmcspara>
+				</pmcsproc>
+			</pmcs-entry>
+			<pmcs-entry>
+				<itemno>24</itemno>
+				<interval>Monthly</interval>
+				<checked >Lubrication</checked>
+				<pmcsproc>
+					<pmcspara>
+						<para>
+							Lubricate all fittings. Refer to
+							<xref wpid="M00118-9-2320-451"/>
+							.
+						</para>
+					</pmcspara>
+				</pmcsproc>
+			</pmcs-entry>
+			<pmcs-entry>
+				<itemno>25</itemno>
+				<interval>Monthly</interval>
+				<checked >18K Winch</checked>
+				<pmcsproc>
+					<pmcspara>
+						<para>
+							Inspect winch
+							<callout assocfig="M00122-9-2320-451-F0004" label="5"/>
+							for broken or frayed cable or missing components. Inspect winch cable IAW
+							<extref docno="TB 43-0142"/>
+							or
+							<extref docno="FM 5-125"/>
+							<figure id="M00122-9-2320-451-F0003">
+								<title >MCRS Components for PMCS</title>
+								<graphic boardno="G06232001015"></graphic>
+							</figure>
+							.
+						</para>
+						<eqpnotavail>
+							<trim.para>Any missing components. Broken, kinked, or frayed wire.</trim.para>
+						</eqpnotavail>
+					</pmcspara>
+				</pmcsproc>
+			</pmcs-entry>
+			<pmcs-entry>
+				<itemno>26</itemno>
+				<interval>Monthly</interval>
+				<checked >35K Winch</checked>
+				<pmcsproc>
+					<pmcspara>
+						<para>
+							Inspect winch
+							<callout assocfig="M00122-9-2320-451-F0004" label="7"/>
+							for broken or frayed cable or missing components. Inspect winch cable IAW
+							<extref docno="TB 43-0142"/>
+							or
+							<extref docno="FM 5-125"/>
+							.
+						</para>
+						<eqpnotavail>
+							<trim.para>Any missing components. Broken, kinked, or frayed wire.</trim.para>
+						</eqpnotavail>
+					</pmcspara>
+				</pmcsproc>
+			</pmcs-entry>
+			<pmcs-entry>
+				<itemno>27</itemno>
+				<interval>Monthly</interval>
+				<checked >Hydraulic System</checked>
+				<pmcsproc>
+					<pmcspara>
+						<para>
+							Position fifth wheel towing device in hydraulic oil fill position and check oil level
+							<callout assocfig="M00122-9-2320-451-F0004" label="6"/>
+							.
+						</para>
+					</pmcspara>
+				</pmcsproc>
+			</pmcs-entry>
+			<pmcs-entry>
+				<itemno>28</itemno>
+				<interval>Semi-Annual</interval>
+				<checked >Brake Air System</checked>
+				<pmcsproc>
+					<pmcspara>
+						<para>
+							Check all gladhands
+							<callout assocfig="M00122-9-2320-451-F0004" label="2"/>
+							and seals. Also check all air hoses for leaks, kinks, cracks, and missing mounting clamps.
+						</para>
+						<eqpnotavail>
+							<trim.para>Leaks, kinks, or cracks evident.</trim.para>
+						</eqpnotavail>
+					</pmcspara>
+				</pmcsproc>
+			</pmcs-entry>
+			<pmcs-entry>
+				<itemno>29</itemno>
+				<interval>Semi-Annual</interval>
+				<checked >Hydraulic Lines</checked>
+				<pmcsproc>
+					<pmcspara>
+						<para>Check all hydraulic hoses for leaks, kinks, bends, cracks, and missing mounting hardware. Ensure rubber shield around hoses is present and serviceable.</para>
+						<eqpnotavail>
+							<trim.para>Leaks, kinks, or cracks evident. Shield is missing or unserviceable.</trim.para>
+						</eqpnotavail>
+					</pmcspara>
+				</pmcsproc>
+			</pmcs-entry>
+			<pmcs-entry>
+				<itemno>31</itemno>
+				<interval>Annual</interval>
+				<checked >Mast Safety Valve</checked>
+				<pmcsproc>
+					<pmcspara>
+						<para>Position main frame 2 inches (5.1 cm) above a suitable support device. With all power OFF, operate MAST valve lever to extend and retract positions.<?Pub _newpage?></para>
+						<eqpnotavail>
+							<trim.para>Main frame contacts support device.</trim.para>
+						</eqpnotavail>
+					</pmcspara>
+				</pmcsproc>
+			</pmcs-entry>
+			<pmcs-entry>
+				<itemno></itemno>
+				<interval></interval>
+				<checked></checked>
+				<pmcsproc>
+					<pmcspara>
+						<para>
+							<figure id="M00122-9-2320-451-F0004">
+								<title>MCRS Components for PMCS</title>
+								<graphic boardno="G06232001016"></graphic>
+							</figure>
+						</para>
+					</pmcspara>
+				</pmcsproc>
+			</pmcs-entry>
+		</pmcstable>
+		<mrplpart>
+			<title>Mandatory Replacement Parts</title>
+			<para>No replacement parts are required for these PMCS procedures.</para>
+		</mrplpart>
+	</pmcswp>
+	<pmcswp chngno="0" wpno="M00123-9-2320-451">
+		
+		<wpidinfo>
+			<maintlvl level="crew"/>
+			<title>TILT DECK RECOVERY TRAILER (TDRT)<?Pub _newline?>Preventive Maintenance Checks and Services (PMCS)</title>
+		</wpidinfo>
+		<initial_setup>
+			<persnreq>
+				<persnreq-setup-item>
+					<name>Motor Transport Operator H-8 Certification</name>
+					<mos>88M</mos>
+					<qty>1</qty>
+				</persnreq-setup-item>
+			</persnreq>
+			<eqpconds>
+				<eqpconds-setup-item>
+					<condition>Fifth Wheel Towing Device in coupling configuration (WP XXXX)</condition>
+				</eqpconds-setup-item>
+			</eqpconds>
+		</initial_setup>
+		<pmcstable id="M00123-9-2320-451-T0001" tocentry="1">
+			<title>Crew Preventive Maintenance Checks and Services for Tilt Deck Recovery Trailer (TDRT).</title>
+			<pmcs-intervals>
+				<interval>Before</interval>
+				<interval>During</interval>
+				<interval>After</interval>
+				<interval>Weekly</interval>
+				<interval>Monthly</interval>
+			</pmcs-intervals>
+			<pmcs-entry>
+				<itemno>1</itemno>
+				<interval>Before</interval>
+				<checked >Voltage Receptacles</checked>
+				<pmcsproc>
+					<pmcspara>
+						<para>Visually check for damage.</para>
+						<eqpnotavail>
+							<trim.para>Receptacles are damaged.</trim.para>
+						</eqpnotavail>
+					</pmcspara>
+				</pmcsproc>
+			</pmcs-entry>
+			<pmcs-entry>
+				<itemno>2</itemno>
+				<interval>Before</interval>
+				<checked >Gladhands</checked>
+				<pmcsproc>
+					<pmcspara>
+						<para>
+							Inspect gladhands
+							<callout assocfig="M00123-9-2320-451-F0001" label="1"/>
+							for damage, missing, or worn/cracked seals, missing hardware, and free swing-away operation.
+						</para>
+						<eqpnotavail>
+							<trim.para>Gladhands or quick connects are damaged, seals worn/cracked or missing, missing hardware, connectors do not operate freely.</trim.para>
+						</eqpnotavail>
+					</pmcspara>
+				</pmcsproc>
+			</pmcs-entry>
+			<pmcs-entry>
+				<itemno>3</itemno>
+				<interval>Before</interval>
+				<checked >Landing Legs</checked>
+				<pmcsproc>
+					<pmcspara>
+						<para>
+							1. Assist Springs
+							<callout assocfig="M00123-9-2320-451-F0001" label="2"/>
+							in place and not damaged.
+						</para>
+						<eqpnotavail>
+							<trim.para>Springs damaged or pins/clips missing.</trim.para>
+						</eqpnotavail>
+					</pmcspara>
+				</pmcsproc>
+				<pmcsproc>
+					<pmcspara>
+						<para>2. Pins are in place with clips present</para>
+						<eqpnotavail>
+							<trim.para></trim.para>
+						</eqpnotavail>
+					</pmcspara>
+				</pmcsproc>
+			</pmcs-entry>
+			<pmcs-entry>
+				<itemno>4</itemno>
+				<interval>Before</interval>
+				<checked >Vice</checked>
+				<pmcsproc>
+					<pmcspara>
+						<para>
+							Locked in holder. Jaws closed and vice pivot bolts tightened down securely.
+							<figure id="M00123-9-2320-451-F0001">
+								<title >MCRS Components for PMCS</title>
+								<graphic boardno="G06232001017"></graphic>
+							</figure>
+						</para>
+						<eqpnotavail>
+							<trim.para>Pin or lock missing. Vice not kept from pivoting while traveling.</trim.para>
+						</eqpnotavail>
+					</pmcspara>
+				</pmcsproc>
+			</pmcs-entry>
+			<pmcs-entry>
+				<itemno>5</itemno>
+				<interval>Before</interval>
+				<checked >Deck Pull-Outs</checked>
+				<pmcsproc>
+					<pmcspara>
+						<para>
+							Inspect TDRT Deck Pull-Outs
+							<callout assocfig="M00123-9-2320-451-F0001" label="3"/>
+							secured with bolts all "in" or all "out".
+						</para>
+						<eqpnotavail>
+							<trim.para>Loose, damaged, or missing locking bolts.</trim.para>
+						</eqpnotavail>
+					</pmcspara>
+				</pmcsproc>
+			</pmcs-entry>
+			<pmcs-entry>
+				<itemno>6</itemno>
+				<interval>Before</interval>
+				<checked >Intravehicular Air Hoses</checked>
+				<pmcsproc>
+					<pmcspara>
+						<specpara>
+							<caution>
+								<trim.para>After coupling the TDRT with the prime mover (FWTRD), the landing legs must be unpinned and brought to their travel position and re-pinned to allow for maximum clearance. Ensure to chock front and rear tires of the TDRT prior to coupling/ uncoupling. The following checks must be done with the prime mover coupled to the trailer. Assistance is required when coupling and checking trailer lights.</trim.para>
+							</caution>
+							<para>Connect air lines to the trailer gladhands. With tractor running, check air lines and gladhands for leaks.</para>
+						</specpara>
+						<eqpnotavail>
+							<trim.para>Air leaks are present.</trim.para>
+						</eqpnotavail>
+					</pmcspara>
+				</pmcsproc>
+			</pmcs-entry>
+			<pmcs-entry>
+				<itemno>7</itemno>
+				<interval>Before</interval>
+				<checked >Axle Lock Pin</checked>
+				<pmcsproc>
+					<pmcspara>
+						<para>
+							Test to ensure that Axle Lock Pin releases when the air lock pin control
+							<callout assocfig="M00123-9-2320-451-F0002" label="1" />
+							is pulled out on the control box. Trailer must have active air supply from prime mover-trailer brakes released.
+						</para>
+						<eqpnotavail>
+							<trim.para>Pin does not release.</trim.para>
+						</eqpnotavail>
+					</pmcspara>
+				</pmcsproc>
+			</pmcs-entry>
+			<pmcs-entry>
+				<itemno>8</itemno>
+				<interval>Before</interval>
+				<checked >Lift Axle</checked>
+				<pmcsproc>
+					<pmcspara>
+						<para>
+							Push lift axle control
+							<callout assocfig="M00123-9-2320-451-F0002" label="2"/>
+							in, to load lift axle and set 100psi setting using adjustment control
+							<callout assocfig="M00123-9-2320-451-F0002" label="3" />
+							. Pull the control knob and verify that axle lifts. (Trailer must have active air supply from prime mover - trailer brakes released.)
+						</para>
+						<eqpnotavail>
+							<trim.para>Axle doesn't lift or load properly.</trim.para>
+						</eqpnotavail>
+					</pmcspara>
+				</pmcsproc>
+			</pmcs-entry>
+			<pmcs-entry>
+				<itemno>9</itemno>
+				<interval>Before</interval>
+				<checked >Lights</checked>
+				<pmcsproc>
+					<pmcspara>
+						<specpara>
+							<note>
+								<trim.para>Check for loose plug-in connectors. Make sure there is no debris between plug and connector and then make sure that plug-in is seated.</trim.para>
+								<trim.para>Mission requirements, urgency, safety, and common sense should be considered in determining ENR status of the TDRT.</trim.para>
+							</note>
+							<para>Connect intravehicular cable from prime mover through the FWTRD to the TDRT. Check lights for damage, proper operation, presence, and missing hardware. Notify Crew Maintenance if there are any problems in operation or damage is present.</para>
+						</specpara>
+						<eqpnotavail>
+							<trim.para>Lights are damaged, do not operate, or missing hardware. Equipment not ready if required for the mission.</trim.para>
+						</eqpnotavail>
+					</pmcspara>
+				</pmcsproc>
+			</pmcs-entry>
+			<pmcs-entry>
+				<itemno>10</itemno>
+				<interval>Before</interval>
+				<checked >ABS Warning Light</checked>
+				<pmcsproc>
+					<pmcspara>
+						<specpara>
+							<note>
+								<trim.para>Tractor must be coupled before checking ABS light.</trim.para>
+								<trim.para>ABS warning light should not stay on when TDRT is moving above 4 mph (6.4 km/h).</trim.para>
+								<trim.para>If mission requirements do not allow for troubleshooting of ABS system, continue on with mission until system can be properly diagnosed by crew maintenance. Only modulation will be affected not stopping capacity of brake system.</trim.para>
+							</note>
+							<para>
+								Visually check that ABS warning light
+								<callout assocfig="M00123-9-2320-451-F0002" label="4"/>
+								does not stay on. Notify crew maintenance.
+							</para>
+						</specpara>
+						<eqpnotavail>
+							<trim.para>ABS light does not come on or stays on.</trim.para>
+						</eqpnotavail>
+					</pmcspara>
+				</pmcsproc>
+			</pmcs-entry>
+			<pmcs-entry>
+				<itemno></itemno>
+				<interval></interval>
+				<checked></checked>
+				<pmcsproc>
+					<pmcspara>
+						<para>
+							<figure id="M00123-9-2320-451-F0002">
+								<title>MCRS Components for PMCS</title>
+								<graphic boardno="G06232001018"></graphic>
+							</figure>
+						</para>
+						<eqpnotavail>
+							<trim.para></trim.para>
+						</eqpnotavail>
+					</pmcspara>
+				</pmcsproc>
+			</pmcs-entry>
+			<pmcs-entry>
+				<itemno>11</itemno>
+				<interval>Before</interval>
+				<checked >Radial Tires and Wheels</checked>
+				<pmcsproc>
+					<pmcspara>
+						<specpara>
+							<caution>
+								<trim.para>Rust near wheels can indicate low torque.</trim.para>
+								<trim.para>Check wheels (inner/outer) and hubcaps for grease leakage. When leakage is initially found, clean of all grease and recheck after operation. If grease leakage is still evident, notify crew maintenance.</trim.para>
+							</caution>
+							<note>
+								<trim.para>All wheel flange nuts have right hand threads.</trim.para>
+								<trim.para>Cold radial tire pressure should be 120 psi (827 kPa) for all tires.</trim.para>
+							</note>
+							<para>
+								1. Inspect tires
+								<callout assocfig="M00123-9-2320-451-F0003" label="1"/>
+								, including spare
+								<callout assocfig="M00123-9-2320-451-F0003" label="2"/>
+								, for proper inflation, unusual tread wear, sidewall damage, valve caps, loose/missing dust shield plugs on wheels.
+							</para>
+						</specpara>
+						<eqpnotavail>
+							<trim.para>Tires are not properly inflated, damaged, or show unusual wear. Securing hardware is unserviceable or missing.</trim.para>
+						</eqpnotavail>
+					</pmcspara>
+				</pmcsproc>
+				<pmcsproc>
+					<pmcspara>
+						<specpara>
+							<warning>
+								<trim.para>Make sure spare tire is secured in carrier and securing hardware is present. Failure to secure these items can result in injury or death to personnel.</trim.para>
+							</warning>
+							<para>2. Check wheels for damaged rims, rust, or leaking grease.</para>
+						</specpara>
+						<eqpnotavail>
+							<trim.para>Wheel rims are damaged, rusty, or show signs of leaking grease.</trim.para>
+						</eqpnotavail>
+					</pmcspara>
+				</pmcsproc>
+				<pmcsproc>
+					<pmcspara>
+						<para>
+							Check for loose or missing wheel nuts. Notify crew maintenance. All nuts must be present and torqued to specifications
+							<figure id="M00123-9-2320-451-F0003">
+								<title>MCRS Components for PMCS</title>
+								<graphic boardno="G06232001019"></graphic>
+							</figure>
+						</para>
+						<eqpnotavail>
+							<trim.para>Nuts are loose or missing.</trim.para>
+						</eqpnotavail>
+					</pmcspara>
+				</pmcsproc>
+			</pmcs-entry>
+			<pmcs-entry>
+				<itemno>12</itemno>
+				<interval>Before</interval>
+				<checked >Spare Tire Carrier</checked>
+				<pmcsproc>
+					<pmcspara>
+						<specpara>
+							<note>
+								<trim.para>Convex side of the wheel mounts to the carrier studs.</trim.para>
+							</note>
+							<para>
+								Inspect spare tire carrier assembly
+								<callout assocfig="M00123-9-2320-451-F0003" label="3"/>
+								for loose or missing hardware and cracked/broken welds
+							</para>
+						</specpara>
+						<eqpnotavail>
+							<trim.para>Loose/missing hardware and cracked/broken welds.</trim.para>
+						</eqpnotavail>
+					</pmcspara>
+				</pmcsproc>
+			</pmcs-entry>
+			<pmcs-entry>
+				<itemno>13</itemno>
+				<interval>Before</interval>
+				<checked >Hubcaps and Hubdometer</checked>
+				<pmcsproc>
+					<pmcspara>
+						<specpara>
+							<caution>
+								<trim.para>Do not stand on hub odometer.</trim.para>
+							</caution>
+							<para>1. Inspect hubcaps for damaged, loose or missing hardware, and leakage.</para>
+						</specpara>
+						<eqpnotavail>
+							<trim.para>Hubcap is leaking grease or hardware is loose or missing.</trim.para>
+						</eqpnotavail>
+					</pmcspara>
+				</pmcsproc>
+				<pmcsproc>
+					<pmcspara>
+						<para>
+							2. Inspect hubodometer
+							<callout assocfig="M00123-9-2320-451-F0003" label="5"/>
+							for missing hardware, damage, and loose mounting bracket
+							<callout assocfig="M00123-9-2320-451-F0003" label="4"/>
+							or gauge.
+						</para>
+						<eqpnotavail>
+							<trim.para>Hubdometer is broken or hardware is loose or missing.</trim.para>
+						</eqpnotavail>
+					</pmcspara>
+				</pmcsproc>
+			</pmcs-entry>
+			<pmcs-entry>
+				<itemno>14</itemno>
+				<interval>Before</interval>
+				<checked >Suspension</checked>
+				<pmcsproc>
+					<pmcspara>
+						<specpara>
+							<warning>
+								<trim.para>Notify crew maintenance at first month of new TDRT operation or first 1000 miles (1609 km) (from hubodometer) that suspension nuts must be torqued. Reference item no. 1 of Unit PMCS. This could cause loss of suspension /parts which could result in serious injury to personnel and/or damage to the equipment.</trim.para>
+							</warning>
+							<para>
+								Visually inspect for broken or shifted leaf springs
+								<callout assocfig="M00123-9-2320-451-F0004" label="1"/>
+								and loose or missing hardware. Notify crew maintenance.
+								<figure id="M00123-9-2320-451-F0004">
+									<title>MCRS Components for PMCS</title>
+									<graphic boardno="G06232001024"></graphic>
+								</figure>
+							</para>
+						</specpara>
+						<eqpnotavail>
+							<trim.para>Springs have shifted or are broken and hardware is loose or missing.</trim.para>
+						</eqpnotavail>
+					</pmcspara>
+				</pmcsproc>
+			</pmcs-entry>
+			<pmcs-entry>
+				<itemno>15</itemno>
+				<interval>Before</interval>
+				<checked >Air Reservoir Tanks</checked>
+				<pmcsproc>
+					<pmcspara>
+						<specpara>
+							<warning>
+								<trim.para>Wear protective goggles if you are under the TDRT and need to operate drain valves. Avoid the air stream. Failure to comply could result in injury to personnel.</trim.para>
+							</warning>
+							<para>1. Make sure the drain valves do not leak air.</para>
+						</specpara>
+						<eqpnotavail>
+							<trim.para>Drain valves leak air.</trim.para>
+						</eqpnotavail>
+					</pmcspara>
+				</pmcsproc>
+				<pmcsproc>
+					<pmcspara>
+						<para>
+							2. Inspect air tanks
+							<callout assocfig="M00123-9-2320-451-F0004" label="2"/>
+							for damage, loose fittings, missing hardware, and any evidence of air leakage.
+						</para>
+						<eqpnotavail>
+							<trim.para>Any air leaks are present or hardware is missing.</trim.para>
+						</eqpnotavail>
+					</pmcspara>
+				</pmcsproc>
+			</pmcs-entry>
+			<pmcs-entry>
+				<itemno>16</itemno>
+				<interval>Before</interval>
+				<checked >Stowage Boxes and Doors</checked>
+				<pmcsproc>
+					<pmcspara>
+						<para>
+							Open and close door on stowage boxes
+							<callout assocfig="M00123-9-2320-451-F0004" label="3"/>
+							, make sure hinges do not bind, and all mounting securing hardware is tight and present. Make sure drain holes are not blocked. Keep boxes clean and serviceable.
+						</para>
+						<eqpnotavail>
+							<trim.para>Hardware is loose or missing. Doors do not open or close securely.</trim.para>
+						</eqpnotavail>
+					</pmcspara>
+				</pmcsproc>
+			</pmcs-entry>
+			<pmcs-entry>
+				<itemno>17</itemno>
+				<interval>Before</interval>
+				<checked >Tie Downs</checked>
+				<pmcsproc>
+					<pmcspara>
+						<specpara>
+							<caution>
+								<trim.para>Deformation of any part of D-ring is not allowed. Notify crew maintenance.</trim.para>
+								<trim.para>Check all tie downs for missing hardware, damage, cracked welds, and deformation. Notify Unit maintenance.</trim.para>
+							</caution>
+							<para>
+								TDRT tiedowns
+								<callout assocfig="M00123-9-2320-451-F0004" label="4"/>
+								consist of two front and two rear. Tiedowns have grease fittings
+								<callout assocfig="M00123-9-2320-451-F0004" label="5" />
+								at their swivel points. These should be greased monthly.
+							</para>
+						</specpara>
+						<eqpnotavail>
+							<trim.para>Damaged, deformed, and cracked welds are evident.</trim.para>
+						</eqpnotavail>
+					</pmcspara>
+				</pmcsproc>
+			</pmcs-entry>
+			<pmcs-entry>
+				<itemno>18</itemno>
+				<interval>Before</interval>
+				<checked >Brakes</checked>
+				<pmcsproc>
+					<pmcspara>
+						<para>With the prime mover coupled, prior to start of mission, have a person observe if trailer brakes are working. Release brake pressure and engage the hand brake control, slowly move prime mover forward. Observe if TDRT tires move. If tires move, brakes are not holding. Notify crew maintenance.</para>
+						<eqpnotavail>
+							<trim.para>Trailer tires move when brakes are applied.</trim.para>
+						</eqpnotavail>
+					</pmcspara>
+				</pmcsproc>
+			</pmcs-entry>
+			<pmcs-entry>
+				<itemno>19</itemno>
+				<interval>During</interval>
+				<checked >ABS Warning Light</checked>
+				<pmcsproc>
+					<pmcspara>
+						<specpara>
+							<note>
+								<trim.para>If ABS warning light stays on during mission, continue on with mission until system can be properly diagnosed by Unit maintenance. Braking capacity will not be impaired. The only effect will be no modulation at wheel or wheels that have fault.</trim.para>
+								<trim.para>Trailer is not NMC if during mission ABS is inoperable and there is no time to diagnose.</trim.para>
+								<trim.para>During blackout mode conditions, tape over ABS warning light. Do not remove or otherwise disable the light.</trim.para>
+							</note>
+							<para>
+								Check that ABS warning light
+								<callout assocfig="M00123-9-2320-451-F0005" label="1"/>
+								does not stay on.
+							</para>
+						</specpara>
+						<eqpnotavail>
+							<trim.para></trim.para>
+						</eqpnotavail>
+					</pmcspara>
+				</pmcsproc>
+			</pmcs-entry>
+			<pmcs-entry>
+				<itemno>20</itemno>
+				<interval>During</interval>
+				<checked >Axles and Suspension</checked>
+				<pmcsproc>
+					<pmcspara>
+						<para>Listen for unusual noises, which are indications of possible problems. Be alert to conditions such as side pull, wandering, tracking of TDRT, and load shift.</para>
+						<eqpnotavail>
+							<trim.para>Unusual noises, semitrailer wanders, pulls to either side, or does not track.</trim.para>
+						</eqpnotavail>
+					</pmcspara>
+				</pmcsproc>
+			</pmcs-entry>
+			<pmcs-entry>
+				<itemno>21</itemno>
+				<interval>During</interval>
+				<checked >General</checked>
+				<pmcsproc>
+					<pmcspara>
+						<para>Be alert to all conditions that may indicate unsafe operation or improperly secured cargo. Insure that all prime mover TM procedures are adhered to for safe operation, I.E., coupling load limits, speeds, and fifth wheel settings for on/off road operation.</para>
+						<eqpnotavail>
+							<trim.para>Unsafe conditions are identified.</trim.para>
+						</eqpnotavail>
+					</pmcspara>
+				</pmcsproc>
+			</pmcs-entry>
+			<pmcs-entry>
+				<itemno>22</itemno>
+				<interval>After</interval>
+				<checked >Landing Leg Assembly</checked>
+				<pmcsproc>
+					<pmcspara>
+						<para>
+							Inspect landing leg
+							<callout assocfig="M00123-9-2320-451-F0005" label="2"/>
+							assemblies for proper operation and all hardware. Be sure there is no binding in operation and that assist springs and locating pins are in good working order.
+						</para>
+						<eqpnotavail>
+							<trim.para>Legs bind. Assist Springs or Locating Pins are missing or damaged.</trim.para>
+						</eqpnotavail>
+					</pmcspara>
+				</pmcsproc>
+			</pmcs-entry>
+			<pmcs-entry>
+				<itemno>23</itemno>
+				<interval>After</interval>
+				<checked >Fold Down Deck Ramps</checked>
+				<pmcsproc>
+					<pmcspara>
+						<para>
+							Unfold ramps
+							<callout assocfig="M00123-9-2320-451-F0005" label="3" />
+							to check for smooth operation. Clean hinges of debris.
+						</para>
+						<eqpnotavail>
+							<trim.para>Ramps do not unfold.</trim.para>
+						</eqpnotavail>
+					</pmcspara>
+				</pmcsproc>
+			</pmcs-entry>
+			<pmcs-entry>
+				<itemno>24</itemno>
+				<interval>After</interval>
+				<checked >Brake System</checked>
+				<pmcsproc>
+					<pmcspara>
+						<specpara>
+							<warning>
+								<trim.para>A hot brake can cause serious burns. Exercise caution before attempting to touch brake drum after use. Radiated heat will be felt before brake drum is touched.</trim.para>
+							</warning>
+							<para>Cautiously feel brake drums for abnormal heat or cold. An abnormally hot drum indicates a possible dragging or grabbing brake. An abnormally cool drum indicates improper adjustment or a defective brake. Notify crew maintenance.</para>
+						</specpara>
+						<eqpnotavail>
+							<trim.para>Brake drums abnormally hot or cold.</trim.para>
+						</eqpnotavail>
+					</pmcspara>
+				</pmcsproc>
+			</pmcs-entry>
+			<pmcs-entry>
+				<itemno>25</itemno>
+				<interval>After</interval>
+				<checked >Air Reservoir Tanks</checked>
+				<pmcsproc>
+					<pmcspara>
+						<para>Pull reservoir drain cables to remove all condensation.</para>
+						<eqpnotavail>
+							<trim.para></trim.para>
+						</eqpnotavail>
+					</pmcspara>
+				</pmcsproc>
+			</pmcs-entry>
+			<pmcs-entry>
+				<itemno>26</itemno>
+				<interval>After</interval>
+				<checked >TDRT Cleanliness</checked>
+				<pmcsproc>
+					<pmcspara>
+						<para>
+							After operation, especially in mud, salt environment, or fording conditions, flush out axles, axle ends, suspension, landing gear, underside/topside of semitrailer and stowage boxes with clean low pressure water.
+							<randlist>
+								<item>a. Clean and lubricate all parts as specified to make sure all water/debris is flushed out of system.</item>
+								<item>b. Check all electrical connections for corrosion and security.</item>
+								<item>c. Make sure all painted surfaces are touched up where necessary to prevent rust.</item>
+							</randlist>
+						</para>
+						<eqpnotavail>
+							<trim.para>Not accomplished when mission permits or mission completed.</trim.para>
+						</eqpnotavail>
+					</pmcspara>
+				</pmcsproc>
+			</pmcs-entry>
+			<pmcs-entry>
+				<itemno>27</itemno>
+				<interval>Weekly</interval>
+				<checked >Wheels</checked>
+				<pmcsproc>
+					<pmcspara>
+						<specpara>
+							<note>
+								<trim.para>Mission requirements, urgency, safety, and common sense should be considered in determining NMC status of semitrailer.</trim.para>
+							</note>
+							<para>Check all wheels for handhold cracks, cracks between and around stud holes, rust streaks and grease stains. Notify Unit maintenance.</para>
+						</specpara>
+						<eqpnotavail>
+							<trim.para>Cracks or leaks evident.</trim.para>
+						</eqpnotavail>
+					</pmcspara>
+				</pmcsproc>
+			</pmcs-entry>
+			<pmcs-entry>
+				<itemno>28</itemno>
+				<interval>Monthly</interval>
+				<checked >Frame and Deck</checked>
+				<pmcsproc>
+					<pmcspara>
+						<para>
+							Perform a visual inspection of TDRT for evidence of corrosion. Visually check all welds for rust or cracks. Notify unit maintenance if corrosion or deck damage is evident.
+							<figure id="M00123-9-2320-451-F0005">
+								<title>MCRS Components for PMCS</title>
+								<graphic boardno="G06232001032"></graphic>
+							</figure>
+						</para>
+						<eqpnotavail>
+							<trim.para>Bolts, screws are loose or missing.</trim.para>
+						</eqpnotavail>
+					</pmcspara>
+				</pmcsproc>
+			</pmcs-entry>
+		</pmcstable>
+		<mrplpart>
+			<title>Mandatory Replacement Parts</title>
+			<para>No replacement parts are required for these PMCS procedures.</para>
+		</mrplpart>
+	</pmcswp>
+	<pmcswp chngno="0" wpno="M00124-9-2320-451">
+		
+		<wpidinfo>
+			<maintlvl level="maintainer"/>
+			<title>FIFTH WHEEL TOWING AND RECOVERY DEVICE (FWTRD)<?Pub _newline ?>Preventive Maintenance Checks and Services (PMCS)</title>
+		</wpidinfo>
+		<initial_setup>
+			<persnreq>
+				<persnreq-setup-item>
+					<name>Motor Transport Operator H-8 Certification</name>
+					<mos>88M</mos>
+					<qty>1</qty>
+				</persnreq-setup-item>
+			</persnreq>
+			<eqpconds>
+				<eqpconds-setup-item>
+					<condition>Fifth Wheel Towing and Recovery Device in coupling configuration (WP XXXX)</condition>
+				</eqpconds-setup-item>
+			</eqpconds>
+		</initial_setup>
+		<pmcstable id="M00124-9-2320-451-T0001" tocentry="1">
+			<title>Crew Preventive Maintenance Checks and Services for Fifth Wheel Towing and Recovery Device.</title>
+			<pmcs-intervals>
+				<interval>Monthly</interval>
+				<interval>Semi-Annual</interval>
+				<interval>Bi-Annual</interval>
+				<interval>Annual</interval>
+			</pmcs-intervals>
+			<pmcs-entry>
+				<itemno>1</itemno>
+				<interval>Monthly</interval>
+				<checked >General</checked>
+				<pmcsproc>
+					<pmcspara>
+						<para>Perform monthly lubrication instructions.</para>
+						<eqpnotavail>
+							<trim.para></trim.para>
+						</eqpnotavail>
+					</pmcspara>
+				</pmcsproc>
+			</pmcs-entry>
+			<pmcs-entry>
+				<itemno>2</itemno>
+				<interval>Semi-Annual</interval>
+				<checked >Electric Control Box</checked>
+				<pmcsproc>
+					<pmcspara>
+						<para>
+							Lubricate wiring connections and lubricate with dielectric grease
+							<callout assocfig="M00124-9-2320-451-F0001" label="1"/>
+							.
+						</para>
+						<eqpnotavail>
+							<trim.para></trim.para>
+						</eqpnotavail>
+					</pmcspara>
+				</pmcsproc>
+			</pmcs-entry>
+			<pmcs-entry>
+				<itemno>3</itemno>
+				<interval>Semi-Annual</interval>
+				<checked >12/24 Volt Junction Box</checked>
+				<pmcsproc>
+					<pmcspara>
+						<para>
+							Lubricate wiring connections with dielectric grease
+							<callout assocfig="M00124-9-2320-451-F0001" label="2"/>
+							.
+						</para>
+						<eqpnotavail>
+							<trim.para></trim.para>
+						</eqpnotavail>
+					</pmcspara>
+				</pmcsproc>
+			</pmcs-entry>
+			<pmcs-entry>
+				<itemno>4</itemno>
+				<interval>Semi-Annual</interval>
+				<checked >Wiring connectors (Lighting System &amp; Light Bar)</checked>
+				<pmcsproc>
+					<pmcspara>
+						<para>Lubricate with dielectric grease.</para>
+						<eqpnotavail>
+							<trim.para></trim.para>
+						</eqpnotavail>
+					</pmcspara>
+				</pmcsproc>
+			</pmcs-entry>
+			<pmcs-entry>
+				<itemno>5</itemno>
+				<interval>Semi-Annual</interval>
+				<checked >Cam Valve</checked>
+				<pmcsproc>
+					<pmcspara>
+						<para>
+							Fifth wheel towing device in coupling position. MAST EXTEND until cam valve roller contacts cam plate on left boom
+							<callout assocfig="M00124-9-2320-451-F0001" label="3"/>
+							.
+						</para>
+						<eqpnotavail>
+							<trim.para>Travel does not stop automatically.</trim.para>
+						</eqpnotavail>
+					</pmcspara>
+				</pmcsproc>
+			</pmcs-entry>
+			<pmcs-entry>
+				<itemno>6</itemno>
+				<interval>Bi-Annual</interval>
+				<checked >Hydraulic Fluid</checked>
+				<pmcsproc>
+					<pmcspara>
+						<para>Change hydraulic fluid.</para>
+						<eqpnotavail>
+							<trim.para></trim.para>
+						</eqpnotavail>
+					</pmcspara>
+				</pmcsproc>
+			</pmcs-entry>
+			<pmcs-entry>
+				<itemno>7</itemno>
+				<interval>Annual</interval>
+				<checked >Boom Safety Valve</checked>
+				<pmcsproc>
+					<pmcspara>
+						<para>Position main frame 2 inches (5.1 cm) above a suitable support device. With all power OFF, operate BOOM valve lever to extend and retract positions.</para>
+						<eqpnotavail>
+							<trim.para>Main frame contacts support device.</trim.para>
+						</eqpnotavail>
+					</pmcspara>
+				</pmcsproc>
+			</pmcs-entry>
+			<pmcs-entry>
+				<itemno>8</itemno>
+				<interval>Annual</interval>
+				<checked >Overall View</checked>
+				<pmcsproc>
+					<pmcspara>
+						<para>Position main frame 2 inches (5.1 cm) above a suitable support device. With all power OFF, operate MAST valve lever to extend and retract positions.</para>
+						<eqpnotavail>
+							<trim.para>Main frame contacts support device.</trim.para>
+						</eqpnotavail>
+					</pmcspara>
+				</pmcsproc>
+			</pmcs-entry>
+			<pmcs-entry>
+				<itemno></itemno>
+				<interval></interval>
+				<checked></checked>
+				<pmcsproc>
+					<pmcspara>
+						<para>
+							<figure id="M00124-9-2320-451-F0001">
+								<title>MCRS Components for PMCS</title>
+								<graphic boardno="G06232001033"></graphic>
+							</figure>
+						</para>
+						<eqpnotavail>
+							<trim.para></trim.para>
+						</eqpnotavail>
+					</pmcspara>
+				</pmcsproc>
+			</pmcs-entry>
+		</pmcstable>
+		<mrplpart>
+			<title>Mandatory Replacement Parts</title>
+			<para>No replacement parts are required for these PMCS procedures.</para>
+		</mrplpart>
+	</pmcswp>
+	<pmcswp chngno="0" wpno="M00125-9-2320-451">
+		
+		<wpidinfo>
+			<maintlvl level="maintainer"/>
+			<title>TILT DECK RECOVERY TRAILER (TDRT)<?Pub _newline?>Preventive Maintenance Checks and Services (PMCS)</title>
+		</wpidinfo>
+		<initial_setup>
+			<persnreq>
+				<persnreq-setup-item>
+					<name>Motor Transport Operator H-8 Certification</name>
+					<mos>88M</mos>
+					<qty>1</qty>
+				</persnreq-setup-item>
+			</persnreq>
+			<eqpconds>
+				<eqpconds-setup-item>
+					<condition>Fifth Wheel Towing Device in coupling configuration (WP XXXX)</condition>
+				</eqpconds-setup-item>
+			</eqpconds>
+		</initial_setup>
+		<pmcstable id="M00125-9-2320-451-T0001" tocentry="1">
+			<title>Crew Preventive Maintenance Checks and Services for Tilt Deck Recovery Trailer (TDRT).</title>
+			<pmcs-intervals>
+				<interval>First 1,000 mi.</interval>
+				<interval>Every 6,000 mi.</interval>
+				<interval>Every 36,000 mi.</interval>
+			</pmcs-intervals>
+			<pmcs-entry>
+				<itemno>1</itemno>
+				<interval>First 1,000 mi.</interval>
+				<checked>Main Suspension Initial Torque</checked>
+				<pmcsproc>
+					<pmcspara>
+						<specpara>
+							<note>
+								<trim.para>New replacement installations/ hardware should have wet (oiled) fasteners. The following wet torque values apply:</trim.para>
+								<randlist>
+									<item>1-1/8 in. - 12 UNF 670 lb-ft (908Nm)</item>
+									<item>7/8 in. - 14 UNF 450 lb-ft (610 Nm)</item>
+									<item>3/4 in. - 16 UNF 220 lb-ft (298 Nm)</item>
+									<item>5/8 in. - 18 UNF 130 lb-ft (176 Nm)</item>
+								</randlist>
+								<trim.para>If fastener sizes other than those listed here are to be torqued refer to the Torque Table Supplement for those values.</trim.para>
+							</note>
+							<para>
+								Torque Suspension Nuts to the following In-service dry torque values:
+								<randlist>
+									<item>1-1/8 in. - 12 UNF 880 lb-ft (1193 Nm)</item>
+									<item>7/8 in. - 14 UNF 500 lb-ft (677 Nm)</item>
+									<item>3/4 in. - 16 UNF 300 lb-ft (407 Nm)</item>
+									<item>5/8 in. - 18 UNF 180 lb-ft (244 Nm)</item>
+								</randlist>
+							</para>
+						</specpara>
+						<eqpnotavail>
+							<trim.para>Torque service requirements/schedule are not met. Equipment not ready if nuts, bolts, are damaged.</trim.para>
+						</eqpnotavail>
+					</pmcspara>
+				</pmcsproc>
+			</pmcs-entry>
+			<pmcs-entry>
+				<itemno>2</itemno>
+				<interval>Every 6,000 mi.</interval>
+				<checked>Main Electrical Harness and all Electrical Connections</checked>
+				<pmcsproc>
+					<pmcspara>
+						<para>Check the condition of electrical harness for wear, frayed insulation, corrosion, and that connectors are secured. Use corrosion preventive compounds (dielectric) on all electrical contacts.</para>
+						<eqpnotavail>
+							<trim.para>Harness is worn through, corroded, or unsecured. Electrical Connections are loose or corroded.</trim.para>
+						</eqpnotavail>
+					</pmcspara>
+				</pmcsproc>
+			</pmcs-entry>
+			<pmcs-entry>
+				<itemno>3</itemno>
+				<interval>Every 6,000 mi.</interval>
+				<checked>Suspension</checked>
+				<pmcsproc>
+					<pmcspara>
+						<para>1. Check serviceability of suspension hardware. Check for wear and damage. Notify Unit support</para>
+						<eqpnotavail>
+							<trim.para>Threads are worn or hardware damaged.</trim.para>
+						</eqpnotavail>
+					</pmcspara>
+				</pmcsproc>
+				<pmcsproc>
+					<pmcspara>
+						<para>
+							2. Torque suspension nuts to the following in-service DRY torque values:
+							<randlist>
+								<item>1-1/8 in. - 12 UNF 880 lb-ft (1193 Nm)</item>
+								<item>7/8 in. - 14 UNF 500 lb-ft (677 Nm)</item>
+								<item>3/4 in. - 16 UNF 300 lb-ft (407 Nm)</item>
+								<item>5/8 in. - 18 UNF 180 lb-ft (244 Nm)</item>
+							</randlist>
+						</para>
+						<eqpnotavail>
+							<trim.para>Threads are worn or hardware damaged.</trim.para>
+						</eqpnotavail>
+					</pmcspara>
+				</pmcsproc>
+				<pmcsproc>
+					<pmcspara>
+						<para>
+							3. New replacement installations/hardware should have wet (oiled) fasteners. The following wet torque values apply:
+							<randlist>
+								<item>1-1/8 in. - 12 UNF 670 lb-ft (908 Nm)</item>
+								<item>7/8 in. - 14 UNF 450 lb-ft (610 Nm)</item>
+								<item>3/4 in. - 16 UNF 220 lb-ft (298 Nm)</item>
+								<item>5/8 in. - 18 UNF 130 lb-ft (176 Nm)</item>
+							</randlist>
+						</para>
+						<eqpnotavail>
+							<trim.para>Suspension nuts not torqued.</trim.para>
+						</eqpnotavail>
+					</pmcspara>
+				</pmcsproc>
+			</pmcs-entry>
+			<pmcs-entry>
+				<itemno>4</itemno>
+				<interval>Every 6,000 mi.</interval>
+				<checked>Lift Axle Torque Arm Mounting Plate</checked>
+				<pmcsproc>
+					<pmcspara>
+						<para>
+							Check the torque for the bolts securing the top mounting plate of the lift axle torque arm. Torque to the following DRY value:
+							<randlist>
+								<item>1/2 in. - 20 UNF 100 lb-ft (135 Nm)</item>
+							</randlist>
+						</para>
+						<eqpnotavail>
+							<trim.para>Torque arm mounting plate bolts not torqued.</trim.para>
+						</eqpnotavail>
+					</pmcspara>
+				</pmcsproc>
+			</pmcs-entry>
+			<pmcs-entry>
+				<itemno>5</itemno>
+				<interval>Every 6,000 mi.</interval>
+				<checked>Tandem Axle Leaf Springs and Attaching Parts</checked>
+				<pmcsproc>
+					<pmcspara>
+						<specpara>
+							<note>
+								<trim.para>The three bottom leaves of each spring pack are the main leaves in each pack.</trim.para>
+							</note>
+							<para>1. Check for missing or damaged hangers, end caps, spring seats, adjustment plates, and hardware.</para>
+						</specpara>
+						<eqpnotavail>
+							<trim.para>Leaf spring attachments or hardware is missing.</trim.para>
+						</eqpnotavail>
+					</pmcspara>
+				</pmcsproc>
+				<pmcsproc>
+					<pmcspara>
+						<para>
+							2. Check for the following:
+							<randlist>
+								<item>a. One or more of the leaves in any spring assembly are broken.</item>
+								<item>b. Any leaf or portion of any leaf in any spring assembly is missing or broken.</item>
+								<item>c. Any broken main leaf in a spring assembly.</item>
+							</randlist>
+						</para>
+						<eqpnotavail>
+							<trim.para>Leaf or leaves are not replaced.<?Pub _newline ?>Leaf is missing or separated.<?Pub _newline?>Main leaf is not replaced.</trim.para>
+						</eqpnotavail>
+					</pmcspara>
+				</pmcsproc>
+			</pmcs-entry>
+			<pmcs-entry>
+				<itemno>6</itemno>
+				<interval>Every 6,000 mi.</interval>
+				<checked>Hubdometer</checked>
+				<pmcsproc>
+					<pmcspara>
+						<specpara>
+							<caution>
+								<trim.para>Do not use paints or solvents on hubodometer polycarbonate face. Do not stand on hubodometer.</trim.para>
+							</caution>
+							<note>
+								<trim.para>If hubodometer has a bent or stripped stud, case damage, improper bracket, or hardware or case tampering, it will not perform properly.</trim.para>
+							</note>
+							<para>Check hubodometer bracket and gage for looseness and missing hardware. Torque gage nut to 15 lb-ft (20.3 Nm) max.</para>
+						</specpara>
+						<eqpnotavail>
+							<trim.para></trim.para>
+						</eqpnotavail>
+					</pmcspara>
+				</pmcsproc>
+			</pmcs-entry>
+			<pmcs-entry>
+				<itemno>7</itemno>
+				<interval>Every 6,000 mi.</interval>
+				<checked>Hub Caps</checked>
+				<pmcsproc>
+					<pmcspara>
+						<specpara>
+							<note>
+								<trim.para>Inside of hub caps should have a light coat of grease. Do not plug vent hole.</trim.para>
+							</note>
+							<para>Check hub caps for leaks, damage, and missing hardware. Torque nuts to 15 lb-ft (20.3 Nm) max.</para>
+						</specpara>
+						<eqpnotavail>
+							<trim.para></trim.para>
+						</eqpnotavail>
+					</pmcspara>
+				</pmcsproc>
+			</pmcs-entry>
+			<pmcs-entry>
+				<itemno>8</itemno>
+				<interval>Every 6,000 mi.</interval>
+				<checked>Air Brake Chamber</checked>
+				<pmcsproc>
+					<pmcspara>
+						<specpara>
+							<warning>
+								<trim.para>No disassembly of air brake chamber is authorized. Before any work is performed on the spring brake system, chock the wheel front and rear to prevent semitrailer movement. When inspecting or caging air brake chambers, do not position yourself in front of, or in line with the chamber. Serious injury or death may occur if this warning is not followed.</trim.para>
+								<trim.para>Discarded air brake chambers must be safely and properly disposed of. They should be disarmed prior to disposal to prevent present and future injury.</trim.para>
+							</warning>
+							<para>Clean and visually inspect clamp bands, castings (case), and fasteners for looseness, damage, and missing hardware or leaking air.</para>
+						</specpara>
+						<eqpnotavail>
+							<trim.para>Hardware is loose or missing or castings are damaged or leaking air.</trim.para>
+						</eqpnotavail>
+					</pmcspara>
+				</pmcsproc>
+			</pmcs-entry>
+			<pmcs-entry>
+				<itemno>9</itemno>
+				<interval>Every 36,000 mi.</interval>
+				<checked>Brake Drums</checked>
+				<pmcsproc>
+					<pmcspara>
+						<para>Check drums for cracking, heat discoloration, grooving, elongated bolt holes, out-of-round or worn beyond re-bore limit on drum. Notify Direct Support maintenance concerning wear, re-boring and out-of-round conditions.</para>
+						<eqpnotavail>
+							<trim.para>Drum is cracked, severely overheated, has elongated holes or is out of round.</trim.para>
+						</eqpnotavail>
+					</pmcspara>
+				</pmcsproc>
+			</pmcs-entry>
+			<pmcs-entry>
+				<itemno>10</itemno>
+				<interval>Every 36,000 mi.</interval>
+				<checked>ABS Sensors</checked>
+				<pmcsproc>
+					<pmcspara>
+						<specpara>
+							<caution>
+								<trim.para>Tap sensor to tone ring using a wood rod only. A metal rod will damage components.</trim.para>
+							</caution>
+							<para>Check that sensor pick-ups are lightly touching tone ring, or have a gap of no more than 0.040 in. (1.02 mm) between the tone ring and pick-up end.</para>
+						</specpara>
+						<eqpnotavail>
+							<trim.para></trim.para>
+						</eqpnotavail>
+					</pmcspara>
+				</pmcsproc>
+			</pmcs-entry>
+			<pmcs-entry>
+				<itemno>11</itemno>
+				<interval>Every 36,000 mi.</interval>
+				<checked>Brake Systems</checked>
+				<pmcsproc>
+					<pmcspara>
+						<specpara>
+							<warning>
+								<trim.para>Do not allow brake lining to wear to the point that rivets touch the drum. This condition can cause brake failure, injury to personnel and damage to equipment.</trim.para>
+							</warning>
+							<caution>
+								<trim.para>To ensure a balanced braking system, both brake assemblies on an axle end should have like repairs accomplished at the same time.</trim.para>
+							</caution>
+							<para>1. Check brake lining thickness, springs, anchor pins, bushings, and rollers for damage and wear.</para>
+						</specpara>
+						<eqpnotavail>
+							<trim.para>Linings are worn to limit. Springs, anchor pins, bushings, and rollers are damaged or worn.</trim.para>
+						</eqpnotavail>
+					</pmcspara>
+				</pmcsproc>
+				<pmcsproc>
+					<pmcspara>
+						<para>2. See WP 00XX for lubrication points.</para>
+						<eqpnotavail>
+							<trim.para></trim.para>
+						</eqpnotavail>
+					</pmcspara>
+				</pmcsproc>
+			</pmcs-entry>
+			<pmcs-entry>
+				<itemno>12</itemno>
+				<interval>Every 36,000 mi.</interval>
+				<checked>"S" Cams</checked>
+				<pmcsproc>
+					<pmcspara>
+						<para>Check for wear and damage to spline, bushings, cam lobes, and retaining brackets. Replace bushings.</para>
+						<eqpnotavail>
+							<trim.para>Damage/wear affects operation.</trim.para>
+						</eqpnotavail>
+					</pmcspara>
+				</pmcsproc>
+			</pmcs-entry>
+			<pmcs-entry>
+				<itemno>13</itemno>
+				<interval>Every 36,000 mi.</interval>
+				<checked>Hubs</checked>
+				<pmcsproc>
+					<pmcspara>
+						<specpara>
+							<warning>
+								<trim.para>The triennial (3 years) 36,000 miles check/services is based on normal operation. Conditions identified such as hot brake drums, leakage/seepage of spindle/hub grease, brake lock&not;up, wheel end noise/damage, and impact damage will require inspection and repair be performed when the incident occurs, not at service interval. Failure to comply can cause injury to personnel and damage to the equipment.</trim.para>
+								<trim.para>A hot brake can cause serious burns. Exercise extreme caution before attempting to touch brake drum after use. Slowly move hand toward drum. If drum is overheated, radiated heat will be felt before actually touching the drum.</trim.para>
+							</warning>
+							<para>Clean and check hubs for wear and damage, including tone rings. Replace hub with tone ring if damaged or worn.</para>
+						</specpara>
+						<eqpnotavail>
+							<trim.para>Hub or tone ring is worn or damaged.</trim.para>
+						</eqpnotavail>
+					</pmcspara>
+				</pmcsproc>
+			</pmcs-entry>
+		</pmcstable>
+		<mrplpart>
+			<title>Mandatory Replacement Parts</title>
+            <para>No replacement parts are required for these PMCS procedures.</para>
+        </mrplpart>
+    </pmcswp>
+</pmcscategory>
+</mim>

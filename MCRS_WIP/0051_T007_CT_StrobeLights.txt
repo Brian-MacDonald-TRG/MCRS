@@ -1,0 +1,31 @@
+<tswp chngno="0" wpno="T00007-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="crew"/>
+		<title>TROUBLESHOOTING PROCEDURES <?Pub _newline?>STROBE LIGHTS</title>
+	</wpidinfo>
+	<initial_setup>
+		<eqpconds>
+			<eqpconds-setup-item>
+				<condition> Coupling FWTRD to Prime Mover(<xref wpid="O00003-9-2320-451"/>).</condition>
+			</eqpconds-setup-item>
+		</eqpconds>
+	</initial_setup>
+	<tsproc>
+		<faultproc>
+			<title>Crew Troubleshooting</title>
+			<symptom>Strobe Lights do not work</symptom>
+			<malfunc label="malfunction">Strobe Light Switch is "ON" and strobe lights will not light.</malfunc>
+			<action>
+				<step1>
+					<para>Ensure that dummy plug is inserted into 7-pin connector of 12/24V Junction Box.</para>
+				</step1>
+				<step1>
+					<para>Check that prime mover Blackout Lighting Switch is not in ON position.</para>
+				</step1>
+				<step1>
+					<para>If Strobes still do not work notify Maintainer.</para>
+				</step1>
+			</action>
+		</faultproc>
+	</tsproc>
+</tswp>

@@ -1,0 +1,31 @@
+<tswp chngno="0" wpno="T00022-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="crew"/>
+		<title>TROUBLESHOOTING PROCEDURES <?Pub _newline?> TILT DECK RECOVERY TRAILER BRAKES </title>
+	</wpidinfo>
+	<initial_setup>
+		<eqpconds>
+			<eqpconds-setup-item>
+				<condition>Coupling the TDRT to the FWTRD (<xref wpid="O00022-9-2320-451"/>).</condition>
+			</eqpconds-setup-item>
+		</eqpconds>
+	</initial_setup>
+	<tsproc>
+		<faultproc>
+			<title>Crew Troubleshooting</title>
+			<symptom>Brakes on the Tilt Deck Recovery Trailer will not release.</symptom>
+			<malfunc label="malfunction">Prime mover hand brake engaged</malfunc>
+			<action>
+				<step1>
+					<para>Disengage the hand brake lever.</para>
+				</step1>
+			</action>
+			<malfunc label="malfunction"> Gladhands at prime mover to FWTRD and FWTRD to TDRT connected improperly</malfunc>
+			<action>
+				<step1>
+					<para>Make proper gladhand connection.</para>
+				</step1>
+			</action>
+		</faultproc>
+	</tsproc>
+</tswp>

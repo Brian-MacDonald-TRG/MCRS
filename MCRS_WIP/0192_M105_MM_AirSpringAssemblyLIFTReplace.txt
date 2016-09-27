@@ -1,0 +1,100 @@
+<maintwp chngno="0" wpno="M00105-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="maintainer"/>
+			<title>MAINTAINER MAINTENANCE - AIR SPRING ASSEMBLY "LIFT"<?Pub _newline?>REPLACE</title>
+	</wpidinfo>
+	<initial_setup>
+		<tools>
+			<tools-setup-item>
+				<name>Tool Kit, Mechanics General</name>
+				<itemref>
+					<xref itemid="S00007-9-2320-451-TOOL-4" wpid="S00007-9-2320-451"/>
+				</itemref>
+			</tools-setup-item>
+		</tools>
+		<persnreq>
+			<persnreq-setup-item>
+				<name>Motor Transport Operator</name>
+				<mos>88M</mos>
+				<qty>X</qty>
+			</persnreq-setup-item>
+		</persnreq>
+		<eqpconds>
+			<eqpconds-setup-item>
+				<condition>Tilt Deck Recovery Trailer in uncoupled configuration.<xref wpid="O00027-9-2320-451"/></condition>
+			</eqpconds-setup-item>
+			<eqpconds-setup-item>
+				<condition>Tires chocked.</condition>
+			</eqpconds-setup-item>
+		</eqpconds>
+	</initial_setup>
+	<maintsk>
+		<replace>
+			<proc>
+				<step1>
+					<para>Remove wheel IAW WP <xref wpid="M00096-9-2320-451"/>.</para>
+				</step1>
+				<step1>
+					<para>Remove nut <callout assocfig="M00105-9-2320-451-F0001" label ="1"/> and lock washer securing front of air bag.</para>
+				</step1>
+
+					<figure id="M00105-9-2320-451-F0001">
+					<title>Lift Axle Air Bag Nut Removal</title>
+					<graphic boardno="G06232000464"/>
+					</figure>
+
+				<step1>
+					<para>Remove airline <callout assocfig="M00105-9-2320-451-F0002" label ="1"/> from rear of air bag.</para>
+				</step1>
+				<step1>
+					<para>Remove nut <callout assocfig="M00105-9-2320-451-F0002" label ="2"/> and lock washer from rear of airbag.</para>
+				</step1>
+
+					<figure id="M00105-9-2320-451-F0002">
+					<title>Lift Axle Air Bag Airline Removal</title>
+					<graphic boardno="G06232000465"/>
+					</figure>
+
+				<step1>
+					<para>Using a suitable lifting device, lift axle about 10 inches (25.4-cm.)</para>
+				</step1>
+				<step1>
+					<para>Remove air bag.</para>
+				</step1>
+				<step1>
+					<para>Obtain serviceable item.</para>
+				</step1>
+				<step1>
+					<para>Position and align serviceable lift axle air bag with airline <callout assocfig="M00105-9-2320-451-F0003" label ="1"/>.</para>
+				</step1>
+
+					<figure id="M00105-9-2320-451-F0003">
+					<title>Lift Axle Air Bag Air Line Fitting Alignment</title>
+					<graphic boardno="G06232000466"/>
+					</figure>
+
+				<step1>
+					<para>Using a suitable lifting device, lower axle.</para>
+				</step1>
+				<step1>
+					<para>Use pipe sealant and install nut <callout assocfig="M00105-9-2320-451-F0004" label ="1"/> and lock washer on rear of air bag.</para>
+				</step1>
+				<step1>
+					<para>Use pipe sealant and install nut <callout assocfig="M00105-9-2320-451-F0004" label ="2"/> and lock washer on front of air bag.</para>
+				</step1>
+
+					<figure id="M00105-9-2320-451-F0004">
+					<title>Lift Axle Air Bag Mounting Nut Installation</title>
+					<graphic boardno="G06232000467"/>
+					</figure>
+		
+				<step1>
+					<para>Install air line.</para>
+				</step1>
+				<step1>
+					<para>Replace wheel IAW <xref wpid="M00096-9-2320-451"/>.</para>
+				</step1>
+			</proc>
+		</replace>
+	</maintsk>
+</maintwp>

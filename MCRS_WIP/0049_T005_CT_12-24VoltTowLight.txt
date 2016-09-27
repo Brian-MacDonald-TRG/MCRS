@@ -1,0 +1,46 @@
+<tswp chngno="0" wpno="T00005-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="crew"/>
+		<title>CREW TROUBLESHOOTING PROCEDURES <?Pub _newline?>12-24 Volt Tow Light</title>
+	</wpidinfo>
+	<initial_setup>
+		<eqpconds>
+			<eqpconds-setup-item>
+				<condition> Connecting to Towed Vehicles Using Tow Bar Adapters (<xref wpid="O00013-9-2320-451"/>).</condition>
+			</eqpconds-setup-item>
+		</eqpconds>
+	</initial_setup>
+	<tsproc>
+		<faultproc>
+			<title>Crew Troubleshooting</title>
+			<symptom>12/24 Volt Tow Light does not work.</symptom>
+			<malfunc label="malfunction">Electrical Connections; prime mover to FWTRD, FWTRD to 70' Light Cord, and 70' Light Cord to Light Bar are disconnected.</malfunc>
+			<action>
+				<step1>
+					<para>Reconnect cables if not properly connected.</para>
+				</step1>
+			</action>
+			<malfunc label="malfunction"> Electrical connectors are dirty, corroded, or have damaged pins.</malfunc>
+			<action>
+				<step1>
+					<para>Clean dirty or corroded pins</para>
+				</step1>	
+				<step1>
+					<para>Notify maintainer if pins are damaged</para>
+				</step1>
+			</action>	
+			<malfunc label="malfunction">70' Light Cord plugged in and no power.</malfunc>
+			<action>
+				<step1>
+					<para>Notify Maintainer.</para>
+				</step1>
+			</action>	
+			<malfunc label="malfunction">12/24 Volt Tow Light works when 70' Light Cord is directly plugged into prime mover as long as light bar can be placed properly on towed vehicle</malfunc>
+			<action>
+				<step1>
+					<para>Notify Maintainer. Fault lies in either prime mover light cord or the FWTRD lighting harness</para>
+				</step1>
+			</action>
+		</faultproc>
+	</tsproc>
+</tswp>

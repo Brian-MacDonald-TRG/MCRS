@@ -1,0 +1,78 @@
+<maintwp chngno="0" wpno="M00069-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="maintainer"/>
+		<title>MAINTAINER MAINTENANCE - LIFT AXLE LOCKING CONTROL PANEL <?Pub _newline?>REPLACE</title>
+	</wpidinfo>
+	<initial_setup>
+		<tools>
+			<tools-setup-item>
+				<name>Tool Kit, General Mechanics</name>
+				<itemref>
+					<xref itemid="S00007-9-2320-451-TOOL-4" wpid="S00007-9-2320-451"/>
+				</itemref>
+			</tools-setup-item>
+		</tools>
+		<persnreq>
+			<persnreq-setup-item>
+				<name>Motor Transport Operator</name>
+				<mos>88M</mos>
+				<qty>1</qty>
+			</persnreq-setup-item>
+		</persnreq>
+		<eqpconds>
+			<eqpconds-setup-item>
+				<condition>Fifth Wheel Towing and Recovery Device in Uncoupled Configuration (<xref wpid="O00027-9-2320-451"/>).</condition>
+			</eqpconds-setup-item>
+			<eqpconds-setup-item>
+				<condition>Wheels Chocked.</condition>
+			</eqpconds-setup-item>
+		</eqpconds>
+	</initial_setup>
+	<maintsk>
+		<replace>
+			<proc>
+				<step1>
+					<para>Pull pull cables to drain both air reservoirs.</para>
+				</step1>
+				<figure id="M00069-9-2320-451-F0001">
+					<title>Pull Cables</title>
+					<graphic boardno="G06232000524"></graphic>
+				</figure>
+				<step1>
+					<para>Gain access behind the lift axle locking control panel.</para>
+				</step1>
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>Removal of the mounting bolts, allow for ease of disconnecting and connecting air lines.</trim.para>
+						</note>
+						<para>Remove two bolts <callout assocfig="M00069-9-2320-451-F0001" label="1"/>, washers, lock washers, and nuts <callout assocfig="M00069-9-2320-451-F0001" label="1"/> from top of lift axle locking control panel.</para>
+					</specpara>
+				</step1>
+				<figure id="M00069-9-2320-451-F0002">
+					<title>Lift Axle Locking Control Panel Bolt Removal</title>
+					<graphic boardno="G06232000512"></graphic>
+				</figure>
+				<step1>
+					<para>Tag and disconnect five air lines from QD fittings <xref figid="M00069-9-2320-451-F0003"/>.</para>
+				</step1>
+				<figure id="M00069-9-2320-451-F0003">
+					<title>Lift Axle Control Panel Air Lines</title>
+					<graphic boardno="G06232000513"></graphic>
+				</figure>
+				<step1>
+					<para>Obtain serviceable item.</para>
+				</step1>
+				<step1>
+					<para>Install five air lines to QD fittings as tagged onto serviceable lift axle control panel.</para>
+				</step1>
+				<step1>
+					<para>Position and align lift axle control panel in air control box.</para>
+				</step1>
+				<step1>
+					<para>Secure with two bolts, lock washers, washers, and nuts.</para>
+				</step1>
+			</proc>
+		</replace>
+	</maintsk>
+</maintwp>

@@ -1,0 +1,39 @@
+<tswp chngno="0" wpno="T00042-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="maintainer"/>
+		<title>TROUBLESHOOTING PROCEDURES <?Pub _newline?>TILT DECK RECOVERY TRAILER SLIDE </title>
+	</wpidinfo>
+	<initial_setup>
+		<eqpconds>
+			<eqpconds-setup-item>
+				<condition> Coupling the TDRT to the FWTRD(<xref wpid="O00022-9-2320-451"/>).</condition>
+			</eqpconds-setup-item>
+		</eqpconds>
+	</initial_setup>
+	<tsproc>
+		<faultproc>
+			<title>Maintainer Troubleshooting</title>
+			<symptom>TDRT Deck will not slide.</symptom>
+			<malfunc label="malfunction">Lift Axle in the LOAD position.</malfunc>
+			<action>
+				<step1>
+					<para>Place the lift axle in LIFT Position.</para>
+				</step1>
+			</action>
+			<malfunc label="malfunction">TDRT slide rails and the axle assembly slip pads are damaged and/or had obstructions.</malfunc>
+			<action>
+				<step1>
+					<para>Remove obstructions. Replace slip pads IAW <xref wpid="M00044-9-2320-451"/>. </para>
+				</step1>
+			</action>
+			<malfunc label="malfunction">Prime mover trailer hand brake control does not lock the TDRT brakes.</malfunc>
+			<action>
+				<step1>
+					<para>Allow pressure to reach 100psi on pressure gauge and recheck. If fault persist, adjust the Automatic Slack Adjuster IAW <xref wpid="M00080-9-2320-452"/>.</para>
+				</step1>
+			</action>
+		</faultproc>
+	</tsproc>
+</tswp>
+</troublecategory>
+</tim>

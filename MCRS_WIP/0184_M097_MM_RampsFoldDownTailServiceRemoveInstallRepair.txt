@@ -1,0 +1,116 @@
+<maintwp chngno="0" wpno="M00097-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="maintainer"/>
+		<title>MAINTAINER MAINTENANCE - RAMPS, FOLD DOWN, TAIL REPLACE</title>
+	</wpidinfo>
+	<initial_setup>
+		<tools>
+			<tools-setup-item>
+				<name>Tool Kit, Mechanics General</name>
+				<itemref>
+					<xref itemid="S00007-9-2320-451-TOOL-4" wpid="S00007-9-2320-451"/>
+				</itemref>
+			</tools-setup-item>
+		</tools>
+		<mtrlpart>
+			<mtrlpart-setup-item>
+				<name>Penetrating Oil</name>
+			</mtrlpart-setup-item>
+			<mtrlpart-setup-item>
+				<name>Anti-seize compound</name>
+			</mtrlpart-setup-item>
+		</mtrlpart>
+		<persnreq>
+			<persnreq-setup-item>
+				<name>Motor Transport Operator</name>
+				<mos>88M</mos>
+				<qty>1</qty>
+			</persnreq-setup-item>
+		</persnreq>
+		<eqpconds>
+			<eqpconds-setup-item>
+				<condition>TDRT uncoupled and set on landing legs <xref wpid="O00027-9-2320-451"/></condition>
+			</eqpconds-setup-item>
+			<eqpconds-setup-item>
+				<condition>Wheels chocked.</condition>
+			</eqpconds-setup-item>
+		</eqpconds>
+	</initial_setup>
+	<maintsk>
+		<remove>
+			<proc>
+				<step1>
+					<specpara>
+						<warning>
+							<icon-set boardno="Heavy_Parts-foot"><icon-set boardno="Heavy_Parts-hand">
+							<trim.para>Any time the main rod is removed from a ramp link the ramp assembly associated with that link can suddenly slide down and fall off the rear deck taper of the TDRT. If not supported by a forklift, be sure to secure the ramp through the hand hold straps to prevent the ramp assembly from accidently sliding. Failure to comply may result in injury or death to personnel.</trim.para>
+						</warning>
+						<caution>
+							<trim.para>The TDRT Center Ramp Section weighs 175 lbs. The Side Ramp Sections weigh 145 lbs. Two personnel and a forklift are required when removing or installing the Assemblies. Failure to comply may result in injury to personnel and or damage to the equipment.</trim.para>
+						</caution>
+						<note>
+							<trim.para>This procedure describes changing the middle ramp section and its link. The outer ramp sections and links are changed in the same manner as described for the center section and the same cautions apply.</trim.para>
+							<trim.para>Use penetrating oil as needed to free up set screws and pivot rods for removal and installation.</trim.para>
+							<trim.para>Anytime set screws are removed, apply a small amount of anti-seize prior to re-installing.</trim.para>
+							<trim.para>Taking the TDRT to the wash rack and cleaning the ramp area prior to beginning the procedures may aid in easier removal of parts.</trim.para>
+						</note>
+					<para>Fold the ramp onto the TDRT deck.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Loosen the two set screws <callout assocfig="M00097-9-2320-451-F0001" label="1"> that hold the center ramp rod <callout assocfig="M00097-9-2320-451-F0001" label="2"> in place.</para>
+				</step1>
+
+				<figure id="M00097-9-2320-451-F0001">
+					<title>TDRT Folding Ramps</title>
+					<graphic boardno="G06232000477"/>
+				</figure>			
+
+				<step1>
+					<para>Position a forklift to support the ramp section.</para>
+				</step1>
+				<step1>
+					<para>With two personnel, fold out the ramp section <callout assocfig="M00097-9-2320-451-F0002" label="1"> onto the forks of the forklift.</para>
+				</step1>
+
+					<figure id="M00097-9-2320-451-F0002">
+					<title>Center Ramp Folded Out onto Forklift</title>
+					<graphic boardno="G06232000478"/>
+				</figure>	
+
+				<step1>
+					<para>With a hammer and drift, drive the rod <callout assocfig="M00097-9-2320-451-F0003" label="1"> out of the ramp section</para>
+				</step1>
+
+					<figure id="M00097-9-2320-451-F0003">
+					<title>Center Ramp Folded Out onto Forklift</title>
+					<graphic boardno="G06232000479"/>
+				</figure>
+			</proc>
+		</remove>
+	</maintsk>
+	<maintsk>
+		<install>
+			<proc>
+				<step1>
+					<para>Position serviceable ramp section <callout assocfig="M00097-9-2320-451-F0004" label="1"> on a forklift and put into place at rear of the trailer.</para>
+				</step1>
+
+					<figure id="M00097-9-2320-451-F0004">
+					<title>Center Ramp Section</title>
+					<graphic boardno="G06232000480"/>
+				</figure>
+				
+				<step1>
+					<para>Drive the rod though the ramp and link.</para>
+				</step1>
+				<step1>
+					<para>Ensure that it is positioned evenly on both sides of the ramp.</para>
+				</step1>
+				<step1>
+					<para>Fold the ramp back onto the trailer and tighten the set screws firmly to hold rod in place.</para>
+				</step1>
+			</proc>
+		</install>
+	</maintsk>
+</maintwp>

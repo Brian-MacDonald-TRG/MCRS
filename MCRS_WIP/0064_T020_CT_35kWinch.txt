@@ -1,0 +1,31 @@
+<tswp chngno="0" wpno="T00020-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="crew"/>
+		<title>TROUBLESHOOTING PROCEDURES <?Pub _newline?>35K WINCH</title>
+	</wpidinfo>
+	<initial_setup>
+		<eqpconds>
+			<eqpconds-setup-item>
+				<condition>Coupling FWTRD to Prime Mover(<xref wpid="O00003-9-2320-451"/>).</condition>
+			</eqpconds-setup-item>
+		</eqpconds>
+	</initial_setup>
+	<tsproc>
+		<faultproc>
+			<title>Crew Troubleshooting</title>
+			<symptom>35K Winch not working</symptom>
+			<malfunc label="malfunction">18k/35k Winch Diverter Valve inproperly set.</malfunc>
+			<action>
+				<step1>
+					<para>Set the 18k/35k Winch Diverter Valve to the 35K position</para>
+				</step1>
+			</action>
+			<malfunc label="malfunction">The 35K free spool lever is set improperly.</malfunc>
+			<action>
+				<step1>
+					<para>Set the lever to the proper position and recheck</para>
+				</step1>
+			</action>
+		</faultproc>
+	</tsproc>
+</tswp>

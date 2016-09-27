@@ -1,0 +1,8 @@
+<nsnindxwp chngno="0" wpno="R00081-9-2320-451"><?Pub Dtl?>
+<wpidinfo>
+<maintlvl level="maintainer"/>
+<title>National Stock Number Index</title>
+</wpidinfo><nsnindx>
+<nsnindxrow><nsn><fsc></fsc><niin></niin></nsn>
+<callout assocfig="R00081-FIG1"/></nsnindxrow>
+</nsnindx></nsnindxwp>

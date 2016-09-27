@@ -1,0 +1,103 @@
+<maintwp chngno="0" wpno="M00018-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="maintainer"/>
+		<title>MAINTAINER MAINTENANCE - 12 VOLT RECEPTACLE TEST/REPLACE</title>
+	</wpidinfo>
+	<initial_setup>
+		<tools>
+			<tools-setup-item>
+				<name>Tool Kit, General Mechanics</name>
+				<itemref>
+					<xref itemid="S00007-9-2320-451-TOOL-4" wpid="S00007-9-2320-451"/>
+				</itemref>
+			</tools-setup-item>
+		</tools>
+		<mtrlpart>
+			<mtrlpart-setup-item>
+				<name>WASHER, LOCK (2)</name>
+			</mtrlpart-setup-item>
+			<mtrlpart-setup-item>
+				<name>TAG, MARKER</name>
+				<itemref>
+					<xref itemid="S00006-9-2320-451-0018" wpid="S00006-9-2320-451"/>
+				</itemref>
+			</mtrlpart-setup-item>
+		</mtrlpart>
+		<persnreq>
+			<persnreq-setup-item>
+				<name>Motor Transport Operator</name>
+				<mos>88M</mos>
+				<qty>1</qty>
+			</persnreq-setup-item>
+		</persnreq>
+		<eqpconds>
+			<eqpconds-setup-item>
+				<condition>Fifth Wheel Towing and Recovery Device in coupling configuration <xref wpid="O00003-9-2320-451"/>.</condition>
+			</eqpconds-setup-item>
+			<eqpconds-setup-item>
+				<condition>Disconnect Batteries <xref wpid="M00035-9-2320-451"/>.</condition>
+			</eqpconds-setup-item>
+		</eqpconds>
+	</initial_setup>
+	<maintsk>
+		<test>
+			<proc>
+				<title>TEST</title>
+				<step1>
+					<para>Switch the 12/24-volt selector switch <callout assocfig="M00018-9-2320-451-F0001" label="1"/> to 12-Volts.</para>
+				</step1>
+				<figure id="M00018-9-2320-451-F0001" label="1">
+					<title>12/24-Volt Selector Switch</title>
+					<graphic boardno="G06232000239"></graphic>
+				</figure>
+				<step1>
+					<para>With a multimeter, check for 12-VDC reading at center pin <callout assocfig="M00018-9-2320-451-F0002" label="1"/> of 12-Volt receptacle.</para>
+				</step1>
+				<figure id="M00018-9-2320-451-F0002" label="1">
+					<title>12-Volt Receptacle Center Pin</title>
+					<graphic boardno="G06232000240"></graphic>
+				</figure>
+			</proc>
+		</test>
+	</maintsk>
+	<maintsk>
+		<replace>
+			<proc>
+				<step1>
+					<specpara>
+						<warning>
+							<icon-set boardno="Electrical_Symbols"/>
+							<icon-set boardno="Electrical_hand"/>
+							<trim.para>Remove all power to fifth wheel towing device prior to making any repairs on the electrical system. Failure to do so may result in serious injury or death.</trim.para>
+						</warning>
+						<para>Gain access inside junction box. Remove two screws <callout assocfig="M00018-9-2320-451-F0003" label ="1"/>, flat washers <callout assocfig="M00018-9-2320-451-F0003" label ="2"/>, lock washers <callout assocfig="M00018-9-2320-451-F0003" label ="3"/>, and nuts <callout assocfig="M00018-9-2320-451-F0003" label ="4"/>. Discard lock washers.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Loosen seven set screws <callout assocfig="M00018-9-2320-451-F0003" label ="6"/>.</para>
+				</step1>
+				<step1>
+					<para>Tag and remove wires from receptacle <callout assocfig="M00018-9-2320-451-F0003" label ="5"/>. Obtain serviceable item.</para>
+				</step1>
+				<step1>
+					<para>Reinstall wires as tagged into serviceable receptacle and tighten set screws <callout assocfig="M00018-9-2320-451-F0003" label ="6"/>.</para>
+				</step1>
+				<step1>
+					<para>Position receptacle in place and secure with two screws, flat washers, serviceable lock washers, and nuts.</para>
+				</step1>
+				<step1>
+					<para>Close 12/24 junction box.</para>
+				</step1>
+				<step1>
+					<para>Connect both fifth wheel towing device batteries <xref wpid="O00001-9-2320-451"/>.</para>
+				</step1>
+
+					<figure id="M00018-9-2320-451-F0003" label="1">
+					<title>Figure 3. 12 Volt Receptacle.</title>
+					<graphic boardno="G06232000241"></graphic>
+					</figure>
+
+			</proc>
+		</replace>
+	</maintsk>
+</maintwp>

@@ -1,0 +1,209 @@
+<opusualwp chngno="0" wpno="O00013-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="crew"/>
+		<title>OPERATING PROCEDURES <?Pub _newline?>CONNECTING TO TOWED VEHICLES USING TOW BAR ADAPTERS</title>
+	</wpidinfo>
+	<initial_setup>
+		<persnreq>
+			<persnreq-setup-item>
+				<name>Wheeled Vehicle Mechanic</name>
+				<mos>91B</mos>
+				<qty>1</qty>
+			</persnreq-setup-item>
+		</persnreq>
+		<eqpconds>
+			<eqpconds-setup-item>
+				<condition>FWTRD "prepared" for towing IAW <xref wpid="O00005-9-2320-451"/></condition>
+			</eqpconds-setup-item>
+		</eqpconds>
+	</initial_setup>
+	<opertsk>
+		<prepforuse>
+			<proc>
+				<step1>
+					<specpara>
+						<warning>
+							<icon-set boardno="Heavy_Parts-foot"/>
+							<icon-set boardno="Heavy_Parts-wall"/>
+							<trim.para>Connecting to a towed vehicle should be done by two people, the first person in the prime mover cab and the second acting as a ground guide. The person in the prime mover cab must keep the ground guide in sight at all times. All other personnel should stand completely clear of the area. A crush hazard exists. Failure to comply may result in serious injury or death to personnel.</trim.para>
+							<trim.para>Wheels on the towed vehicle should be chocked and parking brakes engaged prior to beginning lift tow connection. Failure to comply could result in the vehicle moving unexpectedly creating a crush hazard causing serious injury or death to personnel.</trim.para>
+						</warning>
+						<note>
+							<trim.para>	If the vehicle you are towing does not have tow bar mounts that are compatible to the FWTRD tow bar adapters, proceed directly to <xref wpid="O00011-9-2320-451"/> for specific instructions applicable to connecting to those disabled vehicles. If the vehicle you are towing is the STRYKER, then proceed directly to <xref wpid="O00015-9-2320-451"/> for specific STRYKER lift tow instructions.</trim.para>
+							<trim.para>If the valve control levers are used, an assistant must monitor boom extensions to prevent contact with the towed vehicle that could result in damage to the equipment.</trim.para>
+						</note>
+						<para>Position the FWTRD so that the FWTRD booms are centered to, and can be backed evenly under the disabled vehicle <callout assocfig="O00013-9-2320-451-F0001" label="1"/>.</para>
+					</specpara>
+				</step1>
+				<figure id="O00013-9-2320-451-F0001">
+					<title>FWTRD Lined Up to Disabled Vehicle</title>
+					<graphic boardno="G06232000115"></graphic>
+				</figure>
+				<step1>
+					<para>"Prepare" the tow bar assemblies as described in <xref wpid="O00006-9-2320-451"/>.</para>
+				</step1>
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>It may be necessary to adjust the tow bar assemblies' position on the booms to prevent the disabled vehicle from contacting the boom cylinders when the FWTRD is backed under the disabled vehicle.</trim.para>
+						</note>
+						<para>Using an assistant, reverse the prime mover until tow bar assemblies' are aligned <callout assocfig="O00013-9-2320-451-F0002" label="1"/> with tow eyes on the disabled vehicle.</para>
+					</specpara>
+				</step1>
+				<figure id="O00013-9-2320-451-F0002">
+					<title>Tow Bar Assemblies' Aligned</title>
+					<graphic boardno="G06232001010"></graphic>
+				</figure>
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>If the upper tow bar adapter connection holes are too high to be mated with the tow bar mounts of the disabled vehicle, perform the pre-picking procedures (<xref wpid="O00007-9-2320-451"/>) to align the tow eyes of the disabled vehicle to the adapters.</trim.para>
+						</note>
+						<para>Secure the four T-bolts on each tow bar assembly base.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Position upper section of tow bar assemblies' under towing eye <callout assocfig="O00013-9-2320-451-F0003" label="1"/> of disabled vehicle. Install tow bar pins <callout assocfig="O00013-9-2320-451-F0003" label="2"/> and secure with clips.</para>
+				</step1>
+				
+					<figure id="O00013-9-2320-451-F0003">
+					<title>Tow Bar Assemblies' Secured to Disabled Vehicle</title>
+					<graphic boardno="G06232000116"></graphic>
+					</figure>
+
+				<step1>
+					<para>Using the remote control, EXTEND LEFT OUT <callout assocfig="O00013-9-2320-451-F0004" label="1"/> and EXTEND RIGHT OUT <callout assocfig="O00013-9-2320-451-F0004" label="2"/> to extend the boom extensions to the position where rear tie-down chains will be installed for the vehicle you are towing.</para>
+				</step1>
+				
+					<figure id="O00013-9-2320-451-F0004">
+					<title>Towing Connection Location</title>
+					<graphic boardno="G06232000117"></graphic>
+					</figure>
+
+				<step1>
+					<para>Using the remote control, BOOM EXTEND until the transport leg assembly is free of the prime mover after-frame <callout assocfig="O00013-9-2320-451-F0005" label="1"/>.</para>
+				</step1>
+				<figure id="O00013-9-2320-451-F0005">
+					<title>Boom "Extend" to stow Transport Leg Assembly</title>
+					<graphic boardno="G06232000118"></graphic>
+					</figure>
+				<step1>
+					<para>Rotate handle counter-clockwise and raise the transport legs. Secure the handle with the small bungee.</para>
+				</step1>
+
+				<step1>
+					<para>Using the remote control, BOOM RETRACT to lift boom extensions. Retract booms as much as possible without interference to axles, fuel tanks, support brackets, etc under the towed vehicle <callout assocfig="O00013-9-2320-451-F0006" label="1"/>.</para>
+				</step1>
+
+					<figure id="O00013-9-2320-451-F0006">
+					<title>Booms retracted for rear chain hook up</title>
+					<graphic boardno="G06232000119"></graphic>
+					</figure>
+
+				<step1>
+					<specpara>
+						<caution>
+							<trim.para>Use care not to wrap chain around frame flange or any air, hydraulic, or fuel lines that may run along the frame. This could bend the frame flange or damage hoses and lines.</trim.para>
+						</caution>
+						<note>
+							<trim.para>Boom extensions should be secured behind the second axle when towing the PLS systems.</trim.para>
+							<trim.para>There are a wide variety of rear suspension configurations. The FWTRD BII of 1/2" chains, sling/grab hooks, frame hooks, and clevises, are provided to use in combinations as determined to complete rear chaining of the boom extensions.</trim.para>
+							<trim.para>Rear chaining should be configured as vertically, from the boom extensions to the disabled vehicle connection point, as possible.</trim.para>
+							<trim.para>It is permissible to wrap the 1/2" chain around the end of the extension.</trim.para>
+						</note>
+						<para>Secure the boom extensions, as close to the frame as possible. Chain around an area that can withstand towing force to include rear axle or spring hangers. Take up as much slack as possible by hand. See <callout assocfig="O00013-9-2320-451-F0007" label="1"/>for examples.</para>
+					</specpara>
+				</step1>
+				
+					<figure id="O00013-9-2320-451-F0007">
+					<title>Rear Chaining Examples</title>
+					<graphic boardno="G06232000120"></graphic>
+					</figure>
+
+				<step1>
+					<para>Using the valve control levers or remote control, BOOM EXTEND until the rear safety chains tighten and the booms come slightly but completely off the ground.</para>
+				</step1>
+				<step1>
+					<para>Check your rear chains for security and non-interference with truck components.</para>
+				</step1>
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>There must always be at least one hole below the one chosen to install the hitch pin through in step 14 to allow for the second pin to be installed in step 17.</trim.para>
+						</note>
+						<para>Install tow bar pin <callout assocfig="O00013-9-2320-451-F0008" label="1"/> through upper tow bar assembly and secure with spring clip.</para>
+					</specpara>
+				</step1>
+				<figure id="O00013-9-2320-451-F0008">
+					<title> Tow Bar Pin Installation</title>
+					<graphic boardno="G06232000121"></graphic>
+					</figure>
+
+				<step1>
+					<para>Repeat step 15 for the remaining tow bar assembly.</para>
+				</step1>
+				<step1>
+					<para> Using remote conrtrol, BOOM EXTEND to raise the lower half of the tow bar assembly until tow bar pin <callout assocfig="O00013-9-2320-451-F0009" label="1"/> seats in lower tow bar assembly.</para>
+				</step1>
+				<step1>
+					<para>Install lower tow bar pin <callout assocfig="O00013-9-2320-451-F0009" label="2"/> through lower tow bar assembly <callout assocfig="O00013-9-2320-451-F0009" label="3"/> and secure with spring clip.</para>
+				</step1>
+				<step1>
+					<para>Repeat step 17 for the remaining tow bar assembly.</para>
+				</step1>
+
+					<figure id="O00013-9-2320-451-F0009">
+					<title> Tow Bar Pin Installation</title>
+					<graphic boardno="G06232000101"></graphic>
+					</figure>
+
+				<step1>
+					<para>Using valve lever controls, BOOM EXTEND to level fifth wheel and install hitch pin <callout assocfig="O00013-9-2320-451-F0010" label="2"/> into center ram <callout assocfig="O00013-9-2320-451-F0010" label="1"/>.</para>
+				</step1>
+				<figure id="O00013-9-2320-451-F0010">
+					<title>Center Ram Lock Pin Placement</title>
+					<graphic boardno="G06232000122"></graphic>
+					</figure>
+				<step1>
+					<para>Using valve lever controls, BOOM RETRACT to secure center ram lock pin into position. Secure center ram lock pin with spring clip.</para>
+				</step1>
+				<step1>
+					<para>Using valve lever controls, MAST EXTEND to raise towed vehicle to towing height required for terrain.</para>
+				</step1>
+				<step1>
+					<para>Install pivot pin <callout assocfig="O00013-9-2320-451-F0011" label="1"/> in slot above arrow <callout assocfig="O00013-9-2320-451-F0011" label="2"/> </para>
+				</step1>
+				<figure id="O00013-9-2320-451-F0011">
+					<title>Mast Pivot Pin Placement</title>
+					<graphic boardno="G06232001012"></graphic>
+					</figure>
+				<step1>
+					<para>Using valve control levers, MAST RETRACT to lock pin into position.</para>
+				</step1>
+				<step1>
+					<specpara>
+						<caution>
+							<trim.para>When using the Tow Bar Assemblies it is still required to install safety chains for lift-tow. Failure to comply could cause the vehicle, while in transport, to shift suddenly on the FWTRD Booms causing damage to the equipment.</trim.para>
+						</caution>
+						<para>Secure towed vehicle to FWTRD booms IAW <xref wpid="O00029-9-2320-451"/>.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Ensure towed vehicles steering wheel is secured in place to prevent rotation while in transport.</para>
+				</step1>
+				<step1>
+					<para>Connect lighting IAW <xref wpid="O00030-9-2320-451"/>.</para>
+				</step1>
+				<step1>
+					<para>Connect air lines from FWTRD to disabled vehicle IAW <xref wpid="O00031-9-2320-451"/>.</para>
+				</step1>
+				<step1>
+					<para>Inspect lights and brakes on towed vehicle for proper operation.</para>
+				</step1>
+				<step1>
+					<para>Ensure electrical control box power switch is in OFF position. Ensure remote control power switch is in OFF position.</para>
+				</step1>
+			</proc>
+		</prepforuse>
+	</opertsk>
+</opusualwp>

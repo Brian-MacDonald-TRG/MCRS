@@ -1,0 +1,121 @@
+<maintwp chngno="0" wpno="M00096-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="maintainer"/>
+			<title>MAINTAINER MAINTENANCE - TIRES, RADIAL, AND SPARE ASSEMBLIES REPLACE</title>
+	</wpidinfo>
+	<initial_setup>
+		<tools>
+			<tools-setup-item>
+				<name>Tool Kit, Mechanics General</name>
+					<itemref>
+						<xref itemid="S00007-9-2320-451-TOOL-4" wpid="S00007-9-2320-451"/>
+					</itemref>
+			</tools-setup-item>
+		</tools>
+		<mtrlpart>
+			<mtrlpart-setup-item>
+				<name>Suitable lifting device</name>
+			</mtrlpart-setup-item>
+			<mtrlpart-setup-item>
+				<name>Jack Stands</name>
+			</mtrlpart-setup-item>
+		</mtrlpart>
+		<persnreq>
+			<persnreq-setup-item>
+				<name>Motor Transport Operator</name>
+				<mos>88M</mos>
+				<qty>2</qty>
+			</persnreq-setup-item>
+		</persnreq>
+		<eqpconds>
+			<eqpconds-setup-item>
+				<condition>Tilt Deck Recovery Trailer in uncoupled configuration IAW <xref wpid="O00027-9-2320-451"/></condition>
+			</eqpconds-setup-item>
+		</eqpconds>
+	</initial_setup>
+	<maintsk>
+		<remove>
+			<proc>
+				<step1>
+					<specpara>
+						<warning>
+							<icon-set boardno="Heavy_Parts-foot"/>
+							<icon-set boardno="Heavy_Parts-hand"/>
+							<trim.para>The semitrailer and axles must be firmly supported with suitable support devices. Suitable support devices must be positioned directly under axles to prevent slippage. Suitable support devices must be used only on a hard, level surface to prevent shifting of semitrailer. Use wheel chocks. Direct all personnel to stay clear of semitrailer when supported in air. Failure to comply may result in personnel death or injury, or equipment damage. Seek medical attention in event of injury.</trim.para>
+							<trim.para>Tire and wheel assembly weighs 179 lb (81 kg). Assistance is required to handle tire and wheel assembly. Failure to comply may result in personnel injury. Seek medical attention in event of injury</trim.para>
+						</warning>
+						<para>Chock tires on axle not being lifted.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Position jack under axle closest to where tires will be removed.</para>
+				</step1>
+				<step1>
+					<para>Loosen, but do not remove, ten lug nuts <callout assocfig="M00096-9-2320-451-F0001" label="1"/> while tires are in contact with ground.</para>
+				</step1>
+
+					<figure id="M00096-9-2320-451-F0001">
+					<title>Wheel of Axle Raised</title>
+					<graphic boardno="G06232000548"></graphic>
+					</figure>
+
+				<step1>
+					<para>Use jack to raise axle until inner and outer tire and wheel assemblies <callout assocfig="M00096-9-2320-451-F0001" label="3"/><callout assocfig="M00096-9-2320-451-F0001" label="2"/> clear the ground.</para>
+				</step1>
+				<step1>
+					<para>Remove 10 flange nuts from wheel.</para>
+				</step1>
+				<step1>
+					<para>Remove wheel. Obtain serviceable item.</para>
+				</step1>
+			</proc>
+		</remove>
+	</maintsk>
+	<maintsk>
+		<install>
+			<proc>
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>Ensure valve stems between the inner and outer tires are opposing each other.</trim.para>
+						</note>
+						<para>Use a jack to raise axle high enough so inner and outer tire and wheel assemblies <callout assocfig="M00096-9-2320-451-F0002" label="3"/><callout assocfig="M00096-9-2320-451-F0002" label=""/> can be mounted on axle.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Install inner and outer tire and wheel assemblies <callout assocfig="M00096-9-2320-451-F0002" label="3"/><callout assocfig="M00096-9-2320-451-F0002" label="2"/> and ten lug nuts <callout assocfig="M00096-9-2320-451-F0002" label="1"/>. Torque lug nuts <callout assocfig="M00096-9-2320-451-F0002" label="1"/> to 50 lb-ft (68 N&bull;m).</para>
+				</step1>
+
+					<figure id="M00096-9-2320-451-F0002">
+					<title>Tire and Wheel Assembly Installation</title>
+					<graphic boardno="G06232000549"></graphic>
+					</figure>
+
+				<step1>
+					<para>Tighten lug nuts <callout assocfig="M00096-9-2320-451-F0002" label="1"/> in sequence shown <callout assocfig="M00096-9-2320-451-F0003"/>.</para>
+				</step1>
+
+					<figure id="M00096-9-2320-451-F0003">
+					<title>Lug Nut Tightening Sequence</title>
+					<graphic boardno="G06232000550"></graphic>
+					</figure>
+
+				<step1>
+					<specpara>
+						<warning>
+							<icon-set boardno="Flying_Particles_wShield"/>
+							<icon-set boardno="Heavy_Parts-foot"/>
+							<icon-set boardno="Heavy_Parts-hand"/>
+							<icon-set boardno="Heavy_Parts-wall"/>
+							<trim.para>If nuts cannot be torqued, at first opportunity have Field Maintenance torque nuts to proper specifications. If mission allows, stop and check nuts for tightness. Failure to comply may result in personnel injury or equipment damage. Seek medical attention in event of injury.</trim.para>
+						</warning>
+						<para>Lower tires and wheel assemblies <callout assocfig="M00096-9-2320-451-F0001" label="2"/><callout assocfig="M00096-9-2320-451-F0001" label="3"/> to the ground and torque ten lug nuts <callout assocfig="M00096-9-2320-451-F0001" label="1"/> to 450 to 500 lb-ft (610 to 678 N&bull;m).</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Stow jack, lug wrench, and wrench bar in prime mover.</para>
+				</step1>
+			</proc>
+		</install>
+	</maintsk>
+</maintwp>

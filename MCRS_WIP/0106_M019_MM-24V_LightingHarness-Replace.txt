@@ -1,0 +1,191 @@
+<maintwp chngno="0" wpno="M00019-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="maintainer"/>
+		<title>MAINTAINER MAINTENANCE <?Pub _newline?>24 VOLT LIGHTING HARNESS <?Pub _newline?>REPLACE</title>
+	</wpidinfo>
+	<initial_setup>
+		<tools>
+			<tools-setup-item>
+				<name>Tool Kit, General Mechanics</name>
+				<itemref>
+					<xref itemid="S00007-9-2320-451-TOOL-4" wpid="S00007-9-2320-451"/>
+				</itemref>
+			</tools-setup-item>
+<!-- 
+Shop Equipment, Common Set No. 1, 
+NSN 4910-00-754-0654   (Verify NSN)
+-->
+		</tools>
+		<persnreq>
+			<persnreq-setup-item>
+				<name>Motor Transport Operator</name>
+				<mos>88M</mos>
+				<qty>1</qty>
+			</persnreq-setup-item>
+		</persnreq>
+		<eqpconds>
+			<eqpconds-setup-item>
+				<condition>
+					Fifth Wheel Towing and Recovery Device in coupling configuration <xref wpid="O00003-9-2320-451"/>.</condition>
+			</eqpconds-setup-item>
+			<eqpconds-setup-item>
+				<condition>
+					Disconnect Batteries <xref wpid="M00035-9-2320-451"/>.</condition>
+			</eqpconds-setup-item>
+		</eqpconds>
+	</initial_setup>
+	<maintsk>
+		<replace>
+			<proc>
+				<step1>
+					<specpara>
+						<warning>
+							<icon-set boardno="Hot_Area"/>
+							<icon-set boardno="Electrical_Symbols"/>
+							<trim.para>Remove all power to fifth wheel towing device prior to making any repairs on the electrical system. Failure to do so may result in serious injury or death.</trim.para>
+						</warning>
+						<note>
+							<trim.para>Protective cover is spring loaded. Remove lower bolts first when removing.</trim.para>
+						</note>
+						<para> Gain access to rear lighting harness receptacle <callout assocfig="M00019-9-2320-451-F0001" label="1"/>. Remove four screws, nuts, and lock washers <callout assocfig="M00019-9-2320-451-F0001" label="2"/>. Discard lock washers.</para>
+					</specpara>
+				</step1>
+				<figure id="M00019-9-2320-451-F0001">
+					<title>Rear Lighting Harness Receptacle</title>
+					<graphic boardno="G06232000242"></graphic>
+				</figure>
+				<step1>
+					<para>Remove protective cover and set aside for reinstallation. </para>
+				</step1>
+				<step1>
+					<para>Gain access to forward lighting harness receptacle. Remove four screws, nuts, and lock washers <callout assocfig="M00019-9-2320-451-F0002" label="1"/>. Discard lock washers.</para>
+				</step1>
+				<figure id="M00019-9-2320-451-F0002">
+					<title>Forward Lighting Harness Receptacle</title>
+					<graphic boardno="G06232000243"></graphic>
+				</figure>
+				<step1>
+					<para>Remove electric control box step cover. Set aside for reinstallation.</para>
+				</step1>
+				<step1>
+					<para>Gain access to rear of electric control box <callout assocfig="M00019-9-2320-451-F0003" label="1"/>. Loosen water tight <callout assocfig="M00019-9-2320-451-F0003" label="2"/> at the rear of the electrical control box.</para>
+				</step1>
+				<figure id="M00019-9-2320-451-F0003">
+					<title>Water Tight Removal</title>
+					<graphic boardno="G06232000244"></graphic>
+				</figure>
+				<step1>
+					<para>Loosen six screws <callout assocfig="M00019-9-2320-451-F0004" label="1"/>.</para>
+				</step1>
+				<step1>
+					<para>Open electrical control box cover <callout assocfig="M00019-9-2320-451-F0004" label="2"/>.</para>
+				</step1>
+				<figure id="M00019-9-2320-451-F0004">
+					<title>Electric Control Box Cover Removal</title>
+					<graphic boardno="G06232000245"></graphic>
+				</figure>
+				<step1>
+					<para>Tag and disconnect the two pigtail wires <callout assocfig="M00019-9-2320-451-F0005" label="1"/> and remove pigtail from rear of electrical control box.</para>
+				</step1>
+				<step1>
+					<para>Remove cable grip nut <callout assocfig="M00019-9-2320-451-F0005" label="2"/> from wire and set aside for reinstallation.</para>
+				</step1>
+				<figure id="M00019-9-2320-451-F0005">
+					<title>24 Volt Pigtail Wires Disconnected and Removed</title>
+					<graphic boardno="G06232000246"></graphic>
+				</figure>
+				<step1>
+					<para>Remove wiring harness clamp bolt <callout assocfig="M00019-9-2320-451-F0006" label="1"/> that secures 24v lighting harness to fender bracket.</para>
+				</step1>
+				<figure id="M00019-9-2320-451-F0006">
+					<title>Wiring Harness Clamp Bolt</title>
+					<graphic boardno="G06232000247"></graphic>
+				</figure>
+				<step1>
+					<para>Remove wiring harness clamp. Set aside for reinstallation. </para>
+				</step1>
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>Lower left bolt is hidden from plain view. Position cable to exposed hidden bolt.</trim.para>
+						</note>
+						<para>Remove three bolts <callout assocfig="M00019-9-2320-451-F0007" label="1"/> that secure the winch diverter bracket to the FWTRD.</para>
+					</specpara>
+				</step1>
+				<figure id="M00019-9-2320-451-F0007">
+					<title>Winch Diverter Bracket Removal</title>
+					<graphic boardno="G06232000248"></graphic>
+				</figure>
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>Note the location of the loops and standoff for the air lines that are secured by one of the bolts for the rear step box cover bracket. They will be reinstalled in the same location.</trim.para>
+						</note>
+						<para>Remove the two each bolts <callout assocfig="M00019-9-2320-451-F0008" label="1"/>, nuts, and washers. Set two each wiring harness clamps aside for reinstallation.</para>
+					</specpara>
+				</step1>
+				<figure id="M00019-9-2320-451-F0008">
+					<title>Bracket Removal</title>
+					<graphic boardno="G06232000249"></graphic>
+				</figure>
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>Note the routing of the 24 Volt Lighting Harness under air lines, other wire harnesses, and brackets when removing. Serviceable item will be installed the same way.</trim.para>
+						</note>
+						<para>Remove the unserviceable lighting harness.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Obtain serviceable item. </para>
+				</step1>
+				<step1>
+					<para>Route and position serviceable harness on FWTRD. </para>
+				</step1>
+				<step1>
+					<para>Reinstall wiring harness clamps <callout assocfig="M00019-9-2320-451-F0009" label="1"/> on airline. Secure rear electric control box step cover bracket using bolts <callout assocfig="M00019-9-2320-451-F0009" label="2"/>, washers, serviceable lock washers and nuts.</para>
+				</step1>
+				<figure id="M00019-9-2320-451-F0009">
+					<title>Electric Control Box Step Cover Mounting Bracket</title>
+					<graphic boardno="G06232000250"></graphic>
+				</figure>
+				<step1>
+					<para>Position and reinstall wiring harness clamp <callout assocfig="M00019-9-2320-451-F0010" label="1"/>.</para>
+				</step1>
+				<step1>
+					<para>Secure winch diverter bracket with three bolts <callout assocfig="M00019-9-2320-451-F0010" label="2"/>.</para>
+				</step1>
+				<figure id="M00019-9-2320-451-F0010">
+					<title>Wiring Harness Clamp and Winch Diverter Bracket</title>
+					<graphic boardno="G06232000251"></graphic>
+				</figure>
+				<step1>
+					<para>Reinstall water tight nut on pigtail of serviceable harness and feed pigtail through water tight at back of electric control box <callout assocfig="M00019-9-2320-451-F0011" label="1"/>.</para>
+				</step1>
+				<figure id="M00019-9-2320-451-F0011">
+					<title>Pig Tail Wire Installation</title>
+					<graphic boardno="G06232000252"></graphic>
+				</figure>
+				<step1>
+					<para>Crimp serviceable connecters to pigtail wires as tagged (Figure 12, item 1).</para>
+				</step1>
+				<figure id="M00019-9-2320-451-F0012">
+					<title>Pig Tail Connection</title>
+					<graphic boardno="G06232000253"></graphic>
+				</figure>
+				<step1>
+					<para>Connect pig tail wires inside the electric control box as tagged.</para>
+				</step1>
+				<step1>
+					<para>Close electric control box and secure with six screws.</para>
+				</step1>
+				<step1>
+					<para>Position serviceable harness connectors in brackets and reinstall protective covers using four each bolts, serviceable lock washers and nuts at forward and rear mounting plates.</para>
+				</step1>
+				<step1>
+					<para>Reinstall electrical control box step cover.</para>
+				</step1>
+			</proc>
+		</replace>
+	</maintsk>
+</maintwp>

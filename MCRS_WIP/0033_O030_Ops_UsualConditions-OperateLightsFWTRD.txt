@@ -1,0 +1,106 @@
+<opusualwp chngno="0" wpno="O00030-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="crew"/>
+		<title>OPERATING PROCEDURES <?Pub _newline?>OPERATE LIGHTS FWTRD/TDRT</title>
+	</wpidinfo>
+	<initial_setup>
+		<persnreq>
+			<persnreq-setup-item>
+				<name>Wheeled Vehicle Mechanic</name>
+				<mos>91B</mos>
+				<qty>1</qty>
+			</persnreq-setup-item>
+		</persnreq>
+	</initial_setup>
+	<opertsk>
+		<oper>
+			<proc>
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>The strobe lights, work lights, and tow light assembly can be operated with either 12 volt or 24 volt systems.</trim.para>
+							<trim.para>When operating the FWTRD strobe lights, the dummy plug located in the BII must be inserted into the 12-volt receptacle on the 12/24 volt junction box <callout assocfig="O00030-9-2320-451-F0001" label="1"/>.</trim.para>
+							<trim.para>The batteries on the FWTRD will run low during extended operation of the strobe lights and must be recharged. Connecting the 24-volt slave cable between the prime mover and the FWTRD allows the FWTRD batteries to remain fully charged. Disconnect the slave cable when traveling.</trim.para>
+						</note>
+						<para>Connect the FWTRD Slave Cable to the prime mover outlet <callout assocfig="O00030-9-2320-451-F0002" label="1"/>.</para>
+					</specpara>
+				</step1>
+					<figure id="O00030-9-2320-451-F0001">
+					<title>Dummy Plug Inserted in 12V Receptacle.</title>
+					<graphic boardno="G06232000206"></graphic>
+					</figure>
+					<figure id="O00030-9-2320-451-F0002">
+					<title>Prime Mover Slave Cable Connection</title>
+					<graphic boardno="G06232000207"></graphic>
+					</figure>
+
+				<step1>
+					<para>Set 12-24 volt junction box handle <callout assocfig="O00030-9-2320-451-F0003" label="1"/> to the 24V position.</para>
+				</step1>
+					<figure id="O00030-9-2320-451-F0003">
+					<title>12/24 Volt Junction Box</title>
+					<graphic boardno="G06232000208"></graphic>
+					</figure>
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>The prime mover is a 24 volt system; the 24 volt connections will be used.</trim.para>
+						</note>
+						<para>Connect opposite end of slave cable to 24 volt receptacle on 12/24 Volt Junction Box <callout assocfig="O00030-9-2320-451-F0004" label="1"/>.</para>
+					</specpara>
+				</step1>
+				
+					<figure id="O00030-9-2320-451-F0004">
+					<title>Slave Cable Connected at 24V Receptacle</title>
+					<graphic boardno="G06232000209"></graphic>
+					</figure>
+
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>To operate strobe light, switch electrical control box STROBE LIGHT switch <callout assocfig="O00030-9-2320-451-F0005" label="1"/> to the ON position.</trim.para>
+							<trim.para>To operate work light, switch electrical control box WORK LIGHT switch <callout assocfig="O00030-9-2320-451-F0005" label="2"/> to the ON position.</trim.para>
+							<trim.para>The following steps refer to lighting connections from the prime mover to the FWTRD, the FWTRD to the TDRT, and tow light bar.</trim.para>
+						</note>
+						<para>Connect 24 volt lighting cable <callout assocfig="O00030-9-2320-451-F0006" label="1"/> from the prime mover to lighting receptacle mounted on the left side FWTRD fender.</para>
+					</specpara>
+				</step1>
+					<figure id="O00030-9-2320-451-F0005">
+					<title>Electric Control Box</title>
+					<graphic boardno="G06232000210"></graphic>
+					</figure>
+					<figure id="O00030-9-2320-451-F0006">
+					<title>24 Volt Lighting Cord from Prime Mover Connected to FWTRD Receptacle</title>
+					<graphic boardno="G06232000211"></graphic>
+					</figure>
+				
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>Lighting cable length options are 12' lighting cable and the 70' lighting cable. For connection to the TDRT, 12' lighting cable is utilized. For connection to 12/24 Volt tow light, the 70' lighting cable is required. If using the 12/24 Volt tow light bar, secure it to the rear of the disabled vehicle.</trim.para>
+						</note>
+						<para>Connect lighting cord <callout assocfig="O00030-9-2320-451-F0007" label="1"/> to rear receptacle at the driver side of the FWTRD.</para>
+					</specpara>
+				</step1>
+
+					<figure id="O00030-9-2320-451-F0007">
+					<title>Lighting Cable Connection at Driver Side Rear Receptacle of FWTRD</title>
+					<graphic boardno="G06232000212"></graphic>
+					</figure>
+
+				<step1>
+					<para>Make connection to the TDRT <callout assocfig="O00030-9-2320-451-F0008" label="1"/> or to the tow light bar <callout assocfig="O00030-9-2320-451-F0008" label="2"/>mounted on the rear of the disabled vehicle.</para>
+				</step1>
+
+					<figure id="O00030-9-2320-451-F0008">
+					<title>TDRT or Light Bar Connection for Lighting</title>
+					<graphic boardno="G06232000213"></graphic>
+					</figure>
+
+				<step1>
+					<para>Check lighting operation prior to moving.</para>
+				</step1>
+			</proc>
+		</oper>
+	</opertsk>
+</opusualwp>

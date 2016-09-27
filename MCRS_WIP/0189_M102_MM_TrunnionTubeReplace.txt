@@ -1,0 +1,147 @@
+<maintwp chngno="0" wpno="M00102-9-2320-451">
+		<wpidinfo>
+			<maintlvl level="maintainer"/>
+				<title>MAINTAINER MAINTENANCE - TRUNNION TUBE<?Pub _newline?> REPLACE</title>
+		</wpidinfo>
+		<initial_setup>
+			<tools>
+				<tools-setup-item>
+					<name>Tool Kit, Mechanics General</name>
+					<itemref>
+						<xref itemid="S00007-9-2320-451-TOOL-4" wpid="S00007-9-2320-451"/>
+					</itemref>
+				</tools-setup-item>
+				<tools-setup-item>
+					<name>Jack</name>
+				</tools-setup-item>
+				<tools-setup-item>
+					<name>Jack stands</name>
+				</tools-setup-item>
+				<tools-setup-item>
+					<name>Torque Multiplier</name>
+				</tools-setup-item>
+				<tools-setup-item>
+					<name>Torque Wrench 120 to 600 lb-ft (163 to 813 N�m)</name>
+				</tools-setup-item>
+			</tools>
+			<persnreq>
+				<persnreq-setup-item>
+					<name>Motor Transport Operator</name>
+					<mos>88M</mos>
+					<qty>4</qty>
+				</persnreq-setup-item>
+			</persnreq>
+			<eqpconds>
+				<eqpconds-setup-item>
+					<condition>Tilt Deck Recovery Trailer in uncoupled configuration.<xref wpid="O00027-9-2320-451"/></condition>
+				</eqpconds-setup-item>
+				<eqpconds-setup-item>
+					<condition>Tires chocked.</condition>
+				</eqpconds-setup-item>
+				<eqpconds-setup-item>
+					<condition>Tires Removed IAW WP <xref wpid="M00096-9-2320-451"/></condition>
+				</eqpconds-setup-item>
+				<eqpconds-setup-item>
+					<condition>Brake Drums Removed IAW <xref wpid="M00092-9-2320-451"/></condition>
+				</eqpconds-setup-item>
+				<eqpconds-setup-item>
+					<condition>Air Brake chamber airlines removed IAW <xref wpid="M00084-9-2320-451"/></condition>
+				</eqpconds-setup-item>
+			</eqpconds>
+		</initial_setup>
+		<maintsk>
+			<replace>
+				<proc>
+					<step1>
+						<specpara>
+							<warning>
+								<trim.para>Axle weighs 200 lbs. (91 kg). Assistance is required to lift axle. Failure to comply may result in personnel death or injury, or equipment damage. Seek medical attention in event of injury.</trim.para>
+								<trim.para>The frame and axle must be firmly supported on a hard, level surface. Use ground boards if necessary. Direct all personnel to stay clear of semitrailer when supported in air. Failure to comply may result in personnel death or injury, or equipment damage. Seek medical attention in event of injury.</trim.para>
+								<trim.para>The axle must be firmly supported with suitable support devices before performing Steps 2, 3, and 4. Failure to comply may result in personnel injury or equipment damage. Seek medical attention in event of injury.</trim.para>
+							</warning>
+							<note>
+								<trim.para>This replace procedure is for one side of the semitrailer at a time.</trim.para>
+							</note>
+							<para>Raise and support both sides of semitrailer frame with floor jacks.</para>
+						</specpara>
+					</step1>
+					<step1>
+						<para>Place floor jacks into position to support axles.</para>
+					</step1>
+					<step1>
+						<para>Evenly remove four nuts <callout assocfig="M00102-9-2320-451-F0001" label ="10"/>, washers <callout assocfig="M00102-9-2320-451-F0001" label ="9"/>, and lower trunnion hub <callout assocfig="M00102-9-2320-451-F0001" label ="8"/> from each side of semitrailer.</para>
+					</step1>
+					<step1>
+						<para>Remove two U-bolts <callout assocfig="M00102-9-2320-451-F0001" label ="3"/> and wear plate <callout assocfig="M00102-9-2320-451-F0001" label ="4"/> from each side of semitrailer.</para>
+					</step1>
+					<step1>
+						<specpara>
+							<note>
+								<trim.para>Axles will support spring assemblies.</trim.para>
+							</note>
+							<para>Slowly lower semitrailer frame until trunnion tube <callout assocfig="M00102-9-2320-451-F0001" label ="7"/> clears spring <callout assocfig="M00102-9-2320-451-F0001" label ="5"/> enough to remove upper trunnion hub <callout assocfig="M00102-9-2320-451-F0001" label ="6"/> from both sides of semitrailer.</para>
+						</specpara>
+					</step1>
+					<step1>
+						<para>Remove bushing <callout assocfig="M00102-9-2320-451-F0001" label ="11"/> and spacer <callout assocfig="M00102-9-2320-451-F0001" label ="12"/> from trunnion tube <callout assocfig="M00102-9-2320-451-F0001" label ="7"/> on both sides of semitrailer. Discard bushing.</para>
+					</step1>
+					<step1>
+						<para>Remove two locknuts <callout assocfig="M00102-9-2320-451-F0001" label ="13"/> and cap screws <callout assocfig="M00102-9-2320-451-F0001" label ="2"/> from trunnion hangar <callout assocfig="M00102-9-2320-451-F0001" label ="1"/> on both sides of semitrailer. Discard locknuts <callout assocfig="M00102-9-2320-451-F0001" label ="13"/>.</para>
+					</step1>
+					<step1>
+						<specpara>
+							<warning>
+								<trim.para>Trunnion tube weighs 100 lbs. (45 kg). Assistance is required to lift trunnion tube. Failure to comply may result in personnel injury or equipment damage. Seek medical attention in event of injury.</trim.para>
+							</warning>
+							<para>With helper, remove trunnion tube <callout assocfig="M00102-9-2320-451-F0001" label ="7"/> from trunnion hangar <callout assocfig="M00102-9-2320-451-F0001" label ="1"/> on both sides of semitrailer.</para>
+						</specpara>
+					</step1>
+
+						<figure id="M00102-9-2320-451-F0001">
+						<title>Trunnion Removal and Installation</title>
+						<graphic boardno="G06232000493"/>
+						</figure>
+
+					<step1>
+						<specpara>
+							<warning>
+								<trim.para>Trunnion tube weighs 100 lb (45 kg). Assistance is required to lift trunnion tube. Failure to comply may result in personnel injury or equipment damage. Seek medical attention in event of injury.</trim.para>
+							</warning>
+							<note>
+								<trim.para>Measure from end of trunnion tube to trunnion hangar to determine if tube is centered.</trim.para>
+							</note>
+							<para>With helper, install cleaned trunnion tubes <callout assocfig="M00102-9-2320-451-F0002" label ="7"/> into trunnion hangar <callout assocfig="M00102-9-2320-451-F0002" label ="1"/> on both sides of semitrailer, ensuring tubes are centered evenly.</para>
+						</specpara>
+					</step1>
+					<step1>
+						<para>Install spacer <callout assocfig="M00102-9-2320-451-F0002" label ="12"/> and new bushing <callout assocfig="M00102-9-2320-451-F0002" label ="11"/> onto trunnion tube <callout assocfig="M00102-9-2320-451-F0002" label ="7"/> on both sides of semitrailer.</para>
+					</step1>
+					<step1>
+						<specpara>
+							<note>
+								<trim.para>Before tightening locknuts, ensure trunnion tubes are centered.</trim.para>
+							</note>
+							<para>Install two cap screws <callout assocfig="M00102-9-2320-451-F0002" label ="2"/> and new locknuts <callout assocfig="M00102-9-2320-451-F0002" label ="13"/> on each trunnion hangar <callout assocfig="M00102-9-2320-451-F0002" label ="1"/>. Torque locknuts <callout assocfig="M00102-9-2320-451-F0002" label ="13"/>. If Dry, torque to 330 Ib-ft (407 N�m). If Wet, torque to 220 Ib-ft (298 N�m).</para>
+						</specpara>
+					</step1>
+					<step1>
+						<para>Place upper trunnion hub <callout assocfig="M00102-9-2320-451-F0002" label ="6"/> onto trunnion tube <callout assocfig="M00102-9-2320-451-F0002" label ="7"/>, and slowly raise semitrailer frame until upper trunnion hub <callout assocfig="M00102-9-2320-451-F0002" label ="6"/> and trunnion tube <callout assocfig="M00102-9-2320-451-F0002" label ="7"/> line up and mate with spring <callout assocfig="M00102-9-2320-451-F0002" label ="5"/> on both sides of semitrailer.</para>
+					</step1>
+					<step1>
+						<para>Place wear plate <callout assocfig="M00102-9-2320-451-F0002" label ="4"/> onto top of spring <callout assocfig="M00102-9-2320-451-F0002" label ="5"/>, and put two</para>
+					</step1>
+					<step1>
+						<para>U-bolts <callout assocfig="M00102-9-2320-451-F0002" label ="3"/> over wear plate <callout assocfig="M00102-9-2320-451-F0002" label ="4"/> and through upper trunnion hub <callout assocfig="M00102-9-2320-451-F0002" label ="6"/> on both sides of semitrailer.</para>
+					</step1>
+					<step1>
+						<para>Install lower trunnion hub <callout assocfig="M00102-9-2320-451-F0002" label ="8"/> onto trunnion tube <callout assocfig="M00102-9-2320-451-F0002" label ="7"/> and up through two U-bolts <callout assocfig="M00102-9-2320-451-F0002" label ="3"/>, and secure with four washers <callout assocfig="M00102-9-2320-451-F0002" label ="9"/> and nuts <callout assocfig="M00102-9-2320-451-F0002" label ="10"/> for both sides of semitrailer. If Dry, torque to 880 lb-ft (1,193 N�m). If Wet, torque to 670 lb-ft (908 N�m).</para>
+					</step1>
+
+						<figure id="M00102-9-2320-451-F0002">
+						<title>Trunnion Removal and Installation</title>
+						<graphic boardno="G06232000494"/>
+						</figure>
+				</proc>
+			</replace>
+	</maintsk>
+</maintwp>

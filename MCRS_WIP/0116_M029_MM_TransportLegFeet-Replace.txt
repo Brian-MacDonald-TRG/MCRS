@@ -1,0 +1,139 @@
+<maintwp chngno="0" wpno="M00029-9-2320-451">
+	<wpidinfo>
+		<maintlvl level="maintainer"/>
+		<title>MAINTAINER MAINTENANCE <?Pub _newline?>TRANSPORT LEG <?Pub _newline?>REPLACE</title>
+	</wpidinfo>
+	<initial_setup>
+		<tools>
+			<tools-setup-item>
+				<name>Tool Kit, General Mechanics</name>
+				<itemref>
+					<xref itemid="S00007-9-2320-451-TOOL-4" wpid="S00007-9-2320-451"/>
+				</itemref>
+			</tools-setup-item>
+			<tools-setup-item>
+				<name>Jack Stands</name>
+			</tools-setup-item>
+		</tools>
+		<persnreq>
+			<persnreq-setup-item>
+				<name>Motor Transport Operator</name>
+				<mos>88M</mos>
+				<qty>1</qty>
+			</persnreq-setup-item>
+		</persnreq>
+		<eqpconds>
+			<eqpconds-setup-item>
+				<condition>Fifth Wheel Towing and Recovery Device in coupled configuration ( <xref wpid="O00003-9-2320-451"/>. </condition>
+			</eqpconds-setup-item>
+		</eqpconds>
+	</initial_setup>
+	<maintsk>
+		<replace>
+			<proc>
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>The removal and installation procedures of Transport Legs are applicable to both Transport legs.</trim.para>
+						</note>
+						<para>Rotate Transport Leg handle clockwise to ensure it is locked into travel position.</para>
+					</specpara>
+				</step1>
+				<step1>
+					<para>Loosen locknut <callout assocfig="M00029-9-2320-451-F0001" label="1"/> on lower ball joint assembly.</para>
+				</step1>
+				<figure id="M00029-9-2320-451-F0001">
+					<title>Loosen Locknut</title>
+					<graphic boardno="G06232000309"></graphic>
+				</figure>
+				<step1>
+					<para>Rotate Transport Leg handle counter clockwise to stowed position.</para>
+				</step1>
+				<step1>
+					<specpara>
+						<warning>
+							<icon-set boardno="Moving_Parts-rollers"/>
+							<trim.para>Once ball joint is removed, transport leg is free to move. Pinch hazard exists. Could result in injury to personnel.</trim.para>
+						</warning>
+						<para>Remove lock nut. <callout assocfig="M00029-9-2320-451-F0002" label="1"/></para>
+					</specpara>
+				</step1>
+				<figure id="M00029-9-2320-451-F0002">
+					<title>Remove Ball Joint</title>
+					<graphic boardno="G06232000310"></graphic>
+				</figure>
+				<step1>
+					<para>Separate ball joint <callout assocfig="M00029-9-2320-451-F0002" label="1"/> from unserviceable transport leg.</para>
+				</step1>
+				<step1>
+					<specpara>
+						<note>
+							<trim.para>It may be necessary to rotate transport leg pivot pin to the vertical position to ensure correct removal of roll pin.</trim.para>
+						</note>
+						<para>Remove outside roll pin <callout assocfig="M00029-9-2320-451-F0003" label="1"/>. Discard unserviceable item.</para>
+					</specpara>
+				</step1>
+				<figure id="M00029-9-2320-451-F0003">
+					<title>Remove Roll Pin</title>
+					<graphic boardno="G06232000311"></graphic>
+				</figure>
+				<step1>
+					<para>Remove washer <callout assocfig="M00029-9-2320-451-F0004" label="1"/>. Set aside for reinstallation.</para>
+				</step1>
+				<figure id="M00029-9-2320-451-F0004">
+					<title>Remove Washer</title>
+					<graphic boardno="G06232000312"></graphic>
+				</figure>
+				<step1>
+					<specpara>
+						<warning>
+							<icon-set boardno="Electrical-hand"/>
+							<trim.para>Crush hazard exist. Use second personnel to hold unserviceable transport leg while pivot pin is being removed.</trim.para>
+						</warning>
+						<para>Remove transport leg pivot pin <callout assocfig="M00029-9-2320-451-F0005" label="1"/> and washer. Set aside for reinstallation.</para>
+					</specpara>
+				</step1>
+				<figure id="M00029-9-2320-451-F0005">
+					<title>Remove Transport Leg Pivot Pin </title>
+					<graphic boardno="G06232000313"></graphic>
+				</figure>
+				<step1>
+					<para>Remove unserviceable transport leg. Obtain serviceable item.</para>
+				</step1>
+				<step1>
+					<para>Position serviceable washer onto pivot pin.</para>
+				</step1>
+				<step1>
+					<para>Align transport leg to main frame transport leg bracket.</para>
+				</step1>
+				<step1>
+					<para>Install pivot pin <callout assocfig="M00029-9-2320-451-F0006" label="1"/> through aligned transport leg bracket holes.</para>
+				</step1>
+				<figure id="M00029-9-2320-451-F0006">
+					<title>Install Pivot Pin</title>
+					<graphic boardno="G06232000314"></graphic>
+				</figure>
+				<step1>
+					<para>Position serviceable washer onto transport leg pivot pin.</para>
+				</step1>
+				<step1>
+					<para>Install serviceable roll pin <callout assocfig="M00029-9-2320-451-F0007" label="1"/> to secure serviceable transport leg.</para>
+				</step1>
+				<figure id="M00029-9-2320-451-F0007">
+					<title>Install Roll Pin</title>
+					<graphic boardno="G06232000315"></graphic>
+				</figure>
+				<step1>
+					<para>Align transport leg ball joint mount to ball joint.</para>
+				</step1>
+				<step1>
+					<para>Install serviceable locknut <callout assocfig="M00029-9-2320-451-F0008" label="1"/> on ball joint.</para>
+				</step1>
+				<figure id="M00029-9-2320-451-F0008">
+					<title>Install Lock Nut</title>
+					<graphic boardno="G06232000316"></graphic>
+				</figure>
+			</proc>
+		</replace>
+	</maintsk>
+</maintwp>
